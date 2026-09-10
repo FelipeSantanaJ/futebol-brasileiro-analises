@@ -1,0 +1,4 @@
+recorte,n_casa,n_fora,pts_casa,pts_fora,ppg_casa,ppg_fora,vantagem_ppg,share_pts_casa,pct_vitoria_casa,pct_empate_casa,pct_derrota_casa,saldo_casa_pj,gols_pro_casa_pj,gols_contra_casa_pj
+2003-2024 (tudo),8785,8785,15398,8636,1.7528,0.9830,0.7697,0.6407,0.4962,0.2642,0.2396,0.5083,1.5356,1.0273
+com público,8062,8062,14220,7857,1.7638,0.9746,0.7893,0.6441,0.5007,0.2616,0.2377,0.5258,1.5528,1.0270
+sem público (pandemia),723,723,1178,779,1.6293,1.0775,0.5519,0.6019,0.4454,0.2932,0.2614,0.3126,1.3430,1.0304
