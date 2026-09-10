@@ -1,0 +1,19 @@
+# dados brutos e intermediários (baixados/gerados pelo pipeline)
+data/raw/
+data/interim/
+
+# ambiente
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.ipynb_checkpoints/
+
+# SO / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

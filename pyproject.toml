@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "futebrasil"
+version = "0.1.0"
+description = "Análises de futebol brasileiro / Brazilian football analytics"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.1",
+    "numpy>=1.26",
+    "statsmodels>=0.14",
+    "matplotlib>=3.8",
+    "pyarrow>=14",
+    "requests>=2.31",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,5 @@
+nome,arquivo,fonte,url,bytes,sha256,baixado_em
+partidas,campeonato-brasileiro-full.csv,adaoduque/Brasileirao_Dataset,https://raw.githubusercontent.com/adaoduque/Brasileirao_Dataset/master/campeonato-brasileiro-full.csv,1187343,c09d03d36debfd7d7aee71da9a9f0909b5e420fc80a1705f215efc93c76e83fc,2026-09-10
+gols,campeonato-brasileiro-gols.csv,adaoduque/Brasileirao_Dataset,https://raw.githubusercontent.com/adaoduque/Brasileirao_Dataset/master/campeonato-brasileiro-gols.csv,509564,625262ca9e7301907f94a0ef235b672d803a488d1e9d8833c31e51d4ffbe5664,2026-09-10
+cartoes,campeonato-brasileiro-cartoes.csv,adaoduque/Brasileirao_Dataset,https://raw.githubusercontent.com/adaoduque/Brasileirao_Dataset/master/campeonato-brasileiro-cartoes.csv,1550718,4376ed95901b25d6c425127bf542b7746e086e1a20116b49d7a5d87949ac95e8,2026-09-10
+estatisticas,campeonato-brasileiro-estatisticas-full.csv,adaoduque/Brasileirao_Dataset,https://raw.githubusercontent.com/adaoduque/Brasileirao_Dataset/master/campeonato-brasileiro-estatisticas-full.csv,1158368,f6b9a1198fbc5641c0d0257ff7510029bb01aa01bbfbf692013529f7849f6c20,2026-09-10
