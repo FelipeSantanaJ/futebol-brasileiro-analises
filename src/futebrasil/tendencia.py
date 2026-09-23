@@ -57,6 +57,20 @@ def _theil_sen(x: np.ndarray, y: np.ndarray):
     return theilslopes(y, x)[0]
 
 
+def ajustar_reta(x: np.ndarray, y: np.ndarray, pesos: np.ndarray | None = None) -> dict:
+    """WLS de y contra x (x centrado), com IC 95% e classificação Subindo/Caindo/Estável.
+
+    Wrapper público de `_ajustar`, para reaproveitar a mesma rotina de tendência
+    em outras análises além do fator mandante (pesos=None -> todas as observações
+    com peso 1, isto é, OLS comum).
+    """
+    x = np.asarray(x, dtype=float)
+    y = np.asarray(y, dtype=float)
+    if pesos is None:
+        pesos = np.ones_like(x)
+    return _ajustar(x, y, np.asarray(pesos, dtype=float))
+
+
 def tendencia_por_clube(
     painel: pd.DataFrame, metrica: str = "vantagem_ppg", min_temporadas: int = 6
 ) -> pd.DataFrame:

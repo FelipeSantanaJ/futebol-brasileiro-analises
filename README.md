@@ -15,6 +15,7 @@ Projeto pessoal, em construção.
 | # | Tema | Status |
 |---|------|--------|
 | [01](analyses/01-fator-mandante-e-fator-casa/) | Fator mandante × fator casa — quanto jogar em casa valeu na Série A, separando o efeito do **mando de campo** do efeito da **praça específica** | ✅ concluída |
+| [02](analyses/02-linha-de-corte-do-rebaixamento/) | Linha de corte do rebaixamento — quantos pontos bastam para escapar, e se dá para transformar o ritmo em pontos de um clube numa probabilidade de queda | ✅ concluída |
 
 **Fator mandante** é o efeito de ter o mando do jogo (mandante × visitante).
 **Fator casa** é o efeito de mandar naquele estádio específico — separação que
@@ -28,6 +29,14 @@ pela força dos times, o mandante marca **1,49× mais gols**. Esse empurrão
 **encolheu** ao longo do período e caiu mais ainda nos jogos sem público da
 pandemia. No nível de clube a queda quase não é individualmente significativa —
 é um fenômeno de liga.
+
+Resumo da 02: de 2006 a 2023 o 17º colocado (primeiro rebaixado) fechou a Série A
+com **41,7 pontos em média**, sem tendência de alta ou queda ao longo dos anos. Um
+modelo logístico treinado nesse histórico, aplicado ao ritmo de cada clube em
+rodadas de corte fixas, converge para a mesma linha (**41,6 pontos** projetados
+na rodada 35) e acerta **18 dos 20 clubes** de 2024 ao classificá-los acima ou
+abaixo de 50% de risco — inclusive o Corinthians, que estava em **exatos 49,2%**
+na rodada 30 antes de arrancar 24 pontos nas 8 rodadas finais.
 
 ## Escopo e recorte
 
@@ -55,9 +64,14 @@ src/futebrasil/
 ├── modelos.py      # efeito de mando ajustado ao adversário (Poisson de gols)
 ├── tendencia.py    # o fator está subindo ou caindo? (inclinação por clube)
 ├── validacao.py    # reconstrói a classificação e confere com a referência
+├── permanencia.py  # linha de segurança do rebaixamento e modelo de ritmo em pontos
 └── pipeline.py     # baixar / preparar / validar
 analyses/
-└── 01-fator-mandante-e-fator-casa/
+├── 01-fator-mandante-e-fator-casa/
+│   ├── run.py
+│   ├── outputs/{tables,figures}/
+│   └── README.md
+└── 02-linha-de-corte-do-rebaixamento/
     ├── run.py
     ├── outputs/{tables,figures}/
     └── README.md
@@ -72,6 +86,7 @@ pip install -e .
 
 python -m futebrasil.pipeline tudo          # baixa, trata e valida os dados
 python analyses/01-fator-mandante-e-fator-casa/run.py
+python analyses/02-linha-de-corte-do-rebaixamento/run.py
 ```
 
 `pipeline tudo` grava `data/processed/*.parquet` e um relatório de validação com a

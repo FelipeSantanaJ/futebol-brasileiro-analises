@@ -15,6 +15,7 @@ Personal project, work in progress.
 | # | Topic | Status |
 |---|-------|--------|
 | [01](analyses/01-fator-mandante-e-fator-casa/) | Host factor vs. home-ground factor — how much playing at home was worth in Série A, separating the effect of **having home advantage** from the effect of **the specific ground** | ✅ done |
+| [02](analyses/02-linha-de-corte-do-rebaixamento/) | Relegation safety line — how many points are enough to survive, and whether a club's points pace can be turned into an actual relegation probability | ✅ done |
 
 **Host factor** (`fator mandante`) is the effect of being the designated home
 side. **Home-ground factor** (`fator casa`) is the effect of hosting at that
@@ -29,6 +30,14 @@ went to whoever played at home. Adjusting for team strength, the home side score
 **1.49× more goals**. That edge **shrank** over the period and dropped further in
 the crowd-free matches of the pandemic. At club level the decline is barely
 significant on its own — it is a league-wide phenomenon.
+
+Analysis 02 in one paragraph: from 2006 to 2023 the 17th-placed club (first
+relegated) finished Série A with **41.7 points on average**, with no rising or
+falling trend over the years. A logistic model trained on that history, applied
+to each club's pace at fixed checkpoint rounds, converges to the same line
+(**41.6 points** projected at round 35) and correctly classifies **18 of 20**
+2024 clubs as above or below 50% risk — Corinthians included, which sat at
+**exactly 49.2%** at round 30 before taking 24 points from the last 8 rounds.
 
 ## Scope
 
@@ -55,9 +64,14 @@ src/futebrasil/
 ├── modelos.py      # opponent-adjusted host effect (Poisson goal model)
 ├── tendencia.py    # is the factor rising or falling? (per-club slope)
 ├── validacao.py    # rebuilds the final table and checks it against reference
+├── permanencia.py  # relegation safety line and points-pace model
 └── pipeline.py     # download / prepare / validate
 analyses/
-└── 01-fator-mandante-e-fator-casa/
+├── 01-fator-mandante-e-fator-casa/
+│   ├── run.py
+│   ├── outputs/{tables,figures}/
+│   └── README.en.md
+└── 02-linha-de-corte-do-rebaixamento/
     ├── run.py
     ├── outputs/{tables,figures}/
     └── README.en.md
@@ -72,6 +86,7 @@ pip install -e .
 
 python -m futebrasil.pipeline tudo          # download, clean and validate
 python analyses/01-fator-mandante-e-fator-casa/run.py
+python analyses/02-linha-de-corte-do-rebaixamento/run.py
 ```
 
 `pipeline tudo` writes `data/processed/*.parquet` plus a validation report with

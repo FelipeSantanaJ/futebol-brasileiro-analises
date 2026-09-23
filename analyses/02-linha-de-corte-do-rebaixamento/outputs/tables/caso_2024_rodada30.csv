@@ -1,0 +1,21 @@
+clube,pts_acum,ppg_acum,p_rebaixamento,rebaixado_real,nome
+atletico-go,22,0.7333,0.9928,True,Atlético-GO
+cuiaba,27,0.9000,0.9205,True,Cuiabá
+corinthians,32,1.0667,0.4917,False,Corinthians
+vitoria,32,1.0667,0.4917,False,Vitória
+juventude,34,1.1333,0.2638,False,Juventude
+bragantino,34,1.1333,0.2638,False,Bragantino
+athletico-pr,34,1.1333,0.2638,True,Athletico-PR
+gremio,35,1.1667,0.1791,False,Grêmio
+fluminense,36,1.2000,0.1172,False,Fluminense
+criciuma,36,1.2000,0.1172,True,Criciúma
+vasco,40,1.3333,0.0179,False,Vasco
+atletico-mg,41,1.3667,0.0110,False,Atlético-MG
+cruzeiro,44,1.4667,0.0025,False,Cruzeiro
+bahia,46,1.5333,0.0009,False,Bahia
+sao-paulo,50,1.6667,0.0001,False,São Paulo
+internacional,50,1.6667,0.0001,False,Internacional
+flamengo,52,1.7333,0.0000,False,Flamengo
+fortaleza,56,1.8667,0.0000,False,Fortaleza
+palmeiras,60,2.0000,0.0000,False,Palmeiras
+botafogo-rj,61,2.0333,0.0000,False,Botafogo
