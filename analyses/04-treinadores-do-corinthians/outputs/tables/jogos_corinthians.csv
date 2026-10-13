@@ -1,0 +1,857 @@
+temporada,data,rodada,clube,treinador,treinador_id,adversario,casa_fora,gols_feitos,gols_sofridos,resultado,pontos,status_atribuicao,fonte,nome_original_tm,nome_original_ogol,nome_original_cbf,atribuicao_original,observacao,tm_id_jogo,ogol_id,passagem
+2003,2003-03-30,1,Corinthians,Geninho,4726,Atlético-MG,casa,0,3,D,0,confirmado,TM+OG,Geninho,geninho,,,,3477680,502202,1
+2003,2003-04-06,2,Corinthians,Geninho,4726,Figueirense,fora,3,3,E,1,confirmado,TM+OG,Geninho,geninho,,,,3477686,502217,1
+2003,2003-04-12,3,Corinthians,Geninho,4726,Paysandu,casa,6,1,V,3,confirmado,TM+OG,Geninho,geninho,,,,3477697,502223,1
+2003,2003-04-16,4,Corinthians,Geninho,4726,Vasco,fora,2,2,E,1,confirmado,TM+OG,Geninho,geninho,,,,3477712,502237,1
+2003,2003-04-20,5,Corinthians,Geninho,4726,Internacional,fora,1,2,D,0,confirmado,TM+OG,Geninho,geninho,,,,3477721,502253,1
+2003,2003-04-27,6,Corinthians,Geninho,4726,Flamengo,casa,1,1,E,1,confirmado,TM+OG,Geninho,geninho,,,,3477733,502264,1
+2003,2003-05-04,7,Corinthians,Geninho,4726,Fortaleza,fora,2,1,V,3,confirmado,TM+OG,Geninho,geninho,,,,3477744,502275,1
+2003,2003-05-10,8,Corinthians,Geninho,4726,Criciúma,casa,3,0,V,3,confirmado,TM+OG,Geninho,geninho,,,,3477756,502284,1
+2003,2003-05-18,9,Corinthians,Geninho,4726,Cruzeiro,fora,1,1,E,1,confirmado,TM+OG,Geninho,geninho,,,,3477771,502303,1
+2003,2003-05-24,10,Corinthians,Geninho,4726,Juventude,casa,3,0,V,3,confirmado,TM+OG,Geninho,geninho,,,,3477779,502308,1
+2003,2003-06-01,11,Corinthians,Geninho,4726,Vitória,casa,4,0,V,3,confirmado,TM+OG,Geninho,geninho,,,,3477799,502327,1
+2003,2003-06-08,12,Corinthians,Geninho,4726,São Caetano,fora,0,1,D,0,confirmado,TM+OG,Geninho,geninho,,,,3477809,502339,1
+2003,2003-06-15,13,Corinthians,Geninho,4726,São Paulo,casa,1,2,D,0,confirmado,TM+OG,Geninho,geninho,,,,3477815,502348,1
+2003,2003-06-22,14,Corinthians,Geninho,4726,Ponte Preta,fora,3,3,E,1,confirmado,TM+OG,Geninho,geninho,,,,3477831,502362,1
+2003,2003-06-29,15,Corinthians,Geninho,4726,Fluminense,casa,1,0,V,3,confirmado,TM+OG,Geninho,geninho,,,,3477841,502372,1
+2003,2003-07-06,16,Corinthians,Geninho,4726,Athletico-PR,fora,1,3,D,0,confirmado,TM+OG,Geninho,geninho,,,,3477853,502387,1
+2003,2003-07-09,17,Corinthians,Geninho,4726,Santos,casa,1,1,E,1,confirmado,TM+OG,Geninho,geninho,,,,3477860,502398,1
+2003,2003-07-13,18,Corinthians,Geninho,4726,Coritiba,casa,0,1,D,0,confirmado,TM+OG,Geninho,geninho,,,,3477876,502410,1
+2003,2003-07-16,19,Corinthians,Geninho,4726,Goiás,fora,1,1,E,1,confirmado,TM+OG,Geninho,geninho,,,,3477891,502418,1
+2003,2003-07-19,20,Corinthians,Geninho,4726,Guarani,casa,1,0,V,3,confirmado,TM+OG,Geninho,geninho,,,,3477895,502429,1
+2003,2003-07-23,21,Corinthians,Geninho,4726,Bahia,fora,0,0,E,1,confirmado,TM+OG,Geninho,geninho,,,,3477912,502443,1
+2003,2003-07-27,22,Corinthians,Geninho,4726,Grêmio,casa,1,0,V,3,confirmado,TM+OG,Geninho,geninho,,,,3477927,502462,1
+2003,2003-08-03,23,Corinthians,Geninho,4726,Paraná,fora,1,1,E,1,confirmado,TM+OG,Geninho,geninho,,,,3477938,502468,1
+2003,2003-08-07,24,Corinthians,Geninho,4726,Figueirense,casa,0,1,D,0,confirmado,TM+OG,Geninho,geninho,,,,3477954,502484,1
+2003,2003-08-10,25,Corinthians,Geninho,4726,Atlético-MG,fora,3,2,V,3,confirmado,TM+OG,Geninho,geninho,,,,3477964,502496,1
+2003,2003-08-17,26,Corinthians,Geninho,4726,Paysandu,fora,2,2,E,1,confirmado,TM+OG,Geninho,geninho,,,,3477975,502505,1
+2003,2003-08-20,27,Corinthians,Geninho,4726,Vasco,casa,0,0,E,1,confirmado,TM+OG,Geninho,geninho,,,,3477989,502513,1
+2003,2003-08-24,28,Corinthians,Geninho,4726,Internacional,casa,3,1,V,3,confirmado,TM+OG,Geninho,geninho,,,,3478003,502530,1
+2003,2003-08-31,29,Corinthians,Geninho,4726,Flamengo,fora,0,1,D,0,confirmado,TM+OG,Geninho,geninho,,,,3478012,502542,1
+2003,2003-09-13,30,Corinthians,Geninho,4726,Fortaleza,casa,2,0,V,3,confirmado,TM+OG,Geninho,geninho,,,,3478020,502547,1
+2003,2003-09-21,31,Corinthians,Geninho,4726,Criciúma,fora,0,1,D,0,confirmado,TM+OG,Geninho,geninho,,,,3478035,502565,1
+2003,2003-09-24,32,Corinthians,Geninho,4726,Cruzeiro,casa,0,1,D,0,confirmado,TM+OG,Geninho,geninho,,,,3478049,502579,1
+2003,2003-09-28,33,Corinthians,Geninho,4726,Juventude,fora,1,6,D,0,confirmado,TM+OG,Geninho,geninho,,,,3478060,502589,1
+2003,2003-10-05,34,Corinthians,Jairo Leal,136654,Vitória,fora,2,1,V,3,confirmado,TM+OG,Jairo Leal,jairo leal,,,,3478070,502600,2
+2003,2003-10-08,35,Corinthians,Júnior,136450,São Caetano,casa,0,3,D,0,provável,TM,Júnior,,,,treinador não localizado no O Gol,3478079,502613,3
+2003,2003-10-12,36,Corinthians,Júnior,136450,São Paulo,fora,0,3,D,0,provável,TM,Júnior,,,,treinador não localizado no O Gol,3478094,502625,3
+2003,2003-10-19,37,Corinthians,Juninho Fonseca,136364,Ponte Preta,casa,3,0,V,3,confirmado,TM+OG,Juninho Fonseca,juninho fonseca,,,,3478111,502636,4
+2003,2003-10-22,38,Corinthians,Juninho Fonseca,136364,Fluminense,fora,0,1,D,0,confirmado,TM+OG,Juninho Fonseca,juninho fonseca,,,,3478117,502646,4
+2003,2003-10-26,39,Corinthians,Juninho Fonseca,136364,Athletico-PR,casa,2,3,D,0,confirmado,TM+OG,Juninho Fonseca,juninho fonseca,,,,3478133,502662,4
+2003,2003-11-02,40,Corinthians,Juninho Fonseca,136364,Santos,fora,1,3,D,0,confirmado,TM+OG,Juninho Fonseca,juninho fonseca,,,,3478142,502677,4
+2003,2003-11-05,41,Corinthians,Juninho Fonseca,136364,Coritiba,fora,0,1,D,0,confirmado,TM+OG,Juninho Fonseca,juninho fonseca,,,,3478154,502684,4
+2003,2003-11-09,42,Corinthians,Juninho Fonseca,136364,Goiás,casa,2,0,V,3,confirmado,TM+OG,Juninho Fonseca,juninho fonseca,,,,3478171,502699,4
+2003,2003-11-23,43,Corinthians,Juninho Fonseca,136364,Guarani,fora,1,0,V,3,confirmado,TM+OG,Juninho Fonseca,juninho fonseca,,,,3478183,502712,4
+2003,2003-11-30,44,Corinthians,Juninho Fonseca,136364,Bahia,casa,1,2,D,0,confirmado,TM+OG,Juninho Fonseca,juninho fonseca,,,,3478195,502721,4
+2003,2003-12-06,45,Corinthians,Juninho Fonseca,136364,Paraná,casa,1,1,E,1,confirmado,TM+OG,Juninho Fonseca,juninho fonseca,,,,3478199,502730,4
+2003,2003-12-14,46,Corinthians,Juninho Fonseca,136364,Grêmio,fora,0,3,D,0,confirmado,TM+OG,Juninho Fonseca,juninho fonseca,,,,3478213,502747,4
+2004,2004-04-21,1,Corinthians,Oswaldo de Oliveira,7573,Ponte Preta,fora,2,3,D,0,confirmado,TM+OG,Oswaldo de Oliveira,oswaldo de oliveira,,,,3477105,81629,5
+2004,2004-04-25,2,Corinthians,Oswaldo de Oliveira,7573,Paysandu,casa,2,1,V,3,confirmado,TM+OG,Oswaldo de Oliveira,oswaldo de oliveira,,,,3477117,81641,5
+2004,2004-04-28,3,Corinthians,Oswaldo de Oliveira,7573,Grêmio,fora,0,4,D,0,confirmado,TM+OG,Oswaldo de Oliveira,oswaldo de oliveira,,,,3477128,81654,5
+2004,2004-05-02,4,Corinthians,Oswaldo de Oliveira,7573,Palmeiras,casa,0,4,D,0,confirmado,TM+OG,Oswaldo de Oliveira,oswaldo de oliveira,,,,3477141,81666,5
+2004,2004-05-09,5,Corinthians,Oswaldo de Oliveira,7573,Atlético-MG,fora,2,2,E,1,confirmado,TM+OG,Oswaldo de Oliveira,oswaldo de oliveira,,,,3477153,81676,5
+2004,2004-05-16,6,Corinthians,Oswaldo de Oliveira,7573,Guarani,casa,1,0,V,3,confirmado,TM+OG,Oswaldo de Oliveira,oswaldo de oliveira,,,,3477169,81684,5
+2004,2004-05-23,7,Corinthians,Oswaldo de Oliveira,7573,Athletico-PR,casa,0,5,D,0,confirmado,TM+OG,Oswaldo de Oliveira,oswaldo de oliveira,,,,3477180,81706,5
+2004,2004-05-30,8,Corinthians,Tite,6623,São Paulo,fora,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,3477189,81714,6
+2004,2004-06-13,9,Corinthians,Tite,6623,Goiás,fora,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,3477198,81723,6
+2004,2004-06-20,10,Corinthians,Tite,6623,Flamengo,casa,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,3477211,81736,6
+2004,2004-06-27,11,Corinthians,Tite,6623,Juventude,fora,0,1,D,0,confirmado,TM+OG,Tite,tite,,,,3477224,81748,6
+2004,2004-07-04,12,Corinthians,Tite,6623,Santos,casa,2,3,D,0,confirmado,TM+OG,Tite,tite,,,,3477240,81764,6
+2004,2004-07-07,13,Corinthians,Tite,6623,Coritiba,fora,2,1,V,3,confirmado,TM+OG,Tite,tite,,,,3477254,81778,6
+2004,2004-07-10,14,Corinthians,Tite,6623,Paraná,casa,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,3477262,81786,6
+2004,2004-07-13,15,Corinthians,Tite,6623,Criciúma,casa,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,3477268,81792,6
+2004,2004-07-17,16,Corinthians,Tite,6623,Vitória,fora,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,3477282,81803,6
+2004,2004-07-20,17,Corinthians,Tite,6623,Internacional,casa,0,0,E,1,confirmado,TM+OG,Tite,tite,,,,3477292,81820,6
+2004,2004-07-24,18,Corinthians,Tite,6623,Fluminense,fora,0,2,D,0,confirmado,TM+OG,Tite,tite,,,,3477303,81827,6
+2004,2004-07-28,19,Corinthians,Tite,6623,Cruzeiro,casa,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,3477316,81843,6
+2004,2004-08-01,20,Corinthians,Tite,6623,São Caetano,casa,2,0,V,3,confirmado,TM+OG,Tite,tite,,,,3477332,81856,6
+2004,2004-08-04,21,Corinthians,Tite,6623,Vasco,fora,3,1,V,3,confirmado,TM+OG,Tite,tite,,,,3477345,81870,6
+2004,2004-08-08,22,Corinthians,Tite,6623,Botafogo,casa,2,2,E,1,confirmado,TM+OG,Tite,tite,,,,3477356,81880,6
+2004,2004-08-11,23,Corinthians,Tite,6623,Figueirense,fora,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,3477368,81892,6
+2004,2004-08-14,24,Corinthians,Tite,6623,Ponte Preta,casa,2,0,V,3,confirmado,TM+OG,Tite,tite,,,,3477378,81902,6
+2004,2004-08-18,25,Corinthians,Tite,6623,Paysandu,fora,1,2,D,0,confirmado,TM+OG,Tite,tite,,,,3477394,81918,6
+2004,2004-08-21,26,Corinthians,Tite,6623,Grêmio,casa,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,3477400,81924,6
+2004,2004-08-29,27,Corinthians,Tite,6623,Palmeiras,fora,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,3477417,81941,6
+2004,2004-09-01,28,Corinthians,Tite,6623,Atlético-MG,casa,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,3477428,81958,6
+2004,2004-09-08,29,Corinthians,Tite,6623,Guarani,fora,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,3477443,81967,6
+2004,2004-09-12,30,Corinthians,Tite,6623,Athletico-PR,fora,1,3,D,0,confirmado,TM+OG,Tite,tite,,,,3477454,81976,6
+2004,2004-09-19,31,Corinthians,Tite,6623,São Paulo,casa,0,0,E,1,confirmado,TM+OG,Tite,tite,,,,3477464,81988,6
+2004,2004-09-26,32,Corinthians,Tite,6623,Goiás,casa,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,3477479,82003,6
+2004,2004-09-29,33,Corinthians,Tite,6623,Flamengo,fora,0,0,E,1,confirmado,TM+OG,Tite,tite,,,,3477494,82017,6
+2004,2004-10-02,34,Corinthians,Tite,6623,Juventude,casa,1,2,D,0,confirmado,TM+OG,Tite,tite,,,,3477506,82029,6
+2004,2004-10-06,35,Corinthians,Tite,6623,Santos,fora,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,3477513,82039,6
+2004,2004-10-16,36,Corinthians,Tite,6623,Coritiba,casa,0,0,E,1,confirmado,TM+OG,Tite,tite,,,,3477519,82053,6
+2004,2004-10-24,37,Corinthians,Tite,6623,Paraná,fora,2,1,V,3,confirmado,TM+OG,Tite,tite,,,,3477541,82066,6
+2004,2004-10-27,38,Corinthians,Tite,6623,Criciúma,fora,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,3477554,82067,6
+2004,2004-10-30,39,Corinthians,Tite,6623,Vitória,casa,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,3477561,82089,6
+2004,2004-11-07,40,Corinthians,Tite,6623,Internacional,fora,0,3,D,0,confirmado,TM+OG,Tite,tite,,,,3477572,82092,6
+2004,2004-11-13,41,Corinthians,Tite,6623,Fluminense,casa,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,3477583,82113,6
+2004,2004-11-21,42,Corinthians,Tite,6623,Cruzeiro,fora,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,3477599,82122,6
+2004,2004-11-28,43,Corinthians,Tite,6623,São Caetano,fora,1,2,D,0,confirmado,TM+OG,Tite,tite,,,,3477612,82132,6
+2004,2004-12-04,44,Corinthians,Tite,6623,Vasco,casa,3,1,V,3,confirmado,TM+OG,Tite,tite,,,,3477621,82149,6
+2004,2004-12-12,45,Corinthians,Tite,6623,Botafogo,fora,2,1,V,3,confirmado,TM+OG,Tite,tite,,,,3477634,82154,6
+2004,2004-12-19,46,Corinthians,Tite,6623,Figueirense,casa,5,2,V,3,confirmado,TM+OG,Tite,tite,,,,3477647,82173,6
+2005,2005-04-24,1,Corinthians,Daniel Passarella,2081,Juventude,casa,2,2,E,1,confirmado,TM+OG,Daniel Passarella,daniel passarella,,,,3476409,179645,7
+2005,2005-05-01,2,Corinthians,Daniel Passarella,2081,Botafogo,fora,1,3,D,0,confirmado,TM+OG,Daniel Passarella,daniel passarella,,,,3476421,179654,7
+2005,2005-05-08,3,Corinthians,Daniel Passarella,2081,São Paulo,casa,1,5,D,0,confirmado,TM+OG,Daniel Passarella,daniel passarella,,,,3476431,179667,7
+2005,2005-05-15,4,Corinthians,Márcio Bittencourt,7435,Athletico-PR,fora,2,1,V,3,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476441,179675,8
+2005,2005-05-22,5,Corinthians,Márcio Bittencourt,7435,Figueirense,casa,2,1,V,3,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476455,179689,8
+2005,2005-05-29,6,Corinthians,Márcio Bittencourt,7435,Atlético-MG,fora,1,0,V,3,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476463,179699,8
+2005,2005-06-12,7,Corinthians,Márcio Bittencourt,7435,Flamengo,casa,4,2,V,3,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476476,179711,8
+2005,2005-06-18,8,Corinthians,Márcio Bittencourt,7435,Brasiliense,fora,4,2,V,3,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476480,179723,8
+2005,2005-06-26,9,Corinthians,Márcio Bittencourt,7435,Fluminense,casa,0,1,D,0,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476495,179733,8
+2005,2005-07-03,10,Corinthians,Márcio Bittencourt,7435,Fortaleza,fora,1,2,D,0,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476505,179739,8
+2005,2005-07-10,11,Corinthians,Márcio Bittencourt,7435,Palmeiras,casa,3,1,V,3,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476517,179755,8
+2005,2005-07-16,12,Corinthians,Márcio Bittencourt,7435,Paraná,fora,3,2,V,3,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476527,179759,8
+2005,2005-07-21,13,Corinthians,Márcio Bittencourt,7435,Paysandu,casa,3,2,V,3,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476544,179777,8
+2005,2005-07-24,14,Corinthians,Márcio Bittencourt,7435,Vasco,fora,3,2,V,3,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476549,179784,8
+2005,2005-07-27,15,Corinthians,Márcio Bittencourt,7435,Cruzeiro,casa,4,3,V,3,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476559,179799,8
+2005,2005-08-03,17,Corinthians,Márcio Bittencourt,7435,Coritiba,casa,3,0,V,3,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476580,179821,8
+2005,2005-08-06,18,Corinthians,Márcio Bittencourt,7435,São Caetano,casa,0,2,D,0,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476590,179832,8
+2005,2005-08-10,19,Corinthians,Márcio Bittencourt,7435,Internacional,fora,0,0,E,1,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476605,179835,8
+2005,2005-08-14,20,Corinthians,Márcio Bittencourt,7435,Ponte Preta,fora,5,3,V,3,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476614,179848,8
+2005,2005-08-21,21,Corinthians,Márcio Bittencourt,7435,Goiás,casa,1,1,E,1,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476625,179865,8
+2005,2005-08-24,22,Corinthians,Márcio Bittencourt,7435,Juventude,fora,0,1,D,0,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476639,179868,8
+2005,2005-08-28,23,Corinthians,Márcio Bittencourt,7435,Botafogo,casa,3,3,E,1,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476650,179887,8
+2005,2005-09-11,25,Corinthians,Márcio Bittencourt,7435,Athletico-PR,casa,2,0,V,3,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476673,179909,8
+2005,2005-09-18,26,Corinthians,Márcio Bittencourt,7435,Figueirense,fora,3,2,V,3,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476684,179913,8
+2005,2005-09-22,27,Corinthians,Márcio Bittencourt,7435,Atlético-MG,casa,1,1,E,1,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476697,179931,8
+2005,2005-09-25,28,Corinthians,Márcio Bittencourt,7435,Flamengo,fora,3,1,V,3,confirmado,TM+OG,Márcio Bittencourt,marcio bittencourt,,,,3476706,179938,8
+2005,2005-10-02,29,Corinthians,Antônio Lopes,4725,Brasiliense,casa,3,2,V,3,confirmado,TM+OG,Antônio Lopes,Antônio Lopes,,,,3476718,179953,9
+2005,2005-10-05,30,Corinthians,Antônio Lopes,4725,Fluminense,fora,2,0,V,3,confirmado,TM+OG,Antônio Lopes,Antônio Lopes,,,,3476730,179962,9
+2005,2005-10-08,31,Corinthians,Antônio Lopes,4725,Fortaleza,casa,3,0,V,3,confirmado,TM+OG,Antônio Lopes,Antônio Lopes,,,,3476733,179975,9
+2005,2005-10-13,16,Corinthians,Antônio Lopes,4725,Santos,fora,3,2,V,3,confirmado,TM+OG,Antônio Lopes,Antônio Lopes,,,,3476570,179801,9
+2005,2005-10-16,32,Corinthians,Antônio Lopes,4725,Palmeiras,fora,1,1,E,1,confirmado,TM+OG,Antônio Lopes,Antônio Lopes,,,,3476749,179986,9
+2005,2005-10-22,33,Corinthians,Antônio Lopes,4725,Paraná,casa,1,0,V,3,confirmado,TM+OG,Antônio Lopes,Antônio Lopes,,,,3476757,179997,9
+2005,2005-10-24,24,Corinthians,Antônio Lopes,4725,São Paulo,fora,1,1,E,1,confirmado,TM+OG,Antônio Lopes,Antônio Lopes,,,,3476655,179889,9
+2005,2005-10-27,34,Corinthians,Antônio Lopes,4725,Paysandu,fora,2,0,V,3,confirmado,TM+OG,Antônio Lopes,Antônio Lopes,,,,3476773,180003,9
+2005,2005-10-30,35,Corinthians,Antônio Lopes,4725,Vasco,casa,1,1,E,1,confirmado,TM+OG,Antônio Lopes,Antônio Lopes,,,,3476781,180019,9
+2005,2005-11-02,36,Corinthians,Antônio Lopes,4725,Cruzeiro,fora,1,2,D,0,confirmado,TM+OG,Antônio Lopes,Antônio Lopes,,,,3476790,180029,9
+2005,2005-11-06,37,Corinthians,Antônio Lopes,4725,Santos,casa,7,1,V,3,confirmado,TM+OG,Antônio Lopes,Antônio Lopes,,,,3476802,180041,9
+2005,2005-11-13,38,Corinthians,Antônio Lopes,4725,Coritiba,fora,1,0,V,3,confirmado,TM+OG,Antônio Lopes,Antônio Lopes,,,,3476815,180049,9
+2005,2005-11-16,39,Corinthians,Antônio Lopes,4725,São Caetano,fora,0,1,D,0,confirmado,TM+OG,Antônio Lopes,Antônio Lopes,,,,3476824,180057,9
+2005,2005-11-20,40,Corinthians,Antônio Lopes,4725,Internacional,casa,1,1,E,1,confirmado,TM+OG,Antônio Lopes,Antônio Lopes,,,,3476835,180074,9
+2005,2005-11-27,41,Corinthians,Antônio Lopes,4725,Ponte Preta,casa,3,1,V,3,confirmado,TM+OG,Antônio Lopes,Antônio Lopes,,,,3476849,180085,9
+2005,2005-12-04,42,Corinthians,Antônio Lopes,4725,Goiás,fora,2,3,D,0,confirmado,TM+OG,Antônio Lopes,Antônio Lopes,,,,3476863,180097,9
+2006,2006-04-16,1,Corinthians,Ademar Braga,31932,Grêmio,fora,0,2,D,0,confirmado,TM+OG,Ademar Braga,ademar braga,,,,2530296,218707,10
+2006,2006-04-22,2,Corinthians,Ademar Braga,31932,São Caetano,casa,3,0,V,3,confirmado,TM+OG,Ademar Braga,ademar braga,,,,2530304,218712,10
+2006,2006-04-30,3,Corinthians,Ademar Braga,31932,Ponte Preta,fora,2,3,D,0,confirmado,TM+OG,Ademar Braga,ademar braga,,,,2530320,218725,10
+2006,2006-05-07,4,Corinthians,Ademar Braga,31932,São Paulo,casa,1,3,D,0,confirmado,TM+OG,Ademar Braga,ademar braga,,,,2530327,218736,10
+2006,2006-05-14,5,Corinthians,Ademar Braga,31932,Paraná,fora,2,1,V,3,confirmado,TM+OG,Ademar Braga,ademar braga,,,,2530343,218751,10
+2006,2006-05-21,6,Corinthians,Geninho,4726,Vasco,fora,4,2,V,3,confirmado,TM+OG,Geninho,geninho,,,,2530348,218758,11
+2006,2006-05-25,7,Corinthians,Geninho,4726,Internacional,casa,0,1,D,0,confirmado,TM+OG,Geninho,geninho,,,,2530373,218770,11
+2006,2006-05-28,8,Corinthians,Geninho,4726,Santos,fora,0,2,D,0,confirmado,TM+OG,Geninho,geninho,,,,4413592,218778,11
+2006,2006-06-01,9,Corinthians,Geninho,4726,Goiás,casa,0,1,D,0,confirmado,TM+OG,Geninho,geninho,,,,4216907,218790,11
+2006,2006-06-04,10,Corinthians,Geninho,4726,Flamengo,casa,0,2,D,0,confirmado,TM+OG,Geninho,geninho,,,,2530489,218796,11
+2006,2006-07-11,11,Corinthians,Geninho,4726,Cruzeiro,fora,0,2,D,0,confirmado,TM+OG,Geninho,geninho,,,,2530499,218806,11
+2006,2006-07-16,12,Corinthians,Geninho,4726,Palmeiras,fora,0,1,D,0,confirmado,TM+OG,Geninho,geninho,,,,2530513,218816,11
+2006,2006-07-22,13,Corinthians,Geninho,4726,Fortaleza,casa,2,2,E,1,confirmado,TM+OG,Geninho,geninho,,,,2530522,218824,11
+2006,2006-07-30,14,Corinthians,Geninho,4726,Santa Cruz,fora,0,1,D,0,confirmado,TM+OG,Geninho,geninho,,,,2530588,218836,11
+2006,2006-08-05,15,Corinthians,Geninho,4726,Athletico-PR,casa,2,1,V,3,confirmado,TM+OG,Geninho,geninho,,,,2530596,218844,11
+2006,2006-08-12,16,Corinthians,Geninho,4726,Figueirense,casa,1,3,D,0,confirmado,TM+OG,Geninho,geninho,,,,2530897,218854,11
+2006,2006-08-15,17,Corinthians,Emerson Leão,1352,Fluminense,fora,2,1,V,3,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2530909,218867,12
+2006,2006-08-20,18,Corinthians,Emerson Leão,1352,Botafogo,casa,1,0,V,3,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2530923,218878,12
+2006,2006-08-22,19,Corinthians,Emerson Leão,1352,Juventude,fora,0,0,E,1,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2530930,218886,12
+2006,2006-08-27,20,Corinthians,Emerson Leão,1352,Grêmio,casa,0,2,D,0,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2530939,218894,12
+2006,2006-08-29,21,Corinthians,Emerson Leão,1352,São Caetano,fora,1,0,V,3,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2530950,218908,12
+2006,2006-09-03,22,Corinthians,Emerson Leão,1352,Ponte Preta,casa,1,0,V,3,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2530967,218915,12
+2006,2006-09-10,23,Corinthians,Emerson Leão,1352,São Paulo,fora,0,0,E,1,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2530973,218930,12
+2006,2006-09-16,24,Corinthians,Emerson Leão,1352,Paraná,casa,1,0,V,3,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2531411,218935,12
+2006,2006-09-19,25,Corinthians,Emerson Leão,1352,Vasco,casa,1,1,E,1,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2531425,218943,12
+2006,2006-09-24,26,Corinthians,Emerson Leão,1352,Internacional,fora,1,1,E,1,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2532144,218953,12
+2006,2006-10-05,27,Corinthians,Emerson Leão,1352,Santos,casa,0,3,D,0,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2532161,218963,12
+2006,2006-10-08,28,Corinthians,Emerson Leão,1352,Goiás,fora,1,3,D,0,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2532358,218976,12
+2006,2006-10-15,29,Corinthians,Emerson Leão,1352,Flamengo,fora,0,3,D,0,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2532442,218986,12
+2006,2006-10-22,30,Corinthians,Emerson Leão,1352,Cruzeiro,casa,1,0,V,3,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2532949,218994,12
+2006,2006-10-24,31,Corinthians,Emerson Leão,1352,Palmeiras,casa,1,0,V,3,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2533301,219005,12
+2006,2006-10-31,32,Corinthians,Emerson Leão,1352,Fortaleza,fora,4,0,V,3,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2533317,219016,12
+2006,2006-11-04,33,Corinthians,Emerson Leão,1352,Santa Cruz,casa,1,0,V,3,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2533329,219024,12
+2006,2006-11-07,34,Corinthians,Emerson Leão,1352,Athletico-PR,fora,2,1,V,3,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2533556,219032,12
+2006,2006-11-12,35,Corinthians,Emerson Leão,1352,Figueirense,fora,0,0,E,1,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2533969,219045,12
+2006,2006-11-18,36,Corinthians,Emerson Leão,1352,Fluminense,casa,1,1,E,1,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2533977,219054,12
+2006,2006-11-26,37,Corinthians,Emerson Leão,1352,Botafogo,fora,0,0,E,1,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2533985,219063,12
+2006,2006-12-03,38,Corinthians,Emerson Leão,1352,Juventude,casa,5,3,V,3,confirmado,TM+OG,Emerson Leão,emerson leao,,,,2534002,219072,12
+2007,2007-05-02,1,Corinthians,Paulo César Carpegiani,4721,Juventude,casa,1,0,V,3,confirmado,TM+OG,Paulo César Carpegiani,carpegiani,,,,73323,244959,13
+2007,2007-05-19,2,Corinthians,Paulo César Carpegiani,4721,Cruzeiro,fora,3,0,V,3,confirmado,TM+OG,Paulo César Carpegiani,carpegiani,,,,73336,244973,13
+2007,2007-05-26,3,Corinthians,Paulo César Carpegiani,4721,Atlético-MG,casa,0,0,E,1,confirmado,TM+OG,Paulo César Carpegiani,carpegiani,,,,73341,244979,13
+2007,2007-06-02,4,Corinthians,Paulo César Carpegiani,4721,Santos,fora,1,1,E,1,confirmado,TM+OG,Paulo César Carpegiani,carpegiani,,,,73355,244994,13
+2007,2007-06-09,5,Corinthians,Paulo César Carpegiani,4721,América-RN,fora,2,1,V,3,confirmado,TM+OG,Paulo César Carpegiani,carpegiani,,,,73500,244997,13
+2007,2007-06-16,6,Corinthians,Paulo César Carpegiani,4721,Paraná,casa,0,0,E,1,confirmado,TM+OG,Paulo César Carpegiani,carpegiani,,,,73370,245010,13
+2007,2007-06-29,8,Corinthians,Paulo César Carpegiani,4721,Palmeiras,casa,0,1,D,0,confirmado,TM+OG,Paulo César Carpegiani,carpegiani,,,,73386,245028,13
+2007,2007-07-03,9,Corinthians,Paulo César Carpegiani,4721,Sport,fora,1,2,D,0,confirmado,TM+OG,Paulo César Carpegiani,carpegiani,,,,73401,245045,13
+2007,2007-07-06,10,Corinthians,Paulo César Carpegiani,4721,Fluminense,casa,1,1,E,1,confirmado,TM+OG,Paulo César Carpegiani,carpegiani,,,,73405,245049,13
+2007,2007-07-13,11,Corinthians,Paulo César Carpegiani,4721,São Paulo,casa,1,1,E,1,confirmado,TM+OG,Paulo César Carpegiani,carpegiani,,,,73413,245058,13
+2007,2007-07-18,12,Corinthians,Paulo César Carpegiani,4721,Internacional,fora,0,3,D,0,confirmado,TM+OG,Paulo César Carpegiani,carpegiani,,,,73425,245073,13
+2007,2007-07-21,13,Corinthians,Paulo César Carpegiani,4721,Náutico,casa,0,3,D,0,confirmado,TM+OG,Paulo César Carpegiani,carpegiani,,,,73515,245078,13
+2007,2007-07-25,14,Corinthians,Paulo César Carpegiani,4721,Figueirense,fora,2,2,E,1,confirmado,TM+OG,Paulo César Carpegiani,carpegiani,,,,73534,245090,13
+2007,2007-07-28,15,Corinthians,Paulo César Carpegiani,4721,Flamengo,casa,2,2,E,1,confirmado,TM+OG,Paulo César Carpegiani,carpegiani,,,,74134,245098,13
+2007,2007-08-01,16,Corinthians,Paulo César Carpegiani,4721,Athletico-PR,fora,2,2,E,1,confirmado,TM+OG,Paulo César Carpegiani,carpegiani,,,,80735,245108,13
+2007,2007-08-03,17,Corinthians,Paulo César Carpegiani,4721,Goiás,casa,1,0,V,3,confirmado,TM+OG,Paulo César Carpegiani,carpegiani,,,,80744,245118,13
+2007,2007-08-08,18,Corinthians,Paulo César Carpegiani,4721,Vasco,fora,0,2,D,0,confirmado,TM+OG,Paulo César Carpegiani,carpegiani,,,,81088,245136,13
+2007,2007-08-11,19,Corinthians,Paulo César Carpegiani,4721,Grêmio,casa,2,1,V,3,confirmado,TM+OG,Paulo César Carpegiani,carpegiani,,,,81485,245139,13
+2007,2007-08-14,7,Corinthians,Paulo César Carpegiani,4721,Botafogo,fora,3,2,V,3,confirmado,TM+OG,Paulo César Carpegiani,carpegiani,,,,73376,245018,13
+2007,2007-08-18,20,Corinthians,Paulo César Carpegiani,4721,Juventude,fora,2,2,E,1,confirmado,TM+OG,Paulo César Carpegiani,carpegiani,,,,81872,245152,13
+2007,2007-08-25,21,Corinthians,Paulo César Carpegiani,4721,Cruzeiro,casa,0,3,D,0,confirmado,TM+OG,Paulo César Carpegiani,carpegiani,,,,81990,245159,13
+2007,2007-08-29,22,Corinthians,Zé Augusto,5086,Atlético-MG,fora,2,5,D,0,confirmado,TM+OG,Zé Augusto,ze augusto,,,,82706,245167,14
+2007,2007-09-02,23,Corinthians,Zé Augusto,5086,Santos,casa,2,0,V,3,confirmado,TM+OG,Zé Augusto,ze augusto,,,,83487,245179,14
+2007,2007-09-05,24,Corinthians,Zé Augusto,5086,América-RN,casa,1,0,V,3,confirmado,TM+OG,Zé Augusto,ze augusto,,,,83494,245189,14
+2007,2007-09-09,25,Corinthians,Zé Augusto,5086,Paraná,fora,0,1,D,0,confirmado,TM+OG,Zé Augusto,ze augusto,,,,84567,245204,14
+2007,2007-09-16,26,Corinthians,Zé Augusto,5086,Botafogo,casa,0,1,D,0,confirmado,TM+OG,Zé Augusto,ze augusto,,,,84604,245209,14
+2007,2007-09-23,27,Corinthians,Zé Augusto,5086,Palmeiras,fora,0,1,D,0,confirmado,TM+OG,Zé Augusto,ze augusto,,,,85101,245224,14
+2007,2007-09-29,28,Corinthians,Nelsinho Baptista,5267,Sport,casa,1,2,D,0,confirmado,TM+OG,Nelsinho Baptista,nelsinho baptista,,,,85105,245229,15
+2007,2007-10-03,29,Corinthians,Nelsinho Baptista,5267,Fluminense,fora,1,1,E,1,confirmado,TM+OG,Nelsinho Baptista,nelsinho baptista,,,,85121,245241,15
+2007,2007-10-07,30,Corinthians,Nelsinho Baptista,5267,São Paulo,fora,1,0,V,3,confirmado,TM+OG,Nelsinho Baptista,nelsinho baptista,,,,85130,245256,15
+2007,2007-10-13,31,Corinthians,Nelsinho Baptista,5267,Internacional,casa,1,1,E,1,confirmado,TM+OG,Nelsinho Baptista,nelsinho baptista,,,,85136,245258,15
+2007,2007-10-21,32,Corinthians,Nelsinho Baptista,5267,Náutico,fora,0,1,D,0,confirmado,TM+OG,Nelsinho Baptista,nelsinho baptista,,,,86056,245274,15
+2007,2007-10-28,33,Corinthians,Nelsinho Baptista,5267,Figueirense,casa,2,1,V,3,confirmado,TM+OG,Nelsinho Baptista,nelsinho baptista,,,,86067,245278,15
+2007,2007-10-31,34,Corinthians,Nelsinho Baptista,5267,Flamengo,fora,1,2,D,0,confirmado,TM+OG,Nelsinho Baptista,nelsinho baptista,,,,86080,245291,15
+2007,2007-11-04,35,Corinthians,Nelsinho Baptista,5267,Athletico-PR,casa,2,2,E,1,confirmado,TM+OG,Nelsinho Baptista,nelsinho baptista,,,,86081,245298,15
+2007,2007-11-11,36,Corinthians,Nelsinho Baptista,5267,Goiás,fora,1,1,E,1,confirmado,TM+OG,Nelsinho Baptista,nelsinho baptista,,,,86093,245312,15
+2007,2007-11-28,37,Corinthians,Nelsinho Baptista,5267,Vasco,casa,0,1,D,0,confirmado,TM+OG,Nelsinho Baptista,nelsinho baptista,,,,86102,245319,15
+2007,2007-12-02,38,Corinthians,Nelsinho Baptista,5267,Grêmio,fora,1,1,E,1,confirmado,TM+OG,Nelsinho Baptista,nelsinho baptista,,,,86117,245331,15
+2009,2009-05-10,1,Corinthians,Mano Menezes,4734,Internacional,casa,0,1,D,0,provável,TM,Mano Menezes,,,,O Gol sem registro deste jogo para o treinador,939072,711298,16
+2009,2009-05-17,2,Corinthians,Mano Menezes,4734,Botafogo,fora,0,0,E,1,provável,TM,Mano Menezes,,,,O Gol sem registro deste jogo para o treinador,939086,711127,16
+2009,2009-05-23,3,Corinthians,Mano Menezes,4734,Grêmio Barueri/Prudente,casa,2,1,V,3,confirmado,TM+OG,Mano Menezes,mano menezes,,,,939089,711308,16
+2009,2009-05-31,4,Corinthians,Mano Menezes,4734,Santos,fora,1,3,D,0,confirmado,TM+OG,Mano Menezes,mano menezes,,,,939103,711129,16
+2009,2009-06-06,5,Corinthians,Mano Menezes,4734,Coritiba,casa,2,0,V,3,confirmado,TM+OG,Mano Menezes,mano menezes,,,,939111,711318,16
+2009,2009-06-14,6,Corinthians,Mano Menezes,4734,Goiás,fora,0,0,E,1,confirmado,TM+OG,Mano Menezes,mano menezes,,,,939124,711144,16
+2009,2009-06-21,7,Corinthians,Mano Menezes,4734,São Paulo,casa,3,1,V,3,confirmado,TM+OG,Mano Menezes,mano menezes,,,,939135,711328,16
+2009,2009-06-27,8,Corinthians,Mano Menezes,4734,Athletico-PR,fora,0,1,D,0,confirmado,TM+OG,Mano Menezes,mano menezes,,,,939144,711151,16
+2009,2009-07-08,9,Corinthians,Mano Menezes,4734,Fluminense,casa,4,2,V,3,confirmado,TM+OG,Mano Menezes,mano menezes,,,,939152,711338,16
+2009,2009-07-12,10,Corinthians,Mano Menezes,4734,Grêmio,fora,0,3,D,0,confirmado,TM+OG,Mano Menezes,mano menezes,,,,939164,711162,16
+2009,2009-07-16,11,Corinthians,Mano Menezes,4734,Sport,casa,4,3,V,3,confirmado,TM+OG,Mano Menezes,mano menezes,,,,939177,711348,16
+2009,2009-07-19,12,Corinthians,Mano Menezes,4734,Cruzeiro,fora,2,1,V,3,confirmado,TM+OG,Mano Menezes,mano menezes,,,,939182,711176,16
+2009,2009-07-23,13,Corinthians,Mano Menezes,4734,Vitória,casa,2,1,V,3,confirmado,TM+OG,Mano Menezes,mano menezes,,,,939197,711358,16
+2009,2009-07-26,14,Corinthians,Mano Menezes,4734,Palmeiras,casa,0,3,D,0,confirmado,TM+OG,Mano Menezes,mano menezes,,,,939202,711178,16
+2009,2009-07-29,15,Corinthians,Mano Menezes,4734,Santo André,fora,1,1,E,1,confirmado,TM+OG,Mano Menezes,mano menezes,,,,939215,711370,16
+2009,2009-08-02,16,Corinthians,Mano Menezes,4734,Avaí,casa,0,0,E,1,confirmado,TM+OG,Mano Menezes,mano menezes,,,,939222,711188,16
+2009,2009-08-05,17,Corinthians,Mano Menezes,4734,Náutico,fora,0,1,D,0,confirmado,TM+OG,Mano Menezes,mano menezes,,,,939233,711385,16
+2009,2009-08-09,18,Corinthians,Mano Menezes,4734,Flamengo,fora,0,1,D,0,confirmado,TM+OG,Mano Menezes,mano menezes,,,,939242,711203,16
+2009,2009-08-16,19,Corinthians,Mano Menezes,4734,Atlético-MG,casa,2,0,V,3,confirmado,TM+OG,Mano Menezes,mano menezes,,,,939252,711388,16
+2009,2009-08-19,20,Corinthians,Mano Menezes,4734,Internacional,fora,2,1,V,3,confirmado,TM+OG,Mano Menezes,mano menezes,,,,965896,711402,16
+2009,2009-08-23,21,Corinthians,Mano Menezes,4734,Botafogo,casa,3,3,E,1,confirmado,TM+OG,Mano Menezes,mano menezes,,,,965904,711208,16
+2009,2009-08-26,22,Corinthians,Mano Menezes,4734,Grêmio Barueri/Prudente,fora,2,2,E,1,confirmado,TM+OG,Mano Menezes,mano menezes,,,,965920,711410,16
+2009,2009-09-02,23,Corinthians,Mano Menezes,4734,Santos,casa,2,1,V,3,confirmado,TM+OG,Mano Menezes,mano menezes,,,,971297,711218,16
+2009,2009-09-16,24,Corinthians,Mano Menezes,4734,Coritiba,fora,1,1,E,1,confirmado,TM+OG,Mano Menezes,mano menezes,,,,971365,711421,16
+2009,2009-09-20,25,Corinthians,Mano Menezes,4734,Goiás,casa,1,4,D,0,confirmado,TM+OG,Mano Menezes,mano menezes,,,,971381,711228,16
+2009,2009-09-27,26,Corinthians,Mano Menezes,4734,São Paulo,fora,1,1,E,1,confirmado,TM+OG,Mano Menezes,mano menezes,,,,971658,711428,16
+2009,2009-10-03,27,Corinthians,Mano Menezes,4734,Athletico-PR,casa,1,3,D,0,confirmado,TM+OG,Mano Menezes,mano menezes,,,,971666,711238,16
+2009,2009-10-07,28,Corinthians,Mano Menezes,4734,Fluminense,fora,1,1,E,1,confirmado,TM+OG,Mano Menezes,mano menezes,,,,971702,711443,16
+2009,2009-10-10,29,Corinthians,Mano Menezes,4734,Grêmio,casa,2,1,V,3,confirmado,TM+OG,Mano Menezes,mano menezes,,,,971708,711248,16
+2009,2009-10-18,30,Corinthians,Mano Menezes,4734,Sport,fora,0,2,D,0,confirmado,TM+OG,Mano Menezes,mano menezes,,,,971721,711455,16
+2009,2009-10-25,31,Corinthians,Mano Menezes,4734,Cruzeiro,casa,0,1,D,0,confirmado,TM+OG,Mano Menezes,mano menezes,,,,971735,711258,16
+2009,2009-10-28,32,Corinthians,Mano Menezes,4734,Vitória,fora,1,0,V,3,confirmado,TM+OG,Mano Menezes,mano menezes,,,,971742,711464,16
+2009,2009-11-01,33,Corinthians,Mano Menezes,4734,Palmeiras,fora,2,2,E,1,confirmado,TM+OG,Mano Menezes,mano menezes,,,,971748,711269,16
+2009,2009-11-08,34,Corinthians,Mano Menezes,4734,Santo André,casa,2,0,V,3,confirmado,TM+OG,Mano Menezes,mano menezes,,,,971758,711468,16
+2009,2009-11-15,35,Corinthians,Mano Menezes,4734,Avaí,fora,1,3,D,0,confirmado,TM+OG,Mano Menezes,mano menezes,,,,971777,711287,16
+2009,2009-11-21,36,Corinthians,Mano Menezes,4734,Náutico,casa,2,3,D,0,confirmado,TM+OG,Mano Menezes,mano menezes,,,,971778,711478,16
+2009,2009-11-29,37,Corinthians,Mano Menezes,4734,Flamengo,casa,0,2,D,0,confirmado,TM+OG,Mano Menezes,mano menezes,,,,971788,711288,16
+2009,2009-12-05,38,Corinthians,Mano Menezes,4734,Atlético-MG,fora,3,0,V,3,confirmado,TM+OG,Mano Menezes,mano menezes,,,,971806,711496,16
+2010,2010-05-09,1,Corinthians,Mano Menezes,4734,Athletico-PR,casa,2,1,V,3,confirmado,TM+OG,Mano Menezes,mano menezes,,,,1003477,1201524,16
+2010,2010-05-16,2,Corinthians,Mano Menezes,4734,Grêmio,fora,2,1,V,3,confirmado,TM+OG,Mano Menezes,mano menezes,,,,1003484,1201531,16
+2010,2010-05-23,3,Corinthians,Mano Menezes,4734,Fluminense,casa,1,0,V,3,confirmado,TM+OG,Mano Menezes,mano menezes,,,,1004150,1201541,16
+2010,2010-05-26,4,Corinthians,Mano Menezes,4734,Grêmio Barueri/Prudente,fora,2,2,E,1,confirmado,TM+OG,Mano Menezes,mano menezes,,,,1004785,1201552,16
+2010,2010-05-30,5,Corinthians,Mano Menezes,4734,Santos,casa,4,2,V,3,confirmado,TM+OG,Mano Menezes,mano menezes,,,,1004794,1201561,16
+2010,2010-06-03,6,Corinthians,Mano Menezes,4734,Internacional,casa,2,0,V,3,confirmado,TM+OG,Mano Menezes,mano menezes,,,,1005867,1201577,16
+2010,2010-06-06,7,Corinthians,Mano Menezes,4734,Botafogo,fora,2,2,E,1,confirmado,TM+OG,Mano Menezes,mano menezes,,,,1005873,1201583,16
+2010,2010-07-14,8,Corinthians,Mano Menezes,4734,Ceará,fora,0,0,E,1,confirmado,TM+OG,Mano Menezes,mano menezes,,,,1005884,1201594,16
+2010,2010-07-18,9,Corinthians,Mano Menezes,4734,Atlético-MG,casa,1,0,V,3,confirmado,TM+OG,Mano Menezes,mano menezes,,,,1005891,1201601,16
+2010,2010-07-21,10,Corinthians,Mano Menezes,4734,Atlético-GO,fora,1,3,D,0,confirmado,TM+OG,Mano Menezes,mano menezes,,,,1005914,1201614,16
+2010,2010-07-25,11,Corinthians,Mano Menezes,4734,Guarani,casa,3,1,V,3,confirmado,TM+OG,Mano Menezes,mano menezes,,,,1006309,1201626,16
+2010,2010-08-01,12,Corinthians,Adilson Batista,5668,Palmeiras,fora,1,1,E,1,confirmado,TM+OG,Adilson Batista,adilson batista,,,,1006314,1201631,17
+2010,2010-08-08,13,Corinthians,Adilson Batista,5668,Flamengo,casa,1,0,V,3,confirmado,TM+OG,Adilson Batista,adilson batista,,,,1006334,1201641,17
+2010,2010-08-15,14,Corinthians,Adilson Batista,5668,Avaí,fora,2,3,D,0,confirmado,TM+OG,Adilson Batista,adilson batista,,,,1006346,1201653,17
+2010,2010-08-22,15,Corinthians,Adilson Batista,5668,São Paulo,casa,3,0,V,3,confirmado,TM+OG,Adilson Batista,adilson batista,,,,1006359,1201666,17
+2010,2010-08-25,16,Corinthians,Adilson Batista,5668,Cruzeiro,fora,0,1,D,0,confirmado,TM+OG,Adilson Batista,adilson batista,,,,1006366,1201673,17
+2010,2010-08-29,17,Corinthians,Adilson Batista,5668,Vitória,casa,2,1,V,3,confirmado,TM+OG,Adilson Batista,adilson batista,,,,1007611,1201681,17
+2010,2010-09-04,19,Corinthians,Adilson Batista,5668,Goiás,casa,5,1,V,3,confirmado,TM+OG,Adilson Batista,adilson batista,,,,1007630,1201700,17
+2010,2010-09-08,20,Corinthians,Adilson Batista,5668,Athletico-PR,fora,1,1,E,1,confirmado,TM+OG,Adilson Batista,adilson batista,,,,1007647,1201717,17
+2010,2010-09-11,21,Corinthians,Adilson Batista,5668,Grêmio,casa,0,1,D,0,confirmado,TM+OG,Adilson Batista,adilson batista,,,,1007648,1201718,17
+2010,2010-09-15,22,Corinthians,Adilson Batista,5668,Fluminense,fora,2,1,V,3,confirmado,TM+OG,Adilson Batista,adilson batista,,,,1009302,1201731,17
+2010,2010-09-18,23,Corinthians,Adilson Batista,5668,Grêmio Barueri/Prudente,casa,3,0,V,3,confirmado,TM+OG,Adilson Batista,adilson batista,,,,1054797,1201738,17
+2010,2010-09-22,24,Corinthians,Adilson Batista,5668,Santos,fora,3,2,V,3,confirmado,TM+OG,Adilson Batista,adilson batista,,,,1009320,1201749,17
+2010,2010-09-26,25,Corinthians,Adilson Batista,5668,Internacional,fora,2,3,D,0,confirmado,TM+OG,Adilson Batista,adilson batista,,,,1009335,1201764,17
+2010,2010-09-29,26,Corinthians,Adilson Batista,5668,Botafogo,casa,1,1,E,1,confirmado,TM+OG,Adilson Batista,adilson batista,,,,1009339,1201768,17
+2010,2010-10-02,27,Corinthians,Adilson Batista,5668,Ceará,casa,2,2,E,1,confirmado,TM+OG,Adilson Batista,adilson batista,,,,1009349,1201778,17
+2010,2010-10-06,28,Corinthians,Adilson Batista,5668,Atlético-MG,fora,1,2,D,0,confirmado,TM+OG,Adilson Batista,adilson batista,,,,1009364,1201793,17
+2010,2010-10-10,29,Corinthians,Adilson Batista,5668,Atlético-GO,casa,3,4,D,0,confirmado,TM+OG,Adilson Batista,adilson batista,,,,1009369,1201798,17
+2010,2010-10-13,18,Corinthians,Fábio Carille,47350,Vasco,fora,0,2,D,0,confirmado,TM+OG,Fábio Carille,fabio carille,,,,1007622,1201692,18
+2010,2010-10-17,30,Corinthians,Fábio Carille,47350,Guarani,fora,0,0,E,1,confirmado,TM+OG,Fábio Carille,fabio carille,,,,1009383,1201812,18
+2010,2010-10-24,31,Corinthians,Tite,6623,Palmeiras,casa,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,1009389,1201818,19
+2010,2010-10-27,32,Corinthians,Tite,6623,Flamengo,fora,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,1009402,1201830,19
+2010,2010-11-03,33,Corinthians,Tite,6623,Avaí,casa,4,0,V,3,confirmado,TM+OG,Tite,tite,,,,1009410,1201838,19
+2010,2010-11-07,34,Corinthians,Tite,6623,São Paulo,fora,2,0,V,3,confirmado,TM+OG,Tite,tite,,,,1009420,1201848,19
+2010,2010-11-13,35,Corinthians,Tite,6623,Cruzeiro,casa,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,1009430,1201858,19
+2010,2010-11-21,36,Corinthians,Tite,6623,Vitória,fora,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,1009448,1201876,19
+2010,2010-11-28,37,Corinthians,Tite,6623,Vasco,casa,2,0,V,3,confirmado,TM+OG,Tite,tite,,,,1009450,1201878,19
+2010,2010-12-05,38,Corinthians,Tite,6623,Goiás,fora,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,1009467,1201895,19
+2011,2011-05-22,1,Corinthians,Tite,6623,Grêmio,fora,2,1,V,3,confirmado,TM+OG,Tite,tite,,,,1091617,1652368,19
+2011,2011-05-29,2,Corinthians,Tite,6623,Coritiba,casa,2,1,V,3,confirmado,TM+OG,Tite,tite,,,,1093645,1652372,19
+2011,2011-06-05,3,Corinthians,Tite,6623,Flamengo,fora,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,1093655,1652384,19
+2011,2011-06-12,4,Corinthians,Tite,6623,Fluminense,casa,2,0,V,3,confirmado,TM+OG,Tite,tite,,,,1093668,1652401,19
+2011,2011-06-26,6,Corinthians,Tite,6623,São Paulo,casa,5,0,V,3,confirmado,TM+OG,Tite,tite,,,,1093685,1652412,19
+2011,2011-06-29,7,Corinthians,Tite,6623,Bahia,fora,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,1093696,1652431,19
+2011,2011-07-06,8,Corinthians,Tite,6623,Vasco,casa,2,1,V,3,confirmado,TM+OG,Tite,tite,,,,1093704,1652432,19
+2011,2011-07-10,9,Corinthians,Tite,6623,Atlético-GO,fora,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,1093716,1652450,19
+2011,2011-07-14,12,Corinthians,Tite,6623,Internacional,casa,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,1093749,1652472,19
+2011,2011-07-20,10,Corinthians,Tite,6623,Botafogo,fora,2,0,V,3,confirmado,TM+OG,Tite,tite,,,,1093726,1652455,19
+2011,2011-07-24,11,Corinthians,Tite,6623,Cruzeiro,casa,0,1,D,0,confirmado,TM+OG,Tite,tite,,,,1093736,1652462,19
+2011,2011-07-31,13,Corinthians,Tite,6623,Avaí,fora,2,3,D,0,confirmado,TM+OG,Tite,tite,,,,1093758,1652488,19
+2011,2011-08-03,14,Corinthians,Tite,6623,América-MG,casa,2,1,V,3,confirmado,TM+OG,Tite,tite,,,,1093761,1652492,19
+2011,2011-08-07,15,Corinthians,Tite,6623,Athletico-PR,fora,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,1093776,1652509,19
+2011,2011-08-10,5,Corinthians,Tite,6623,Santos,fora,0,0,E,1,confirmado,TM+OG,Tite,tite,,,,1093676,1652403,19
+2011,2011-08-14,16,Corinthians,Tite,6623,Ceará,casa,2,2,E,1,confirmado,TM+OG,Tite,tite,,,,1093785,1652512,19
+2011,2011-08-17,17,Corinthians,Tite,6623,Atlético-MG,fora,3,2,V,3,confirmado,TM+OG,Tite,tite,,,,1093796,1652527,19
+2011,2011-08-20,18,Corinthians,Tite,6623,Figueirense,casa,0,2,D,0,confirmado,TM+OG,Tite,tite,,,,1093803,1652532,19
+2011,2011-08-28,19,Corinthians,Tite,6623,Palmeiras,fora,1,2,D,0,confirmado,TM+OG,Tite,tite,,,,1093814,1652542,19
+2011,2011-08-31,20,Corinthians,Tite,6623,Grêmio,casa,3,2,V,3,confirmado,TM+OG,Tite,tite,,,,1142851,1652552,19
+2011,2011-09-04,21,Corinthians,Tite,6623,Coritiba,fora,0,1,D,0,confirmado,TM+OG,Tite,tite,,,,1143551,1652569,19
+2011,2011-09-08,22,Corinthians,Tite,6623,Flamengo,casa,2,1,V,3,confirmado,TM+OG,Tite,tite,,,,1144180,1652572,19
+2011,2011-09-11,23,Corinthians,Tite,6623,Fluminense,fora,0,1,D,0,confirmado,TM+OG,Tite,tite,,,,1148298,1652585,19
+2011,2011-09-18,24,Corinthians,Tite,6623,Santos,casa,1,3,D,0,confirmado,TM+OG,Tite,tite,,,,1149463,1652601,19
+2011,2011-09-21,25,Corinthians,Tite,6623,São Paulo,fora,0,0,E,1,confirmado,TM+OG,Tite,tite,,,,1150843,1652603,19
+2011,2011-09-25,26,Corinthians,Tite,6623,Bahia,casa,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,1151342,1652613,19
+2011,2011-10-02,27,Corinthians,Tite,6623,Vasco,fora,2,2,E,1,confirmado,TM+OG,Tite,tite,,,,1152027,1652624,19
+2011,2011-10-09,28,Corinthians,Tite,6623,Atlético-GO,casa,3,0,V,3,confirmado,TM+OG,Tite,tite,,,,1153179,1652632,19
+2011,2011-10-12,29,Corinthians,Tite,6623,Botafogo,casa,0,2,D,0,confirmado,TM+OG,Tite,tite,,,,1154058,1652642,19
+2011,2011-10-16,30,Corinthians,Tite,6623,Cruzeiro,fora,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,1157846,1652657,19
+2011,2011-10-23,31,Corinthians,Tite,6623,Internacional,fora,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,1158420,1652666,19
+2011,2011-10-30,32,Corinthians,Tite,6623,Avaí,casa,2,1,V,3,confirmado,TM+OG,Tite,tite,,,,1159411,1652672,19
+2011,2011-11-06,33,Corinthians,Tite,6623,América-MG,fora,1,2,D,0,confirmado,TM+OG,Tite,tite,,,,1161144,1652690,19
+2011,2011-11-13,34,Corinthians,Tite,6623,Athletico-PR,casa,2,1,V,3,confirmado,TM+OG,Tite,tite,,,,1164793,1652692,19
+2011,2011-11-16,35,Corinthians,Tite,6623,Ceará,fora,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,1164812,1652711,19
+2011,2011-11-20,36,Corinthians,Tite,6623,Atlético-MG,casa,2,1,V,3,confirmado,TM+OG,Tite,tite,,,,1164813,1652712,19
+2011,2011-11-27,37,Corinthians,Tite,6623,Figueirense,fora,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,1164829,1652728,19
+2011,2011-12-04,38,Corinthians,Tite,6623,Palmeiras,casa,0,0,E,1,confirmado,TM+OG,Tite,tite,,,,1164833,1652732,19
+2012,2012-05-20,1,Corinthians,Tite,6623,Fluminense,casa,0,1,D,0,provável,TM,Tite,,,,O Gol sem registro deste jogo para o treinador,2210940,2186107,19
+2012,2012-05-27,2,Corinthians,Tite,6623,Atlético-MG,fora,0,1,D,0,provável,TM,Tite,,,,O Gol sem registro deste jogo para o treinador,2206421,2186119,19
+2012,2012-06-07,3,Corinthians,Tite,6623,Figueirense,casa,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,2206413,2186127,19
+2012,2012-06-10,4,Corinthians,Tite,6623,Grêmio,fora,0,2,D,0,confirmado,TM+OG,Tite,tite,,,,2206428,2186138,19
+2012,2012-06-17,5,Corinthians,Tite,6623,Ponte Preta,fora,0,1,D,0,confirmado,TM+OG,Tite,tite,,,,2206433,2186150,19
+2012,2012-06-24,6,Corinthians,Tite,6623,Palmeiras,casa,2,1,V,3,confirmado,TM+OG,Tite,tite,,,,2206437,2186157,19
+2012,2012-07-08,8,Corinthians,Tite,6623,Sport,fora,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,2206470,2186182,19
+2012,2012-07-11,7,Corinthians,Tite,6623,Botafogo,casa,1,3,D,0,confirmado,TM+OG,Tite,tite,,,,2206459,2186167,19
+2012,2012-07-14,9,Corinthians,Tite,6623,Náutico,casa,2,1,V,3,confirmado,TM+OG,Tite,tite,,,,2206475,2186187,19
+2012,2012-07-18,10,Corinthians,Tite,6623,Flamengo,fora,3,0,V,3,confirmado,TM+OG,Tite,tite,,,,2206372,2186194,19
+2012,2012-07-21,11,Corinthians,Tite,6623,Portuguesa,casa,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,2206374,2186207,19
+2012,2012-07-25,12,Corinthians,Tite,6623,Cruzeiro,casa,2,0,V,3,confirmado,TM+OG,Tite,tite,,,,2206379,2186217,19
+2012,2012-07-29,13,Corinthians,Tite,6623,Bahia,fora,0,0,E,1,confirmado,TM+OG,Tite,tite,,,,2206402,2186233,19
+2012,2012-08-05,14,Corinthians,Tite,6623,Vasco,fora,0,0,E,1,confirmado,TM+OG,Tite,tite,,,,2206497,2186235,19
+2012,2012-08-08,15,Corinthians,Tite,6623,Atlético-GO,casa,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,2206499,2186247,19
+2012,2012-08-12,16,Corinthians,Tite,6623,Coritiba,fora,2,1,V,3,confirmado,TM+OG,Tite,tite,,,,2206728,2186261,19
+2012,2012-08-16,17,Corinthians,Tite,6623,Internacional,casa,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,2206722,2186267,19
+2012,2012-08-19,18,Corinthians,Tite,6623,Santos,fora,2,3,D,0,confirmado,TM+OG,Tite,tite,,,,2206711,2186276,19
+2012,2012-08-26,19,Corinthians,Tite,6623,São Paulo,casa,1,2,D,0,confirmado,TM+OG,Tite,tite,,,,2206697,2186287,19
+2012,2012-08-29,20,Corinthians,Tite,6623,Fluminense,fora,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,2206692,2186297,19
+2012,2012-09-02,21,Corinthians,Tite,6623,Atlético-MG,casa,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,2206673,2186309,19
+2012,2012-09-05,22,Corinthians,Tite,6623,Figueirense,fora,0,1,D,0,confirmado,TM+OG,Tite,tite,,,,2206652,2186317,19
+2012,2012-09-08,23,Corinthians,Tite,6623,Grêmio,casa,3,1,V,3,confirmado,TM+OG,Tite,tite,,,,2206651,2186328,19
+2012,2012-09-12,24,Corinthians,Tite,6623,Ponte Preta,casa,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,2206648,2186340,19
+2012,2012-09-16,25,Corinthians,Tite,6623,Palmeiras,fora,2,0,V,3,confirmado,TM+OG,Tite,tite,,,,2206626,2186347,19
+2012,2012-09-23,26,Corinthians,Tite,6623,Botafogo,fora,2,2,E,1,confirmado,TM+OG,Tite,tite,,,,2206621,2186357,19
+2012,2012-09-30,27,Corinthians,Tite,6623,Sport,casa,3,0,V,3,confirmado,TM+OG,Tite,tite,,,,2206615,2186372,19
+2012,2012-10-06,28,Corinthians,Tite,6623,Náutico,fora,1,2,D,0,confirmado,TM+OG,Tite,tite,,,,2206596,2186377,19
+2012,2012-10-10,29,Corinthians,Tite,6623,Flamengo,casa,3,2,V,3,confirmado,TM+OG,Tite,tite,,,,2206579,2186384,19
+2012,2012-10-13,30,Corinthians,Tite,6623,Portuguesa,fora,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,2206590,2186397,19
+2012,2012-10-17,31,Corinthians,Tite,6623,Cruzeiro,fora,0,2,D,0,confirmado,TM+OG,Tite,tite,,,,2206562,2186407,19
+2012,2012-10-20,32,Corinthians,Tite,6623,Bahia,casa,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,2206571,2186423,19
+2012,2012-10-27,33,Corinthians,Tite,6623,Vasco,casa,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,2206560,2186425,19
+2012,2012-11-04,34,Corinthians,Tite,6623,Atlético-GO,fora,2,0,V,3,confirmado,TM+OG,Tite,tite,,,,2206544,2186437,19
+2012,2012-11-10,35,Corinthians,Tite,6623,Coritiba,casa,5,1,V,3,confirmado,TM+OG,Tite,tite,,,,2206538,2186451,19
+2012,2012-11-18,36,Corinthians,Tite,6623,Internacional,fora,2,0,V,3,confirmado,TM+OG,Tite,tite,,,,2206515,2186457,19
+2012,2012-11-24,37,Corinthians,Tite,6623,Santos,casa,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,2206483,2186466,19
+2012,2012-12-02,38,Corinthians,Tite,6623,São Paulo,fora,1,3,D,0,confirmado,TM+OG,Tite,tite,,,,2206683,2186477,19
+2013,2013-05-25,1,Corinthians,Tite,6623,Botafogo,casa,1,1,E,1,provável,TM,Tite,,,,O Gol sem registro deste jogo para o treinador,2317510,2790221,19
+2013,2013-05-29,2,Corinthians,Tite,6623,Goiás,fora,1,1,E,1,provável,TM,Tite,,,,O Gol sem registro deste jogo para o treinador,2318595,2790234,19
+2013,2013-06-01,3,Corinthians,Tite,6623,Ponte Preta,casa,1,0,V,3,provável,TM,Tite,,,,O Gol sem registro deste jogo para o treinador,2318605,2790241,19
+2013,2013-06-05,4,Corinthians,Tite,6623,Cruzeiro,fora,0,1,D,0,provável,TM,Tite,,,,O Gol sem registro deste jogo para o treinador,2318732,2790256,19
+2013,2013-06-08,5,Corinthians,Tite,6623,Portuguesa,casa,0,0,E,1,confirmado,TM+OG,Tite,tite,,,,2319213,2790261,19
+2013,2013-07-07,6,Corinthians,Tite,6623,Bahia,fora,2,0,V,3,confirmado,TM+OG,Tite,tite,,,,2319688,2790272,19
+2013,2013-07-14,7,Corinthians,Tite,6623,Atlético-MG,casa,0,1,D,0,confirmado,TM+OG,Tite,tite,,,,2327539,2790281,19
+2013,2013-07-21,8,Corinthians,Tite,6623,Athletico-PR,fora,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,2343407,2790297,19
+2013,2013-07-28,9,Corinthians,Tite,6623,São Paulo,casa,0,0,E,1,confirmado,TM+OG,Tite,tite,,,,2343415,2790301,19
+2013,2013-07-31,10,Corinthians,Tite,6623,Grêmio,casa,2,0,V,3,confirmado,TM+OG,Tite,tite,,,,2343426,2790311,19
+2013,2013-08-04,11,Corinthians,Tite,6623,Criciúma,fora,2,0,V,3,confirmado,TM+OG,Tite,tite,,,,2343439,2790325,19
+2013,2013-08-07,12,Corinthians,Tite,6623,Santos,fora,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,2344138,2790338,19
+2013,2013-08-11,13,Corinthians,Tite,6623,Vitória,casa,2,0,V,3,confirmado,TM+OG,Tite,tite,,,,2344089,2790341,19
+2013,2013-08-14,14,Corinthians,Tite,6623,Fluminense,fora,0,0,E,1,confirmado,TM+OG,Tite,tite,,,,2344133,2790350,19
+2013,2013-08-18,15,Corinthians,Tite,6623,Coritiba,casa,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,2344153,2790361,19
+2013,2013-08-25,16,Corinthians,Tite,6623,Vasco,fora,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,2344086,2790369,19
+2013,2013-09-01,17,Corinthians,Tite,6623,Flamengo,casa,4,0,V,3,confirmado,TM+OG,Tite,tite,,,,2344088,2790381,19
+2013,2013-09-04,18,Corinthians,Tite,6623,Internacional,fora,0,1,D,0,confirmado,TM+OG,Tite,tite,,,,2344078,2790393,19
+2013,2013-09-08,19,Corinthians,Tite,6623,Náutico,casa,0,0,E,1,confirmado,TM+OG,Tite,tite,,,,2344073,2790401,19
+2013,2013-09-11,20,Corinthians,Tite,6623,Botafogo,fora,0,1,D,0,confirmado,TM+OG,Tite,tite,,,,2344143,2790411,19
+2013,2013-09-15,21,Corinthians,Tite,6623,Goiás,casa,1,2,D,0,confirmado,TM+OG,Tite,tite,,,,2344145,2790424,19
+2013,2013-09-18,22,Corinthians,Tite,6623,Ponte Preta,fora,0,2,D,0,confirmado,TM+OG,Tite,tite,,,,2355789,2790431,19
+2013,2013-09-22,23,Corinthians,Tite,6623,Cruzeiro,casa,0,0,E,1,confirmado,TM+OG,Tite,tite,,,,2344136,2790446,19
+2013,2013-09-29,24,Corinthians,Tite,6623,Portuguesa,fora,0,4,D,0,confirmado,TM+OG,Tite,tite,,,,2344161,2790451,19
+2013,2013-10-02,25,Corinthians,Tite,6623,Bahia,casa,2,0,V,3,confirmado,TM+OG,Tite,tite,,,,2344259,2790462,19
+2013,2013-10-06,26,Corinthians,Tite,6623,Atlético-MG,fora,0,0,E,1,confirmado,TM+OG,Tite,tite,,,,2344214,2790471,19
+2013,2013-10-09,27,Corinthians,Tite,6623,Athletico-PR,casa,0,0,E,1,confirmado,TM+OG,Tite,tite,,,,2344318,2790487,19
+2013,2013-10-13,28,Corinthians,Tite,6623,São Paulo,fora,0,0,E,1,confirmado,TM+OG,Tite,tite,,,,2344227,2790491,19
+2013,2013-10-16,29,Corinthians,Tite,6623,Grêmio,fora,0,1,D,0,confirmado,TM+OG,Tite,tite,,,,2344195,2790501,19
+2013,2013-10-19,30,Corinthians,Tite,6623,Criciúma,casa,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,2344182,2790515,19
+2013,2013-10-27,31,Corinthians,Tite,6623,Santos,casa,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,2344165,2790528,19
+2013,2013-11-03,32,Corinthians,Tite,6623,Vitória,fora,1,1,E,1,confirmado,TM+OG,Tite,tite,,,,2344254,2790531,19
+2013,2013-11-10,33,Corinthians,Tite,6623,Fluminense,casa,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,2344299,2790540,19
+2013,2013-11-13,34,Corinthians,Tite,6623,Coritiba,fora,1,0,V,3,confirmado,TM+OG,Tite,tite,,,,2344306,2790551,19
+2013,2013-11-17,35,Corinthians,Tite,6623,Vasco,casa,0,0,E,1,confirmado,TM+OG,Tite,tite,,,,2344255,2790559,19
+2013,2013-11-24,36,Corinthians,Tite,6623,Flamengo,fora,0,1,D,0,confirmado,TM+OG,Tite,tite,,,,2344296,2790571,19
+2013,2013-11-30,37,Corinthians,Tite,6623,Internacional,casa,0,0,E,1,confirmado,TM+OG,Tite,tite,,,,2344229,2790583,19
+2013,2013-12-07,38,Corinthians,Tite,6623,Náutico,fora,0,1,D,0,confirmado,TM+OG,Tite,tite,,,,2344257,2790591,19
+2014,2014-04-20,1,Corinthians,Mano Menezes,4734,Atlético-MG,fora,0,0,E,1,confirmado,TM+CBF,Mano Menezes,,L. Venker de Menezes,,O Gol sem registro deste jogo para o treinador,2454183,3363008,20
+2014,2014-04-27,2,Corinthians,Mano Menezes,4734,Flamengo,casa,2,0,V,3,confirmado,TM+CBF,Mano Menezes,,L. Venker de Menezes,,O Gol sem registro deste jogo para o treinador,2454191,3363205,20
+2014,2014-05-04,3,Corinthians,Mano Menezes,4734,Chapecoense,fora,1,0,V,3,confirmado,TM+CBF,Mano Menezes,,L. Venker de Menezes,,O Gol sem registro deste jogo para o treinador,2454341,3363022,20
+2014,2014-05-11,4,Corinthians,Mano Menezes,4734,São Paulo,fora,1,1,E,1,confirmado,TM+CBF,Mano Menezes,,L. Venker de Menezes,,O Gol sem registro deste jogo para o treinador,2454344,3363215,20
+2014,2014-05-18,5,Corinthians,Mano Menezes,4734,Figueirense,casa,0,1,D,0,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454354,3363025,20
+2014,2014-05-21,6,Corinthians,Mano Menezes,4734,Athletico-PR,casa,1,1,E,1,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454364,3363225,20
+2014,2014-05-25,7,Corinthians,Mano Menezes,4734,Sport,fora,4,1,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454373,3363034,20
+2014,2014-05-27,8,Corinthians,Mano Menezes,4734,Cruzeiro,casa,1,0,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454384,3363235,20
+2014,2014-06-01,28,Corinthians,Mano Menezes,4734,Botafogo,casa,1,1,E,1,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2523331,3363043,20
+2014,2014-07-17,10,Corinthians,Mano Menezes,4734,Internacional,casa,2,1,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454404,3363245,20
+2014,2014-07-20,11,Corinthians,Mano Menezes,4734,Vitória,fora,0,0,E,1,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454418,3363059,20
+2014,2014-07-27,12,Corinthians,Mano Menezes,4734,Palmeiras,casa,2,0,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454424,3363255,20
+2014,2014-08-03,13,Corinthians,Mano Menezes,4734,Coritiba,fora,0,0,E,1,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454436,3363067,20
+2014,2014-08-10,14,Corinthians,Mano Menezes,4734,Santos,fora,1,0,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454445,3363266,20
+2014,2014-08-16,15,Corinthians,Mano Menezes,4734,Bahia,casa,1,1,E,1,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454454,3363075,20
+2014,2014-08-21,16,Corinthians,Mano Menezes,4734,Goiás,casa,5,2,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454464,3363275,20
+2014,2014-08-24,17,Corinthians,Mano Menezes,4734,Grêmio,fora,1,2,D,0,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454479,3363090,20
+2014,2014-08-31,18,Corinthians,Mano Menezes,4734,Fluminense,casa,1,1,E,1,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454484,3363285,20
+2014,2014-09-07,19,Corinthians,Mano Menezes,4734,Criciúma,fora,0,0,E,1,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454500,3363101,20
+2014,2014-09-11,20,Corinthians,Mano Menezes,4734,Atlético-MG,casa,1,0,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454504,3363105,20
+2014,2014-09-14,21,Corinthians,Mano Menezes,4734,Flamengo,fora,0,1,D,0,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454512,3363293,20
+2014,2014-09-18,22,Corinthians,Mano Menezes,4734,Chapecoense,casa,1,1,E,1,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454524,3363115,20
+2014,2014-09-21,23,Corinthians,Mano Menezes,4734,São Paulo,casa,3,2,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454534,3363305,20
+2014,2014-09-24,24,Corinthians,Mano Menezes,4734,Figueirense,fora,0,1,D,0,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454550,3363131,20
+2014,2014-09-28,25,Corinthians,Mano Menezes,4734,Athletico-PR,fora,0,1,D,0,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454556,3363317,20
+2014,2014-10-04,26,Corinthians,Mano Menezes,4734,Sport,casa,3,0,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454564,3363135,20
+2014,2014-10-08,27,Corinthians,Mano Menezes,4734,Cruzeiro,fora,1,0,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454577,3363328,20
+2014,2014-10-11,9,Corinthians,Mano Menezes,4734,Botafogo,fora,0,1,D,0,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454392,3363145,20
+2014,2014-10-19,29,Corinthians,Mano Menezes,4734,Internacional,fora,2,1,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454599,3363340,20
+2014,2014-10-22,30,Corinthians,Mano Menezes,4734,Vitória,casa,2,1,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454604,3363155,20
+2014,2014-10-25,31,Corinthians,Mano Menezes,4734,Palmeiras,fora,1,1,E,1,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454615,3363346,20
+2014,2014-11-01,32,Corinthians,Mano Menezes,4734,Coritiba,casa,2,2,E,1,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454624,3363165,20
+2014,2014-11-09,33,Corinthians,Mano Menezes,4734,Santos,casa,1,0,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454634,3363355,20
+2014,2014-11-16,34,Corinthians,Mano Menezes,4734,Bahia,fora,2,1,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454648,3363179,20
+2014,2014-11-19,35,Corinthians,Mano Menezes,4734,Goiás,fora,1,0,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454661,3363372,20
+2014,2014-11-23,36,Corinthians,Mano Menezes,4734,Grêmio,casa,1,0,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454664,3363185,20
+2014,2014-11-30,37,Corinthians,Mano Menezes,4734,Fluminense,fora,2,5,D,0,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454673,3363374,20
+2014,2014-12-06,38,Corinthians,Mano Menezes,4734,Criciúma,casa,2,1,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,2454684,3363195,20
+2015,2015-05-10,1,Corinthians,Tite,6623,Cruzeiro,fora,1,0,V,3,confirmado,TM+CBF,Tite,,A. Bacchi,,O Gol sem registro deste jogo para o treinador,2547060,4375582,21
+2015,2015-05-16,2,Corinthians,Tite,6623,Chapecoense,casa,1,0,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2547068,4375587,21
+2015,2015-05-24,3,Corinthians,Tite,6623,Fluminense,fora,0,0,E,1,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2547079,4375599,21
+2015,2015-05-31,4,Corinthians,Tite,6623,Palmeiras,casa,0,2,D,0,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2569248,4375607,21
+2015,2015-06-03,5,Corinthians,Tite,6623,Grêmio,fora,1,3,D,0,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2569258,4375621,21
+2015,2015-06-06,6,Corinthians,Tite,6623,Joinville,fora,1,0,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2569269,4375636,21
+2015,2015-06-13,7,Corinthians,Tite,6623,Internacional,casa,2,1,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2569401,4375637,21
+2015,2015-06-20,8,Corinthians,Tite,6623,Santos,fora,0,1,D,0,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2569411,4375648,21
+2015,2015-06-27,9,Corinthians,Tite,6623,Figueirense,casa,2,1,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2569422,4375657,21
+2015,2015-07-02,10,Corinthians,Tite,6623,Ponte Preta,casa,2,0,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2569437,4375667,21
+2015,2015-07-05,11,Corinthians,Tite,6623,Goiás,fora,0,0,E,1,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2569448,4375685,21
+2015,2015-07-09,12,Corinthians,Tite,6623,Athletico-PR,casa,2,0,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2569450,4375687,21
+2015,2015-07-12,13,Corinthians,Tite,6623,Flamengo,fora,3,0,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2569463,4375700,21
+2015,2015-07-18,14,Corinthians,Tite,6623,Atlético-MG,casa,1,0,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2569470,4375707,21
+2015,2015-07-26,15,Corinthians,Tite,6623,Coritiba,fora,1,1,E,1,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2569487,4375724,21
+2015,2015-07-29,16,Corinthians,Tite,6623,Vasco,casa,3,0,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2602935,4375727,21
+2015,2015-08-09,17,Corinthians,Tite,6623,São Paulo,fora,1,1,E,1,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2611074,4375737,21
+2015,2015-08-12,18,Corinthians,Tite,6623,Sport,casa,4,3,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2611086,4375747,21
+2015,2015-08-16,19,Corinthians,Tite,6623,Avaí,fora,2,1,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2611095,4375763,21
+2015,2015-08-23,20,Corinthians,Tite,6623,Cruzeiro,casa,3,0,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2611105,4375767,21
+2015,2015-08-30,21,Corinthians,Tite,6623,Chapecoense,fora,3,1,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2615455,4375786,21
+2015,2015-09-02,22,Corinthians,Tite,6623,Fluminense,casa,2,0,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2616555,4375787,21
+2015,2015-09-06,23,Corinthians,Tite,6623,Palmeiras,fora,3,3,E,1,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2619243,4375798,21
+2015,2015-09-09,24,Corinthians,Tite,6623,Grêmio,casa,1,1,E,1,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2619252,4375807,21
+2015,2015-09-13,25,Corinthians,Tite,6623,Joinville,casa,3,0,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2621582,4375817,21
+2015,2015-09-16,26,Corinthians,Tite,6623,Internacional,fora,1,2,D,0,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2621594,4375831,21
+2015,2015-09-20,27,Corinthians,Tite,6623,Santos,casa,2,0,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2626590,4375837,21
+2015,2015-09-27,28,Corinthians,Tite,6623,Figueirense,fora,3,1,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2626603,4375853,21
+2015,2015-10-04,29,Corinthians,Tite,6623,Ponte Preta,fora,2,2,E,1,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2626613,4375859,21
+2015,2015-10-15,30,Corinthians,Tite,6623,Goiás,casa,3,0,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2626624,4375867,21
+2015,2015-10-18,31,Corinthians,Tite,6623,Athletico-PR,fora,4,1,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2626632,4375884,21
+2015,2015-10-25,32,Corinthians,Tite,6623,Flamengo,casa,1,0,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2626637,4375887,21
+2015,2015-11-01,33,Corinthians,Tite,6623,Atlético-MG,fora,3,0,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2626652,4375902,21
+2015,2015-11-07,34,Corinthians,Tite,6623,Coritiba,casa,2,1,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2626657,4375907,21
+2015,2015-11-19,35,Corinthians,Tite,6623,Vasco,fora,1,1,E,1,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2626670,4375920,21
+2015,2015-11-22,36,Corinthians,Tite,6623,São Paulo,casa,6,1,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2626677,4375927,21
+2015,2015-11-29,37,Corinthians,Tite,6623,Sport,fora,0,2,D,0,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2626695,4375945,21
+2015,2015-12-06,38,Corinthians,Tite,6623,Avaí,casa,1,1,E,1,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2626697,4375947,21
+2016,2016-05-15,1,Corinthians,Tite,6623,Grêmio,casa,0,0,E,1,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2684557,4914740,21
+2016,2016-05-22,2,Corinthians,Tite,6623,Vitória,fora,2,3,D,0,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2684565,4914748,21
+2016,2016-05-26,3,Corinthians,Tite,6623,Ponte Preta,casa,3,0,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2694652,4914760,21
+2016,2016-05-29,4,Corinthians,Tite,6623,Sport,fora,2,0,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2694658,4914777,21
+2016,2016-06-01,5,Corinthians,Tite,6623,Santos,casa,1,0,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2695568,4914780,21
+2016,2016-06-04,6,Corinthians,Tite,6623,Coritiba,casa,2,1,V,3,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2695584,4914790,21
+2016,2016-06-12,7,Corinthians,Tite,6623,Palmeiras,fora,0,1,D,0,confirmado,TM+OG+CBF,Tite,tite,A. Bacchi,,,2696879,4914801,21
+2016,2016-06-16,8,Corinthians,Fábio Carille,47350,Fluminense,fora,0,1,D,0,confirmado,OG+CBF,Tite,fabio carille,F. Carille,,TM registra Tite; O Gol e CBF concordam,2698569,4914809,22
+2016,2016-06-19,9,Corinthians,Fábio Carille,47350,Botafogo,casa,3,1,V,3,confirmado,OG+CBF,,fabio carille,F. Carille,,TM sem treinador,2698576,4914820,22
+2016,2016-06-22,10,Corinthians,Cristóvão Borges,21195,Atlético-MG,fora,1,2,D,0,confirmado,TM+OG+CBF,Cristóvão Borges,cristovao borges,C. Borges dos Santos,,,2698585,4914832,23
+2016,2016-06-25,11,Corinthians,Cristóvão Borges,21195,Santa Cruz,casa,2,1,V,3,confirmado,TM+OG+CBF,Cristóvão Borges,cristovao borges,C. Borges dos Santos,,,2702132,4914840,23
+2016,2016-06-29,12,Corinthians,Cristóvão Borges,21195,América-MG,fora,2,0,V,3,confirmado,TM+OG+CBF,Cristóvão Borges,cristovao borges,C. Borges dos Santos,,,2702146,4914856,23
+2016,2016-07-03,13,Corinthians,Cristóvão Borges,21195,Flamengo,casa,4,0,V,3,confirmado,TM+OG+CBF,Cristóvão Borges,cristovao borges,C. Borges dos Santos,,,2708410,4914860,23
+2016,2016-07-09,14,Corinthians,Cristóvão Borges,21195,Chapecoense,fora,2,0,V,3,confirmado,TM+OG+CBF,Cristóvão Borges,cristovao borges,C. Borges dos Santos,,,2708414,4914875,23
+2016,2016-07-17,15,Corinthians,Cristóvão Borges,21195,São Paulo,casa,1,1,E,1,confirmado,TM+OG+CBF,Cristóvão Borges,cristovao borges,C. Borges dos Santos,,,2713337,4914880,23
+2016,2016-07-23,16,Corinthians,Cristóvão Borges,21195,Figueirense,casa,1,1,E,1,confirmado,TM+OG+CBF,Cristóvão Borges,cristovao borges,C. Borges dos Santos,,,2713351,4914889,23
+2016,2016-07-31,17,Corinthians,Cristóvão Borges,21195,Internacional,fora,1,0,V,3,confirmado,TM+OG+CBF,Cristóvão Borges,cristovao borges,C. Borges dos Santos,,,2713368,4914902,23
+2016,2016-08-03,18,Corinthians,Cristóvão Borges,21195,Athletico-PR,fora,0,2,D,0,confirmado,TM+OG+CBF,Cristóvão Borges,cristovao borges,C. Borges dos Santos,,,2713386,4914913,23
+2016,2016-08-08,19,Corinthians,Cristóvão Borges,21195,Cruzeiro,casa,1,1,E,1,confirmado,TM+OG+CBF,Cristóvão Borges,cristovao borges,C. Borges dos Santos,,,2713390,4914919,23
+2016,2016-08-14,20,Corinthians,Cristóvão Borges,21195,Grêmio,fora,0,3,D,0,confirmado,TM+OG+CBF,Cristóvão Borges,cristovao borges,C. Borges dos Santos,,,2713411,4914929,23
+2016,2016-08-22,21,Corinthians,Cristóvão Borges,21195,Vitória,casa,2,1,V,3,confirmado,TM+OG+CBF,Cristóvão Borges,cristovao borges,C. Borges dos Santos,,,2767852,4914937,23
+2016,2016-08-27,22,Corinthians,Cristóvão Borges,21195,Ponte Preta,fora,0,2,D,0,confirmado,TM+OG+CBF,Cristóvão Borges,cristovao borges,C. Borges dos Santos,,,2767853,4914949,23
+2016,2016-09-08,23,Corinthians,Cristóvão Borges,21195,Sport,casa,3,0,V,3,confirmado,OG+CBF,Alessandro,cristovao borges,C. Borges dos Santos,,TM registra Alessandro; O Gol e CBF concordam,2770077,4914966,23
+2016,2016-09-11,24,Corinthians,Cristóvão Borges,21195,Santos,fora,1,2,D,0,confirmado,TM+OG+CBF,Cristóvão Borges,cristovao borges,C. Borges dos Santos,,,2770083,4914969,23
+2016,2016-09-14,25,Corinthians,Cristóvão Borges,21195,Coritiba,fora,1,1,E,1,confirmado,TM+OG+CBF,Cristóvão Borges,cristovao borges,C. Borges dos Santos,,,2770095,4914979,23
+2016,2016-09-17,26,Corinthians,Cristóvão Borges,21195,Palmeiras,casa,0,2,D,0,confirmado,TM+OG+CBF,Cristóvão Borges,cristovao borges,C. Borges dos Santos,,,2770100,4914990,23
+2016,2016-09-25,27,Corinthians,Fábio Carille,47350,Fluminense,casa,0,1,D,0,confirmado,OG+CBF,Alessandro,fabio carille,F. Carille,,TM registra Alessandro; O Gol e CBF concordam,2770156,4914998,24
+2016,2016-10-01,28,Corinthians,Fábio Carille,47350,Botafogo,fora,0,2,D,0,confirmado,OG+CBF,Alessandro,fabio carille,F. Carille,,TM registra Alessandro; O Gol e CBF concordam,2770164,4915009,24
+2016,2016-10-05,29,Corinthians,Fábio Carille,47350,Atlético-MG,casa,0,0,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2770172,4915021,24
+2016,2016-10-12,30,Corinthians,Fábio Carille,47350,Santa Cruz,fora,4,2,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2770183,4915029,24
+2016,2016-10-16,31,Corinthians,Oswaldo de Oliveira,7573,América-MG,casa,2,0,V,3,confirmado,TM+OG+CBF,Oswaldo de Oliveira,oswaldo de oliveira,O. de Oliveira Filho,,,2770195,4915045,25
+2016,2016-10-23,32,Corinthians,Oswaldo de Oliveira,7573,Flamengo,fora,2,2,E,1,confirmado,TM+OG+CBF,Oswaldo de Oliveira,oswaldo de oliveira,O. de Oliveira Filho,,,2770202,4915049,25
+2016,2016-10-29,33,Corinthians,Oswaldo de Oliveira,7573,Chapecoense,casa,1,1,E,1,confirmado,TM+OG+CBF,Oswaldo de Oliveira,oswaldo de oliveira,O. de Oliveira Filho,,,2770213,4915064,25
+2016,2016-11-05,34,Corinthians,Oswaldo de Oliveira,7573,São Paulo,fora,0,4,D,0,confirmado,TM+OG+CBF,Oswaldo de Oliveira,oswaldo de oliveira,O. de Oliveira Filho,,,2770229,4915069,25
+2016,2016-11-16,35,Corinthians,Oswaldo de Oliveira,7573,Figueirense,fora,1,1,E,1,confirmado,TM+OG+CBF,Oswaldo de Oliveira,oswaldo de oliveira,O. de Oliveira Filho,,,2778079,4915078,25
+2016,2016-11-21,36,Corinthians,Oswaldo de Oliveira,7573,Internacional,casa,1,0,V,3,confirmado,TM+OG+CBF,Oswaldo de Oliveira,oswaldo de oliveira,O. de Oliveira Filho,,,2778095,4915091,25
+2016,2016-11-26,37,Corinthians,Oswaldo de Oliveira,7573,Athletico-PR,casa,0,0,E,1,confirmado,TM+OG+CBF,Oswaldo de Oliveira,oswaldo de oliveira,O. de Oliveira Filho,,,2798383,4915102,25
+2016,2016-12-11,38,Corinthians,Oswaldo de Oliveira,7573,Cruzeiro,fora,2,3,D,0,confirmado,TM+OG+CBF,Oswaldo de Oliveira,oswaldo de oliveira,O. de Oliveira Filho,,,2798936,4915108,25
+2017,2017-05-13,1,Corinthians,Fábio Carille,47350,Chapecoense,casa,1,1,E,1,confirmado,TM+CBF,Fábio Carille,,F. Carille,,O Gol sem registro deste jogo para o treinador,2846988,5330551,26
+2017,2017-05-21,2,Corinthians,Fábio Carille,47350,Vitória,fora,1,0,V,3,confirmado,TM+CBF,Fábio Carille,,F. Carille,,O Gol sem registro deste jogo para o treinador,2856245,5330565,26
+2017,2017-05-28,3,Corinthians,Fábio Carille,47350,Atlético-GO,fora,1,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2859548,5330576,26
+2017,2017-06-03,4,Corinthians,Fábio Carille,47350,Santos,casa,2,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2864518,5330581,26
+2017,2017-06-07,5,Corinthians,Fábio Carille,47350,Vasco,fora,5,2,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2864530,5330589,26
+2017,2017-06-11,6,Corinthians,Fábio Carille,47350,São Paulo,casa,3,2,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2864539,5330601,26
+2017,2017-06-14,7,Corinthians,Fábio Carille,47350,Cruzeiro,casa,1,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2864552,5330611,26
+2017,2017-06-18,8,Corinthians,Fábio Carille,47350,Coritiba,fora,0,0,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2865573,5330623,26
+2017,2017-06-22,9,Corinthians,Fábio Carille,47350,Bahia,casa,3,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2865588,5330631,26
+2017,2017-06-25,10,Corinthians,Fábio Carille,47350,Grêmio,fora,1,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2866364,5330644,26
+2017,2017-07-02,11,Corinthians,Fábio Carille,47350,Botafogo,casa,1,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2868180,5330651,26
+2017,2017-07-08,12,Corinthians,Fábio Carille,47350,Ponte Preta,casa,2,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2874737,5330661,26
+2017,2017-07-12,13,Corinthians,Fábio Carille,47350,Palmeiras,fora,2,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2883236,5330670,26
+2017,2017-07-15,14,Corinthians,Fábio Carille,47350,Athletico-PR,casa,2,2,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2888260,5330681,26
+2017,2017-07-19,15,Corinthians,Fábio Carille,47350,Avaí,fora,0,0,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2888282,5330697,26
+2017,2017-07-23,16,Corinthians,Fábio Carille,47350,Fluminense,fora,1,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2890476,5330698,26
+2017,2017-07-30,17,Corinthians,Fábio Carille,47350,Flamengo,casa,1,1,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2895933,5330711,26
+2017,2017-08-02,18,Corinthians,Fábio Carille,47350,Atlético-MG,fora,2,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2900514,5330722,26
+2017,2017-08-05,19,Corinthians,Fábio Carille,47350,Sport,casa,3,1,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2900522,5330731,26
+2017,2017-08-19,21,Corinthians,Fábio Carille,47350,Vitória,casa,0,1,D,0,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2900545,5330751,26
+2017,2017-08-23,20,Corinthians,Fábio Carille,47350,Chapecoense,fora,1,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2900541,5330747,26
+2017,2017-08-26,22,Corinthians,Fábio Carille,47350,Atlético-GO,casa,0,1,D,0,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2900555,5330761,26
+2017,2017-09-10,23,Corinthians,Fábio Carille,47350,Santos,fora,0,2,D,0,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2917601,5330770,26
+2017,2017-09-17,24,Corinthians,Fábio Carille,47350,Vasco,casa,1,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2922403,5330781,26
+2017,2017-09-24,25,Corinthians,Fábio Carille,47350,São Paulo,fora,1,1,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2922411,5330791,26
+2017,2017-10-01,26,Corinthians,Fábio Carille,47350,Cruzeiro,fora,1,1,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2926078,5330802,26
+2017,2017-10-11,27,Corinthians,Fábio Carille,47350,Coritiba,casa,3,1,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2926085,5330811,26
+2017,2017-10-15,28,Corinthians,Fábio Carille,47350,Bahia,fora,0,2,D,0,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2926100,5330825,26
+2017,2017-10-17,29,Corinthians,Fábio Carille,47350,Grêmio,casa,0,0,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2937778,5330831,26
+2017,2017-10-23,30,Corinthians,Fábio Carille,47350,Botafogo,fora,1,2,D,0,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2937793,5330838,26
+2017,2017-10-29,31,Corinthians,Fábio Carille,47350,Ponte Preta,fora,0,1,D,0,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2943081,5330856,26
+2017,2017-11-05,32,Corinthians,Fábio Carille,47350,Palmeiras,casa,3,2,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2943403,5330861,26
+2017,2017-11-08,33,Corinthians,Fábio Carille,47350,Athletico-PR,fora,1,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2943411,5330873,26
+2017,2017-11-11,34,Corinthians,Fábio Carille,47350,Avaí,casa,1,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2943420,5330881,26
+2017,2017-11-15,35,Corinthians,Fábio Carille,47350,Fluminense,casa,3,1,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2943431,5330891,26
+2017,2017-11-19,36,Corinthians,Fábio Carille,47350,Flamengo,fora,0,3,D,0,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2943441,5330899,26
+2017,2017-11-26,37,Corinthians,Fábio Carille,47350,Atlético-MG,casa,2,2,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2969636,5330911,26
+2017,2017-12-03,38,Corinthians,Fábio Carille,47350,Sport,fora,0,1,D,0,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,2969651,5330924,26
+2018,2018-04-15,1,Corinthians,Fábio Carille,47350,Fluminense,casa,2,1,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3011400,5953435,26
+2018,2018-04-22,2,Corinthians,Fábio Carille,47350,Paraná,fora,4,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3034134,5953438,26
+2018,2018-04-29,3,Corinthians,Fábio Carille,47350,Atlético-MG,fora,0,1,D,0,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3034144,5953447,26
+2018,2018-05-06,4,Corinthians,Fábio Carille,47350,Ceará,casa,1,1,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3036818,5953465,26
+2018,2018-05-13,5,Corinthians,Fábio Carille,47350,Palmeiras,casa,1,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3036826,5953475,26
+2018,2018-05-20,6,Corinthians,Fábio Carille,47350,Sport,fora,1,1,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3036842,5953484,26
+2018,2018-05-27,7,Corinthians,Osmar Loss,40002,Internacional,fora,1,2,D,0,confirmado,TM+OG+CBF,Osmar Loss,osmar loss,O. Loss,,,3036852,5953496,27
+2018,2018-05-31,8,Corinthians,Osmar Loss,40002,América-MG,casa,1,0,V,3,confirmado,TM+OG+CBF,Osmar Loss,osmar loss,O. Loss,,,3036863,5953505,27
+2018,2018-06-03,9,Corinthians,Osmar Loss,40002,Flamengo,fora,0,1,D,0,confirmado,TM+OG+CBF,Osmar Loss,osmar loss,O. Loss,,,3036871,5953512,27
+2018,2018-06-06,10,Corinthians,Osmar Loss,40002,Santos,casa,1,1,E,1,confirmado,TM+OG+CBF,Osmar Loss,osmar loss,O. Loss,,,3036879,5953525,27
+2018,2018-06-09,11,Corinthians,Osmar Loss,40002,Vitória,casa,0,0,E,1,confirmado,TM+OG+CBF,Osmar Loss,osmar loss,O. Loss,,,3036893,5953535,27
+2018,2018-06-13,12,Corinthians,Osmar Loss,40002,Bahia,fora,0,1,D,0,confirmado,TM+OG+CBF,Osmar Loss,osmar loss,O. Loss,,,3036898,5953540,27
+2018,2018-07-18,13,Corinthians,Osmar Loss,40002,Botafogo,casa,2,0,V,3,confirmado,TM+OG+CBF,Osmar Loss,osmar loss,O. Loss,,,3036913,5953555,27
+2018,2018-07-21,14,Corinthians,Osmar Loss,40002,São Paulo,fora,1,3,D,0,confirmado,TM+OG+CBF,Osmar Loss,osmar loss,O. Loss,,,3036921,5953563,27
+2018,2018-07-25,15,Corinthians,Osmar Loss,40002,Cruzeiro,casa,2,0,V,3,confirmado,TM+OG+CBF,Osmar Loss,osmar loss,O. Loss,,,3036933,5953575,27
+2018,2018-07-29,16,Corinthians,Osmar Loss,40002,Vasco,fora,4,1,V,3,confirmado,TM+OG+CBF,Osmar Loss,osmar loss,O. Loss,,,3036939,5953581,27
+2018,2018-08-04,17,Corinthians,Osmar Loss,40002,Athletico-PR,casa,0,0,E,1,confirmado,TM+OG+CBF,Osmar Loss,osmar loss,O. Loss,,,3036953,5953595,27
+2018,2018-08-12,18,Corinthians,Osmar Loss,40002,Chapecoense,fora,1,2,D,0,confirmado,TM+OG+CBF,Osmar Loss,osmar loss,O. Loss,,,3036957,5953599,27
+2018,2018-08-18,19,Corinthians,Osmar Loss,40002,Grêmio,casa,0,1,D,0,confirmado,TM+OG+CBF,Osmar Loss,osmar loss,O. Loss,,,3036973,5953615,27
+2018,2018-08-22,20,Corinthians,Osmar Loss,40002,Fluminense,fora,0,1,D,0,confirmado,TM+OG+CBF,Osmar Loss,osmar loss,O. Loss,,,3036979,5953621,27
+2018,2018-08-25,21,Corinthians,Osmar Loss,40002,Paraná,casa,1,0,V,3,confirmado,TM+OG+CBF,Osmar Loss,osmar loss,O. Loss,,,3036993,5953635,27
+2018,2018-09-01,22,Corinthians,Osmar Loss,40002,Atlético-MG,casa,1,1,E,1,confirmado,TM+OG+CBF,Osmar Loss,osmar loss,O. Loss,,,3037003,5953645,27
+2018,2018-09-05,23,Corinthians,Osmar Loss,40002,Ceará,fora,1,2,D,0,confirmado,TM+OG+CBF,Osmar Loss,osmar loss,O. Loss,,,3037011,5953653,27
+2018,2018-09-09,24,Corinthians,Jair Ventura,22198,Palmeiras,fora,0,1,D,0,confirmado,TM+OG+CBF,Jair Ventura,jair ventura,J. Ribeiro Ventura,,,3037023,5953665,28
+2018,2018-09-16,25,Corinthians,Jair Ventura,22198,Sport,casa,2,1,V,3,confirmado,TM+OG+CBF,Jair Ventura,jair ventura,J. Ribeiro Ventura,,,3037033,5953675,28
+2018,2018-09-23,26,Corinthians,Jair Ventura,22198,Internacional,casa,1,1,E,1,confirmado,TM+OG+CBF,Jair Ventura,jair ventura,J. Ribeiro Ventura,,,3037043,5953685,28
+2018,2018-09-29,27,Corinthians,Jair Ventura,22198,América-MG,fora,0,0,E,1,confirmado,TM+OG+CBF,Jair Ventura,jair ventura,J. Ribeiro Ventura,,,3037047,5953689,28
+2018,2018-10-05,28,Corinthians,Jair Ventura,22198,Flamengo,casa,0,3,D,0,confirmado,TM+OG+CBF,Jair Ventura,jair ventura,J. Ribeiro Ventura,,,3037063,5953705,28
+2018,2018-10-13,29,Corinthians,Jair Ventura,22198,Santos,fora,0,1,D,0,confirmado,TM+OG+CBF,Jair Ventura,jair ventura,J. Ribeiro Ventura,,,3037072,5953714,28
+2018,2018-10-21,30,Corinthians,Jair Ventura,22198,Vitória,fora,2,2,E,1,confirmado,TM+OG+CBF,Jair Ventura,jair ventura,J. Ribeiro Ventura,,,3037078,5953720,28
+2018,2018-10-27,31,Corinthians,Jair Ventura,22198,Bahia,casa,2,1,V,3,confirmado,TM+OG+CBF,Jair Ventura,jair ventura,J. Ribeiro Ventura,,,3037093,5953735,28
+2018,2018-11-04,32,Corinthians,Jair Ventura,22198,Botafogo,fora,0,1,D,0,confirmado,TM+OG+CBF,Jair Ventura,jair ventura,J. Ribeiro Ventura,,,3037100,5953742,28
+2018,2018-11-10,33,Corinthians,Jair Ventura,22198,São Paulo,casa,1,1,E,1,confirmado,TM+OG+CBF,Jair Ventura,jair ventura,J. Ribeiro Ventura,,,3037113,5953755,28
+2018,2018-11-14,34,Corinthians,Jair Ventura,22198,Cruzeiro,fora,0,1,D,0,confirmado,TM+OG+CBF,Jair Ventura,jair ventura,J. Ribeiro Ventura,,,3037115,5953757,28
+2018,2018-11-17,35,Corinthians,Jair Ventura,22198,Vasco,casa,1,0,V,3,confirmado,TM+OG+CBF,Jair Ventura,jair ventura,J. Ribeiro Ventura,,,3037133,5953775,28
+2018,2018-11-21,36,Corinthians,Jair Ventura,22198,Athletico-PR,fora,0,1,D,0,confirmado,TM+OG+CBF,Jair Ventura,jair ventura,J. Ribeiro Ventura,,,3037136,5953778,28
+2018,2018-11-25,37,Corinthians,Jair Ventura,22198,Chapecoense,casa,0,0,E,1,confirmado,TM+OG+CBF,Jair Ventura,jair ventura,J. Ribeiro Ventura,,,3037153,5953795,28
+2018,2018-12-02,38,Corinthians,Jair Ventura,22198,Grêmio,fora,0,1,D,0,confirmado,TM+OG+CBF,Jair Ventura,jair ventura,J. Ribeiro Ventura,,,3037164,5953806,28
+2019,2019-04-28,1,Corinthians,Fábio Carille,47350,Bahia,fora,2,3,D,0,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3173972,6481929,29
+2019,2019-05-01,2,Corinthians,Fábio Carille,47350,Chapecoense,casa,1,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3180854,6481934,29
+2019,2019-05-04,3,Corinthians,Fábio Carille,47350,Vasco,fora,1,1,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3180864,6481946,29
+2019,2019-05-11,4,Corinthians,Fábio Carille,47350,Grêmio,casa,0,0,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3180933,6481954,29
+2019,2019-05-19,5,Corinthians,Fábio Carille,47350,Athletico-PR,fora,2,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3180948,6481970,29
+2019,2019-05-26,6,Corinthians,Fábio Carille,47350,São Paulo,casa,1,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3180954,6481974,29
+2019,2019-06-08,8,Corinthians,Fábio Carille,47350,Cruzeiro,fora,0,0,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3181117,6481992,29
+2019,2019-06-12,9,Corinthians,Fábio Carille,47350,Santos,fora,0,1,D,0,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3181145,6482005,29
+2019,2019-07-14,10,Corinthians,Fábio Carille,47350,CSA,casa,1,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3193492,6482014,29
+2019,2019-07-21,11,Corinthians,Fábio Carille,47350,Flamengo,casa,1,1,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3193501,6482024,29
+2019,2019-07-28,12,Corinthians,Fábio Carille,47350,Fortaleza,fora,3,1,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3193515,6482033,29
+2019,2019-08-04,13,Corinthians,Fábio Carille,47350,Palmeiras,casa,1,1,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3195268,6482044,29
+2019,2019-08-07,7,Corinthians,Fábio Carille,47350,Goiás,casa,2,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3181103,6481984,29
+2019,2019-08-11,14,Corinthians,Fábio Carille,47350,Internacional,fora,0,0,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3195274,6482051,29
+2019,2019-08-17,15,Corinthians,Fábio Carille,47350,Botafogo,casa,2,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3195353,6482064,29
+2019,2019-08-25,16,Corinthians,Fábio Carille,47350,Avaí,fora,1,1,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3195433,6482078,29
+2019,2019-09-01,17,Corinthians,Fábio Carille,47350,Atlético-MG,casa,1,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3197453,6482084,29
+2019,2019-09-07,18,Corinthians,Fábio Carille,47350,Ceará,casa,2,2,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3197467,6482094,29
+2019,2019-09-15,19,Corinthians,Fábio Carille,47350,Fluminense,fora,0,1,D,0,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3197497,6482107,29
+2019,2019-09-21,20,Corinthians,Fábio Carille,47350,Bahia,casa,2,1,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3255763,6482114,29
+2019,2019-09-29,22,Corinthians,Fábio Carille,47350,Vasco,casa,1,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3260650,6482134,29
+2019,2019-10-02,21,Corinthians,Fábio Carille,47350,Chapecoense,fora,1,0,V,3,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3255780,6482128,29
+2019,2019-10-05,23,Corinthians,Fábio Carille,47350,Grêmio,fora,0,0,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3260662,6482141,29
+2019,2019-10-10,24,Corinthians,Fábio Carille,47350,Athletico-PR,casa,2,2,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3265345,6482154,29
+2019,2019-10-13,25,Corinthians,Fábio Carille,47350,São Paulo,fora,0,1,D,0,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3265355,6482165,29
+2019,2019-10-16,26,Corinthians,Fábio Carille,47350,Goiás,fora,2,2,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3265510,6482179,29
+2019,2019-10-19,27,Corinthians,Fábio Carille,47350,Cruzeiro,casa,1,2,D,0,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3265515,6482184,29
+2019,2019-10-26,28,Corinthians,Fábio Carille,47350,Santos,casa,0,0,E,1,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3268452,6482194,29
+2019,2019-10-30,29,Corinthians,Fábio Carille,47350,CSA,fora,1,2,D,0,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3268466,6859500,29
+2019,2019-11-03,30,Corinthians,Fábio Carille,47350,Flamengo,fora,1,4,D,0,confirmado,TM+OG+CBF,Fábio Carille,fabio carille,F. Carille,,,3272414,6482216,29
+2019,2019-11-06,31,Corinthians,Dyego Coelho,65199,Fortaleza,casa,3,2,V,3,confirmado,TM+OG+CBF,Dyego Coelho,dyego coelho,Coelho,,,3272420,6859504,30
+2019,2019-11-08,32,Corinthians,Dyego Coelho,65199,Palmeiras,fora,1,1,E,1,confirmado,TM+OG+CBF,Dyego Coelho,dyego coelho,Coelho,,,3273303,6482234,30
+2019,2019-11-16,33,Corinthians,Dyego Coelho,65199,Internacional,casa,0,0,E,1,confirmado,TM+OG+CBF,Dyego Coelho,dyego coelho,Coelho,,,3277735,6482244,30
+2019,2019-11-24,34,Corinthians,Dyego Coelho,65199,Botafogo,fora,0,1,D,0,confirmado,TM+OG+CBF,Dyego Coelho,dyego coelho,Coelho,,,3277743,6482257,30
+2019,2019-11-26,35,Corinthians,Dyego Coelho,65199,Avaí,casa,3,0,V,3,confirmado,TM+OG+CBF,Dyego Coelho,dyego coelho,Coelho,,,3277782,6482264,30
+2019,2019-11-30,36,Corinthians,Dyego Coelho,65199,Atlético-MG,fora,1,2,D,0,confirmado,TM+OG+CBF,Dyego Coelho,dyego coelho,Coelho,,,3277811,6482272,30
+2019,2019-12-03,37,Corinthians,Dyego Coelho,65199,Ceará,fora,1,0,V,3,confirmado,TM+OG+CBF,Dyego Coelho,dyego coelho,Coelho,,,3285719,6482283,30
+2019,2019-12-08,38,Corinthians,Dyego Coelho,65199,Fluminense,casa,1,2,D,0,confirmado,TM+OG+CBF,Dyego Coelho,dyego coelho,Coelho,,,3285730,6482294,30
+2020,2020-08-11,2,Corinthians,Tiago Nunes,58610,Atlético-MG,fora,2,3,D,0,confirmado,TM+OG+CBF,Tiago Nunes,tiago nunes,T. Retzalff Nunes,,,3411140,7362527,31
+2020,2020-08-15,3,Corinthians,Tiago Nunes,58610,Grêmio,fora,0,0,E,1,confirmado,TM+OG+CBF,Tiago Nunes,tiago nunes,T. Retzalff Nunes,,,3416078,7362538,31
+2020,2020-08-19,4,Corinthians,Tiago Nunes,58610,Coritiba,casa,3,1,V,3,confirmado,TM+OG+CBF,Tiago Nunes,tiago nunes,T. Retzalff Nunes,,,3416223,7362547,31
+2020,2020-08-26,5,Corinthians,Tiago Nunes,58610,Fortaleza,casa,1,1,E,1,confirmado,TM+OG+CBF,Tiago Nunes,tiago nunes,T. Retzalff Nunes,,,3416100,7362557,31
+2020,2020-08-30,6,Corinthians,Tiago Nunes,58610,São Paulo,fora,1,2,D,0,confirmado,TM+OG+CBF,Tiago Nunes,tiago nunes,T. Retzalff Nunes,,,3416113,7362565,31
+2020,2020-09-02,7,Corinthians,Tiago Nunes,58610,Goiás,fora,2,1,V,3,confirmado,TM+OG+CBF,Tiago Nunes,tiago nunes,T. Retzalff Nunes,,,3416120,7362582,31
+2020,2020-09-05,8,Corinthians,Tiago Nunes,58610,Botafogo,casa,2,2,E,1,confirmado,TM+OG+CBF,Tiago Nunes,tiago nunes,T. Retzalff Nunes,,,3416130,7362587,31
+2020,2020-09-10,9,Corinthians,Tiago Nunes,58610,Palmeiras,casa,0,2,D,0,confirmado,TM+OG+CBF,Tiago Nunes,tiago nunes,T. Retzalff Nunes,,,3416169,7362597,31
+2020,2020-09-13,10,Corinthians,Dyego Coelho,65199,Fluminense,fora,1,2,D,0,confirmado,TM+OG+CBF,Dyego Coelho,dyego coelho,Coelho,,,3416239,7362603,32
+2020,2020-09-16,11,Corinthians,Dyego Coelho,65199,Bahia,casa,3,2,V,3,confirmado,TM+OG+CBF,Dyego Coelho,dyego coelho,Coelho,,,3417535,7362617,32
+2020,2020-09-23,12,Corinthians,Dyego Coelho,65199,Sport,fora,0,1,D,0,confirmado,TM+OG+CBF,Dyego Coelho,dyego coelho,Coelho,,,3417551,7362629,32
+2020,2020-09-30,1,Corinthians,Dyego Coelho,65199,Atlético-GO,casa,0,0,E,1,confirmado,TM+OG+CBF,Dyego Coelho,dyego coelho,Coelho,,,3417542,7362517,32
+2020,2020-10-03,13,Corinthians,Dyego Coelho,65199,Bragantino,fora,0,0,E,1,confirmado,TM+OG+CBF,Dyego Coelho,dyego coelho,Coelho,,,3417558,7362636,32
+2020,2020-10-07,14,Corinthians,Dyego Coelho,65199,Santos,casa,1,1,E,1,confirmado,TM+OG+CBF,Dyego Coelho,dyego coelho,Coelho,,,3417569,7362647,32
+2020,2020-10-11,15,Corinthians,Dyego Coelho,65199,Ceará,fora,1,2,D,0,confirmado,TM+OG+CBF,Dyego Coelho,dyego coelho,Coelho,,,3417583,7362661,32
+2020,2020-10-14,16,Corinthians,Vagner Mancini,5667,Athletico-PR,fora,1,0,V,3,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3417592,7362670,33
+2020,2020-10-18,17,Corinthians,Vagner Mancini,5667,Flamengo,casa,1,5,D,0,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3417599,7362677,33
+2020,2020-10-21,18,Corinthians,Vagner Mancini,5667,Vasco,fora,2,1,V,3,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3417606,7362684,33
+2020,2020-10-31,19,Corinthians,Vagner Mancini,5667,Internacional,casa,1,0,V,3,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3417619,7362697,33
+2020,2020-11-07,20,Corinthians,Vagner Mancini,5667,Atlético-GO,fora,1,1,E,1,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3417629,7362707,33
+2020,2020-11-14,21,Corinthians,Vagner Mancini,5667,Atlético-MG,casa,1,2,D,0,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3417639,7362717,33
+2020,2020-11-22,22,Corinthians,Vagner Mancini,5667,Grêmio,casa,0,0,E,1,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3417661,7362728,33
+2020,2020-11-25,23,Corinthians,Vagner Mancini,5667,Coritiba,fora,1,0,V,3,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3417668,7362737,33
+2020,2020-12-02,24,Corinthians,Vagner Mancini,5667,Fortaleza,fora,0,0,E,1,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3417649,7362747,33
+2020,2020-12-13,25,Corinthians,Vagner Mancini,5667,São Paulo,casa,1,0,V,3,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3417677,7362755,33
+2020,2020-12-21,26,Corinthians,Vagner Mancini,5667,Goiás,casa,2,1,V,3,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3417704,7362772,33
+2020,2020-12-27,27,Corinthians,Vagner Mancini,5667,Botafogo,fora,2,0,V,3,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3417690,7362777,33
+2020,2021-01-13,29,Corinthians,Vagner Mancini,5667,Fluminense,casa,5,0,V,3,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3417515,7362793,33
+2020,2021-01-18,28,Corinthians,Vagner Mancini,5667,Palmeiras,fora,0,4,D,0,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3417503,7362787,33
+2020,2021-01-21,31,Corinthians,Vagner Mancini,5667,Sport,casa,3,0,V,3,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3417709,7362819,33
+2020,2021-01-25,32,Corinthians,Vagner Mancini,5667,Bragantino,casa,0,2,D,0,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3417808,7362826,33
+2020,2021-01-28,30,Corinthians,Vagner Mancini,5667,Bahia,fora,1,2,D,0,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3417527,7362807,33
+2020,2021-02-03,34,Corinthians,Vagner Mancini,5667,Ceará,casa,2,1,V,3,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3418080,7362851,33
+2020,2021-02-10,35,Corinthians,Vagner Mancini,5667,Athletico-PR,casa,3,3,E,1,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3418090,7362860,33
+2020,2021-02-14,36,Corinthians,Vagner Mancini,5667,Flamengo,fora,1,2,D,0,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3418096,7362867,33
+2020,2021-02-17,33,Corinthians,Vagner Mancini,5667,Santos,fora,0,1,D,0,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3418069,7362837,33
+2020,2021-02-21,37,Corinthians,Vagner Mancini,5667,Vasco,casa,0,0,E,1,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3418110,7362874,33
+2020,2021-02-25,38,Corinthians,Vagner Mancini,5667,Internacional,fora,0,0,E,1,confirmado,TM+OG+CBF,Vagner Mancini,vagner mancini,V. Carmo Mancini,,,3418121,7362887,33
+2021,2021-05-30,1,Corinthians,Sylvinho,24104,Atlético-GO,casa,0,1,D,0,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3546469,7969769,34
+2021,2021-06-06,2,Corinthians,Sylvinho,24104,América-MG,fora,1,0,V,3,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3546474,7969781,34
+2021,2021-06-12,3,Corinthians,Sylvinho,24104,Palmeiras,fora,1,1,E,1,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3571593,7969789,34
+2021,2021-06-16,4,Corinthians,Sylvinho,24104,Bragantino,casa,1,2,D,0,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3572011,7969799,34
+2021,2021-06-20,5,Corinthians,Sylvinho,24104,Bahia,fora,0,0,E,1,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3572023,7969814,34
+2021,2021-06-24,6,Corinthians,Sylvinho,24104,Sport,casa,2,1,V,3,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3580701,7969819,34
+2021,2021-06-27,7,Corinthians,Sylvinho,24104,Fluminense,fora,1,1,E,1,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3580708,7969828,34
+2021,2021-06-30,8,Corinthians,Sylvinho,24104,São Paulo,casa,0,0,E,1,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3580721,7969839,34
+2021,2021-07-03,9,Corinthians,Sylvinho,24104,Internacional,casa,1,1,E,1,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3583800,7969849,34
+2021,2021-07-08,10,Corinthians,Sylvinho,24104,Chapecoense,fora,1,0,V,3,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3583817,7969866,34
+2021,2021-07-11,11,Corinthians,Sylvinho,24104,Fortaleza,fora,0,1,D,0,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3583824,7969873,34
+2021,2021-07-17,12,Corinthians,Sylvinho,24104,Atlético-MG,casa,1,2,D,0,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3583830,7969879,34
+2021,2021-07-26,13,Corinthians,Sylvinho,24104,Cuiabá,fora,2,1,V,3,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3583848,7969897,34
+2021,2021-08-01,14,Corinthians,Sylvinho,24104,Flamengo,casa,1,3,D,0,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3583870,7969899,34
+2021,2021-08-08,15,Corinthians,Sylvinho,24104,Santos,fora,0,0,E,1,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3583861,7969910,34
+2021,2021-08-15,16,Corinthians,Sylvinho,24104,Ceará,casa,3,1,V,3,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3583850,7969919,34
+2021,2021-08-22,17,Corinthians,Sylvinho,24104,Athletico-PR,fora,1,0,V,3,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3583886,7969935,34
+2021,2021-08-28,18,Corinthians,Sylvinho,24104,Grêmio,fora,1,0,V,3,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3583893,7969942,34
+2021,2021-09-07,19,Corinthians,Sylvinho,24104,Juventude,casa,1,1,E,1,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3583900,7969949,34
+2021,2021-09-12,20,Corinthians,Sylvinho,24104,Atlético-GO,fora,1,1,E,1,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3583938,7969967,34
+2021,2021-09-19,21,Corinthians,Sylvinho,24104,América-MG,casa,1,1,E,1,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3583920,7969969,34
+2021,2021-09-25,22,Corinthians,Sylvinho,24104,Palmeiras,casa,2,1,V,3,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3583910,7969979,34
+2021,2021-10-02,23,Corinthians,Sylvinho,24104,Bragantino,fora,2,2,E,1,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3583946,7969995,34
+2021,2021-10-05,24,Corinthians,Sylvinho,24104,Bahia,casa,3,1,V,3,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3583950,7969999,34
+2021,2021-10-09,25,Corinthians,Sylvinho,24104,Sport,fora,0,1,D,0,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3583965,7970014,34
+2021,2021-10-13,26,Corinthians,Sylvinho,24104,Fluminense,casa,1,0,V,3,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3583990,7970019,34
+2021,2021-10-18,27,Corinthians,Sylvinho,24104,São Paulo,fora,0,1,D,0,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3583981,7970030,34
+2021,2021-10-24,28,Corinthians,Sylvinho,24104,Internacional,fora,2,2,E,1,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3583973,7970042,34
+2021,2021-11-01,29,Corinthians,Sylvinho,24104,Chapecoense,casa,1,0,V,3,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3584000,7970049,34
+2021,2021-11-06,30,Corinthians,Sylvinho,24104,Fortaleza,casa,1,0,V,3,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3584010,7970059,34
+2021,2021-11-10,31,Corinthians,Sylvinho,24104,Atlético-MG,fora,0,3,D,0,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3584022,7970071,34
+2021,2021-11-13,32,Corinthians,Sylvinho,24104,Cuiabá,casa,3,2,V,3,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3584050,7970079,34
+2021,2021-11-17,33,Corinthians,Sylvinho,24104,Flamengo,fora,0,1,D,0,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3584039,7970088,34
+2021,2021-11-21,34,Corinthians,Sylvinho,24104,Santos,casa,2,0,V,3,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3584030,7970099,34
+2021,2021-11-25,35,Corinthians,Sylvinho,24104,Ceará,fora,1,2,D,0,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3584064,7970113,34
+2021,2021-11-28,36,Corinthians,Sylvinho,24104,Athletico-PR,casa,1,0,V,3,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3584070,7970119,34
+2021,2021-12-05,37,Corinthians,Sylvinho,24104,Grêmio,casa,1,1,E,1,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3584080,7970129,34
+2021,2021-12-09,38,Corinthians,Sylvinho,24104,Juventude,fora,0,1,D,0,confirmado,TM+OG+CBF,Sylvinho,sylvinho,S. Campos Junior,,,3584097,7970146,34
+2022,2022-04-10,1,Corinthians,Vítor Pereira,7571,Botafogo,fora,3,1,V,3,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3767776,8522057,35
+2022,2022-04-16,2,Corinthians,Vítor Pereira,7571,Avaí,casa,3,0,V,3,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3767785,8522066,35
+2022,2022-04-23,3,Corinthians,Vítor Pereira,7571,Palmeiras,fora,0,3,D,0,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3767795,8522076,35
+2022,2022-05-01,4,Corinthians,Vítor Pereira,7571,Fortaleza,casa,1,0,V,3,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3767825,8522086,35
+2022,2022-05-08,5,Corinthians,Vítor Pereira,7571,Bragantino,fora,1,0,V,3,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3767814,8522095,35
+2022,2022-05-14,6,Corinthians,Vítor Pereira,7571,Internacional,fora,2,2,E,1,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3767807,8522108,35
+2022,2022-05-22,7,Corinthians,Vítor Pereira,7571,São Paulo,casa,1,1,E,1,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3767835,8522116,35
+2022,2022-05-29,8,Corinthians,Vítor Pereira,7571,América-MG,casa,1,1,E,1,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3767845,8522126,35
+2022,2022-06-04,9,Corinthians,Vítor Pereira,7571,Atlético-GO,fora,1,0,V,3,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3767859,8522140,35
+2022,2022-06-07,10,Corinthians,Vítor Pereira,7571,Cuiabá,fora,0,1,D,0,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3767890,8522151,35
+2022,2022-06-11,11,Corinthians,Vítor Pereira,7571,Juventude,casa,2,0,V,3,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3767875,8522156,35
+2022,2022-06-15,12,Corinthians,Vítor Pereira,7571,Athletico-PR,fora,1,1,E,1,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3767871,8522172,35
+2022,2022-06-18,13,Corinthians,Vítor Pereira,7571,Goiás,casa,1,0,V,3,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3767895,8522176,35
+2022,2022-06-25,14,Corinthians,Vítor Pereira,7571,Santos,casa,0,0,E,1,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3767905,8522186,35
+2022,2022-07-02,15,Corinthians,Vítor Pereira,7571,Fluminense,fora,0,4,D,0,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3767913,8522194,35
+2022,2022-07-10,16,Corinthians,Vítor Pereira,7571,Flamengo,casa,1,0,V,3,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3768145,8522206,35
+2022,2022-07-16,17,Corinthians,Vítor Pereira,7571,Ceará,fora,1,3,D,0,confirmado,TM+CBF,Vítor Pereira,,F. J. Monteiro Almeida,,treinador não localizado no O Gol,3768138,8522219,35
+2022,2022-07-20,18,Corinthians,Vítor Pereira,7571,Coritiba,casa,3,1,V,3,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3768125,8522226,35
+2022,2022-07-24,19,Corinthians,Vítor Pereira,7571,Atlético-MG,fora,2,1,V,3,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3768112,8522233,35
+2022,2022-07-30,20,Corinthians,Vítor Pereira,7571,Botafogo,casa,1,0,V,3,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3768105,8522246,35
+2022,2022-08-06,21,Corinthians,Vítor Pereira,7571,Avaí,fora,1,1,E,1,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3768100,8522261,35
+2022,2022-08-13,22,Corinthians,Vítor Pereira,7571,Palmeiras,casa,0,1,D,0,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3768085,8522266,35
+2022,2022-08-21,23,Corinthians,Vítor Pereira,7571,Fortaleza,fora,0,1,D,0,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3768078,8522279,35
+2022,2022-08-29,24,Corinthians,Vítor Pereira,7571,Bragantino,casa,1,0,V,3,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3768065,8522286,35
+2022,2022-09-04,25,Corinthians,Vítor Pereira,7571,Internacional,casa,2,2,E,1,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3768055,8522296,35
+2022,2022-09-11,26,Corinthians,Vítor Pereira,7571,São Paulo,fora,1,1,E,1,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3768044,8522305,35
+2022,2022-09-18,27,Corinthians,Vítor Pereira,7571,América-MG,fora,0,1,D,0,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3768032,8522313,35
+2022,2022-09-28,28,Corinthians,Vítor Pereira,7571,Atlético-GO,casa,2,1,V,3,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3768005,8522326,35
+2022,2022-10-01,29,Corinthians,Vítor Pereira,7571,Cuiabá,casa,2,0,V,3,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3768015,8522336,35
+2022,2022-10-04,30,Corinthians,Vítor Pereira,7571,Juventude,fora,2,2,E,1,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3768027,8522348,35
+2022,2022-10-08,31,Corinthians,Vítor Pereira,7571,Athletico-PR,casa,2,1,V,3,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3767995,8522356,35
+2022,2022-10-22,33,Corinthians,Vítor Pereira,7571,Santos,fora,1,0,V,3,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3767976,8522377,35
+2022,2022-10-26,34,Corinthians,Vítor Pereira,7571,Fluminense,casa,0,2,D,0,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3767945,8522386,35
+2022,2022-10-29,32,Corinthians,Vítor Pereira,7571,Goiás,fora,0,0,E,1,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3767989,8522370,35
+2022,2022-11-02,35,Corinthians,Vítor Pereira,7571,Flamengo,fora,2,1,V,3,confirmado,TM+CBF,Vítor Pereira,,F. J. Monteiro Almeida,,treinador não localizado no O Gol,3767953,8522394,35
+2022,2022-11-05,36,Corinthians,Vítor Pereira,7571,Ceará,casa,1,0,V,3,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3767965,8522406,35
+2022,2022-11-09,37,Corinthians,Vítor Pereira,7571,Coritiba,fora,2,2,E,1,confirmado,TM+CBF,Vítor Pereira,,V. de Oliveira Lopes Pereira,,treinador não localizado no O Gol,3767941,8522422,35
+2022,2022-11-13,38,Corinthians,Vítor Pereira,7571,Atlético-MG,casa,0,1,D,0,confirmado,TM+CBF,Vítor Pereira,,F. J. Monteiro Almeida,,treinador não localizado no O Gol,3767925,8522426,35
+2023,2023-04-16,1,Corinthians,Fernando Lázaro,92611,Cruzeiro,casa,2,1,V,3,confirmado,TM+OG+CBF,Fernando Lázaro,fernando lazaro,F. Lázaro Rodrigues Alves,,,4055822,9267330,36
+2023,2023-04-23,2,Corinthians,Cuca,4732,Goiás,fora,1,3,D,0,confirmado,TM+OG+CBF,Cuca,cuca,A. Stival,,,4059111,9267341,37
+2023,2023-04-29,3,Corinthians,Danilo,88566,Palmeiras,fora,1,2,D,0,confirmado,TM+CBF,Danilo,,Danilo,,treinador não localizado no O Gol,4060064,9267349,38
+2023,2023-05-08,4,Corinthians,Vanderlei Luxemburgo,1976,Fortaleza,casa,1,1,E,1,confirmado,TM+OG+CBF,Vanderlei Luxemburgo,vanderlei luxemburgo,V. Luxemburgo da Silva,,,4061496,9267360,39
+2023,2023-05-11,5,Corinthians,Vanderlei Luxemburgo,1976,Botafogo,fora,0,3,D,0,confirmado,TM+OG+CBF,Vanderlei Luxemburgo,vanderlei luxemburgo,V. Luxemburgo da Silva,,,4061434,9267368,39
+2023,2023-05-14,6,Corinthians,Vanderlei Luxemburgo,1976,São Paulo,casa,1,1,E,1,confirmado,TM+OG+CBF,Vanderlei Luxemburgo,vanderlei luxemburgo,V. Luxemburgo da Silva,,,4061516,9267380,39
+2023,2023-05-21,7,Corinthians,Vanderlei Luxemburgo,1976,Flamengo,fora,0,1,D,0,confirmado,TM+OG+CBF,Vanderlei Luxemburgo,vanderlei luxemburgo,V. Luxemburgo da Silva,,,4061403,9267387,39
+2023,2023-05-28,8,Corinthians,Vanderlei Luxemburgo,1976,Fluminense,casa,2,0,V,3,confirmado,TM+OG+CBF,Vanderlei Luxemburgo,vanderlei luxemburgo,V. Luxemburgo da Silva,,,4061446,9267400,39
+2023,2023-06-03,9,Corinthians,Vanderlei Luxemburgo,1976,América-MG,fora,0,2,D,0,confirmado,TM+OG+CBF,Vanderlei Luxemburgo,vanderlei luxemburgo,V. Luxemburgo da Silva,,,4061422,9267416,39
+2023,2023-06-10,10,Corinthians,Vanderlei Luxemburgo,1976,Cuiabá,casa,1,1,E,1,confirmado,TM+OG+CBF,Vanderlei Luxemburgo,vanderlei luxemburgo,V. Luxemburgo da Silva,,,4061526,9267420,39
+2023,2023-06-21,11,Corinthians,Vanderlei Luxemburgo,1976,Santos,fora,2,0,V,3,confirmado,TM+OG+CBF,Vanderlei Luxemburgo,vanderlei luxemburgo,V. Luxemburgo da Silva,,,4061466,9267430,39
+2023,2023-06-24,12,Corinthians,Vanderlei Luxemburgo,1976,Athletico-PR,fora,0,1,D,0,confirmado,TM+OG+CBF,Vanderlei Luxemburgo,vanderlei luxemburgo,V. Luxemburgo da Silva,,,4061510,9267444,39
+2023,2023-07-02,13,Corinthians,Vanderlei Luxemburgo,1976,Bragantino,casa,0,1,D,0,confirmado,TM+OG+CBF,Vanderlei Luxemburgo,vanderlei luxemburgo,V. Luxemburgo da Silva,,,4061556,9267450,39
+2023,2023-07-08,14,Corinthians,Vanderlei Luxemburgo,1976,Atlético-MG,fora,1,0,V,3,confirmado,TM+OG+CBF,Vanderlei Luxemburgo,vanderlei luxemburgo,V. Luxemburgo da Silva,,,4061298,9267462,39
+2023,2023-07-22,16,Corinthians,Vanderlei Luxemburgo,1976,Bahia,fora,0,0,E,1,confirmado,TM+OG+CBF,Vanderlei Luxemburgo,vanderlei luxemburgo,V. Luxemburgo da Silva,,,4061551,9267485,39
+2023,2023-07-29,17,Corinthians,Vanderlei Luxemburgo,1976,Vasco,casa,3,1,V,3,confirmado,TM+OG+CBF,Vanderlei Luxemburgo,vanderlei luxemburgo,V. Luxemburgo da Silva,,,4061540,9267490,39
+2023,2023-08-05,18,Corinthians,Vanderlei Luxemburgo,1976,Internacional,fora,2,2,E,1,confirmado,TM+OG+CBF,Vanderlei Luxemburgo,vanderlei luxemburgo,V. Luxemburgo da Silva,,,4061279,9267503,39
+2023,2023-08-13,19,Corinthians,Vanderlei Luxemburgo,1976,Coritiba,casa,3,1,V,3,confirmado,TM+OG+CBF,Vanderlei Luxemburgo,vanderlei luxemburgo,V. Luxemburgo da Silva,,,4061396,9267510,39
+2023,2023-08-19,20,Corinthians,Vanderlei Luxemburgo,1976,Cruzeiro,fora,1,1,E,1,confirmado,TM+OG+CBF,Vanderlei Luxemburgo,vanderlei luxemburgo,V. Luxemburgo da Silva,,,4061248,9267522,39
+2023,2023-08-26,21,Corinthians,Vanderlei Luxemburgo,1976,Goiás,casa,1,1,E,1,confirmado,TM+OG+CBF,Vanderlei Luxemburgo,vanderlei luxemburgo,V. Luxemburgo da Silva,,,4061386,9267530,39
+2023,2023-09-03,22,Corinthians,Vanderlei Luxemburgo,1976,Palmeiras,casa,0,0,E,1,confirmado,TM+OG+CBF,Vanderlei Luxemburgo,vanderlei luxemburgo,V. Luxemburgo da Silva,,,4061286,9267540,39
+2023,2023-09-14,23,Corinthians,Vanderlei Luxemburgo,1976,Fortaleza,fora,1,2,D,0,confirmado,TM+OG+CBF,Vanderlei Luxemburgo,vanderlei luxemburgo,V. Luxemburgo da Silva,,,4061221,9267555,39
+2023,2023-09-18,15,Corinthians,Vanderlei Luxemburgo,1976,Grêmio,casa,4,4,E,1,confirmado,TM+OG+CBF,Vanderlei Luxemburgo,vanderlei luxemburgo,V. Luxemburgo da Silva,,,4061426,9267470,39
+2023,2023-09-22,24,Corinthians,Vanderlei Luxemburgo,1976,Botafogo,casa,1,0,V,3,confirmado,TM+OG+CBF,Vanderlei Luxemburgo,vanderlei luxemburgo,V. Luxemburgo da Silva,,,4061256,9267560,39
+2023,2023-09-30,25,Corinthians,Mano Menezes,4734,São Paulo,fora,1,2,D,0,confirmado,TM+CBF,Mano Menezes,,S. Lobo,,O Gol sem registro deste jogo para o treinador,4061375,9267568,40
+2023,2023-10-07,26,Corinthians,Mano Menezes,4734,Flamengo,casa,1,1,E,1,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,4061266,9267579,40
+2023,2023-10-19,27,Corinthians,Mano Menezes,4734,Fluminense,fora,3,3,E,1,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,4061343,9267586,40
+2023,2023-10-22,28,Corinthians,Mano Menezes,4734,América-MG,casa,1,1,E,1,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,4061326,9267599,40
+2023,2023-10-25,29,Corinthians,Mano Menezes,4734,Cuiabá,fora,1,0,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,4061462,9267615,40
+2023,2023-10-29,30,Corinthians,Mano Menezes,4734,Santos,casa,1,1,E,1,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,4061316,9267619,40
+2023,2023-11-01,31,Corinthians,Mano Menezes,4734,Athletico-PR,casa,1,0,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,4061236,9267629,40
+2023,2023-11-05,32,Corinthians,Mano Menezes,4734,Bragantino,fora,0,1,D,0,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,4061227,9267640,40
+2023,2023-11-09,33,Corinthians,Mano Menezes,4734,Atlético-MG,casa,1,1,E,1,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,4061336,9267649,40
+2023,2023-11-12,34,Corinthians,Mano Menezes,4734,Grêmio,fora,1,0,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,4061309,9267662,40
+2023,2023-11-24,35,Corinthians,Mano Menezes,4734,Bahia,casa,1,5,D,0,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,4061356,9267669,40
+2023,2023-11-28,36,Corinthians,Mano Menezes,4734,Vasco,fora,4,2,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,4061364,9267677,40
+2023,2023-12-02,37,Corinthians,Mano Menezes,4734,Internacional,casa,1,2,D,0,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,4061476,9267689,40
+2023,2023-12-06,38,Corinthians,Mano Menezes,4734,Coritiba,fora,2,0,V,3,confirmado,TM+OG+CBF,Mano Menezes,mano menezes,L. Venker de Menezes,,,4061490,9267703,40
+2024,2024-04-14,1,Corinthians,António Oliveira,52873,Atlético-MG,casa,0,0,E,1,confirmado,TM+OG+CBF,António Oliveira,António Oliveira,A. Cardoso de Oliveira,,,4316192,9985676,41
+2024,2024-04-17,2,Corinthians,António Oliveira,52873,Juventude,fora,0,2,D,0,confirmado,TM+OG,António Oliveira,António Oliveira,B. Lazaroni,,CBF registra 'B. Lazaroni',4316266,9985690,41
+2024,2024-04-20,3,Corinthians,António Oliveira,52873,Bragantino,fora,0,1,D,0,confirmado,TM+OG+CBF,António Oliveira,António Oliveira,A. Cardoso de Oliveira,,,4316233,9985697,41
+2024,2024-04-28,4,Corinthians,António Oliveira,52873,Fluminense,casa,3,0,V,3,confirmado,TM+OG+CBF,António Oliveira,António Oliveira,A. Cardoso de Oliveira,,,4316272,9985706,41
+2024,2024-05-04,5,Corinthians,António Oliveira,52873,Fortaleza,casa,0,0,E,1,confirmado,TM+OG+CBF,António Oliveira,António Oliveira,A. Cardoso de Oliveira,,,4316292,9985716,41
+2024,2024-05-11,6,Corinthians,António Oliveira,52873,Flamengo,fora,0,2,D,0,confirmado,TM+OG+CBF,António Oliveira,António Oliveira,A. Cardoso de Oliveira,,,4316310,9985724,41
+2024,2024-06-01,7,Corinthians,António Oliveira,52873,Botafogo,casa,0,1,D,0,confirmado,TM+OG+CBF,António Oliveira,António Oliveira,A. Cardoso de Oliveira,,,4316282,9985736,41
+2024,2024-06-11,8,Corinthians,António Oliveira,52873,Atlético-GO,fora,2,2,E,1,confirmado,TM+OG+CBF,António Oliveira,António Oliveira,A. Cardoso de Oliveira,,,4316335,9985749,41
+2024,2024-06-16,9,Corinthians,António Oliveira,52873,São Paulo,casa,2,2,E,1,confirmado,TM+OG+CBF,António Oliveira,António Oliveira,A. Cardoso de Oliveira,,,4316202,9985756,41
+2024,2024-06-19,10,Corinthians,António Oliveira,52873,Internacional,fora,0,1,D,0,confirmado,TM+OG+CBF,António Oliveira,António Oliveira,A. Cardoso de Oliveira,,,4316237,9985761,41
+2024,2024-06-23,11,Corinthians,António Oliveira,52873,Athletico-PR,fora,1,1,E,1,confirmado,TM+OG+CBF,António Oliveira,António Oliveira,A. Cardoso de Oliveira,,,4316304,9985778,41
+2024,2024-06-26,12,Corinthians,António Oliveira,52873,Cuiabá,casa,1,1,E,1,confirmado,TM+OG+CBF,António Oliveira,António Oliveira,A. Cardoso de Oliveira,,,4316342,9985786,41
+2024,2024-07-01,13,Corinthians,António Oliveira,52873,Palmeiras,fora,0,2,D,0,confirmado,TM+OG+CBF,António Oliveira,António Oliveira,A. Cardoso de Oliveira,,,4316212,9985796,41
+2024,2024-07-04,14,Corinthians,Raphael Laruccia,111787,Vitória,casa,3,2,V,3,confirmado,TM+OG+CBF,Raphael Laruccia,raphael laruccia,R. Laruccia,,,4316352,9985806,42
+2024,2024-07-07,15,Corinthians,Raphael Laruccia,111787,Cruzeiro,fora,0,3,D,0,confirmado,TM+OG+CBF,Raphael Laruccia,raphael laruccia,R. Laruccia,,,4316318,9985812,42
+2024,2024-07-10,16,Corinthians,Raphael Laruccia,111787,Vasco,fora,0,2,D,0,confirmado,TM+OG+CBF,Raphael Laruccia,raphael laruccia,R. Laruccia,,,4316461,9985825,42
+2024,2024-07-16,17,Corinthians,Ramón Díaz,4778,Criciúma,casa,2,1,V,3,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316392,9985836,43
+2024,2024-07-21,18,Corinthians,Ramón Díaz,4778,Bahia,fora,1,0,V,3,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316539,9985843,43
+2024,2024-07-25,19,Corinthians,Ramón Díaz,4778,Grêmio,casa,2,2,E,1,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316382,9985856,43
+2024,2024-07-28,20,Corinthians,Ramón Díaz,4778,Atlético-MG,fora,1,2,D,0,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316498,9985862,43
+2024,2024-08-04,21,Corinthians,Ramón Díaz,4778,Juventude,casa,1,1,E,1,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316362,9985876,43
+2024,2024-08-10,22,Corinthians,Ramón Díaz,4778,Bragantino,casa,1,1,E,1,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316422,9985886,43
+2024,2024-08-17,23,Corinthians,Ramón Díaz,4778,Fluminense,fora,0,0,E,1,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316430,9985894,43
+2024,2024-08-25,24,Corinthians,Ramón Díaz,4778,Fortaleza,fora,0,1,D,0,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316444,9985908,43
+2024,2024-09-01,25,Corinthians,Ramón Díaz,4778,Flamengo,casa,2,1,V,3,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316532,9985916,43
+2024,2024-09-14,26,Corinthians,Ramón Díaz,4778,Botafogo,fora,1,2,D,0,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316411,9985925,43
+2024,2024-09-21,27,Corinthians,Ramón Díaz,4778,Atlético-GO,casa,3,0,V,3,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316512,9985936,43
+2024,2024-09-29,28,Corinthians,Ramón Díaz,4778,São Paulo,fora,1,3,D,0,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316253,9985947,43
+2024,2024-10-05,29,Corinthians,Ramón Díaz,4778,Internacional,casa,2,2,E,1,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316452,9985956,43
+2024,2024-10-17,30,Corinthians,Ramón Díaz,4778,Athletico-PR,casa,5,2,V,3,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316522,9985966,43
+2024,2024-10-28,31,Corinthians,Ramón Díaz,4778,Cuiabá,fora,1,0,V,3,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316485,9985979,43
+2024,2024-11-04,32,Corinthians,Ramón Díaz,4778,Palmeiras,casa,2,0,V,3,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316372,9985986,43
+2024,2024-11-09,33,Corinthians,Ramón Díaz,4778,Vitória,fora,2,1,V,3,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316469,9985993,43
+2024,2024-11-20,34,Corinthians,Ramón Díaz,4778,Cruzeiro,casa,2,1,V,3,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316552,9986006,43
+2024,2024-11-24,35,Corinthians,Ramón Díaz,4778,Vasco,casa,3,1,V,3,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316222,9986016,43
+2024,2024-11-30,36,Corinthians,Ramón Díaz,4778,Criciúma,fora,4,2,V,3,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316496,9986030,43
+2024,2024-12-03,37,Corinthians,Ramón Díaz,4778,Bahia,casa,3,0,V,3,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316562,9986036,43
+2024,2024-12-08,38,Corinthians,Ramón Díaz,4778,Grêmio,fora,3,0,V,3,confirmado,TM+OG+CBF,Ramón Díaz,ramon diaz,R. Díaz,,,4316397,9986041,43
+2025,2025-03-30,1,Corinthians,Ramón Díaz,4778,Bahia,fora,1,1,E,1,confirmado,TM+OG,Ramón Díaz,ramon diaz,,,,4582067,10779839,43
+2025,2025-04-05,2,Corinthians,Ramón Díaz,4778,Vasco,casa,3,0,V,3,confirmado,TM+OG,Ramón Díaz,ramon diaz,,,,4582132,10779844,43
+2025,2025-04-12,3,Corinthians,Ramón Díaz,4778,Palmeiras,fora,0,2,D,0,confirmado,TM+OG,Ramón Díaz,ramon diaz,,,,4582032,10779854,43
+2025,2025-04-16,4,Corinthians,Ramón Díaz,4778,Fluminense,casa,0,2,D,0,confirmado,TM+OG,Ramón Díaz,ramon diaz,,,,4582082,10779864,43
+2025,2025-04-19,5,Corinthians,Orlando Ribeiro,108199,Sport,casa,2,1,V,3,confirmado,TM+OG,Orlando Ribeiro,orlando ribeiro,,,,4582142,10779874,44
+2025,2025-04-27,6,Corinthians,Orlando Ribeiro,108199,Flamengo,fora,0,4,D,0,confirmado,TM+OG,Orlando Ribeiro,orlando ribeiro,,,,4582160,10779882,44
+2025,2025-05-03,7,Corinthians,Dorival Júnior,4724,Internacional,casa,4,2,V,3,provável,TM,Dorival Júnior,,,,O Gol sem registro deste jogo para o treinador,4582092,10779894,45
+2025,2025-05-10,8,Corinthians,Dorival Júnior,4724,Mirassol,fora,1,2,D,0,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582054,10779906,45
+2025,2025-05-18,9,Corinthians,Dorival Júnior,4724,Santos,casa,1,0,V,3,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582072,10779914,45
+2025,2025-05-24,10,Corinthians,Dorival Júnior,4724,Atlético-MG,fora,0,0,E,1,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582185,10779927,45
+2025,2025-06-01,11,Corinthians,Dorival Júnior,4724,Vitória,casa,0,0,E,1,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582152,10779934,45
+2025,2025-06-12,12,Corinthians,Dorival Júnior,4724,Grêmio,fora,1,1,E,1,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582116,10779948,45
+2025,2025-07-13,13,Corinthians,Dorival Júnior,4724,Bragantino,casa,1,2,D,0,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582202,10779954,45
+2025,2025-07-16,14,Corinthians,Dorival Júnior,4724,Ceará,fora,1,0,V,3,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582178,10779970,45
+2025,2025-07-19,15,Corinthians,Dorival Júnior,4724,São Paulo,fora,0,2,D,0,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582103,10779975,45
+2025,2025-07-23,16,Corinthians,Dorival Júnior,4724,Cruzeiro,casa,0,0,E,1,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582222,10779984,45
+2025,2025-07-26,17,Corinthians,Dorival Júnior,4724,Botafogo,fora,1,1,E,1,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582211,10779993,45
+2025,2025-08-03,18,Corinthians,Dorival Júnior,4724,Fortaleza,casa,1,1,E,1,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582267,10780004,45
+2025,2025-08-11,19,Corinthians,Dorival Júnior,4724,Juventude,fora,1,2,D,0,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582129,10780021,45
+2025,2025-08-16,20,Corinthians,Dorival Júnior,4724,Bahia,casa,1,2,D,0,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582282,10780024,45
+2025,2025-08-24,21,Corinthians,Dorival Júnior,4724,Vasco,fora,3,2,V,3,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582041,10780033,45
+2025,2025-08-31,22,Corinthians,Dorival Júnior,4724,Palmeiras,casa,1,1,E,1,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582276,10780044,45
+2025,2025-09-13,23,Corinthians,Dorival Júnior,4724,Fluminense,fora,1,0,V,3,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582190,10780052,45
+2025,2025-09-21,24,Corinthians,Dorival Júnior,4724,Sport,fora,0,1,D,0,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582349,10780071,45
+2025,2025-09-28,25,Corinthians,Dorival Júnior,4724,Flamengo,casa,1,2,D,0,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582242,10780074,45
+2025,2025-10-01,26,Corinthians,Dorival Júnior,4724,Internacional,fora,1,1,E,1,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582256,10780088,45
+2025,2025-10-04,27,Corinthians,Dorival Júnior,4724,Mirassol,casa,3,0,V,3,provável,TM+OG,Lucas Silvestre,lucas silvestre,,Lucas Silvestre,ausência pontual do titular: fonte registra Lucas Silvestre; atribuído a Dorival Júnior,4582296,10780094,45
+2025,2025-10-15,28,Corinthians,Dorival Júnior,4724,Santos,fora,1,3,D,0,provável,TM+OG,Lucas Silvestre,lucas silvestre,,Lucas Silvestre,ausência pontual do titular: fonte registra Lucas Silvestre; atribuído a Dorival Júnior,4582272,10780105,45
+2025,2025-10-18,29,Corinthians,Dorival Júnior,4724,Atlético-MG,casa,1,0,V,3,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582273,10780114,45
+2025,2025-10-25,30,Corinthians,Dorival Júnior,4724,Vitória,fora,1,0,V,3,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582340,10780129,45
+2025,2025-11-02,31,Corinthians,Dorival Júnior,4724,Grêmio,casa,2,0,V,3,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582232,10780134,45
+2025,2025-11-05,32,Corinthians,Dorival Júnior,4724,Bragantino,fora,1,2,D,0,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4582334,10780146,45
+2025,2025-11-09,33,Corinthians,Dorival Júnior,4724,Ceará,casa,0,1,D,0,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4726115,10780154,45
+2025,2025-11-20,34,Corinthians,Dorival Júnior,4724,São Paulo,casa,3,1,V,3,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4726125,10780164,45
+2025,2025-11-23,35,Corinthians,Dorival Júnior,4724,Cruzeiro,fora,0,3,D,0,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4726138,10780177,45
+2025,2025-11-30,36,Corinthians,Dorival Júnior,4724,Botafogo,casa,2,2,E,1,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4726145,10780184,45
+2025,2025-12-03,37,Corinthians,Dorival Júnior,4724,Fortaleza,fora,1,2,D,0,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4726161,10780199,45
+2025,2025-12-07,38,Corinthians,Dorival Júnior,4724,Juventude,casa,1,1,E,1,confirmado,TM+OG,Dorival Júnior,dorival junior,,,,4726165,10780203,45

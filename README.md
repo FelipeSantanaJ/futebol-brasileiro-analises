@@ -17,6 +17,7 @@ Projeto pessoal, em construção.
 | [01](analyses/01-fator-mandante-e-fator-casa/) | Fator mandante × fator casa — quanto jogar em casa valeu na Série A, separando o efeito do **mando de campo** do efeito da **praça específica** | ✅ concluída |
 | [02](analyses/02-linha-de-corte-do-rebaixamento/) | Linha de corte do rebaixamento — quantos pontos bastam para escapar, e se dá para transformar o ritmo em pontos de um clube numa probabilidade de queda | ✅ concluída |
 | [03](analyses/03-treinadores-da-serie-a/) | Treinadores da Série A (2003–2025) — base treinador × partida montada e validada com quatro fontes, e rankings de aproveitamento, vitórias, derrotas, ataque, defesa, por clube, por temporada, casa × fora e um "campeonato de treinadores" | ✅ concluída |
+| [04](analyses/04-treinadores-do-corinthians/) | Treinadores do Corinthians (2003–2025) — visão por técnico (completa, 20+ e 50+ jogos) e por temporada, com sequências de vitórias, derrotas, invencibilidade e jejum | ✅ concluída |
 
 **Fator mandante** é o efeito de ter o mando do jogo (mandante × visitante).
 **Fator casa** é o efeito de mandar naquele estádio específico — separação que
@@ -47,6 +48,13 @@ técnico registradas na Wikipédia são reproduzidas sem usá-la. Com 100+ jogos
 **Abel Ferreira** (62,8%) e **Muricy Ramalho** (57,2%) lideram o aproveitamento;
 Cuca tem mais vitórias (266 em 612 jogos). Num "campeonato de treinadores" por
 aproveitamento, Muricy é o maior campeão (2006–2008).
+
+Resumo da 04: em 856 jogos e 34 técnicos do Corinthians, **Tite** domina os
+totais (206 jogos, 98 vitórias, saldo +101) e tem a defesa mais sólida por jogo;
+com 20+ jogos, o melhor aproveitamento é de **Márcio Bittencourt** (71,0% em
+2005). **2015** é a melhor temporada (71,1%), **2007 e 2018** as piores (38,6%);
+as melhores séries são os **19 jogos sem perder** de Carille no início de 2017 e
+as **9 vitórias seguidas** de Ramón Díaz no fim de 2024.
 
 ## Escopo e recorte
 
@@ -86,9 +94,13 @@ analyses/
 │   ├── run.py
 │   ├── outputs/{tables,figures}/
 │   └── README.md
-└── 03-treinadores-da-serie-a/
+├── 03-treinadores-da-serie-a/
+│   ├── run.py
+│   ├── coleta/      # scripts que montaram a base de treinadores (raspagem + validação)
+│   ├── outputs/{tables,figures}/
+│   └── README.md
+└── 04-treinadores-do-corinthians/
     ├── run.py
-    ├── coleta/      # scripts que montaram a base de treinadores (raspagem + validação)
     ├── outputs/{tables,figures}/
     └── README.md
 ```
@@ -104,6 +116,7 @@ python -m futebrasil.pipeline tudo          # baixa, trata e valida os dados
 python analyses/01-fator-mandante-e-fator-casa/run.py
 python analyses/02-linha-de-corte-do-rebaixamento/run.py
 python analyses/03-treinadores-da-serie-a/run.py     # usa data/external/treinadores/ (já versionado)
+python analyses/04-treinadores-do-corinthians/run.py
 ```
 
 `pipeline tudo` grava `data/processed/*.parquet` e um relatório de validação com a
@@ -115,7 +128,7 @@ Base de partidas: [adaoduque/Brasileirao_Dataset](https://github.com/adaoduque/B
 compilada a partir das súmulas da CBF e do globoesporte. Detalhes, licenças e
 limitações em [data/README.md](data/README.md).
 
-Treinadores (análise 03): base própria montada a partir de
+Treinadores (análises 03 e 04): base própria montada a partir de
 [Transfermarkt](https://www.transfermarkt.com.br/), [O Gol](https://www.ogol.com.br/),
 CBF (via a base acima) e Wikipédia — método e validação em
 [analyses/03-treinadores-da-serie-a/](analyses/03-treinadores-da-serie-a/).

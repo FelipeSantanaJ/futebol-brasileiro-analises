@@ -17,6 +17,7 @@ Personal project, work in progress.
 | [01](analyses/01-fator-mandante-e-fator-casa/) | Host factor vs. home-ground factor — how much playing at home was worth in Série A, separating the effect of **having home advantage** from the effect of **the specific ground** | ✅ done |
 | [02](analyses/02-linha-de-corte-do-rebaixamento/) | Relegation safety line — how many points are enough to survive, and whether a club's points pace can be turned into an actual relegation probability | ✅ done |
 | [03](analyses/03-treinadores-da-serie-a/) | Série A head coaches (2003–2025) — a coach × match base built and validated from four sources, and rankings by points percentage, wins, losses, attack, defence, club, season, home vs away and a "league of coaches" | ✅ done |
+| [04](analyses/04-treinadores-do-corinthians/) | Corinthians head coaches (2003–2025) — coach view (complete, 20+ and 50+ matches) and season view, with winning, losing, unbeaten and winless streaks | ✅ done |
 
 **Host factor** (`fator mandante`) is the effect of being the designated home
 side. **Home-ground factor** (`fator casa`) is the effect of hosting at that
@@ -48,6 +49,13 @@ coaching changes listed on Wikipedia are reproduced without using it. With 100+
 matches, **Abel Ferreira** (62.8%) and **Muricy Ramalho** (57.2%) lead on points
 percentage; Cuca has the most wins (266 in 612 matches). In a "league of
 coaches" ranked by points percentage, Muricy has the most titles (2006–2008).
+
+Analysis 04 in one paragraph: across 856 Corinthians matches and 34 coaches,
+**Tite** dominates the totals (206 matches, 98 wins, +101 goal difference) and
+has the meanest defence per match; with 20+ matches the best rate is **Márcio
+Bittencourt**'s (71.0% in 2005). **2015** is the best season (71.1%), **2007 and
+2018** the worst (38.6%); the best streaks are Carille's **19 unbeaten** at the
+start of 2017 and Ramón Díaz's **9 straight wins** at the end of 2024.
 
 ## Scope
 
@@ -86,9 +94,13 @@ analyses/
 │   ├── run.py
 │   ├── outputs/{tables,figures}/
 │   └── README.en.md
-└── 03-treinadores-da-serie-a/
+├── 03-treinadores-da-serie-a/
+│   ├── run.py
+│   ├── coleta/      # scripts that built the coach base (scraping + validation)
+│   ├── outputs/{tables,figures}/
+│   └── README.en.md
+└── 04-treinadores-do-corinthians/
     ├── run.py
-    ├── coleta/      # scripts that built the coach base (scraping + validation)
     ├── outputs/{tables,figures}/
     └── README.en.md
 ```
@@ -104,6 +116,7 @@ python -m futebrasil.pipeline tudo          # download, clean and validate
 python analyses/01-fator-mandante-e-fator-casa/run.py
 python analyses/02-linha-de-corte-do-rebaixamento/run.py
 python analyses/03-treinadores-da-serie-a/run.py     # uses data/external/treinadores/ (versioned)
+python analyses/04-treinadores-do-corinthians/run.py
 ```
 
 `pipeline tudo` writes `data/processed/*.parquet` plus a validation report with
@@ -116,7 +129,7 @@ Match data: [adaoduque/Brasileirao_Dataset](https://github.com/adaoduque/Brasile
 compiled from CBF match reports and globoesporte. Details, licensing and known
 limitations in [data/README.md](data/README.md).
 
-Coaches (analysis 03): own base built from
+Coaches (analyses 03 and 04): own base built from
 [Transfermarkt](https://www.transfermarkt.com/), [O Gol](https://www.ogol.com.br/),
 CBF (via the base above) and Wikipedia — method and validation in
 [analyses/03-treinadores-da-serie-a/](analyses/03-treinadores-da-serie-a/).

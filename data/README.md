@@ -92,7 +92,7 @@ porque a pergunta da análise é sobre a praça específica:
 
 ## Base de treinadores (`data/external/treinadores/`)
 
-Usada pela análise 03. Montada pelos scripts em
+Usada pelas análises 03 e 04. Montada pelos scripts em
 `analyses/03-treinadores-da-serie-a/coleta/` cruzando Transfermarkt (súmulas),
 O Gol (jogos de cada técnico), CBF (via a base acima, 2014–2024) e Wikipédia
 (trocas de técnico com data). Cobre **2003–2025** (inclui 2025, que a base acima
@@ -129,7 +129,7 @@ the matches and checks it against the official champion; all 22 seasons match.
 `data/external/fontes.csv` records the URL, size, `sha256` and download date of
 each raw file.
 
-Coach base (`data/external/treinadores/`, analysis 03): built by
+Coach base (`data/external/treinadores/`, analyses 03–04): built by
 `analyses/03-treinadores-da-serie-a/coleta/` from Transfermarkt match reports,
 O Gol per-coach match lists, CBF (2014–2024) and Wikipedia; covers 2003–2025.
 
