@@ -1,0 +1,661 @@
+temporada,treinador_id,treinador,jogos,V,E,D,pontos,GF,GA,clubes,aprov,pctV,pctE,pctD,SG,GFj,GAj,SGj,posicao,participantes,campeao,vice,top4,rebaixado
+2003,1976,Vanderlei Luxemburgo,46,31,7,8,100,102,47,Cruzeiro,0.7246,0.6739,0.1522,0.1739,55,2.2174,1.0217,1.1957,1,41,True,False,True,False
+2003,1352,Emerson Leão,46,25,12,9,87,93,60,Santos,0.6304,0.5435,0.2609,0.1957,33,2.0217,1.3043,0.7174,2,41,False,True,True,False
+2003,9735,Waldemar Lemos,10,5,3,2,18,16,14,Flamengo,0.6000,0.5000,0.3000,0.2000,2,1.6000,1.4000,0.2000,3,41,False,False,True,False
+2003,5346,Saulo Freitas,15,7,5,3,26,33,23,Paraná,0.5778,0.4667,0.3333,0.2000,10,2.2000,1.5333,0.6667,4,41,False,False,True,False
+2003,81114,Roberto Rojas,39,19,10,10,67,65,51,São Paulo,0.5726,0.4872,0.2564,0.2564,14,1.6667,1.3077,0.3590,5,41,False,False,False,False
+2003,4732,Cuca,46,21,11,14,74,76,54,"Paraná, Goiás",0.5362,0.4565,0.2391,0.3043,22,1.6522,1.1739,0.4783,6,41,False,False,False,False
+2003,2463,Paulo Bonamigo,46,21,10,15,73,67,58,Coritiba,0.5290,0.4565,0.2174,0.3261,9,1.4565,1.2609,0.1957,7,41,False,False,False,False
+2003,4730,Celso Roth,20,8,7,5,31,36,29,Atlético-MG,0.5167,0.4000,0.3500,0.2500,7,1.8000,1.4500,0.3500,8,41,False,False,False,False
+2003,4724,Dorival Júnior,15,6,5,4,23,26,16,Figueirense,0.5111,0.4000,0.3333,0.2667,10,1.7333,1.0667,0.6667,9,41,False,False,False,False
+2003,9562,Marcelo Oliveira,21,8,8,5,32,33,28,Atlético-MG,0.5079,0.3810,0.3810,0.2381,5,1.5714,1.3333,0.2381,10,41,False,False,False,False
+2003,4729,Muricy Ramalho,46,20,10,16,70,59,57,Internacional,0.5072,0.4348,0.2174,0.3478,2,1.2826,1.2391,0.0435,11,41,False,False,False,False
+2003,7573,Oswaldo de Oliveira,23,10,5,8,35,38,40,"São Paulo, Flamengo",0.5072,0.4348,0.2174,0.3478,-2,1.6522,1.7391,-0.0870,11,41,False,False,False,False
+2003,133291,José Luiz Plein,16,6,6,4,24,29,19,Juventude,0.5000,0.3750,0.3750,0.2500,10,1.8125,1.1875,0.6250,13,41,False,False,False,False
+2003,6623,Tite,35,15,6,14,51,44,32,"Grêmio, São Caetano",0.4857,0.4286,0.1714,0.4000,12,1.2571,0.9143,0.3429,14,41,False,False,False,False
+2003,4727,Mário Sérgio,43,16,14,13,62,56,59,"São Caetano, Athletico-PR",0.4806,0.3721,0.3256,0.3023,-3,1.3023,1.3721,-0.0698,15,41,False,False,False,False
+2003,11776,Arthur Neto,12,5,2,5,17,13,15,Figueirense,0.4722,0.4167,0.1667,0.4167,-2,1.0833,1.2500,-0.1667,16,41,False,False,False,False
+2003,20861,Luiz Carlos Barbieri,31,12,7,12,43,40,48,Guarani,0.4624,0.3871,0.2258,0.3871,-8,1.2903,1.5484,-0.2581,17,41,False,False,False,False
+2003,4931,Lori Sandri,26,10,6,10,36,38,34,"Criciúma, Vitória",0.4615,0.3846,0.2308,0.3846,4,1.4615,1.3077,0.1538,18,41,False,False,False,False
+2003,5668,Adilson Batista,27,10,7,10,37,46,43,"Paraná, Grêmio",0.4568,0.3704,0.2593,0.3704,3,1.7037,1.5926,0.1111,19,41,False,False,False,False
+2003,2687,Ivo Wortmann,36,13,9,14,48,56,51,Paysandu,0.4444,0.3611,0.2500,0.3889,5,1.5556,1.4167,0.1389,20,41,False,False,False,False
+2003,4726,Geninho,33,11,11,11,44,48,42,Corinthians,0.4444,0.3333,0.3333,0.3333,6,1.4545,1.2727,0.1818,20,41,False,False,False,False
+2003,4728,Renato Gaúcho,30,11,7,12,40,39,49,Fluminense,0.4444,0.3667,0.2333,0.4000,-10,1.3000,1.6333,-0.3333,20,41,False,False,False,False
+2003,5267,Nelsinho Baptista,21,7,7,7,28,27,31,"Flamengo, São Caetano",0.4444,0.3333,0.3333,0.3333,-4,1.2857,1.4762,-0.1905,20,41,False,False,False,False
+2003,4981,Gilson Kleina,31,12,5,14,41,32,42,Criciúma,0.4409,0.3871,0.1613,0.4516,-10,1.0323,1.3548,-0.3226,24,41,False,False,False,False
+2003,37928,Pepe,15,5,3,7,18,24,24,Guarani,0.4000,0.3333,0.2000,0.4667,0,1.6000,1.6000,0.0000,25,41,False,False,False,False
+2003,57677,Mauro Galvão,28,8,9,11,33,33,40,Vasco,0.3929,0.2857,0.3214,0.3929,-7,1.1786,1.4286,-0.2500,26,41,False,False,False,False
+2003,10685,Evaristo de Macedo,18,5,6,7,21,20,30,Bahia,0.3889,0.2778,0.3333,0.3889,-10,1.1111,1.6667,-0.5556,27,41,False,False,False,False
+2003,4725,Antônio Lopes,18,5,6,7,21,24,29,Vasco,0.3889,0.2778,0.3333,0.3889,-5,1.3333,1.6111,-0.2778,27,41,False,False,False,False
+2003,5242,Márcio Araújo,20,5,8,7,23,27,31,Fortaleza,0.3833,0.2500,0.4000,0.3500,-4,1.3500,1.5500,-0.2000,29,41,False,False,False,False
+2003,4910,Vadão,23,7,5,11,26,30,33,Athletico-PR,0.3768,0.3043,0.2174,0.4783,-3,1.3043,1.4348,-0.1304,30,41,False,False,False,False
+2003,5016,Abel Braga,46,11,18,17,51,63,73,Ponte Preta,0.3696,0.2391,0.3913,0.3696,-10,1.3696,1.5870,-0.2174,31,41,False,False,False,False
+2003,5906,Vágner Benazzi,13,3,5,5,14,14,17,Figueirense,0.3590,0.2308,0.3846,0.3846,-3,1.0769,1.3077,-0.2308,32,41,False,False,False,False
+2003,100536,Luiz Carlos Cruz,14,4,3,7,15,18,22,Fortaleza,0.3571,0.2857,0.2143,0.5000,-4,1.2857,1.5714,-0.2857,33,41,False,False,False,False
+2003,16701,Edinho,14,4,3,7,15,16,30,"Vitória, Bahia",0.3571,0.2857,0.2143,0.5000,-14,1.1429,2.1429,-1.0000,33,41,False,False,False,False
+2003,5013,Joel Santana,28,7,7,14,28,29,45,"Vitória, Fluminense",0.3333,0.2500,0.2500,0.5000,-16,1.0357,1.6071,-0.5714,35,41,False,False,False,False
+2003,136364,Juninho Fonseca,10,3,1,6,10,11,14,Corinthians,0.3333,0.3000,0.1000,0.6000,-3,1.1000,1.4000,-0.3000,35,41,False,False,False,False
+2003,136482,Raul Plassmann,16,4,3,9,15,15,24,Juventude,0.3125,0.2500,0.1875,0.5625,-9,0.9375,1.5000,-0.5625,37,41,False,False,False,False
+2003,6639,Lula Pereira,13,3,3,7,12,22,27,Bahia,0.3077,0.2308,0.2308,0.5385,-5,1.6923,2.0769,-0.3846,38,41,False,False,False,True
+2003,9624,Ferdinando Teixeira,12,3,2,7,11,13,21,Fortaleza,0.3056,0.2500,0.1667,0.5833,-8,1.0833,1.7500,-0.6667,39,41,False,False,False,True
+2003,86830,Darío Pereyra,18,3,5,10,14,25,40,"Paysandu, Grêmio",0.2593,0.1667,0.2778,0.5556,-15,1.3889,2.2222,-0.8333,40,41,False,False,False,True
+2003,83607,Candinho,10,1,3,6,6,18,22,Goiás,0.2000,0.1000,0.3000,0.6000,-4,1.8000,2.2000,-0.4000,41,41,False,False,False,True
+2004,1976,Vanderlei Luxemburgo,41,25,8,8,83,95,49,Santos,0.6748,0.6098,0.1951,0.1951,46,2.3171,1.1951,1.1220,1,35,True,False,True,False
+2004,7592,Levir Culpi,45,24,11,10,83,91,58,"Botafogo, Athletico-PR",0.6148,0.5333,0.2444,0.2222,33,2.0222,1.2889,0.7333,2,35,False,True,True,False
+2004,7580,Péricles Chamusca,28,16,3,9,51,45,34,São Caetano,0.6071,0.5714,0.1071,0.3214,11,1.6071,1.2143,0.3929,3,35,False,False,True,False
+2004,9553,Estevam Soares,46,23,13,10,82,66,48,"Ponte Preta, Palmeiras",0.5942,0.5000,0.2826,0.2174,18,1.4348,1.0435,0.3913,4,35,False,False,True,False
+2004,6623,Tite,39,18,13,8,67,47,35,Corinthians,0.5726,0.4615,0.3333,0.2051,12,1.2051,0.8974,0.3077,5,35,False,False,False,False
+2004,37277,Alexandre Gama,21,10,5,6,35,34,33,Fluminense,0.5556,0.4762,0.2381,0.2857,1,1.6190,1.5714,0.0476,6,35,False,False,False,False
+2004,37808,Andrade,12,5,5,2,20,14,12,Flamengo,0.5556,0.4167,0.4167,0.1667,2,1.1667,1.0000,0.1667,6,35,False,False,False,False
+2004,1352,Emerson Leão,35,17,5,13,56,59,40,"Santos, Cruzeiro, São Paulo",0.5333,0.4857,0.1429,0.3714,19,1.6857,1.1429,0.5429,8,35,False,False,False,False
+2004,4729,Muricy Ramalho,35,16,7,12,55,47,36,"São Caetano, Internacional",0.5238,0.4571,0.2000,0.3429,11,1.3429,1.0286,0.3143,9,35,False,False,False,False
+2004,4730,Celso Roth,46,21,9,16,72,81,68,Goiás,0.5217,0.4565,0.1957,0.3478,13,1.7609,1.4783,0.2826,10,35,False,False,False,False
+2004,4834,Paulo César Gusmão,11,5,2,4,17,15,13,"Cruzeiro, Flamengo",0.5152,0.4545,0.1818,0.3636,2,1.3636,1.1818,0.1818,11,35,False,False,False,False
+2004,2687,Ivo Wortmann,46,20,10,16,70,60,66,Juventude,0.5072,0.4348,0.2174,0.3478,-6,1.3043,1.4348,-0.1304,12,35,False,False,False,False
+2004,4692,Paulo Campos,30,12,8,10,44,38,40,Paraná,0.4889,0.4000,0.2667,0.3333,-2,1.2667,1.3333,-0.0667,13,35,False,False,False,False
+2004,4732,Cuca,37,15,7,15,52,48,46,"São Paulo, Grêmio",0.4685,0.4054,0.1892,0.4054,2,1.2973,1.2432,0.0541,14,35,False,False,False,False
+2004,5668,Adilson Batista,26,9,9,8,36,35,42,"Grêmio, Paysandu",0.4615,0.3462,0.3462,0.3077,-7,1.3462,1.6154,-0.2692,15,35,False,False,False,False
+2004,4724,Dorival Júnior,46,17,12,17,63,57,59,Figueirense,0.4565,0.3696,0.2609,0.3696,-2,1.2391,1.2826,-0.0435,16,35,False,False,False,False
+2004,4725,Antônio Lopes,46,15,17,14,62,53,48,Coritiba,0.4493,0.3261,0.3696,0.3043,5,1.1522,1.0435,0.1087,17,35,False,False,False,False
+2004,5906,Vágner Benazzi,33,12,8,13,44,49,50,"Criciúma, Paysandu",0.4444,0.3636,0.2424,0.3939,-1,1.4848,1.5152,-0.0303,18,35,False,False,False,False
+2004,2327,Ricardo Gomes,37,12,12,13,48,48,46,"Fluminense, Flamengo",0.4324,0.3243,0.3243,0.3514,2,1.2973,1.2432,0.0541,19,35,False,False,False,False
+2004,16476,Jair Picerni,35,11,12,12,45,44,40,"Palmeiras, Atlético-MG, Guarani",0.4286,0.3143,0.3429,0.3429,4,1.2571,1.1429,0.1143,20,35,False,False,False,False
+2004,9627,Marco Aurélio,32,12,4,16,40,45,62,"Ponte Preta, Cruzeiro",0.4167,0.3750,0.1250,0.5000,-17,1.4062,1.9375,-0.5312,21,35,False,False,False,False
+2004,103932,Nenê Santana,26,9,5,12,32,24,45,Ponte Preta,0.4103,0.3462,0.1923,0.4615,-21,0.9231,1.7308,-0.8077,22,35,False,False,False,False
+2004,2463,Paulo Bonamigo,38,10,16,12,46,53,57,"Atlético-MG, Botafogo",0.4035,0.2632,0.4211,0.3158,-4,1.3947,1.5000,-0.1053,23,35,False,False,False,False
+2004,75196,Agnaldo Liz,19,6,5,8,23,32,27,"Vitória, Guarani",0.4035,0.3158,0.2632,0.4211,5,1.6842,1.4211,0.2632,23,35,False,False,False,False
+2004,10685,Evaristo de Macedo,13,4,3,6,15,17,25,Vitória,0.3846,0.3077,0.2308,0.4615,-8,1.3077,1.9231,-0.6154,25,35,False,False,False,False
+2004,4726,Geninho,32,9,9,14,36,47,48,Vasco,0.3750,0.2812,0.2812,0.4375,-1,1.4688,1.5000,-0.0312,26,35,False,False,False,False
+2004,7214,Givanildo Oliveira,19,5,6,8,21,22,31,Paysandu,0.3684,0.2632,0.3158,0.4211,-9,1.1579,1.6316,-0.4737,27,35,False,False,False,False
+2004,5013,Joel Santana,35,10,8,17,38,44,51,"Guarani, Internacional, Vasco",0.3619,0.2857,0.2286,0.4857,-7,1.2571,1.4571,-0.2000,28,35,False,False,False,False
+2004,57677,Mauro Galvão,18,4,7,7,19,22,25,Botafogo,0.3519,0.2222,0.3889,0.3889,-3,1.2222,1.3889,-0.1667,29,35,False,False,False,False
+2004,4931,Lori Sandri,37,9,12,16,39,35,53,"Internacional, Guarani, Criciúma",0.3514,0.2432,0.3243,0.4324,-18,0.9459,1.4324,-0.4865,30,35,False,False,False,False
+2004,7573,Oswaldo de Oliveira,21,5,5,11,20,24,46,"Corinthians, Vitória",0.3175,0.2381,0.2381,0.5238,-22,1.1429,2.1905,-1.0476,31,35,False,False,False,False
+2004,4722,Zetti,12,3,2,7,11,11,19,Guarani,0.3056,0.2500,0.1667,0.5833,-8,0.9167,1.5833,-0.6667,32,35,False,False,False,True
+2004,133291,José Luiz Plein,21,4,6,11,18,27,35,Grêmio,0.2857,0.1905,0.2857,0.5238,-8,1.2857,1.6667,-0.3810,33,35,False,False,False,True
+2004,5016,Abel Braga,16,2,6,8,12,16,24,Flamengo,0.2500,0.1250,0.3750,0.5000,-8,1.0000,1.5000,-0.5000,34,35,False,False,False,True
+2004,4981,Gilson Kleina,16,3,1,12,10,14,33,Paraná,0.2083,0.1875,0.0625,0.7500,-19,0.8750,2.0625,-1.1875,35,35,False,False,False,True
+2005,10685,Evaristo de Macedo,14,9,1,4,28,32,21,Athletico-PR,0.6667,0.6429,0.0714,0.2857,11,2.2857,1.5000,0.7857,1,35,True,False,True,False
+2005,4910,Vadão,13,8,2,3,26,26,18,Ponte Preta,0.6667,0.6154,0.1538,0.2308,8,2.0000,1.3846,0.6154,1,35,True,False,True,False
+2005,4726,Geninho,30,17,6,7,57,51,35,Goiás,0.6333,0.5667,0.2000,0.2333,16,1.7000,1.1667,0.5333,3,35,False,False,True,False
+2005,1352,Emerson Leão,29,15,9,5,54,58,42,Palmeiras,0.6207,0.5172,0.3103,0.1724,16,2.0000,1.4483,0.5517,4,35,False,False,True,False
+2005,4729,Muricy Ramalho,42,23,9,10,78,72,49,Internacional,0.6190,0.5476,0.2143,0.2381,23,1.7143,1.1667,0.5476,5,35,False,False,False,False
+2005,7435,Márcio Bittencourt,33,17,7,9,58,58,45,"Corinthians, Brasiliense",0.5859,0.5152,0.2121,0.2727,13,1.7576,1.3636,0.3939,6,35,False,False,False,False
+2005,4931,Lori Sandri,31,14,10,7,52,44,32,"Paraná, Atlético-MG",0.5591,0.4516,0.3226,0.2258,12,1.4194,1.0323,0.3871,7,35,False,False,False,False
+2005,4725,Antônio Lopes,40,19,10,11,67,74,53,"Coritiba, Athletico-PR, Corinthians",0.5583,0.4750,0.2500,0.2750,21,1.8500,1.3250,0.5250,8,35,False,False,False,False
+2005,4733,Alexandre Gallo,27,12,8,7,44,51,42,Santos,0.5432,0.4444,0.2963,0.2593,9,1.8889,1.5556,0.3333,9,35,False,False,False,False
+2005,5016,Abel Braga,42,19,11,12,68,79,70,Fluminense,0.5397,0.4524,0.2619,0.2857,9,1.8810,1.6667,0.2143,10,35,False,False,False,False
+2005,2687,Ivo Wortmann,10,4,4,2,16,16,12,Juventude,0.5333,0.4000,0.4000,0.2000,4,1.6000,1.2000,0.4000,11,35,False,False,False,False
+2005,5668,Adilson Batista,24,11,4,9,37,46,42,Figueirense,0.5139,0.4583,0.1667,0.3750,4,1.9167,1.7500,0.1667,12,35,False,False,False,False
+2005,4834,Paulo César Gusmão,40,19,4,17,61,70,70,"Botafogo, Cruzeiro",0.5083,0.4750,0.1000,0.4250,0,1.7500,1.7500,0.0000,13,35,False,False,False,False
+2005,4728,Renato Gaúcho,31,13,8,10,47,57,58,Vasco,0.5054,0.4194,0.2581,0.3226,-1,1.8387,1.8710,-0.0323,14,35,False,False,False,False
+2005,7839,Hélio dos Anjos,34,15,4,15,49,61,63,"Fortaleza, Juventude",0.4804,0.4412,0.1176,0.4412,-2,1.7941,1.8529,-0.0588,15,35,False,False,False,False
+2005,2699,Paulo Autuori,41,16,10,15,58,76,65,São Paulo,0.4715,0.3902,0.2439,0.3659,11,1.8537,1.5854,0.2683,16,35,False,False,False,False
+2005,5405,Valdir Espinosa,15,6,2,7,20,17,21,"Brasiliense, Fortaleza",0.4444,0.4000,0.1333,0.4667,-4,1.1333,1.4000,-0.2667,17,35,False,False,False,False
+2005,5013,Joel Santana,34,11,11,12,44,51,53,"Brasiliense, Flamengo",0.4314,0.3235,0.3235,0.3529,-2,1.5000,1.5588,-0.0588,18,35,False,False,False,False
+2005,7580,Péricles Chamusca,14,5,3,6,18,22,23,"Goiás, Botafogo",0.4286,0.3571,0.2143,0.4286,-1,1.5714,1.6429,-0.0714,19,35,False,False,False,False
+2005,13884,Edson Gaúcho,11,4,2,5,14,15,16,Goiás,0.4242,0.3636,0.1818,0.4545,-1,1.3636,1.4545,-0.0909,20,35,False,False,False,False
+2005,4732,Cuca,34,11,10,13,43,45,49,"Coritiba, São Caetano",0.4216,0.3235,0.2941,0.3824,-4,1.3235,1.4412,-0.1176,21,35,False,False,False,False
+2005,4730,Celso Roth,44,14,12,18,54,51,56,"Flamengo, Botafogo",0.4091,0.3182,0.2727,0.4091,-5,1.1591,1.2727,-0.1136,22,35,False,False,False,False
+2005,9553,Estevam Soares,32,11,6,15,39,45,57,"São Caetano, Ponte Preta",0.4062,0.3438,0.1875,0.4688,-12,1.4062,1.7812,-0.3750,23,35,False,False,False,False
+2005,20861,Luiz Carlos Barbieri,19,7,2,10,23,27,27,Paraná,0.4035,0.3684,0.1053,0.5263,0,1.4211,1.4211,0.0000,24,35,False,False,False,False
+2005,7592,Levir Culpi,21,6,7,8,25,29,30,"Cruzeiro, São Caetano",0.3968,0.2857,0.3333,0.3810,-1,1.3810,1.4286,-0.0476,25,35,False,False,False,False
+2005,28481,Marinho Peres,13,5,0,8,15,18,26,Paysandu,0.3846,0.3846,0.0000,0.6154,-8,1.3846,2.0000,-0.6154,26,35,False,False,False,False
+2005,2463,Paulo Bonamigo,12,4,1,7,13,20,21,Palmeiras,0.3611,0.3333,0.0833,0.5833,-1,1.6667,1.7500,-0.0833,27,35,False,False,False,False
+2005,9627,Marco Aurélio,30,8,7,15,31,30,41,"Figueirense, Atlético-MG",0.3444,0.2667,0.2333,0.5000,-11,1.0000,1.3667,-0.3667,28,35,False,False,False,False
+2005,16476,Jair Picerni,12,3,3,6,12,13,16,São Caetano,0.3333,0.2500,0.2500,0.5000,-3,1.0833,1.3333,-0.2500,29,35,False,False,False,False
+2005,4692,Paulo Campos,11,3,2,6,11,15,23,Paysandu,0.3333,0.2727,0.1818,0.5455,-8,1.3636,2.0909,-0.7273,29,35,False,False,False,False
+2005,4628,Sebastião Lazaroni,17,4,4,9,16,20,28,Juventude,0.3137,0.2353,0.2353,0.5294,-8,1.1765,1.6471,-0.4706,31,35,False,False,False,False
+2005,4981,Gilson Kleina,16,4,3,9,15,27,38,Paysandu,0.3125,0.2500,0.1875,0.5625,-11,1.6875,2.3750,-0.6875,32,35,False,False,False,True
+2005,5267,Nelsinho Baptista,13,3,3,7,12,14,25,Santos,0.3077,0.2308,0.2308,0.5385,-11,1.0769,1.9231,-0.8462,33,35,False,False,False,True
+2005,6623,Tite,16,3,3,10,12,22,27,Atlético-MG,0.2500,0.1875,0.1875,0.6250,-5,1.3750,1.6875,-0.3125,34,35,False,False,False,True
+2005,91514,Dário Lourenço,10,1,3,6,6,16,26,Vasco,0.2000,0.1000,0.3000,0.6000,-10,1.6000,2.6000,-1.0000,35,35,False,False,False,True
+2006,4729,Muricy Ramalho,38,22,12,4,78,66,32,São Paulo,0.6842,0.5789,0.3158,0.1053,34,1.7368,0.8421,0.8947,1,26,True,False,True,False
+2006,5016,Abel Braga,37,20,9,8,69,51,32,Internacional,0.6216,0.5405,0.2432,0.2162,19,1.3784,0.8649,0.5135,2,26,False,True,True,False
+2006,4734,Mano Menezes,35,19,7,9,64,61,41,Grêmio,0.6095,0.5429,0.2000,0.2571,20,1.7429,1.1714,0.5714,3,26,False,False,True,False
+2006,1352,Emerson Leão,32,14,12,6,54,39,35,"Palmeiras, São Caetano, Corinthians",0.5625,0.4375,0.3750,0.1875,4,1.2188,1.0938,0.1250,4,26,False,False,True,False
+2006,1976,Vanderlei Luxemburgo,38,18,10,10,64,58,36,Santos,0.5614,0.4737,0.2632,0.2632,22,1.5263,0.9474,0.5789,5,26,False,False,False,False
+2006,4731,Caio Júnior,33,16,5,12,53,52,45,Paraná,0.5354,0.4848,0.1515,0.3636,7,1.5758,1.3636,0.2121,6,26,False,False,False,False
+2006,4728,Renato Gaúcho,38,15,14,9,59,57,50,Vasco,0.5175,0.3947,0.3684,0.2368,7,1.5000,1.3158,0.1842,7,26,False,False,False,False
+2006,5668,Adilson Batista,10,4,3,3,15,15,12,Figueirense,0.5000,0.4000,0.3000,0.3000,3,1.5000,1.2000,0.3000,8,26,False,False,False,False
+2006,6623,Tite,20,8,5,7,29,32,30,Palmeiras,0.4833,0.4000,0.2500,0.3500,2,1.6000,1.5000,0.1000,9,26,False,False,False,False
+2006,9735,Waldemar Lemos,34,13,10,11,49,42,37,"Flamengo, Figueirense",0.4804,0.3824,0.2941,0.3235,5,1.2353,1.0882,0.1471,10,26,False,False,False,False
+2006,4474,Ney Franco,32,13,6,13,45,39,43,Flamengo,0.4688,0.4062,0.1875,0.4062,-4,1.2188,1.3438,-0.1250,11,26,False,False,False,False
+2006,7573,Oswaldo de Oliveira,37,14,10,13,52,50,51,"Fluminense, Cruzeiro",0.4685,0.3784,0.2703,0.3514,-1,1.3514,1.3784,-0.0270,12,26,False,False,False,False
+2006,4732,Cuca,35,12,11,12,47,51,46,Botafogo,0.4476,0.3429,0.3143,0.3429,5,1.4571,1.3143,0.1429,13,26,False,False,False,False
+2006,4726,Geninho,35,12,8,15,44,55,48,"Goiás, Corinthians",0.4190,0.3429,0.2286,0.4286,7,1.5714,1.3714,0.2000,14,26,False,False,False,False
+2006,4910,Vadão,34,11,9,14,42,58,68,"Ponte Preta, Athletico-PR",0.4118,0.3235,0.2647,0.4118,-10,1.7059,2.0000,-0.2941,15,26,False,False,False,False
+2006,4834,Paulo César Gusmão,32,9,11,12,38,40,40,"Cruzeiro, São Caetano, Fluminense",0.3958,0.2812,0.3438,0.3750,0,1.2500,1.2500,0.0000,16,26,False,False,False,False
+2006,2687,Ivo Wortmann,28,9,6,13,33,33,44,Juventude,0.3929,0.3214,0.2143,0.4643,-11,1.1786,1.5714,-0.3929,17,26,False,False,False,False
+2006,7214,Givanildo Oliveira,12,4,2,6,14,16,15,Athletico-PR,0.3889,0.3333,0.1667,0.5000,1,1.3333,1.2500,0.0833,18,26,False,False,False,False
+2006,9627,Marco Aurélio,19,6,4,9,22,21,29,Ponte Preta,0.3860,0.3158,0.2105,0.4737,-8,1.1053,1.5263,-0.4211,19,26,False,False,False,False
+2006,4725,Antônio Lopes,21,6,5,10,23,24,30,"Goiás, Fluminense",0.3651,0.2857,0.2381,0.4762,-6,1.1429,1.4286,-0.2857,20,26,False,False,False,False
+2006,7223,René Simões,16,4,4,8,16,21,30,Santa Cruz,0.3333,0.2500,0.2500,0.5000,-9,1.3125,1.8750,-0.5625,21,26,False,False,False,False
+2006,7435,Márcio Bittencourt,10,2,4,4,10,7,13,Fortaleza,0.3333,0.2000,0.4000,0.4000,-6,0.7000,1.3000,-0.6000,21,26,False,False,False,False
+2006,7839,Hélio dos Anjos,29,6,8,15,26,30,42,"Juventude, Fortaleza, São Caetano",0.2989,0.2069,0.2759,0.5172,-12,1.0345,1.4483,-0.4138,23,26,False,False,False,True
+2006,121869,Fito Neves,12,3,1,8,10,14,27,Santa Cruz,0.2778,0.2500,0.0833,0.6667,-13,1.1667,2.2500,-1.0833,24,26,False,False,False,True
+2006,43565,Marcelo Vilar,10,2,2,6,8,12,18,Palmeiras,0.2667,0.2000,0.2000,0.6000,-6,1.2000,1.8000,-0.6000,25,26,False,False,False,True
+2006,10183,Roberval Davino,13,2,3,8,9,12,28,Fortaleza,0.2308,0.1538,0.2308,0.6154,-16,0.9231,2.1538,-1.2308,26,26,False,False,False,True
+2007,4729,Muricy Ramalho,38,23,8,7,77,55,19,São Paulo,0.6754,0.6053,0.2105,0.1842,36,1.4474,0.5000,0.9474,1,28,True,False,True,False
+2007,5013,Joel Santana,26,15,4,7,49,37,27,Flamengo,0.6282,0.5769,0.1538,0.2692,10,1.4231,1.0385,0.3846,2,28,False,True,True,False
+2007,1976,Vanderlei Luxemburgo,38,19,5,14,62,57,47,Santos,0.5439,0.5000,0.1316,0.3684,10,1.5000,1.2368,0.2632,3,28,False,False,True,False
+2007,4728,Renato Gaúcho,38,16,13,9,61,57,39,Fluminense,0.5351,0.4211,0.3421,0.2368,18,1.5000,1.0263,0.4737,4,28,False,False,True,False
+2007,4724,Dorival Júnior,38,18,6,14,60,73,58,Cruzeiro,0.5263,0.4737,0.1579,0.3684,15,1.9211,1.5263,0.3947,5,28,False,False,False,False
+2007,4732,Cuca,35,14,13,8,55,61,51,Botafogo,0.5238,0.4000,0.3714,0.2286,10,1.7429,1.4571,0.2857,6,28,False,False,False,False
+2007,4731,Caio Júnior,38,16,10,12,58,48,47,Palmeiras,0.5088,0.4211,0.2632,0.3158,1,1.2632,1.2368,0.0263,7,28,False,False,False,False
+2007,4734,Mano Menezes,38,17,7,14,58,44,43,Grêmio,0.5088,0.4474,0.1842,0.3684,1,1.1579,1.1316,0.0263,7,28,False,False,False,False
+2007,1352,Emerson Leão,24,10,6,8,36,43,32,Atlético-MG,0.5000,0.4167,0.2500,0.3333,11,1.7917,1.3333,0.4583,9,28,False,False,False,False
+2007,5016,Abel Braga,20,8,6,6,30,24,19,Internacional,0.5000,0.4000,0.3000,0.3000,5,1.2000,0.9500,0.2500,9,28,False,False,False,False
+2007,4733,Alexandre Gallo,31,13,7,11,46,45,38,"Internacional, Figueirense",0.4946,0.4194,0.2258,0.3548,7,1.4516,1.2258,0.2258,11,28,False,False,False,False
+2007,4723,Roberto Fernandes,30,13,5,12,44,56,44,Náutico,0.4889,0.4333,0.1667,0.4000,12,1.8667,1.4667,0.4000,12,28,False,False,False,False
+2007,4722,Zetti,13,5,4,4,19,19,17,"Paraná, Atlético-MG",0.4872,0.3846,0.3077,0.3077,2,1.4615,1.3077,0.1538,13,28,False,False,False,False
+2007,4726,Geninho,32,13,7,12,46,45,43,Sport,0.4792,0.4062,0.2188,0.3750,2,1.4062,1.3438,0.0625,14,28,False,False,False,False
+2007,4474,Ney Franco,30,11,10,9,43,39,43,"Flamengo, Athletico-PR",0.4778,0.3667,0.3333,0.3000,-4,1.3000,1.4333,-0.1333,15,28,False,False,False,False
+2007,4736,Flávio Campos,10,4,2,4,14,14,16,Juventude,0.4667,0.4000,0.2000,0.4000,-2,1.4000,1.6000,-0.2000,16,28,False,False,False,False
+2007,4730,Celso Roth,32,12,7,13,43,45,38,Vasco,0.4479,0.3750,0.2188,0.4062,7,1.4062,1.1875,0.2188,17,28,False,False,False,False
+2007,2463,Paulo Bonamigo,25,10,3,12,33,33,37,Goiás,0.4400,0.4000,0.1200,0.4800,-4,1.3200,1.4800,-0.1600,18,28,False,False,False,False
+2007,4735,Pintado,10,3,4,3,13,14,14,Paraná,0.4333,0.3000,0.4000,0.3000,0,1.4000,1.4000,0.0000,19,28,False,False,False,False
+2007,4721,Paulo César Carpegiani,21,6,9,6,27,24,29,Corinthians,0.4286,0.2857,0.4286,0.2857,-5,1.1429,1.3810,-0.2381,20,28,False,False,False,False
+2007,5058,Beto Almeida,20,7,3,10,24,23,35,Juventude,0.4000,0.3500,0.1500,0.5000,-12,1.1500,1.7500,-0.6000,21,28,False,False,False,False
+2007,4725,Antônio Lopes,15,3,7,5,16,21,20,Athletico-PR,0.3556,0.2000,0.4667,0.3333,1,1.4000,1.3333,0.0667,22,28,False,False,False,False
+2007,4727,Mário Sérgio,27,7,7,13,28,36,49,"Figueirense, Botafogo",0.3457,0.2593,0.2593,0.4815,-13,1.3333,1.8148,-0.4815,23,28,False,False,False,False
+2007,5267,Nelsinho Baptista,11,2,5,4,11,11,13,Corinthians,0.3333,0.1818,0.4545,0.3636,-2,1.0000,1.1818,-0.1818,24,28,False,False,False,False
+2007,5242,Márcio Araújo,11,2,3,6,9,14,22,Goiás,0.2727,0.1818,0.2727,0.5455,-8,1.2727,2.0000,-0.7273,25,28,False,False,False,True
+2007,4931,Lori Sandri,18,4,2,12,14,21,41,"América-RN, Paraná",0.2593,0.2222,0.1111,0.6667,-20,1.1667,2.2778,-1.1111,26,28,False,False,False,True
+2007,4737,Marcelo Veiga,13,2,0,11,6,11,33,América-RN,0.1538,0.1538,0.0000,0.8462,-22,0.8462,2.5385,-1.6923,27,28,False,False,False,True
+2007,5087,Moroni,17,1,4,12,7,7,32,América-RN,0.1373,0.0588,0.2353,0.7059,-25,0.4118,1.8824,-1.4706,28,28,False,False,False,True
+2008,4729,Muricy Ramalho,38,21,12,5,75,66,36,São Paulo,0.6579,0.5526,0.3158,0.1316,30,1.7368,0.9474,0.7895,1,26,True,False,True,False
+2008,4730,Celso Roth,38,21,9,8,72,59,35,Grêmio,0.6316,0.5526,0.2368,0.2105,24,1.5526,0.9211,0.6316,2,26,False,True,True,False
+2008,7223,René Simões,10,5,3,2,18,16,8,Fluminense,0.6000,0.5000,0.3000,0.2000,8,1.6000,0.8000,0.8000,3,26,False,False,True,False
+2008,5668,Adilson Batista,38,21,4,13,67,59,44,Cruzeiro,0.5877,0.5526,0.1053,0.3421,15,1.5526,1.1579,0.3947,4,26,False,False,True,False
+2008,1976,Vanderlei Luxemburgo,38,19,8,11,65,55,45,Palmeiras,0.5702,0.5000,0.2105,0.2895,10,1.4474,1.1842,0.2632,5,26,False,False,False,False
+2008,4731,Caio Júnior,38,18,10,10,64,67,48,Flamengo,0.5614,0.4737,0.2632,0.2632,19,1.7632,1.2632,0.5000,6,26,False,False,False,False
+2008,4474,Ney Franco,30,13,7,10,46,43,31,"Athletico-PR, Botafogo",0.5111,0.4333,0.2333,0.3333,12,1.4333,1.0333,0.4000,7,26,False,False,False,False
+2008,7839,Hélio dos Anjos,31,13,8,10,47,50,35,Goiás,0.5054,0.4194,0.2581,0.3226,15,1.6129,1.1290,0.4839,8,26,False,False,False,False
+2008,6623,Tite,33,14,8,11,50,43,39,Internacional,0.5051,0.4242,0.2424,0.3333,4,1.3030,1.1818,0.1212,9,26,False,False,False,False
+2008,7391,Márcio Fernandes,20,7,8,5,29,23,20,Santos,0.4833,0.3500,0.4000,0.2500,3,1.1500,1.0000,0.1500,10,26,False,False,False,False
+2008,4724,Dorival Júnior,38,14,11,13,53,55,48,Coritiba,0.4649,0.3684,0.2895,0.3421,7,1.4474,1.2632,0.1842,11,26,False,False,False,False
+2008,5267,Nelsinho Baptista,38,14,10,14,52,48,45,Sport,0.4561,0.3684,0.2632,0.3684,3,1.2632,1.1842,0.0789,12,26,False,False,False,False
+2008,5667,Vagner Mancini,38,15,7,16,52,48,44,Vitória,0.4561,0.3947,0.1842,0.4211,4,1.2632,1.1579,0.1053,12,26,False,False,False,False
+2008,4726,Geninho,22,8,6,8,30,28,32,"Atlético-MG, Botafogo, Athletico-PR",0.4545,0.3636,0.2727,0.3636,-4,1.2727,1.4545,-0.1818,14,26,False,False,False,False
+2008,9562,Marcelo Oliveira,23,8,7,8,31,31,32,Atlético-MG,0.4493,0.3478,0.3043,0.3478,-1,1.3478,1.3913,-0.0435,15,26,False,False,False,False
+2008,4733,Alexandre Gallo,16,5,5,6,20,26,35,"Figueirense, Atlético-MG",0.4167,0.3125,0.3125,0.3750,-9,1.6250,2.1875,-0.5625,16,26,False,False,False,False
+2008,4723,Roberto Fernandes,37,11,12,14,45,42,45,"Náutico, Athletico-PR",0.4054,0.2973,0.3243,0.3784,-3,1.1351,1.2162,-0.0811,17,26,False,False,False,False
+2008,7435,Márcio Bittencourt,12,4,2,6,14,11,16,Ipatinga,0.3889,0.3333,0.1667,0.5000,-5,0.9167,1.3333,-0.4167,18,26,False,False,False,False
+2008,5906,Vágner Benazzi,15,4,4,7,16,22,32,Portuguesa,0.3556,0.2667,0.2667,0.4667,-10,1.4667,2.1333,-0.6667,19,26,False,False,False,False
+2008,4725,Antônio Lopes,18,5,4,9,19,30,34,Vasco,0.3519,0.2778,0.2222,0.5000,-4,1.6667,1.8889,-0.2222,20,26,False,False,False,False
+2008,4834,Paulo César Gusmão,19,5,5,9,20,22,36,Figueirense,0.3509,0.2632,0.2632,0.4737,-14,1.1579,1.8947,-0.7368,21,26,False,False,False,False
+2008,4732,Cuca,27,6,10,11,28,31,39,"Botafogo, Santos, Fluminense",0.3457,0.2222,0.3704,0.4074,-8,1.1481,1.4444,-0.2963,22,26,False,False,False,False
+2008,9553,Estevam Soares,16,3,7,6,16,19,24,Portuguesa,0.3333,0.1875,0.4375,0.3750,-5,1.1875,1.5000,-0.3125,23,26,False,False,False,True
+2008,4728,Renato Gaúcho,32,8,6,18,30,38,53,"Fluminense, Vasco",0.3125,0.2500,0.1875,0.5625,-15,1.1875,1.6562,-0.4688,24,26,False,False,False,True
+2008,6953,Ricardo Drubscky,14,3,3,8,12,15,27,Ipatinga,0.2857,0.2143,0.2143,0.5714,-12,1.0714,1.9286,-0.8571,25,26,False,False,False,True
+2008,4727,Mário Sérgio,14,2,4,8,10,13,29,"Athletico-PR, Figueirense",0.2381,0.1429,0.2857,0.5714,-16,0.9286,2.0714,-1.1429,26,26,False,False,False,True
+2009,37808,Andrade,25,15,5,5,50,40,23,Flamengo,0.6667,0.6000,0.2000,0.2000,17,1.6000,0.9200,0.6800,1,28,True,False,True,False
+2009,4727,Mário Sérgio,11,6,3,2,21,18,10,Internacional,0.6364,0.5455,0.2727,0.1818,8,1.6364,0.9091,0.7273,2,28,False,True,True,False
+2009,2327,Ricardo Gomes,32,17,7,8,58,51,38,São Paulo,0.6042,0.5312,0.2188,0.2500,13,1.5938,1.1875,0.4062,3,28,False,False,True,False
+2009,5668,Adilson Batista,38,18,8,12,62,58,53,Cruzeiro,0.5439,0.4737,0.2105,0.3158,5,1.5263,1.3947,0.1316,4,28,False,False,True,False
+2009,6623,Tite,27,13,5,9,44,47,34,Internacional,0.5432,0.4815,0.1852,0.3333,13,1.7407,1.2593,0.4815,5,28,False,False,False,False
+2009,4732,Cuca,29,12,11,6,47,46,42,"Flamengo, Fluminense",0.5402,0.4138,0.3793,0.2069,4,1.5862,1.4483,0.1379,6,28,False,False,False,False
+2009,6532,Silas,38,15,12,11,57,61,52,Avaí,0.5000,0.3947,0.3158,0.2895,9,1.6053,1.3684,0.2368,7,28,False,False,False,False
+2009,4725,Antônio Lopes,22,9,6,7,33,27,20,Athletico-PR,0.5000,0.4091,0.2727,0.3182,7,1.2273,0.9091,0.3182,7,28,False,False,False,False
+2009,4730,Celso Roth,38,16,8,14,56,55,56,Atlético-MG,0.4912,0.4211,0.2105,0.3684,-1,1.4474,1.4737,-0.0263,9,28,False,False,False,False
+2009,2699,Paulo Autuori,32,13,8,11,47,57,38,Grêmio,0.4896,0.4062,0.2500,0.3438,19,1.7812,1.1875,0.5938,10,28,False,False,False,False
+2009,7839,Hélio dos Anjos,38,15,10,13,55,64,65,Goiás,0.4825,0.3947,0.2632,0.3421,-1,1.6842,1.7105,-0.0263,11,28,False,False,False,False
+2009,9553,Estevam Soares,39,14,14,11,56,66,54,"Grêmio Barueri/Prudente, Botafogo",0.4786,0.3590,0.3590,0.2821,12,1.6923,1.3846,0.3077,12,28,False,False,False,False
+2009,1976,Vanderlei Luxemburgo,33,12,11,10,47,45,41,"Palmeiras, Santos",0.4747,0.3636,0.3333,0.3030,4,1.3636,1.2424,0.1212,13,28,False,False,False,False
+2009,4721,Paulo César Carpegiani,18,7,4,7,25,25,26,Vitória,0.4630,0.3889,0.2222,0.3889,-1,1.3889,1.4444,-0.0556,14,28,False,False,False,False
+2009,4734,Mano Menezes,38,14,10,14,52,50,54,Corinthians,0.4561,0.3684,0.2632,0.3684,-4,1.3158,1.4211,-0.1053,15,28,False,False,False,False
+2009,4729,Muricy Ramalho,30,10,11,9,41,38,35,"São Paulo, Palmeiras",0.4556,0.3333,0.3667,0.3000,3,1.2667,1.1667,0.1000,16,28,False,False,False,False
+2009,4474,Ney Franco,37,12,12,13,48,49,58,"Botafogo, Coritiba",0.4324,0.3243,0.3243,0.3514,-9,1.3243,1.5676,-0.2432,17,28,False,False,False,False
+2009,9735,Waldemar Lemos,15,5,4,6,19,18,25,"Náutico, Athletico-PR",0.4222,0.3333,0.2667,0.4000,-7,1.2000,1.6667,-0.4667,18,28,False,False,False,False
+2009,6528,Sérgio Guedes,14,4,5,5,17,18,21,Santo André,0.4048,0.2857,0.3571,0.3571,-3,1.2857,1.5000,-0.2143,19,28,False,False,False,False
+2009,5667,Vagner Mancini,30,9,9,12,36,46,52,"Santos, Vitória",0.4000,0.3000,0.3000,0.4000,-6,1.5333,1.7333,-0.2000,20,28,False,False,False,False
+2009,1352,Emerson Leão,10,3,2,5,11,17,18,Sport,0.3667,0.3000,0.2000,0.5000,-1,1.7000,1.8000,-0.1000,21,28,False,False,False,False
+2009,9047,Sérgio Soares,16,5,2,9,17,22,28,Santo André,0.3542,0.3125,0.1250,0.5625,-6,1.3750,1.7500,-0.3750,22,28,False,False,False,False
+2009,11511,Diego Cerri,13,3,4,6,13,12,19,Grêmio Barueri/Prudente,0.3333,0.2308,0.3077,0.4615,-7,0.9231,1.4615,-0.5385,23,28,False,False,False,False
+2009,2121,Carlos Alberto Parreira,10,2,4,4,10,8,13,Fluminense,0.3333,0.2000,0.4000,0.4000,-5,0.8000,1.3000,-0.5000,23,28,False,False,False,False
+2009,4726,Geninho,33,8,7,18,31,43,63,"Athletico-PR, Náutico",0.3131,0.2424,0.2121,0.5455,-20,1.3030,1.9091,-0.6061,25,28,False,False,False,True
+2009,7223,René Simões,18,4,4,10,16,23,31,Coritiba,0.2963,0.2222,0.2222,0.5556,-8,1.2778,1.7222,-0.4444,26,28,False,False,False,True
+2009,7580,Péricles Chamusca,20,4,5,11,17,23,35,Sport,0.2833,0.2000,0.2500,0.5500,-12,1.1500,1.7500,-0.6000,27,28,False,False,False,True
+2009,4728,Renato Gaúcho,10,1,3,6,6,10,14,Fluminense,0.2000,0.1000,0.3000,0.6000,-4,1.0000,1.4000,-0.4000,28,28,False,False,False,True
+2010,4734,Mano Menezes,11,7,3,1,24,20,12,Corinthians,0.7273,0.6364,0.2727,0.0909,8,1.8182,1.0909,0.7273,1,28,True,False,True,False
+2010,4728,Renato Gaúcho,25,15,6,4,51,53,24,Grêmio,0.6800,0.6000,0.2400,0.1600,29,2.1200,0.9600,1.1600,2,28,False,True,True,False
+2010,4732,Cuca,31,18,6,7,60,45,30,Cruzeiro,0.6452,0.5806,0.1935,0.2258,15,1.4516,0.9677,0.4839,3,28,False,False,True,False
+2010,4729,Muricy Ramalho,38,20,11,7,71,62,36,Fluminense,0.6228,0.5263,0.2895,0.1842,26,1.6316,0.9474,0.6842,4,28,False,False,True,False
+2010,4721,Paulo César Carpegiani,33,17,7,9,58,44,37,"Athletico-PR, São Paulo",0.5859,0.5152,0.2121,0.2727,7,1.3333,1.1212,0.2121,5,28,False,False,False,False
+2010,4724,Dorival Júnior,36,17,8,11,59,57,46,"Santos, Atlético-MG",0.5463,0.4722,0.2222,0.3056,11,1.5833,1.2778,0.3056,6,28,False,False,False,False
+2010,9047,Sérgio Soares,11,5,3,3,18,12,12,Athletico-PR,0.5455,0.4545,0.2727,0.2727,0,1.0909,1.0909,0.0000,7,28,False,False,False,False
+2010,4834,Paulo César Gusmão,38,15,16,7,61,45,34,"Ceará, Vasco",0.5351,0.3947,0.4211,0.1842,11,1.1842,0.8947,0.2895,8,28,False,False,False,False
+2010,5013,Joel Santana,38,14,17,7,59,54,42,Botafogo,0.5175,0.3684,0.4474,0.1842,12,1.4211,1.1053,0.3158,9,28,False,False,False,False
+2010,4730,Celso Roth,36,15,10,11,55,41,38,"Vasco, Internacional",0.5093,0.4167,0.2778,0.3056,3,1.1389,1.0556,0.0833,10,28,False,False,False,False
+2010,5668,Adilson Batista,23,9,7,7,34,39,30,"Cruzeiro, Corinthians",0.4928,0.3913,0.3043,0.3043,9,1.6957,1.3043,0.3913,11,28,False,False,False,False
+2010,5906,Vágner Benazzi,10,4,2,4,14,12,14,Avaí,0.4667,0.4000,0.2000,0.4000,-2,1.2000,1.4000,-0.2000,12,28,False,False,False,False
+2010,15133,Sérgio Baresi,15,5,5,5,20,19,24,São Paulo,0.4444,0.3333,0.3333,0.3333,-5,1.2667,1.6000,-0.3333,13,28,False,False,False,False
+2010,11508,Rogério Lourenço,16,5,6,5,21,13,12,Flamengo,0.4375,0.3125,0.3750,0.3125,1,0.8125,0.7500,0.0625,14,28,False,False,False,False
+2010,16828,Marcelo Martelotte,16,5,6,5,21,29,23,Santos,0.4375,0.3125,0.3750,0.3125,6,1.8125,1.4375,0.3750,14,28,False,False,False,False
+2010,7223,René Simões,27,9,8,10,35,41,40,Atlético-GO,0.4321,0.3333,0.2963,0.3704,1,1.5185,1.4815,0.0370,16,28,False,False,False,False
+2010,1068,Luiz Felipe Scolari,30,9,11,10,38,34,37,Palmeiras,0.4222,0.3000,0.3667,0.3333,-3,1.1333,1.2333,-0.1000,17,28,False,False,False,False
+2010,2327,Ricardo Gomes,12,4,3,5,15,15,14,São Paulo,0.4167,0.3333,0.2500,0.4167,1,1.2500,1.1667,0.0833,18,28,False,False,False,False
+2010,16827,Dimas Filgueiras,18,4,10,4,22,19,26,Ceará,0.4074,0.2222,0.5556,0.2222,-7,1.0556,1.4444,-0.3889,19,28,False,False,False,False
+2010,13701,Toninho Cecílio,20,5,9,6,24,23,26,"Grêmio Barueri/Prudente, Vitória",0.4000,0.2500,0.4500,0.3000,-3,1.1500,1.3000,-0.1500,20,28,False,False,False,False
+2010,4725,Antônio Lopes,26,6,10,10,28,31,34,"Avaí, Vitória",0.3590,0.2308,0.3846,0.3846,-3,1.1923,1.3077,-0.1154,21,28,False,False,False,False
+2010,12290,Ricardo Silva,21,5,7,9,22,23,29,Vitória,0.3492,0.2381,0.3333,0.4286,-6,1.0952,1.3810,-0.2857,22,28,False,False,False,False
+2010,1976,Vanderlei Luxemburgo,35,9,8,18,35,44,59,"Atlético-MG, Flamengo",0.3333,0.2571,0.2286,0.5143,-15,1.2571,1.6857,-0.4286,23,28,False,False,False,False
+2010,3622,Jorginho (Jorge de Amorim),18,5,3,10,18,23,32,Goiás,0.3333,0.2778,0.1667,0.5556,-9,1.2778,1.7778,-0.5000,23,28,False,False,False,False
+2010,5667,Vagner Mancini,38,8,13,17,37,33,53,Guarani,0.3246,0.2105,0.3421,0.4474,-20,0.8684,1.3947,-0.5263,25,28,False,False,False,True
+2010,6532,Silas,23,3,12,8,21,27,35,"Grêmio, Flamengo",0.3043,0.1304,0.5217,0.3478,-8,1.1739,1.5217,-0.3478,26,28,False,False,False,True
+2010,1352,Emerson Leão,16,3,4,9,13,14,27,Goiás,0.2708,0.1875,0.2500,0.5625,-13,0.8750,1.6875,-0.8125,27,28,False,False,False,True
+2010,16292,Fábio Giuntini,14,3,2,9,11,19,30,Grêmio Barueri/Prudente,0.2619,0.2143,0.1429,0.6429,-11,1.3571,2.1429,-0.7857,28,28,False,False,False,True
+2011,6623,Tite,38,21,8,9,71,53,36,Corinthians,0.6228,0.5526,0.2105,0.2368,17,1.3947,0.9474,0.4474,1,25,True,False,True,False
+2011,2327,Ricardo Gomes,19,10,5,4,35,26,21,Vasco,0.6140,0.5263,0.2632,0.2105,5,1.3684,1.1053,0.2632,2,25,False,True,True,False
+2011,21195,Cristóvão Borges,19,9,7,3,34,31,19,Vasco,0.5965,0.4737,0.3684,0.1579,12,1.6316,1.0000,0.6316,3,25,False,False,True,False
+2011,5016,Abel Braga,34,18,2,14,56,56,47,Fluminense,0.5490,0.5294,0.0588,0.4118,9,1.6471,1.3824,0.2647,4,25,False,False,True,False
+2011,4731,Caio Júnior,34,16,7,11,55,50,41,Botafogo,0.5392,0.4706,0.2059,0.3235,9,1.4706,1.2059,0.2647,5,25,False,False,False,False
+2011,1976,Vanderlei Luxemburgo,38,15,16,7,61,59,47,Flamengo,0.5351,0.3947,0.4211,0.1842,12,1.5526,1.2368,0.3158,6,25,False,False,False,False
+2011,3622,Jorginho (Jorge de Amorim),38,15,13,10,58,46,45,Figueirense,0.5088,0.3947,0.3421,0.2632,1,1.2105,1.1842,0.0263,7,25,False,False,False,False
+2011,9562,Marcelo Oliveira,38,16,9,13,57,57,41,Coritiba,0.5000,0.4211,0.2368,0.3421,16,1.5000,1.0789,0.4211,8,25,False,False,False,False
+2011,5013,Joel Santana,33,15,4,14,49,46,40,"Cruzeiro, Bahia",0.4949,0.4545,0.1212,0.4242,6,1.3939,1.2121,0.1818,9,25,False,False,False,False
+2011,7839,Hélio dos Anjos,22,8,8,6,32,35,26,Atlético-GO,0.4848,0.3636,0.3636,0.2727,9,1.5909,1.1818,0.4091,10,25,False,False,False,False
+2011,4724,Dorival Júnior,38,14,11,13,53,54,51,"Atlético-MG, Internacional",0.4649,0.3684,0.2895,0.3421,3,1.4211,1.3421,0.0789,11,25,False,False,False,False
+2011,4729,Muricy Ramalho,38,15,8,15,53,55,55,Santos,0.4649,0.3947,0.2105,0.3947,0,1.4474,1.4474,0.0000,11,25,False,False,False,False
+2011,18640,Falcão,11,4,3,4,15,17,14,Internacional,0.4545,0.3636,0.2727,0.3636,3,1.5455,1.2727,0.2727,13,25,False,False,False,False
+2011,4730,Celso Roth,25,10,4,11,34,35,40,Grêmio,0.4533,0.4000,0.1600,0.4400,-5,1.4000,1.6000,-0.2000,14,25,False,False,False,False
+2011,1068,Luiz Felipe Scolari,38,11,17,10,50,43,39,Palmeiras,0.4386,0.2895,0.4474,0.2632,4,1.1316,1.0263,0.1053,15,25,False,False,False,False
+2011,4728,Renato Gaúcho,20,6,7,7,25,27,26,"Grêmio, Athletico-PR",0.4167,0.3000,0.3500,0.3500,1,1.3500,1.3000,0.0500,16,25,False,False,False,False
+2011,4732,Cuca,28,9,6,13,33,34,39,"Cruzeiro, Atlético-MG",0.3929,0.3214,0.2143,0.4643,-5,1.2143,1.3929,-0.1786,17,25,False,False,False,False
+2011,5667,Vagner Mancini,35,10,11,14,41,47,55,"Ceará, Cruzeiro",0.3905,0.2857,0.3143,0.4000,-8,1.3429,1.5714,-0.2286,18,25,False,False,False,False
+2011,7214,Givanildo Oliveira,25,7,8,10,29,39,43,América-MG,0.3867,0.2800,0.3200,0.4000,-4,1.5600,1.7200,-0.1600,19,25,False,False,False,False
+2011,5668,Adilson Batista,27,7,10,10,31,35,38,"Athletico-PR, São Paulo",0.3827,0.2593,0.3704,0.3704,-3,1.2963,1.4074,-0.1111,20,25,False,False,False,False
+2011,4725,Antônio Lopes,22,6,7,9,25,20,34,"América-MG, Athletico-PR",0.3788,0.2727,0.3182,0.4091,-14,0.9091,1.5455,-0.6364,21,25,False,False,False,False
+2011,7223,René Simões,20,4,9,7,21,21,27,Bahia,0.3500,0.2000,0.4500,0.3500,-6,1.0500,1.3500,-0.3000,22,25,False,False,False,True
+2011,4834,Paulo César Gusmão,12,3,3,6,12,12,14,Atlético-GO,0.3333,0.2500,0.2500,0.5000,-2,1.0000,1.1667,-0.1667,23,25,False,False,False,True
+2011,13701,Toninho Cecílio,16,4,3,9,15,26,33,Avaí,0.3125,0.2500,0.1875,0.5625,-7,1.6250,2.0625,-0.4375,24,25,False,False,False,True
+2011,4733,Alexandre Gallo,15,3,5,7,14,16,28,Avaí,0.3111,0.2000,0.3333,0.4667,-12,1.0667,1.8667,-0.8000,25,25,False,False,False,True
+2012,5016,Abel Braga,38,22,11,5,77,61,33,Fluminense,0.6754,0.5789,0.2895,0.1316,28,1.6053,0.8684,0.7368,1,29,True,False,True,False
+2012,4732,Cuca,38,20,12,6,72,64,37,Atlético-MG,0.6316,0.5263,0.3158,0.1579,27,1.6842,0.9737,0.7105,2,29,False,True,True,False
+2012,1976,Vanderlei Luxemburgo,38,20,11,7,71,56,33,Grêmio,0.6228,0.5263,0.2895,0.1842,23,1.4737,0.8684,0.6053,3,29,False,False,True,False
+2012,4474,Ney Franco,31,16,6,9,54,51,29,São Paulo,0.5806,0.5161,0.1935,0.2903,22,1.6452,0.9355,0.7097,4,29,False,False,True,False
+2012,21195,Cristóvão Borges,23,11,6,6,39,28,24,Vasco,0.5652,0.4783,0.2609,0.2609,4,1.2174,1.0435,0.1739,5,29,False,False,False,False
+2012,25809,Marquinhos Santos,16,8,2,6,26,21,18,Coritiba,0.5417,0.5000,0.1250,0.3750,3,1.3125,1.1250,0.1875,6,29,False,False,False,False
+2012,12938,Jorginho Cantinflas,19,8,6,5,30,22,17,Bahia,0.5263,0.4211,0.3158,0.2632,5,1.1579,0.8947,0.2632,7,29,False,False,False,False
+2012,6623,Tite,38,15,12,11,57,51,39,Corinthians,0.5000,0.3947,0.3158,0.2895,12,1.3421,1.0263,0.3158,8,29,False,False,False,False
+2012,7573,Oswaldo de Oliveira,38,15,10,13,55,60,50,Botafogo,0.4825,0.3947,0.2632,0.3421,10,1.5789,1.3158,0.2632,9,29,False,False,False,False
+2012,6528,Sérgio Guedes,10,4,2,4,14,15,13,Sport,0.4667,0.4000,0.2000,0.4000,2,1.5000,1.3000,0.2000,10,29,False,False,False,False
+2012,4729,Muricy Ramalho,38,13,14,11,53,50,44,Santos,0.4649,0.3421,0.3684,0.2895,6,1.3158,1.1579,0.1579,11,29,False,False,False,False
+2012,4724,Dorival Júnior,37,12,15,10,51,37,39,"Internacional, Flamengo",0.4595,0.3243,0.4054,0.2703,-2,1.0000,1.0541,-0.0541,12,29,False,False,False,False
+2012,4730,Celso Roth,38,15,7,16,52,47,51,Cruzeiro,0.4561,0.3947,0.1842,0.4211,-4,1.2368,1.3421,-0.1053,13,29,False,False,False,False
+2012,5013,Joel Santana,11,4,3,4,15,15,17,Flamengo,0.4545,0.3636,0.2727,0.3636,-2,1.3636,1.5455,-0.1818,14,29,False,False,False,False
+2012,22222,Fernandão,26,9,8,9,35,31,28,Internacional,0.4487,0.3462,0.3077,0.3462,3,1.1923,1.0769,0.1154,15,29,False,False,False,False
+2012,4733,Alexandre Gallo,38,14,7,17,49,44,51,Náutico,0.4298,0.3684,0.1842,0.4474,-7,1.1579,1.3421,-0.1842,16,29,False,False,False,False
+2012,4981,Gilson Kleina,38,12,11,15,47,47,51,"Ponte Preta, Palmeiras",0.4123,0.3158,0.2895,0.3947,-4,1.2368,1.3421,-0.1053,17,29,False,False,False,False
+2012,4726,Geninho,38,10,15,13,45,39,41,Portuguesa,0.3947,0.2632,0.3947,0.3421,-2,1.0263,1.0789,-0.0526,18,29,False,False,False,False
+2012,19584,Guto Ferreira,13,4,3,6,15,7,12,Ponte Preta,0.3846,0.3077,0.2308,0.4615,-5,0.5385,0.9231,-0.3846,19,29,False,False,False,False
+2012,24836,Jairo Araújo,20,5,7,8,22,25,33,Atlético-GO,0.3667,0.2500,0.3500,0.4000,-8,1.2500,1.6500,-0.4000,20,29,False,False,False,False
+2012,9735,Waldemar Lemos,12,3,4,5,13,11,20,Sport,0.3611,0.2500,0.3333,0.4167,-9,0.9167,1.6667,-0.7500,21,29,False,False,False,False
+2012,13127,Márcio Goiano,15,4,3,8,15,18,29,Figueirense,0.3333,0.2667,0.2000,0.5333,-11,1.2000,1.9333,-0.7333,22,29,False,False,False,False
+2012,9562,Marcelo Oliveira,32,8,6,18,30,40,57,"Coritiba, Vasco",0.3125,0.2500,0.1875,0.5625,-17,1.2500,1.7812,-0.5312,23,29,False,False,False,False
+2012,5667,Vagner Mancini,16,3,5,8,14,13,23,Sport,0.2917,0.1875,0.3125,0.5000,-10,0.8125,1.4375,-0.6250,24,29,False,False,False,False
+2012,1068,Luiz Felipe Scolari,24,5,5,14,20,22,33,Palmeiras,0.2778,0.2083,0.2083,0.5833,-11,0.9167,1.3750,-0.4583,25,29,False,False,False,False
+2012,10334,Argel Fuchs,10,1,5,4,8,13,17,Figueirense,0.2667,0.1000,0.5000,0.4000,-4,1.3000,1.7000,-0.4000,26,29,False,False,False,True
+2012,18640,Falcão,10,1,4,5,7,7,16,Bahia,0.2333,0.1000,0.4000,0.5000,-9,0.7000,1.6000,-0.9000,27,29,False,False,False,True
+2012,11776,Arthur Neto,10,2,0,8,6,8,19,Atlético-GO,0.2000,0.2000,0.0000,0.8000,-11,0.8000,1.9000,-1.1000,28,29,False,False,False,True
+2012,7839,Hélio dos Anjos,14,1,0,13,3,5,29,"Atlético-GO, Figueirense",0.0714,0.0714,0.0000,0.9286,-24,0.3571,2.0714,-1.7143,29,29,False,False,False,True
+2013,9562,Marcelo Oliveira,38,23,7,8,76,77,37,Cruzeiro,0.6667,0.6053,0.1842,0.2105,40,2.0263,0.9737,1.0526,1,27,True,False,True,False
+2013,5667,Vagner Mancini,32,17,7,8,58,53,36,Athletico-PR,0.6042,0.5312,0.2188,0.2500,17,1.6562,1.1250,0.5312,2,27,False,True,True,False
+2013,4474,Ney Franco,26,12,9,5,45,46,32,"São Paulo, Vitória",0.5769,0.4615,0.3462,0.1923,14,1.7692,1.2308,0.5385,3,27,False,False,True,False
+2013,4728,Renato Gaúcho,33,16,9,8,57,37,31,Grêmio,0.5758,0.4848,0.2727,0.2424,6,1.1212,0.9394,0.1818,4,27,False,False,True,False
+2013,7573,Oswaldo de Oliveira,38,17,10,11,61,55,41,Botafogo,0.5351,0.4474,0.2632,0.2895,14,1.4474,1.0789,0.3684,5,27,False,False,False,False
+2013,4729,Muricy Ramalho,21,10,3,8,33,23,20,"Santos, São Paulo",0.5238,0.4762,0.1429,0.3810,3,1.0952,0.9524,0.1429,6,27,False,False,False,False
+2013,30162,Claudinei Oliveira,36,15,11,10,56,50,36,Santos,0.5185,0.4167,0.3056,0.2778,14,1.3889,1.0000,0.3889,7,27,False,False,False,False
+2013,8226,Enderson Moreira,38,16,11,11,59,48,44,Goiás,0.5175,0.4211,0.2895,0.2895,4,1.2632,1.1579,0.1053,8,27,False,False,False,False
+2013,31320,Jayme de Almeida Filho,17,7,5,5,26,22,17,Flamengo,0.5098,0.4118,0.2941,0.2941,5,1.2941,1.0000,0.2941,9,27,False,False,False,False
+2013,4732,Cuca,38,15,12,11,57,49,38,Atlético-MG,0.5000,0.3947,0.3158,0.2895,11,1.2895,1.0000,0.2895,10,27,False,False,False,False
+2013,10334,Argel Fuchs,15,6,4,5,22,20,25,Criciúma,0.4889,0.4000,0.2667,0.3333,-5,1.3333,1.6667,-0.3333,11,27,False,False,False,False
+2013,3592,Dunga,25,8,10,7,34,37,37,Internacional,0.4533,0.3200,0.4000,0.2800,0,1.4800,1.4800,0.0000,12,27,False,False,False,False
+2013,25809,Marquinhos Santos,23,7,10,6,31,28,28,Coritiba,0.4493,0.3043,0.4348,0.2609,0,1.2174,1.2174,0.0000,13,27,False,False,False,False
+2013,19584,Guto Ferreira,33,12,8,13,44,45,38,"Ponte Preta, Portuguesa",0.4444,0.3636,0.2424,0.3939,7,1.3636,1.1515,0.2121,14,27,False,False,False,False
+2013,6623,Tite,38,11,17,10,50,27,22,Corinthians,0.4386,0.2895,0.4474,0.2632,5,0.7105,0.5789,0.1316,15,27,False,False,False,False
+2013,4731,Caio Júnior,17,6,4,7,22,21,24,Vitória,0.4314,0.3529,0.2353,0.4118,-3,1.2353,1.4118,-0.1765,16,27,False,False,False,False
+2013,21195,Cristóvão Borges,38,12,12,14,48,37,45,Bahia,0.4211,0.3158,0.3158,0.3684,-8,0.9737,1.1842,-0.2105,17,27,False,False,False,False
+2013,4734,Mano Menezes,17,5,6,6,21,19,24,Flamengo,0.4118,0.2941,0.3529,0.3529,-5,1.1176,1.4118,-0.2941,18,27,False,False,False,False
+2013,1976,Vanderlei Luxemburgo,29,8,11,10,35,28,31,"Grêmio, Fluminense",0.4023,0.2759,0.3793,0.3448,-3,0.9655,1.0690,-0.1034,19,27,False,False,False,False
+2013,4724,Dorival Júnior,30,9,9,12,36,41,43,"Vasco, Fluminense",0.4000,0.3000,0.3000,0.4000,-2,1.3667,1.4333,-0.0667,20,27,False,False,False,False
+2013,4721,Paulo César Carpegiani,10,3,3,4,12,13,15,Ponte Preta,0.4000,0.3000,0.3000,0.4000,-2,1.3000,1.5000,-0.2000,20,27,False,False,False,False
+2013,31459,Clemer,13,3,5,5,14,14,15,Internacional,0.3590,0.2308,0.3846,0.3846,-1,1.0769,1.1538,-0.0769,22,27,False,False,False,False
+2013,4910,Vadão,15,4,2,9,14,19,27,Criciúma,0.3111,0.2667,0.1333,0.6000,-8,1.2667,1.8000,-0.5333,23,27,False,False,False,False
+2013,7580,Péricles Chamusca,11,3,1,7,10,11,13,Coritiba,0.3030,0.2727,0.0909,0.6364,-2,1.0000,1.1818,-0.1818,24,27,False,False,False,True
+2013,2699,Paulo Autuori,19,4,5,10,17,17,30,"Vasco, São Paulo",0.2982,0.2105,0.2632,0.5263,-13,0.8947,1.5789,-0.6842,25,27,False,False,False,True
+2013,3622,Jorginho (Jorge de Amorim),27,5,9,13,24,21,36,"Flamengo, Ponte Preta",0.2963,0.1852,0.3333,0.4815,-15,0.7778,1.3333,-0.5556,26,27,False,False,False,True
+2013,16828,Marcelo Martelotte,16,3,1,12,10,12,40,Náutico,0.2083,0.1875,0.0625,0.7500,-28,0.7500,2.5000,-1.7500,27,27,False,False,False,True
+2014,9562,Marcelo Oliveira,38,24,8,6,80,67,38,Cruzeiro,0.7018,0.6316,0.2105,0.1579,29,1.7632,1.0000,0.7632,1,24,True,False,True,False
+2014,4729,Muricy Ramalho,38,20,10,8,70,59,40,São Paulo,0.6140,0.5263,0.2632,0.2105,19,1.5526,1.0526,0.5000,2,24,False,True,True,False
+2014,4734,Mano Menezes,38,19,12,7,69,49,31,Corinthians,0.6053,0.5000,0.3158,0.1842,18,1.2895,0.8158,0.4737,3,24,False,False,True,False
+2014,5016,Abel Braga,38,21,6,11,69,53,41,Internacional,0.6053,0.5526,0.1579,0.2895,12,1.3947,1.0789,0.3158,3,24,False,False,True,False
+2014,1068,Luiz Felipe Scolari,25,12,6,7,42,25,14,Grêmio,0.5600,0.4800,0.2400,0.2800,11,1.0000,0.5600,0.4400,5,24,False,False,False,False
+2014,1976,Vanderlei Luxemburgo,27,13,6,8,45,39,28,Flamengo,0.5556,0.4815,0.2222,0.2963,11,1.4444,1.0370,0.4074,6,24,False,False,False,False
+2014,7592,Levir Culpi,37,17,10,10,61,51,38,Atlético-MG,0.5495,0.4595,0.2703,0.2703,13,1.3784,1.0270,0.3514,7,24,False,False,False,False
+2014,21195,Cristóvão Borges,38,17,10,11,61,61,42,Fluminense,0.5351,0.4474,0.2632,0.2895,19,1.6053,1.1053,0.5000,8,24,False,False,False,False
+2014,8226,Enderson Moreira,32,14,7,11,49,34,29,"Grêmio, Santos",0.5104,0.4375,0.2188,0.3438,5,1.0625,0.9062,0.1562,9,24,False,False,False,False
+2014,30162,Claudinei Oliveira,20,9,3,8,30,19,17,Athletico-PR,0.5000,0.4500,0.1500,0.4000,2,0.9500,0.8500,0.1000,10,24,False,False,False,False
+2014,10334,Argel Fuchs,27,11,7,9,40,32,32,Figueirense,0.4938,0.4074,0.2593,0.3333,0,1.1852,1.1852,0.0000,11,24,False,False,False,False
+2014,36059,Celso Rodrigues,18,7,4,7,25,19,22,Chapecoense,0.4630,0.3889,0.2222,0.3889,-3,1.0556,1.2222,-0.1667,12,24,False,False,False,False
+2014,34959,Eduardo Baptista,38,14,10,14,52,36,46,Sport,0.4561,0.3684,0.2632,0.3684,-10,0.9474,1.2105,-0.2632,13,24,False,False,False,False
+2014,7573,Oswaldo de Oliveira,18,6,5,7,23,18,14,Santos,0.4259,0.3333,0.2778,0.3889,4,1.0000,0.7778,0.2222,14,24,False,False,False,False
+2014,25809,Marquinhos Santos,33,11,8,14,41,36,41,"Bahia, Coritiba",0.4141,0.3333,0.2424,0.4242,-5,1.0909,1.2424,-0.1515,15,24,False,False,False,False
+2014,6953,Ricardo Drubscky,38,13,8,17,47,38,40,Goiás,0.4123,0.3421,0.2105,0.4474,-2,1.0000,1.0526,-0.0526,16,24,False,False,False,False
+2014,4724,Dorival Júnior,20,6,5,9,23,20,35,Palmeiras,0.3833,0.3000,0.2500,0.4500,-15,1.0000,1.7500,-0.7500,17,24,False,False,False,False
+2014,22027,Wagner Lopes,15,4,5,6,17,8,20,Criciúma,0.3778,0.2667,0.3333,0.4000,-12,0.5333,1.3333,-0.8000,18,24,False,False,False,False
+2014,12938,Jorginho Cantinflas,24,6,8,10,26,25,27,"Vitória, Chapecoense",0.3611,0.2500,0.3333,0.4167,-2,1.0417,1.1250,-0.0833,19,24,False,False,False,False
+2014,4981,Gilson Kleina,22,5,6,11,21,19,27,"Palmeiras, Bahia",0.3182,0.2273,0.2727,0.5000,-8,0.8636,1.2273,-0.3636,20,24,False,False,False,False
+2014,4474,Ney Franco,33,8,7,18,31,30,51,"Vitória, Flamengo",0.3131,0.2424,0.2121,0.5455,-21,0.9091,1.5455,-0.6364,21,24,False,False,False,True
+2014,5667,Vagner Mancini,38,9,7,22,34,31,48,Botafogo,0.2982,0.2368,0.1842,0.5789,-17,0.8158,1.2632,-0.4474,22,24,False,False,False,True
+2014,4730,Celso Roth,17,3,6,8,15,14,18,Coritiba,0.2941,0.1765,0.3529,0.4706,-4,0.8235,1.0588,-0.2353,23,24,False,False,False,True
+2014,28995,Gilmar Dal Pozzo,19,3,6,10,15,16,24,"Chapecoense, Criciúma",0.2632,0.1579,0.3158,0.5263,-8,0.8421,1.2632,-0.4211,24,24,False,False,False,True
+2015,6623,Tite,38,24,9,5,81,71,31,Corinthians,0.7105,0.6316,0.2368,0.1316,40,1.8684,0.8158,1.0526,1,28,True,False,True,False
+2015,18640,Falcão,11,7,1,3,22,17,9,Sport,0.6667,0.6364,0.0909,0.2727,8,1.5455,0.8182,0.7273,2,28,False,True,True,False
+2015,4734,Mano Menezes,16,8,6,2,30,27,13,Cruzeiro,0.6250,0.5000,0.3750,0.1250,14,1.6875,0.8125,0.8750,3,28,False,False,True,False
+2015,4724,Dorival Júnior,26,14,6,6,48,45,20,Santos,0.6154,0.5385,0.2308,0.2308,25,1.7308,0.7692,0.9615,4,28,False,False,True,False
+2015,7592,Levir Culpi,36,20,6,10,66,61,45,Atlético-MG,0.6111,0.5556,0.1667,0.2778,16,1.6944,1.2500,0.4444,5,28,False,False,False,False
+2015,32869,Roger Machado,35,19,7,9,64,48,27,Grêmio,0.6095,0.5429,0.2000,0.2571,21,1.3714,0.7714,0.6000,6,28,False,False,False,False
+2015,6359,Juan Carlos Osorio,26,11,7,8,40,31,28,São Paulo,0.5128,0.4231,0.2692,0.3077,3,1.1923,1.0769,0.1154,7,28,False,False,False,False
+2015,10334,Argel Fuchs,38,16,8,14,56,42,41,"Figueirense, Internacional",0.4912,0.4211,0.2105,0.3684,1,1.1053,1.0789,0.0263,8,28,False,False,False,False
+2015,3622,Jorginho (Jorge de Amorim),19,7,7,5,28,20,23,Vasco,0.4912,0.3684,0.3684,0.2632,-3,1.0526,1.2105,-0.1579,8,28,False,False,False,False
+2015,21195,Cristóvão Borges,25,10,5,10,35,30,37,"Flamengo, Athletico-PR",0.4667,0.4000,0.2000,0.4000,-7,1.2000,1.4800,-0.2800,10,28,False,False,False,False
+2015,7573,Oswaldo de Oliveira,23,9,5,9,32,29,26,"Palmeiras, Flamengo",0.4638,0.3913,0.2174,0.3913,3,1.2609,1.1304,0.1304,11,28,False,False,False,False
+2015,40052,Milton Mendes,28,11,5,12,38,30,32,Athletico-PR,0.4524,0.3929,0.1786,0.4286,-2,1.0714,1.1429,-0.0714,12,28,False,False,False,False
+2015,34959,Eduardo Baptista,38,12,14,12,50,48,43,"Sport, Fluminense",0.4386,0.3158,0.3684,0.3158,5,1.2632,1.1316,0.1316,13,28,False,False,False,False
+2015,11780,Diego Aguirre,16,5,6,5,21,13,16,Internacional,0.4375,0.3125,0.3750,0.3125,-3,0.8125,1.0000,-0.1875,14,28,False,False,False,False
+2015,8226,Enderson Moreira,24,9,4,11,31,25,29,Fluminense,0.4306,0.3750,0.1667,0.4583,-4,1.0417,1.2083,-0.1667,15,28,False,False,False,False
+2015,9562,Marcelo Oliveira,35,13,6,16,45,54,49,"Cruzeiro, Palmeiras",0.4286,0.3714,0.1714,0.4571,5,1.5429,1.4000,0.1429,16,28,False,False,False,False
+2015,19584,Guto Ferreira,29,8,12,9,36,31,37,"Ponte Preta, Chapecoense",0.4138,0.2759,0.4138,0.3103,-6,1.0690,1.2759,-0.2069,17,28,False,False,False,False
+2015,35663,Doriva,26,8,8,10,32,28,34,"Vasco, Ponte Preta, São Paulo",0.4103,0.3077,0.3077,0.3846,-6,1.0769,1.3077,-0.2308,18,28,False,False,False,False
+2015,5155,Hudson Coutinho,13,4,4,5,16,14,14,Figueirense,0.4103,0.3077,0.3077,0.3846,0,1.0769,1.0769,0.0000,18,28,False,False,False,False
+2015,10810,Vinícius Eutrópio,25,8,6,11,30,20,27,Chapecoense,0.4000,0.3200,0.2400,0.4400,-7,0.8000,1.0800,-0.2800,20,28,False,False,False,False
+2015,19846,Julinho Camargo,15,5,3,7,18,17,15,Goiás,0.4000,0.3333,0.2000,0.4667,2,1.1333,1.0000,0.1333,20,28,False,False,False,False
+2015,4474,Ney Franco,27,7,10,10,31,20,30,Coritiba,0.3827,0.2593,0.3704,0.3704,-10,0.7407,1.1111,-0.3704,22,28,False,False,False,False
+2015,1976,Vanderlei Luxemburgo,20,6,4,10,22,17,22,"Flamengo, Cruzeiro",0.3667,0.3000,0.2000,0.5000,-5,0.8500,1.1000,-0.2500,23,28,False,False,False,False
+2015,4981,Gilson Kleina,34,9,8,17,35,33,55,Avaí,0.3431,0.2647,0.2353,0.5000,-22,0.9706,1.6176,-0.6471,24,28,False,False,False,False
+2015,4834,Paulo César Gusmão,23,5,7,11,22,19,29,Joinville,0.3188,0.2174,0.3043,0.4783,-10,0.8261,1.2609,-0.4348,25,28,False,False,False,True
+2015,4730,Celso Roth,11,3,1,7,10,5,17,Vasco,0.3030,0.2727,0.0909,0.6364,-12,0.4545,1.5455,-1.0909,26,28,False,False,False,True
+2015,39634,Marcelo Fernandes,12,2,4,6,10,14,21,Santos,0.2778,0.1667,0.3333,0.5000,-7,1.1667,1.7500,-0.5833,27,28,False,False,False,True
+2015,5668,Adilson Batista,10,2,2,6,8,6,11,Joinville,0.2667,0.2000,0.2000,0.6000,-5,0.6000,1.1000,-0.5000,28,28,False,False,False,True
+2016,4732,Cuca,38,24,8,6,80,62,32,Palmeiras,0.7018,0.6316,0.2105,0.1579,30,1.6316,0.8421,0.7895,1,28,True,False,True,False
+2016,22198,Jair Ventura,20,12,3,5,39,20,10,Botafogo,0.6500,0.6000,0.1500,0.2500,10,1.0000,0.5000,0.5000,2,28,False,True,True,False
+2016,46981,Zé Ricardo,35,19,10,6,67,49,32,Flamengo,0.6381,0.5429,0.2857,0.1714,17,1.4000,0.9143,0.4857,3,28,False,False,True,False
+2016,4724,Dorival Júnior,38,22,5,11,71,59,35,Santos,0.6228,0.5789,0.1316,0.2895,24,1.5526,0.9211,0.6316,4,28,False,False,True,False
+2016,9562,Marcelo Oliveira,35,16,11,8,59,59,48,Atlético-MG,0.5619,0.4571,0.3143,0.2286,11,1.6857,1.3714,0.3143,5,28,False,False,False,False
+2016,4734,Mano Menezes,22,10,6,6,36,29,22,Cruzeiro,0.5455,0.4545,0.2727,0.2727,7,1.3182,1.0000,0.3182,6,28,False,False,False,False
+2016,4728,Renato Gaúcho,10,4,4,2,16,8,6,Grêmio,0.5333,0.4000,0.4000,0.2000,2,0.8000,0.6000,0.2000,7,28,False,False,False,False
+2016,2699,Paulo Autuori,38,17,6,15,57,38,32,Athletico-PR,0.5000,0.4474,0.1579,0.3947,6,1.0000,0.8421,0.1579,8,28,False,False,False,False
+2016,19584,Guto Ferreira,10,3,6,1,15,16,13,Chapecoense,0.5000,0.3000,0.6000,0.1000,3,1.6000,1.3000,0.3000,8,28,False,False,False,False
+2016,32869,Roger Machado,25,10,7,8,37,32,31,Grêmio,0.4933,0.4000,0.2800,0.3200,1,1.2800,1.2400,0.0400,10,28,False,False,False,False
+2016,21195,Cristóvão Borges,17,7,4,6,25,22,19,Corinthians,0.4902,0.4118,0.2353,0.3529,3,1.2941,1.1176,0.1765,11,28,False,False,False,False
+2016,4731,Caio Júnior,26,10,7,9,37,32,35,Chapecoense,0.4744,0.3846,0.2692,0.3462,-3,1.2308,1.3462,-0.1154,12,28,False,False,False,False
+2016,7592,Levir Culpi,34,13,9,12,48,43,41,Fluminense,0.4706,0.3824,0.2647,0.3529,2,1.2647,1.2059,0.0588,13,28,False,False,False,False
+2016,4721,Paulo César Carpegiani,20,7,7,6,28,23,17,Coritiba,0.4667,0.3500,0.3500,0.3000,6,1.1500,0.8500,0.3000,14,28,False,False,False,False
+2016,34959,Eduardo Baptista,37,14,8,15,50,46,52,Ponte Preta,0.4505,0.3784,0.2162,0.4054,-6,1.2432,1.4054,-0.1622,15,28,False,False,False,False
+2016,10334,Argel Fuchs,36,14,6,16,48,43,39,"Internacional, Figueirense, Vitória",0.4444,0.3889,0.1667,0.4444,4,1.1944,1.0833,0.1111,16,28,False,False,False,False
+2016,7625,Edgardo Bauza,18,6,5,7,23,19,19,São Paulo,0.4259,0.3333,0.2778,0.3889,0,1.0556,1.0556,0.0000,17,28,False,False,False,False
+2016,2327,Ricardo Gomes,34,10,10,14,40,39,43,"Botafogo, São Paulo",0.3922,0.2941,0.2941,0.4118,-4,1.1471,1.2647,-0.1176,18,28,False,False,False,False
+2016,7573,Oswaldo de Oliveira,38,11,11,16,44,48,59,"Sport, Corinthians",0.3860,0.2895,0.2895,0.4211,-11,1.2632,1.5526,-0.2895,19,28,False,False,False,False
+2016,5667,Vagner Mancini,24,6,8,10,26,31,37,Vitória,0.3611,0.2500,0.3333,0.4167,-6,1.2917,1.5417,-0.2500,20,28,False,False,False,False
+2016,43415,Pachequinho,13,3,5,5,14,12,16,Coritiba,0.3590,0.2308,0.3846,0.3846,-4,0.9231,1.2308,-0.3077,21,28,False,False,False,False
+2016,10810,Vinícius Eutrópio,14,3,6,5,15,12,17,Figueirense,0.3571,0.2143,0.4286,0.3571,-5,0.8571,1.2143,-0.3571,22,28,False,False,False,False
+2016,4730,Celso Roth,16,4,5,7,17,12,16,Internacional,0.3542,0.2500,0.3125,0.4375,-4,0.7500,1.0000,-0.2500,23,28,False,False,False,False
+2016,2594,Paulo Bento,15,4,3,8,15,19,26,Cruzeiro,0.3333,0.2667,0.2000,0.5333,-7,1.2667,1.7333,-0.4667,24,28,False,False,False,False
+2016,40052,Milton Mendes,19,5,3,11,18,20,26,Santa Cruz,0.3158,0.2632,0.1579,0.5789,-6,1.0526,1.3684,-0.3158,25,28,False,False,False,True
+2016,8226,Enderson Moreira,23,5,5,13,20,14,31,América-MG,0.2899,0.2174,0.2174,0.5652,-17,0.6087,1.3478,-0.7391,26,28,False,False,False,True
+2016,25809,Marquinhos Santos,12,2,3,7,9,6,16,Figueirense,0.2500,0.1667,0.2500,0.5833,-10,0.5000,1.3333,-0.8333,27,28,False,False,False,True
+2016,35663,Doriva,12,1,1,10,4,13,30,Santa Cruz,0.1111,0.0833,0.0833,0.8333,-17,1.0833,2.5000,-1.4167,28,28,False,False,False,True
+2017,47350,Fábio Carille,38,21,9,8,72,50,30,Corinthians,0.6316,0.5526,0.2368,0.2105,20,1.3158,0.7895,0.5263,1,29,True,False,True,False
+2017,7573,Oswaldo de Oliveira,13,6,5,2,23,25,18,Atlético-MG,0.5897,0.4615,0.3846,0.1538,7,1.9231,1.3846,0.5385,2,29,False,True,True,False
+2017,7592,Levir Culpi,25,11,11,3,44,27,16,Santos,0.5867,0.4400,0.4400,0.1200,11,1.0800,0.6400,0.4400,3,29,False,False,True,False
+2017,35052,Alberto Valentim,11,6,1,4,19,23,16,Palmeiras,0.5758,0.5455,0.0909,0.3636,7,2.0909,1.4545,0.6364,4,29,False,False,True,False
+2017,4728,Renato Gaúcho,37,18,8,11,62,52,32,Grêmio,0.5586,0.4865,0.2162,0.2973,20,1.4054,0.8649,0.5405,5,29,False,False,False,False
+2017,4732,Cuca,27,13,5,9,44,38,29,Palmeiras,0.5432,0.4815,0.1852,0.3333,9,1.4074,1.0741,0.3333,6,29,False,False,False,False
+2017,46981,Zé Ricardo,35,14,15,6,57,44,32,"Flamengo, Vasco",0.5429,0.4000,0.4286,0.1714,12,1.2571,0.9143,0.3429,7,29,False,False,False,False
+2017,4721,Paulo César Carpegiani,12,5,4,3,19,18,15,Bahia,0.5278,0.4167,0.3333,0.2500,3,1.5000,1.2500,0.2500,8,29,False,False,False,False
+2017,4734,Mano Menezes,38,15,12,11,57,47,39,Cruzeiro,0.5000,0.3947,0.3158,0.2895,8,1.2368,1.0263,0.2105,9,29,False,False,False,False
+2017,4161,Reinaldo Rueda,18,8,3,7,27,22,17,Flamengo,0.5000,0.4444,0.1667,0.3889,5,1.2222,0.9444,0.2778,9,29,False,False,False,False
+2017,4724,Dorival Júnior,30,11,9,10,42,39,41,"Santos, São Paulo",0.4667,0.3667,0.3000,0.3333,-2,1.3000,1.3667,-0.0667,11,29,False,False,False,False
+2017,22198,Jair Ventura,38,14,11,13,53,45,42,Botafogo,0.4649,0.3684,0.2895,0.3421,3,1.1842,1.1053,0.0789,12,29,False,False,False,False
+2017,39377,Fabiano Soares,26,10,6,10,36,33,27,Athletico-PR,0.4615,0.3846,0.2308,0.3846,6,1.2692,1.0385,0.2308,13,29,False,False,False,False
+2017,4981,Gilson Kleina,32,11,11,10,44,37,38,"Ponte Preta, Chapecoense",0.4583,0.3438,0.3438,0.3125,-1,1.1562,1.1875,-0.0312,14,29,False,False,False,False
+2017,5667,Vagner Mancini,33,12,9,12,45,51,51,"Chapecoense, Vitória",0.4545,0.3636,0.2727,0.3636,0,1.5455,1.5455,0.0000,15,29,False,False,False,False
+2017,32869,Roger Machado,15,5,5,5,20,16,17,Atlético-MG,0.4444,0.3333,0.3333,0.3333,-1,1.0667,1.1333,-0.0667,16,29,False,False,False,False
+2017,43527,João Paulo Sanches,24,8,7,9,31,29,28,Atlético-GO,0.4306,0.3333,0.2917,0.3750,1,1.2083,1.1667,0.0417,17,29,False,False,False,False
+2017,43415,Pachequinho,15,5,4,6,19,16,20,Coritiba,0.4222,0.3333,0.2667,0.4000,-4,1.0667,1.3333,-0.2667,18,29,False,False,False,False
+2017,5016,Abel Braga,38,11,14,13,47,50,53,Fluminense,0.4123,0.2895,0.3684,0.3421,-3,1.3158,1.3947,-0.0789,19,29,False,False,False,False
+2017,40052,Milton Mendes,21,7,4,10,25,22,34,Vasco,0.3968,0.3333,0.1905,0.4762,-12,1.0476,1.6190,-0.5714,20,29,False,False,False,False
+2017,1976,Vanderlei Luxemburgo,27,8,7,12,31,31,35,Sport,0.3827,0.2963,0.2593,0.4444,-4,1.1481,1.2963,-0.1481,21,29,False,False,False,False
+2017,3622,Jorginho (Jorge de Amorim),14,4,4,6,16,14,17,Bahia,0.3810,0.2857,0.2857,0.4286,-3,1.0000,1.2143,-0.2143,22,29,False,False,False,False
+2017,30162,Claudinei Oliveira,38,10,13,15,43,29,48,Avaí,0.3772,0.2632,0.3421,0.3947,-19,0.7632,1.2632,-0.5000,23,29,False,False,False,False
+2017,34959,Eduardo Baptista,24,7,5,12,26,21,28,"Athletico-PR, Ponte Preta",0.3611,0.2917,0.2083,0.5000,-7,0.8750,1.1667,-0.2917,24,29,False,False,False,False
+2017,9562,Marcelo Oliveira,23,6,6,11,24,26,31,Coritiba,0.3478,0.2609,0.2609,0.4783,-5,1.1304,1.3478,-0.2174,25,29,False,False,False,False
+2017,4733,Alexandre Gallo,11,3,2,6,11,14,23,Vitória,0.3333,0.2727,0.1818,0.5455,-9,1.2727,2.0909,-0.8182,26,29,False,False,False,True
+2017,50290,Rogério Ceni,11,3,2,6,11,10,11,São Paulo,0.3333,0.2727,0.1818,0.5455,-1,0.9091,1.0000,-0.0909,26,29,False,False,False,True
+2017,10810,Vinícius Eutrópio,12,3,2,7,11,10,15,Chapecoense,0.3056,0.2500,0.1667,0.5833,-5,0.8333,1.2500,-0.4167,28,29,False,False,False,True
+2017,35663,Doriva,10,1,2,7,5,8,17,Atlético-GO,0.1667,0.1000,0.2000,0.7000,-9,0.8000,1.7000,-0.9000,29,29,False,False,False,True
+2018,1068,Luiz Felipe Scolari,22,16,6,0,54,39,11,Palmeiras,0.8182,0.7273,0.2727,0.0000,28,1.7727,0.5000,1.2727,1,29,True,False,True,False
+2018,4724,Dorival Júnior,12,7,3,2,24,21,7,Flamengo,0.6667,0.5833,0.2500,0.1667,14,1.7500,0.5833,1.1667,2,29,False,True,True,False
+2018,58565,Maurício Barbieri,26,14,6,6,48,38,22,Flamengo,0.6154,0.5385,0.2308,0.2308,16,1.4615,0.8462,0.6154,3,29,False,False,True,False
+2018,58610,Tiago Nunes,26,14,6,6,48,44,22,Athletico-PR,0.6154,0.5385,0.2308,0.2308,22,1.6923,0.8462,0.8462,3,29,False,False,True,False
+2018,41640,Odair Hellmann,38,19,12,7,69,51,29,Internacional,0.6053,0.5000,0.3158,0.1842,22,1.3421,0.7632,0.5789,5,29,False,False,False,False
+2018,11780,Diego Aguirre,33,15,13,5,58,44,30,São Paulo,0.5859,0.4545,0.3939,0.1515,14,1.3333,0.9091,0.4242,6,29,False,False,False,False
+2018,4728,Renato Gaúcho,38,18,12,8,66,48,27,Grêmio,0.5789,0.4737,0.3158,0.2105,21,1.2632,0.7105,0.5526,7,29,False,False,False,False
+2018,59786,Thiago Larghi,29,13,7,9,46,47,34,Atlético-MG,0.5287,0.4483,0.2414,0.3103,13,1.6207,1.1724,0.4483,8,29,False,False,False,False
+2018,32869,Roger Machado,15,6,5,4,23,22,15,Palmeiras,0.5111,0.4000,0.3333,0.2667,7,1.4667,1.0000,0.4667,9,29,False,False,False,False
+2018,40052,Milton Mendes,12,5,3,4,18,14,18,Sport,0.5000,0.4167,0.2500,0.3333,-4,1.1667,1.5000,-0.3333,10,29,False,False,False,False
+2018,4732,Cuca,23,9,7,7,34,30,21,Santos,0.4928,0.3913,0.3043,0.3043,9,1.3043,0.9130,0.3913,11,29,False,False,False,False
+2018,37824,Lisca,29,10,11,8,41,28,24,Ceará,0.4713,0.3448,0.3793,0.2759,4,0.9655,0.8276,0.1379,12,29,False,False,False,False
+2018,46981,Zé Ricardo,29,11,8,10,41,33,37,"Vasco, Botafogo",0.4713,0.3793,0.2759,0.3448,-4,1.1379,1.2759,-0.1379,12,29,False,False,False,False
+2018,4734,Mano Menezes,38,14,11,13,53,34,34,Cruzeiro,0.4649,0.3684,0.2895,0.3421,0,0.8947,0.8947,0.0000,14,29,False,False,False,False
+2018,8226,Enderson Moreira,38,13,11,14,50,43,42,"América-MG, Bahia",0.4386,0.3421,0.2895,0.3684,1,1.1316,1.1053,0.0263,15,29,False,False,False,False
+2018,5016,Abel Braga,12,4,2,6,14,14,17,Fluminense,0.3889,0.3333,0.1667,0.5000,-3,1.1667,1.4167,-0.2500,16,29,False,False,False,False
+2018,35052,Alberto Valentim,31,8,12,11,36,32,34,"Botafogo, Vasco",0.3871,0.2581,0.3871,0.3548,-2,1.0323,1.0968,-0.0645,17,29,False,False,False,False
+2018,5667,Vagner Mancini,16,5,3,8,18,19,31,Vitória,0.3750,0.3125,0.1875,0.5000,-12,1.1875,1.9375,-0.7500,18,29,False,False,False,False
+2018,9562,Marcelo Oliveira,25,7,7,11,28,17,29,Fluminense,0.3733,0.2800,0.2800,0.4400,-12,0.6800,1.1600,-0.4800,19,29,False,False,False,False
+2018,40002,Osmar Loss,17,5,4,8,19,16,16,Corinthians,0.3725,0.2941,0.2353,0.4706,0,0.9412,0.9412,0.0000,20,29,False,False,False,False
+2018,4721,Paulo César Carpegiani,14,4,3,7,15,11,17,Vitória,0.3571,0.2857,0.2143,0.5000,-6,0.7857,1.2143,-0.4286,21,29,False,False,False,False
+2018,4981,Gilson Kleina,17,3,9,5,18,17,23,Chapecoense,0.3529,0.1765,0.5294,0.2941,-6,1.0000,1.3529,-0.3529,22,29,False,False,False,False
+2018,5668,Adilson Batista,19,4,8,7,20,12,17,América-MG,0.3509,0.2105,0.4211,0.3684,-5,0.6316,0.8947,-0.2632,23,29,False,False,False,False
+2018,22198,Jair Ventura,28,7,8,13,29,24,32,"Santos, Corinthians",0.3452,0.2500,0.2857,0.4643,-8,0.8571,1.1429,-0.2857,24,29,False,False,False,False
+2018,19584,Guto Ferreira,21,6,3,12,21,18,32,"Bahia, Chapecoense",0.3333,0.2857,0.1429,0.5714,-14,0.8571,1.5238,-0.6667,25,29,False,False,False,False
+2018,30162,Claudinei Oliveira,36,9,8,19,35,26,50,"Sport, Paraná, Chapecoense",0.3241,0.2500,0.2222,0.5278,-24,0.7222,1.3889,-0.6667,26,29,False,False,False,True
+2018,17444,Rogério Micale,18,3,5,10,14,9,24,Paraná,0.2593,0.1667,0.2778,0.5556,-15,0.5000,1.3333,-0.8333,27,29,False,False,False,True
+2018,41120,Fernando Diniz,12,2,3,7,9,10,15,Athletico-PR,0.2500,0.1667,0.2500,0.5833,-5,0.8333,1.2500,-0.4167,28,29,False,False,False,True
+2018,3622,Jorginho (Jorge de Amorim),10,2,1,7,7,8,17,"Ceará, Vasco",0.2333,0.2000,0.1000,0.7000,-9,0.8000,1.7000,-0.9000,29,29,False,False,False,True
+2019,2145,Jorge Jesus,29,23,4,2,73,71,28,Flamengo,0.8391,0.7931,0.1379,0.0690,43,2.4483,0.9655,1.4828,1,27,True,False,True,False
+2019,10819,Jorge Sampaoli,38,22,8,8,74,60,33,Santos,0.6491,0.5789,0.2105,0.2105,27,1.5789,0.8684,0.7105,2,27,False,True,True,False
+2019,1068,Luiz Felipe Scolari,16,8,6,2,30,24,13,Palmeiras,0.6250,0.5000,0.3750,0.1250,11,1.5000,0.8125,0.6875,3,27,False,False,True,False
+2019,4728,Renato Gaúcho,37,19,8,10,65,62,36,Grêmio,0.5856,0.5135,0.2162,0.2703,26,1.6757,0.9730,0.7027,4,27,False,False,True,False
+2019,4732,Cuca,21,9,8,4,35,23,15,São Paulo,0.5556,0.4286,0.3810,0.1905,8,1.0952,0.7143,0.3810,5,27,False,False,False,False
+2019,38610,Marcão,17,7,6,4,27,16,13,Fluminense,0.5294,0.4118,0.3529,0.2353,3,0.9412,0.7647,0.1765,6,27,False,False,False,False
+2019,41640,Odair Hellmann,24,11,5,8,38,29,23,Internacional,0.5278,0.4583,0.2083,0.3333,6,1.2083,0.9583,0.2500,7,27,False,False,False,False
+2019,58610,Tiago Nunes,30,13,7,10,46,44,31,Athletico-PR,0.5111,0.4333,0.2333,0.3333,13,1.4667,1.0333,0.4333,8,27,False,False,False,False
+2019,47350,Fábio Carille,30,11,12,7,45,32,26,Corinthians,0.5000,0.3667,0.4000,0.2333,6,1.0667,0.8667,0.2000,9,27,False,False,False,False
+2019,4734,Mano Menezes,33,13,9,11,48,39,38,"Cruzeiro, Palmeiras",0.4848,0.3939,0.2727,0.3333,1,1.1818,1.1515,0.0303,10,27,False,False,False,False
+2019,50290,Rogério Ceni,37,15,8,14,53,47,46,"Fortaleza, Cruzeiro",0.4775,0.4054,0.2162,0.3784,1,1.2703,1.2432,0.0270,11,27,False,False,False,False
+2019,30162,Claudinei Oliveira,12,5,2,5,17,13,20,Goiás,0.4722,0.4167,0.1667,0.4167,-7,1.0833,1.6667,-0.5833,12,27,False,False,False,False
+2019,1976,Vanderlei Luxemburgo,34,12,12,10,48,36,35,Vasco,0.4706,0.3529,0.3529,0.2941,1,1.0588,1.0294,0.0294,13,27,False,False,False,False
+2019,5016,Abel Braga,20,6,9,5,27,21,20,"Flamengo, Cruzeiro",0.4500,0.3000,0.4500,0.2500,1,1.0500,1.0000,0.0500,14,27,False,False,False,False
+2019,5667,Vagner Mancini,13,4,5,4,17,15,14,Atlético-MG,0.4359,0.3077,0.3846,0.3077,1,1.1538,1.0769,0.0769,15,27,False,False,False,False
+2019,32869,Roger Machado,38,12,13,13,49,44,43,Bahia,0.4298,0.3158,0.3421,0.3421,1,1.1579,1.1316,0.0263,16,27,False,False,False,False
+2019,41120,Fernando Diniz,32,11,7,14,40,35,40,"Fluminense, São Paulo",0.4167,0.3438,0.2188,0.4375,-5,1.0938,1.2500,-0.1562,17,27,False,False,False,False
+2019,69206,Rodrigo Santana,25,9,4,12,31,30,35,Atlético-MG,0.4133,0.3600,0.1600,0.4800,-5,1.2000,1.4000,-0.2000,18,27,False,False,False,False
+2019,4474,Ney Franco,36,12,7,17,43,44,62,"Chapecoense, Goiás",0.3981,0.3333,0.1944,0.4722,-18,1.2222,1.7222,-0.5000,19,27,False,False,False,False
+2019,68987,Eduardo Barroca,23,8,3,12,27,19,25,Botafogo,0.3913,0.3478,0.1304,0.5217,-6,0.8261,1.0870,-0.2609,20,27,False,False,False,False
+2019,46981,Zé Ricardo,18,5,5,8,20,20,26,"Fortaleza, Internacional",0.3704,0.2778,0.2778,0.4444,-6,1.1111,1.4444,-0.3333,21,27,False,False,False,False
+2019,8226,Enderson Moreira,22,6,5,11,23,22,23,Ceará,0.3485,0.2727,0.2273,0.5000,-1,1.0000,1.0455,-0.0455,22,27,False,False,False,False
+2019,10334,Argel Fuchs,29,7,7,15,28,21,39,"CSA, Ceará",0.3218,0.2414,0.2414,0.5172,-18,0.7241,1.3448,-0.6207,23,27,False,False,False,False
+2019,25809,Marquinhos Santos,19,4,6,9,18,14,20,Chapecoense,0.3158,0.2105,0.3158,0.4737,-6,0.7368,1.0526,-0.3158,24,27,False,False,False,True
+2019,35052,Alberto Valentim,28,7,5,16,26,18,43,"Avaí, Botafogo",0.3095,0.2500,0.1786,0.5714,-25,0.6429,1.5357,-0.8929,25,27,False,False,False,True
+2019,5668,Adilson Batista,16,4,2,10,14,12,20,"Ceará, Cruzeiro",0.2917,0.2500,0.1250,0.6250,-8,0.7500,1.2500,-0.5000,26,27,False,False,False,True
+2019,48802,Evando,14,0,3,11,3,5,26,Avaí,0.0714,0.0000,0.2143,0.7857,-21,0.3571,1.8571,-1.5000,27,27,False,False,False,True
+2020,5016,Abel Braga,15,10,2,3,32,26,13,Internacional,0.7111,0.6667,0.1333,0.2000,13,1.7333,0.8667,0.8667,1,27,True,False,True,False
+2020,38808,Eduardo Coudet,20,10,6,4,36,32,18,Internacional,0.6000,0.5000,0.3000,0.2000,14,1.6000,0.9000,0.7000,2,27,False,True,True,False
+2020,38610,Marcão,14,7,4,3,25,21,16,Fluminense,0.5952,0.5000,0.2857,0.2143,5,1.5000,1.1429,0.3571,3,27,False,False,True,False
+2020,41120,Fernando Diniz,33,16,10,7,58,53,36,São Paulo,0.5859,0.4848,0.3030,0.2121,17,1.6061,1.0909,0.5152,4,27,False,False,True,False
+2020,10819,Jorge Sampaoli,37,19,8,10,65,62,45,Atlético-MG,0.5856,0.5135,0.2162,0.2703,17,1.6757,1.2162,0.4595,5,27,False,False,False,False
+2020,16400,Domènec Torrent,18,9,4,5,31,29,27,Flamengo,0.5741,0.5000,0.2222,0.2778,2,1.6111,1.5000,0.1111,6,27,False,False,False,False
+2020,50290,Rogério Ceni,36,17,9,10,60,52,33,"Fortaleza, Flamengo",0.5556,0.4722,0.2500,0.2778,19,1.4444,0.9167,0.5278,7,27,False,False,False,False
+2020,41640,Odair Hellmann,24,11,6,7,39,34,26,Fluminense,0.5417,0.4583,0.2500,0.2917,8,1.4167,1.0833,0.3333,8,27,False,False,False,False
+2020,4728,Renato Gaúcho,37,14,17,6,59,53,39,Grêmio,0.5315,0.3784,0.4595,0.1622,14,1.4324,1.0541,0.3784,9,27,False,False,False,False
+2020,58565,Maurício Barbieri,31,12,11,8,47,43,29,Bragantino,0.5054,0.3871,0.3548,0.2581,14,1.3871,0.9355,0.4516,10,27,False,False,False,False
+2020,23009,Abel Ferreira,20,8,6,6,30,26,17,Palmeiras,0.5000,0.4000,0.3000,0.3000,9,1.3000,0.8500,0.4500,11,27,False,False,False,False
+2020,39442,Marcelo Cabo,18,7,6,5,27,22,19,Atlético-GO,0.5000,0.3889,0.3333,0.2778,3,1.2222,1.0556,0.1667,11,27,False,False,False,False
+2020,82994,Glauber Ramos,13,6,1,6,19,12,20,Goiás,0.4872,0.4615,0.0769,0.4615,-8,0.9231,1.5385,-0.6154,13,27,False,False,False,False
+2020,4732,Cuca,37,14,12,11,54,52,49,Santos,0.4865,0.3784,0.3243,0.2973,3,1.4054,1.3243,0.0811,14,27,False,False,False,False
+2020,5667,Vagner Mancini,38,14,12,12,54,43,45,"Atlético-GO, Corinthians",0.4737,0.3684,0.3158,0.3158,-2,1.1316,1.1842,-0.0526,15,27,False,False,False,False
+2020,2699,Paulo Autuori,32,11,12,9,45,35,32,"Botafogo, Athletico-PR",0.4688,0.3438,0.3750,0.2812,3,1.0938,1.0000,0.0938,16,27,False,False,False,False
+2020,49259,Ramon Menezes,13,5,3,5,18,17,18,Vasco,0.4615,0.3846,0.2308,0.3846,-1,1.3077,1.3846,-0.0769,17,27,False,False,False,False
+2020,19584,Guto Ferreira,38,14,10,14,52,54,51,Ceará,0.4561,0.3684,0.2632,0.3684,3,1.4211,1.3421,0.0789,18,27,False,False,False,False
+2020,16147,Dado Cavalcanti,12,4,4,4,16,16,13,Bahia,0.4444,0.3333,0.3333,0.3333,3,1.3333,1.0833,0.2500,19,27,False,False,False,False
+2020,1976,Vanderlei Luxemburgo,27,8,11,8,35,30,35,"Palmeiras, Vasco",0.4321,0.2963,0.4074,0.2963,-5,1.1111,1.2963,-0.1852,20,27,False,False,False,False
+2020,22198,Jair Ventura,31,11,5,15,38,25,38,Sport,0.4086,0.3548,0.1613,0.4839,-13,0.8065,1.2258,-0.4194,21,27,False,False,False,False
+2020,4734,Mano Menezes,18,6,1,11,19,22,32,Bahia,0.3519,0.3333,0.0556,0.6111,-10,1.2222,1.7778,-0.5556,22,27,False,False,False,False
+2020,3622,Jorginho (Jorge de Amorim),13,3,4,6,13,12,17,Coritiba,0.3333,0.2308,0.3077,0.4615,-5,0.9231,1.3077,-0.3846,23,27,False,False,False,True
+2020,68225,Eduardo Barros,10,2,4,4,10,7,10,Athletico-PR,0.3333,0.2000,0.4000,0.4000,-3,0.7000,1.0000,-0.3000,23,27,False,False,False,True
+2020,12110,Ricardo Sá Pinto,11,2,4,5,10,8,17,Vasco,0.3030,0.1818,0.3636,0.4545,-9,0.7273,1.5455,-0.8182,25,27,False,False,False,True
+2020,8226,Enderson Moreira,20,3,4,13,13,18,37,"Goiás, Fortaleza",0.2167,0.1500,0.2000,0.6500,-19,0.9000,1.8500,-0.9500,26,27,False,False,False,True
+2020,68987,Eduardo Barroca,13,1,1,11,4,6,23,"Coritiba, Botafogo",0.1026,0.0769,0.0769,0.8462,-17,0.4615,1.7692,-1.3077,27,27,False,False,False,True
+2021,4732,Cuca,38,26,6,6,84,67,34,Atlético-MG,0.7368,0.6842,0.1579,0.1579,33,1.7632,0.8947,0.8684,1,28,True,False,True,False
+2021,4728,Renato Gaúcho,25,15,7,3,52,54,22,Flamengo,0.6933,0.6000,0.2800,0.1200,32,2.1600,0.8800,1.2800,2,28,False,True,True,False
+2021,23009,Abel Ferreira,34,18,4,12,58,52,40,Palmeiras,0.5686,0.5294,0.1176,0.3529,12,1.5294,1.1765,0.3529,3,28,False,False,True,False
+2021,38610,Marcão,23,11,4,8,37,26,21,Fluminense,0.5362,0.4783,0.1739,0.3478,5,1.1304,0.9130,0.2174,4,28,False,False,True,False
+2021,45679,Juan Pablo Vojvoda,38,17,7,14,58,44,45,Fortaleza,0.5088,0.4474,0.1842,0.3684,-1,1.1579,1.1842,-0.0263,5,28,False,False,False,False
+2021,24104,Sylvinho,38,15,12,11,57,40,36,Corinthians,0.5000,0.3947,0.3158,0.2895,4,1.0526,0.9474,0.1053,6,28,False,False,False,False
+2021,58565,Maurício Barbieri,38,14,14,10,56,55,46,Bragantino,0.4912,0.3684,0.3684,0.2632,9,1.4474,1.2105,0.2368,7,28,False,False,False,False
+2021,47350,Fábio Carille,19,7,7,5,28,15,15,Santos,0.4912,0.3684,0.3684,0.2632,0,0.7895,0.7895,0.0000,7,28,False,False,False,False
+2021,5667,Vagner Mancini,35,13,11,11,50,48,46,"América-MG, Grêmio",0.4762,0.3714,0.3143,0.3143,2,1.3714,1.3143,0.0571,9,28,False,False,False,False
+2021,50290,Rogério Ceni,21,9,3,9,30,21,22,"Flamengo, São Paulo",0.4762,0.4286,0.1429,0.4286,-1,1.0000,1.0476,-0.0476,9,28,False,False,False,False
+2021,1068,Luiz Felipe Scolari,15,6,3,6,21,16,15,Grêmio,0.4667,0.4000,0.2000,0.4000,1,1.0667,1.0000,0.0667,11,28,False,False,False,False
+2021,3622,Jorginho (Jorge de Amorim),32,10,13,9,43,30,30,Cuiabá,0.4479,0.3125,0.4062,0.2812,0,0.9375,0.9375,0.0000,12,28,False,False,False,False
+2021,19584,Guto Ferreira,33,10,14,9,44,35,32,"Ceará, Bahia",0.4444,0.3030,0.4242,0.2727,3,1.0606,0.9697,0.0909,13,28,False,False,False,False
+2021,11780,Diego Aguirre,33,11,10,12,43,39,33,Internacional,0.4343,0.3333,0.3030,0.3636,6,1.1818,1.0000,0.1818,14,28,False,False,False,False
+2021,25809,Marquinhos Santos,37,12,12,13,48,41,42,"Juventude, América-MG",0.4324,0.3243,0.3243,0.3514,-1,1.1081,1.1351,-0.0270,15,28,False,False,False,False
+2021,68987,Eduardo Barroca,21,6,9,6,27,17,20,Atlético-GO,0.4286,0.2857,0.4286,0.2857,-3,0.8095,0.9524,-0.1429,16,28,False,False,False,False
+2021,52873,António Oliveira,17,6,3,8,21,22,21,Athletico-PR,0.4118,0.3529,0.1765,0.4706,1,1.2941,1.2353,0.0588,17,28,False,False,False,False
+2021,35676,Hernán Crespo,25,6,12,7,30,20,25,São Paulo,0.4000,0.2400,0.4800,0.2800,-5,0.8000,1.0000,-0.2000,18,28,False,False,False,False
+2021,41120,Fernando Diniz,19,5,7,7,22,20,25,Santos,0.3860,0.2632,0.3684,0.3684,-5,1.0526,1.3158,-0.2632,19,28,False,False,False,False
+2021,32869,Roger Machado,15,4,5,6,17,12,17,Fluminense,0.3778,0.2667,0.3333,0.4000,-5,0.8000,1.1333,-0.3333,20,28,False,False,False,False
+2021,16147,Dado Cavalcanti,16,5,3,8,18,20,26,Bahia,0.3750,0.3125,0.1875,0.5000,-6,1.2500,1.6250,-0.3750,21,28,False,False,False,False
+2021,48531,Gustavo Florentín,20,6,4,10,22,16,23,Sport,0.3667,0.3000,0.2000,0.5000,-7,0.8000,1.1500,-0.3500,22,28,False,False,False,False
+2021,35052,Alberto Valentim,17,4,6,7,18,14,18,"Cuiabá, Athletico-PR",0.3529,0.2353,0.3529,0.4118,-4,0.8235,1.0588,-0.2353,23,28,False,False,False,False
+2021,58610,Tiago Nunes,27,6,10,11,28,24,29,"Grêmio, Ceará",0.3457,0.2222,0.3704,0.4074,-5,0.8889,1.0741,-0.1852,24,28,False,False,False,False
+2021,22198,Jair Ventura,24,5,7,12,22,20,30,"Chapecoense, Juventude",0.3056,0.2083,0.2917,0.5000,-10,0.8333,1.2500,-0.4167,25,28,False,False,False,True
+2021,57012,Umberto Louzer,17,3,6,8,15,8,14,Sport,0.2941,0.1765,0.3529,0.4706,-6,0.4706,0.8235,-0.3529,26,28,False,False,False,True
+2021,4735,Pintado,14,1,6,7,9,13,24,Chapecoense,0.2143,0.0714,0.4286,0.5000,-11,0.9286,1.7143,-0.7857,27,28,False,False,False,True
+2021,92848,Felipe Endres,11,0,2,9,2,3,21,Chapecoense,0.0606,0.0000,0.1818,0.8182,-18,0.2727,1.9091,-1.6364,28,28,False,False,False,True
+2022,23009,Abel Ferreira,38,23,12,3,81,66,27,Palmeiras,0.7105,0.6053,0.3158,0.0789,39,1.7368,0.7105,1.0263,1,28,True,False,True,False
+2022,41120,Fernando Diniz,34,20,6,8,66,60,37,Fluminense,0.6471,0.5882,0.1765,0.2353,23,1.7647,1.0882,0.6765,2,28,False,True,True,False
+2022,4734,Mano Menezes,35,18,13,4,67,55,28,Internacional,0.6381,0.5143,0.3714,0.1143,27,1.5714,0.8000,0.7714,3,28,False,False,True,False
+2022,4882,Antonio Mohamed,18,8,8,2,32,26,18,Atlético-MG,0.5926,0.4444,0.4444,0.1111,8,1.4444,1.0000,0.4444,4,28,False,False,True,False
+2022,7571,Vítor Pereira,38,18,11,9,65,44,36,Corinthians,0.5702,0.4737,0.2895,0.2368,8,1.1579,0.9474,0.2105,5,28,False,False,False,False
+2022,4724,Dorival Júnior,38,18,9,11,63,62,41,"Ceará, Flamengo",0.5526,0.4737,0.2368,0.2895,21,1.6316,1.0789,0.5526,6,28,False,False,False,False
+2022,1068,Luiz Felipe Scolari,33,14,10,9,52,46,42,Athletico-PR,0.5253,0.4242,0.3030,0.2727,4,1.3939,1.2727,0.1212,7,28,False,False,False,False
+2022,45679,Juan Pablo Vojvoda,38,15,10,13,55,46,39,Fortaleza,0.4825,0.3947,0.2632,0.3421,7,1.2105,1.0263,0.1842,8,28,False,False,False,False
+2022,5667,Vagner Mancini,37,15,8,14,53,40,39,América-MG,0.4775,0.4054,0.2162,0.3784,1,1.0811,1.0541,0.0270,9,28,False,False,False,False
+2022,50290,Rogério Ceni,38,13,15,10,54,55,42,São Paulo,0.4737,0.3421,0.3947,0.2632,13,1.4474,1.1053,0.3421,10,28,False,False,False,False
+2022,73702,Eduardo Souza,10,3,5,2,14,14,13,Atlético-GO,0.4667,0.3000,0.5000,0.2000,1,1.4000,1.3000,0.1000,11,28,False,False,False,False
+2022,2063,Luís Castro,38,15,8,15,53,41,43,Botafogo,0.4649,0.3947,0.2105,0.3947,-2,1.0789,1.1316,-0.0526,12,28,False,False,False,False
+2022,4732,Cuca,19,7,5,7,26,18,17,Atlético-MG,0.4561,0.3684,0.2632,0.3684,1,0.9474,0.8947,0.0526,13,28,False,False,False,False
+2022,26897,Fabián Bustos,15,4,7,4,19,19,15,Santos,0.4222,0.2667,0.4667,0.2667,4,1.2667,1.0000,0.2667,14,28,False,False,False,False
+2022,19584,Guto Ferreira,16,6,2,8,20,16,26,Coritiba,0.4167,0.3750,0.1250,0.5000,-10,1.0000,1.6250,-0.6250,15,28,False,False,False,False
+2022,22198,Jair Ventura,37,11,13,13,46,40,50,Goiás,0.4144,0.2973,0.3514,0.3514,-10,1.0811,1.3514,-0.2703,16,28,False,False,False,False
+2022,8369,Paulo Sousa,10,3,3,4,12,10,10,Flamengo,0.4000,0.3000,0.3000,0.4000,0,1.0000,1.0000,0.0000,17,28,False,False,False,False
+2022,58565,Maurício Barbieri,37,11,11,15,44,49,58,Bragantino,0.3964,0.2973,0.2973,0.4054,-9,1.3243,1.5676,-0.2432,18,28,False,False,False,False
+2022,52873,António Oliveira,29,8,9,12,33,24,30,Cuiabá,0.3793,0.2759,0.3103,0.4138,-6,0.8276,1.0345,-0.2069,19,28,False,False,False,False
+2022,108199,Orlando Ribeiro,12,4,1,7,13,15,17,Santos,0.3611,0.3333,0.0833,0.5833,-2,1.2500,1.4167,-0.1667,20,28,False,False,False,False
+2022,3622,Jorginho (Jorge de Amorim),18,5,4,9,19,20,26,Atlético-GO,0.3519,0.2778,0.2222,0.5000,-6,1.1111,1.4444,-0.3333,21,28,False,False,False,False
+2022,30359,Gustavo Morínigo,22,6,4,12,22,23,34,Coritiba,0.3333,0.2727,0.1818,0.5455,-11,1.0455,1.5455,-0.5000,22,28,False,False,False,False
+2022,68987,Eduardo Barroca,26,6,7,13,25,25,39,Avaí,0.3205,0.2308,0.2692,0.5000,-14,0.9615,1.5000,-0.5385,23,28,False,False,False,False
+2022,25809,Marquinhos Santos,13,2,6,5,12,10,12,"América-MG, Ceará",0.3077,0.1538,0.4615,0.3846,-2,0.7692,0.9231,-0.1538,24,28,False,False,False,False
+2022,37824,Lisca,15,3,3,9,12,10,24,"Santos, Avaí",0.2667,0.2000,0.2000,0.6000,-14,0.6667,1.6000,-0.9333,25,28,False,False,False,True
+2022,101097,Lucho González,10,1,4,5,7,7,12,Ceará,0.2333,0.1000,0.4000,0.5000,-5,0.7000,1.2000,-0.5000,26,28,False,False,False,True
+2022,34959,Eduardo Baptista,17,2,4,11,10,14,32,"Juventude, Atlético-GO",0.1961,0.1176,0.2353,0.6471,-18,0.8235,1.8824,-1.0588,27,28,False,False,False,True
+2022,57012,Umberto Louzer,22,1,9,12,12,12,37,"Atlético-GO, Juventude",0.1818,0.0455,0.4091,0.5455,-25,0.5455,1.6818,-1.1364,28,28,False,False,False,True
+2023,2063,Luís Castro,12,10,0,2,30,20,7,Botafogo,0.8333,0.8333,0.0000,0.1667,13,1.6667,0.5833,1.0833,1,31,True,False,True,False
+2023,23009,Abel Ferreira,38,20,10,8,70,64,33,Palmeiras,0.6140,0.5263,0.2632,0.2105,31,1.6842,0.8684,0.8158,2,31,False,True,True,False
+2023,6623,Tite,12,7,1,4,22,18,11,Flamengo,0.6111,0.5833,0.0833,0.3333,7,1.5000,0.9167,0.5833,3,31,False,False,True,False
+2023,4728,Renato Gaúcho,38,21,5,12,68,63,56,Grêmio,0.5965,0.5526,0.1316,0.3158,7,1.6579,1.4737,0.1842,4,31,False,False,True,False
+2023,1068,Luiz Felipe Scolari,28,14,6,8,48,38,24,Atlético-MG,0.5714,0.5000,0.2143,0.2857,14,1.3571,0.8571,0.5000,5,31,False,False,False,False
+2023,6175,Pedro Caixinha,38,17,11,10,62,49,35,Bragantino,0.5439,0.4474,0.2895,0.2632,14,1.2895,0.9211,0.3684,6,31,False,False,False,False
+2023,10819,Jorge Sampaoli,23,10,7,6,37,33,30,Flamengo,0.5362,0.4348,0.3043,0.2609,3,1.4348,1.3043,0.1304,7,31,False,False,False,False
+2023,38808,Eduardo Coudet,33,14,9,10,51,47,37,"Atlético-MG, Internacional",0.5152,0.4242,0.2727,0.3030,10,1.4242,1.1212,0.3030,8,31,False,False,False,False
+2023,4778,Ramón Díaz,24,10,6,8,36,30,28,Vasco,0.5000,0.4167,0.2500,0.3333,2,1.2500,1.1667,0.0833,9,31,False,False,False,False
+2023,41120,Fernando Diniz,38,16,8,14,56,51,47,Fluminense,0.4912,0.4211,0.2105,0.3684,4,1.3421,1.2368,0.1053,10,31,False,False,False,False
+2023,39634,Marcelo Fernandes,15,6,4,5,22,18,25,Santos,0.4889,0.4000,0.2667,0.3333,-7,1.2000,1.6667,-0.4667,11,31,False,False,False,False
+2023,4734,Mano Menezes,29,11,9,9,42,32,35,"Internacional, Corinthians",0.4828,0.3793,0.3103,0.3103,-3,1.1034,1.2069,-0.1034,12,31,False,False,False,False
+2023,4724,Dorival Júnior,37,14,11,12,53,39,36,São Paulo,0.4775,0.3784,0.2973,0.3243,3,1.0541,0.9730,0.0811,13,31,False,False,False,False
+2023,103757,Wesley Carvalho,28,9,13,6,40,37,30,Athletico-PR,0.4762,0.3214,0.4643,0.2143,7,1.3214,1.0714,0.2500,14,31,False,False,False,False
+2023,45679,Juan Pablo Vojvoda,38,15,9,14,54,45,44,Fortaleza,0.4737,0.3947,0.2368,0.3684,1,1.1842,1.1579,0.0263,15,31,False,False,False,False
+2023,52873,António Oliveira,32,12,8,12,44,34,30,"Coritiba, Cuiabá",0.4583,0.3750,0.2500,0.3750,4,1.0625,0.9375,0.1250,16,31,False,False,False,False
+2023,50891,Paulo Turra,16,6,3,7,21,22,27,"Athletico-PR, Santos",0.4375,0.3750,0.1875,0.4375,-5,1.3750,1.6875,-0.3125,17,31,False,False,False,False
+2023,61477,Bruno Lage,10,3,4,3,13,14,9,Botafogo,0.4333,0.3000,0.4000,0.3000,5,1.4000,0.9000,0.5000,18,31,False,False,False,False
+2023,50290,Rogério Ceni,17,7,1,9,22,28,26,"São Paulo, Bahia",0.4314,0.4118,0.0588,0.5294,2,1.6471,1.5294,0.1176,19,31,False,False,False,False
+2023,1976,Vanderlei Luxemburgo,21,6,9,6,27,24,23,Corinthians,0.4286,0.2857,0.4286,0.2857,1,1.1429,1.0952,0.0476,20,31,False,False,False,False
+2023,17520,Pepa,21,6,7,8,25,20,20,Cruzeiro,0.3968,0.2857,0.3333,0.3810,0,0.9524,0.9524,0.0000,21,31,False,False,False,False
+2023,41640,Odair Hellmann,11,3,4,4,13,9,10,Santos,0.3939,0.2727,0.3636,0.3636,-1,0.8182,0.9091,-0.0909,22,31,False,False,False,False
+2023,28508,Armando Evangelista,24,6,9,9,27,25,31,Goiás,0.3750,0.2500,0.3750,0.3750,-6,1.0417,1.2917,-0.2500,23,31,False,False,False,False
+2023,46981,Zé Ricardo,10,3,2,5,11,9,8,Cruzeiro,0.3667,0.3000,0.2000,0.5000,1,0.9000,0.8000,0.1000,24,31,False,False,False,False
+2023,111273,Thiago Kosloski,23,8,1,14,25,31,43,Coritiba,0.3623,0.3478,0.0435,0.6087,-12,1.3478,1.8696,-0.5217,25,31,False,False,False,False
+2023,63611,Renato Paiva,22,5,7,10,22,23,29,Bahia,0.3333,0.2273,0.3182,0.4545,-6,1.0455,1.3182,-0.2727,26,31,False,False,False,False
+2023,5913,Émerson Ávila,10,2,2,6,8,9,18,Goiás,0.2667,0.2000,0.2000,0.6000,-9,0.9000,1.8000,-0.9000,27,31,False,False,False,False
+2023,26897,Fabián Bustos,16,2,5,9,11,19,29,América-MG,0.2292,0.1250,0.3125,0.5625,-10,1.1875,1.8125,-0.6250,28,31,False,False,False,True
+2023,5667,Vagner Mancini,17,2,4,11,10,19,40,América-MG,0.1961,0.1176,0.2353,0.6471,-21,1.1176,2.3529,-1.2353,29,31,False,False,False,True
+2023,58565,Maurício Barbieri,11,1,3,7,6,10,20,Vasco,0.1818,0.0909,0.2727,0.6364,-10,0.9091,1.8182,-0.9091,30,31,False,False,False,True
+2023,10374,Antônio Carlos Zago,10,0,4,6,4,9,20,Coritiba,0.1333,0.0000,0.4000,0.6000,-11,0.9000,2.0000,-1.1000,31,31,False,False,False,True
+2024,24055,Artur Jorge,38,23,10,5,79,59,29,Botafogo,0.6930,0.6053,0.2632,0.1316,30,1.5526,0.7632,0.7895,1,27,True,False,True,False
+2024,128436,Filipe Luís,11,6,4,1,22,18,10,Flamengo,0.6667,0.5455,0.3636,0.0909,8,1.6364,0.9091,0.7273,2,27,False,True,True,False
+2024,23009,Abel Ferreira,38,22,7,9,73,60,33,Palmeiras,0.6404,0.5789,0.1842,0.2368,27,1.5789,0.8684,0.7105,3,27,False,False,True,False
+2024,4778,Ramón Díaz,26,14,5,7,47,46,32,"Vasco, Corinthians",0.6026,0.5385,0.1923,0.2692,14,1.7692,1.2308,0.5385,4,27,False,False,True,False
+2024,45679,Juan Pablo Vojvoda,38,19,11,8,68,53,39,Fortaleza,0.5965,0.5000,0.2895,0.2105,14,1.3947,1.0263,0.3684,5,27,False,False,False,False
+2024,6623,Tite,27,14,6,7,48,43,32,Flamengo,0.5926,0.5185,0.2222,0.2593,11,1.5926,1.1852,0.4074,6,27,False,False,False,False
+2024,4732,Cuca,11,5,4,2,19,15,8,Athletico-PR,0.5758,0.4545,0.3636,0.1818,7,1.3636,0.7273,0.6364,7,27,False,False,False,False
+2024,32869,Roger Machado,40,18,12,10,66,60,45,"Juventude, Internacional",0.5500,0.4500,0.3000,0.2500,15,1.5000,1.1250,0.3750,8,27,False,False,False,False
+2024,6890,Luis Zubeldía,35,16,8,11,56,48,39,São Paulo,0.5333,0.4571,0.2286,0.3143,9,1.3714,1.1143,0.2571,9,27,False,False,False,False
+2024,4734,Mano Menezes,25,11,7,7,40,23,18,Fluminense,0.5333,0.4400,0.2800,0.2800,5,0.9200,0.7200,0.2000,9,27,False,False,False,False
+2024,110764,Fernando Seabra,34,14,10,10,52,44,35,"Cruzeiro, Bragantino",0.5098,0.4118,0.2941,0.2941,9,1.2941,1.0294,0.2647,11,27,False,False,False,False
+2024,38808,Eduardo Coudet,13,5,4,4,19,12,11,Internacional,0.4872,0.3846,0.3077,0.3077,1,0.9231,0.8462,0.0769,12,27,False,False,False,False
+2024,128824,Rafael Paiva,27,11,6,10,39,32,34,Vasco,0.4815,0.4074,0.2222,0.3704,-2,1.1852,1.2593,-0.0741,13,27,False,False,False,False
+2024,50290,Rogério Ceni,38,15,8,15,53,49,49,Bahia,0.4649,0.3947,0.2105,0.3947,0,1.2895,1.2895,0.0000,14,27,False,False,False,False
+2024,72121,Thiago Carpini,35,13,7,15,46,42,45,"São Paulo, Vitória",0.4381,0.3714,0.2000,0.4286,-3,1.2000,1.2857,-0.0857,15,27,False,False,False,False
+2024,39953,Gabriel Milito,37,10,14,13,44,46,54,Atlético-MG,0.3964,0.2703,0.3784,0.3514,-8,1.2432,1.4595,-0.2162,16,27,False,False,False,False
+2024,4728,Renato Gaúcho,33,10,7,16,37,35,43,Grêmio,0.3737,0.3030,0.2121,0.4848,-8,1.0606,1.3030,-0.2424,17,27,False,False,False,False
+2024,6175,Pedro Caixinha,31,8,10,13,34,34,40,Bragantino,0.3656,0.2581,0.3226,0.4194,-6,1.0968,1.2903,-0.1935,18,27,False,False,False,False
+2024,38445,Claudio Tencati,38,9,11,18,38,42,61,Criciúma,0.3333,0.2368,0.2895,0.4737,-19,1.1053,1.6053,-0.5000,19,27,False,False,False,False
+2024,31291,Petit,18,4,6,8,18,21,24,Cuiabá,0.3333,0.2222,0.3333,0.4444,-3,1.1667,1.3333,-0.1667,19,27,False,False,False,False
+2024,57012,Umberto Louzer,10,3,1,6,10,6,15,Atlético-GO,0.3333,0.3000,0.1000,0.6000,-9,0.6000,1.5000,-0.9000,19,27,False,False,False,False
+2024,115594,Anderson Gomes,12,2,5,5,11,10,15,Atlético-GO,0.3056,0.1667,0.4167,0.4167,-5,0.8333,1.2500,-0.4167,22,27,False,False,False,False
+2024,22198,Jair Ventura,26,5,7,14,22,28,42,"Atlético-GO, Juventude",0.2821,0.1923,0.2692,0.5385,-14,1.0769,1.6154,-0.5385,23,27,False,False,False,True
+2024,101097,Lucho González,13,3,2,8,11,13,17,Athletico-PR,0.2821,0.2308,0.1538,0.6154,-4,1.0000,1.3077,-0.3077,23,27,False,False,False,True
+2024,110664,Bernardo Franco,16,2,6,8,12,8,15,Cuiabá,0.2500,0.1250,0.3750,0.5000,-7,0.5000,0.9375,-0.4375,25,27,False,False,False,True
+2024,41120,Fernando Diniz,22,3,7,12,16,19,33,"Fluminense, Cruzeiro",0.2424,0.1364,0.3182,0.5455,-14,0.8636,1.5000,-0.6364,26,27,False,False,False,True
+2024,52873,António Oliveira,13,1,6,6,9,9,15,Corinthians,0.2308,0.0769,0.4615,0.4615,-6,0.6923,1.1538,-0.4615,27,27,False,False,False,True
+2025,128436,Filipe Luís,37,23,9,5,78,75,24,Flamengo,0.7027,0.6216,0.2432,0.1351,51,2.0270,0.6486,1.3784,1,26,True,False,True,False
+2025,23009,Abel Ferreira,38,23,7,8,76,66,33,Palmeiras,0.6667,0.6053,0.1842,0.2105,33,1.7368,0.8684,0.8684,2,26,False,True,True,False
+2025,10682,Leonardo Jardim,38,19,13,6,70,55,31,Cruzeiro,0.6140,0.5000,0.3421,0.1579,24,1.4474,0.8158,0.6316,3,26,False,False,True,False
+2025,65455,Rafael Guanaes,38,18,13,7,67,63,39,Mirassol,0.5877,0.4737,0.3421,0.1842,24,1.6579,1.0263,0.6316,4,26,False,False,True,False
+2025,47370,Davide Ancelotti,27,12,9,6,45,44,31,Botafogo,0.5556,0.4444,0.3333,0.2222,13,1.6296,1.1481,0.4815,5,26,False,False,False,False
+2025,26842,Martín Palermo,17,8,4,5,28,23,24,Fortaleza,0.5490,0.4706,0.2353,0.2941,-1,1.3529,1.4118,-0.0588,6,26,False,False,False,False
+2025,22198,Jair Ventura,14,7,2,5,23,16,17,Vitória,0.5476,0.5000,0.1429,0.3571,-1,1.1429,1.2143,-0.0714,7,26,False,False,False,False
+2025,6890,Luis Zubeldía,28,12,9,7,45,34,24,"São Paulo, Fluminense",0.5357,0.4286,0.3214,0.2500,10,1.2143,0.8571,0.3571,8,26,False,False,False,False
+2025,50290,Rogério Ceni,38,17,9,12,60,50,46,Bahia,0.5263,0.4474,0.2368,0.3158,4,1.3158,1.2105,0.1053,9,26,False,False,False,False
+2025,35676,Hernán Crespo,26,12,3,11,39,33,33,São Paulo,0.5000,0.4615,0.1154,0.4231,0,1.2692,1.2692,0.0000,10,26,False,False,False,False
+2025,4728,Renato Gaúcho,21,9,4,8,31,26,27,Fluminense,0.4921,0.4286,0.1905,0.3810,-1,1.2381,1.2857,-0.0476,11,26,False,False,False,False
+2025,10819,Jorge Sampaoli,18,6,6,6,24,23,20,Atlético-MG,0.4444,0.3333,0.3333,0.3333,3,1.2778,1.1111,0.1667,12,26,False,False,False,False
+2025,4734,Mano Menezes,34,12,9,13,45,43,42,"Fluminense, Grêmio",0.4412,0.3529,0.2647,0.3824,1,1.2647,1.2353,0.0294,13,26,False,False,False,False
+2025,86178,Cléber Xavier,13,5,2,6,17,13,20,Santos,0.4359,0.3846,0.1538,0.4615,-7,1.0000,1.5385,-0.5385,14,26,False,False,False,False
+2025,4732,Cuca,19,6,6,7,24,20,23,Atlético-MG,0.4211,0.3158,0.3158,0.3684,-3,1.0526,1.2105,-0.1579,15,26,False,False,False,False
+2025,4724,Dorival Júnior,32,10,10,12,40,36,37,Corinthians,0.4167,0.3125,0.3125,0.3750,-1,1.1250,1.1562,-0.0312,16,26,False,False,False,False
+2025,41120,Fernando Diniz,31,11,5,15,38,49,51,Vasco,0.4086,0.3548,0.1613,0.4839,-2,1.5806,1.6452,-0.0645,17,26,False,False,False,False
+2025,63611,Renato Paiva,19,6,5,8,23,22,22,"Botafogo, Fortaleza",0.4035,0.3158,0.2632,0.4211,0,1.1579,1.1579,0.0000,18,26,False,False,False,False
+2025,110764,Fernando Seabra,30,10,6,14,36,34,47,Bragantino,0.4000,0.3333,0.2000,0.4667,-13,1.1333,1.5667,-0.4333,19,26,False,False,False,False
+2025,32869,Roger Machado,23,7,6,10,27,28,36,Internacional,0.3913,0.3043,0.2609,0.4348,-8,1.2174,1.5652,-0.3478,20,26,False,False,False,False
+2025,45679,Juan Pablo Vojvoda,31,8,12,11,36,37,38,"Fortaleza, Santos",0.3871,0.2581,0.3871,0.3548,-1,1.1935,1.2258,-0.0323,21,26,False,False,False,False
+2025,14262,Léo Condé,38,11,10,17,43,34,40,Ceará,0.3772,0.2895,0.2632,0.4474,-6,0.8947,1.0526,-0.1579,22,26,False,False,False,False
+2025,4778,Ramón Díaz,17,4,6,7,18,17,22,"Corinthians, Internacional",0.3529,0.2353,0.3529,0.4118,-5,1.0000,1.2941,-0.2941,23,26,False,False,False,True
+2025,72121,Thiago Carpini,34,8,11,15,35,34,48,"Vitória, Juventude",0.3431,0.2353,0.3235,0.4412,-14,1.0000,1.4118,-0.4118,24,26,False,False,False,True
+2025,47350,Fábio Carille,15,3,6,6,15,14,26,"Vasco, Vitória",0.3333,0.2000,0.4000,0.4000,-12,0.9333,1.7333,-0.8000,25,26,False,False,False,True
+2025,41321,Daniel Paulista,18,2,8,8,14,17,28,Sport,0.2593,0.1111,0.4444,0.4444,-11,0.9444,1.5556,-0.6111,26,26,False,False,False,True

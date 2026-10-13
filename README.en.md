@@ -16,6 +16,7 @@ Personal project, work in progress.
 |---|-------|--------|
 | [01](analyses/01-fator-mandante-e-fator-casa/) | Host factor vs. home-ground factor — how much playing at home was worth in Série A, separating the effect of **having home advantage** from the effect of **the specific ground** | ✅ done |
 | [02](analyses/02-linha-de-corte-do-rebaixamento/) | Relegation safety line — how many points are enough to survive, and whether a club's points pace can be turned into an actual relegation probability | ✅ done |
+| [03](analyses/03-treinadores-da-serie-a/) | Série A head coaches (2003–2025) — a coach × match base built and validated from four sources, and rankings by points percentage, wins, losses, attack, defence, club, season, home vs away and a "league of coaches" | ✅ done |
 
 **Host factor** (`fator mandante`) is the effect of being the designated home
 side. **Home-ground factor** (`fator casa`) is the effect of hosting at that
@@ -39,6 +40,15 @@ to each club's pace at fixed checkpoint rounds, converges to the same line
 2024 clubs as above or below 50% risk — Corinthians included, which sat at
 **exactly 49.2%** at round 30 before taking 24 points from the last 8 rounds.
 
+Analysis 03 in one paragraph: the public match base has no coach before 2014,
+so the analysis rebuilds, match by match, who was on the bench in 9,165 matches
+of 2003–2025 by crossing Transfermarkt, O Gol, CBF and Wikipedia — **94.9%** of
+team-matches end up confirmed by two or more sources, and **498 of 510**
+coaching changes listed on Wikipedia are reproduced without using it. With 100+
+matches, **Abel Ferreira** (62.8%) and **Muricy Ramalho** (57.2%) lead on points
+percentage; Cuca has the most wins (266 in 612 matches). In a "league of
+coaches" ranked by points percentage, Muricy has the most titles (2006–2008).
+
 ## Scope
 
 - **Competition:** Campeonato Brasileiro, Série A.
@@ -55,7 +65,7 @@ to each club's pace at fixed checkpoint rounds, converges to the same line
 data/
 ├── raw/            # downloaded raw CSVs (gitignored)
 ├── processed/      # partidas.parquet, time_jogo.parquet — clean base
-└── external/       # canonicalisation tables and source registry
+└── external/       # canonicalisation tables, source registry and the coach base
 src/futebrasil/
 ├── dados.py        # download and provenance
 ├── lookups.py      # canonical club and stadium names
@@ -65,14 +75,20 @@ src/futebrasil/
 ├── tendencia.py    # is the factor rising or falling? (per-club slope)
 ├── validacao.py    # rebuilds the final table and checks it against reference
 ├── permanencia.py  # relegation safety line and points-pace model
+├── treinadores.py  # coach × match base: aggregation, rankings, streaks, league of coaches
 └── pipeline.py     # download / prepare / validate
 analyses/
 ├── 01-fator-mandante-e-fator-casa/
 │   ├── run.py
 │   ├── outputs/{tables,figures}/
 │   └── README.en.md
-└── 02-linha-de-corte-do-rebaixamento/
+├── 02-linha-de-corte-do-rebaixamento/
+│   ├── run.py
+│   ├── outputs/{tables,figures}/
+│   └── README.en.md
+└── 03-treinadores-da-serie-a/
     ├── run.py
+    ├── coleta/      # scripts that built the coach base (scraping + validation)
     ├── outputs/{tables,figures}/
     └── README.en.md
 ```
@@ -87,6 +103,7 @@ pip install -e .
 python -m futebrasil.pipeline tudo          # download, clean and validate
 python analyses/01-fator-mandante-e-fator-casa/run.py
 python analyses/02-linha-de-corte-do-rebaixamento/run.py
+python analyses/03-treinadores-da-serie-a/run.py     # uses data/external/treinadores/ (versioned)
 ```
 
 `pipeline tudo` writes `data/processed/*.parquet` plus a validation report with
@@ -98,6 +115,11 @@ champion).
 Match data: [adaoduque/Brasileirao_Dataset](https://github.com/adaoduque/Brasileirao_Dataset),
 compiled from CBF match reports and globoesporte. Details, licensing and known
 limitations in [data/README.md](data/README.md).
+
+Coaches (analysis 03): own base built from
+[Transfermarkt](https://www.transfermarkt.com/), [O Gol](https://www.ogol.com.br/),
+CBF (via the base above) and Wikipedia — method and validation in
+[analyses/03-treinadores-da-serie-a/](analyses/03-treinadores-da-serie-a/).
 
 ## Next
 

@@ -1,0 +1,1304 @@
+﻿treinador,clube,temporada,inicio,fim,jogos,V,E,D,fonte,pct_confirmado,passagem_id,jogos_passagem_total,status,interino_provavel,antecessor,sucessor
+Mauro Fernandes,América-MG,2011,2011-05-22,2011-07-10,9,1,3,5,TM+OG,1.0,1,9,confirmado,False,,Antônio Lopes
+Antônio Lopes,América-MG,2011,2011-07-17,2011-07-31,4,0,2,2,TM+OG,1.0,2,4,confirmado,False,Mauro Fernandes,Givanildo Oliveira
+Givanildo Oliveira,América-MG,2011,2011-08-03,2011-12-04,25,7,8,10,TM+OG,0.96,3,30,confirmado,False,Antônio Lopes,Claudio Prates
+Givanildo Oliveira,América-MG,2016,2016-05-15,2016-06-02,5,0,2,3,TM+OG+CBF,1.0,3,30,confirmado,False,Antônio Lopes,Claudio Prates
+Claudio Prates,América-MG,2016,2016-06-05,2016-06-05,1,1,0,0,TM+OG+CBF,1.0,4,1,confirmado,True,Givanildo Oliveira,Sérgio Vieira
+Sérgio Vieira,América-MG,2016,2016-06-11,2016-07-17,9,1,0,8,TM+OG+CBF,1.0,5,9,confirmado,False,Claudio Prates,Enderson Moreira
+Enderson Moreira,América-MG,2016,2016-07-25,2016-12-11,23,5,5,13,TM+OG+CBF,1.0,6,35,confirmado,False,Sérgio Vieira,Ricardo Drubscky
+Enderson Moreira,América-MG,2018,2018-04-15,2018-06-13,12,4,2,6,TM+CBF,1.0,6,35,confirmado,False,Sérgio Vieira,Ricardo Drubscky
+Ricardo Drubscky,América-MG,2018,2018-07-19,2018-07-22,2,0,0,2,TM+OG+CBF,1.0,7,2,confirmado,True,Enderson Moreira,Adilson Batista
+Adilson Batista,América-MG,2018,2018-07-26,2018-11-10,19,4,8,7,TM+OG+CBF,1.0,8,19,confirmado,False,Ricardo Drubscky,Givanildo Oliveira
+Givanildo Oliveira,América-MG,2018,2018-11-15,2018-12-02,5,2,0,3,TM+OG+CBF,1.0,9,5,confirmado,False,Adilson Batista,Lisca
+Lisca,América-MG,2021,2021-05-30,2021-06-13,3,0,0,3,TM+OG+CBF,1.0,10,3,confirmado,False,Givanildo Oliveira,Cauan de Almeida
+Cauan de Almeida,América-MG,2021,2021-06-17,2021-06-20,2,0,1,1,TM+OG+CBF,1.0,11,2,confirmado,True,Lisca,Vagner Mancini
+Vagner Mancini,América-MG,2021,2021-06-24,2021-10-13,21,7,9,5,TM+OG+CBF,1.0,12,21,confirmado,False,Cauan de Almeida,Diogo Giacomini
+Diogo Giacomini,América-MG,2021,2021-10-16,2021-10-16,1,0,1,0,TM+OG+CBF,1.0,13,1,confirmado,True,Vagner Mancini,Marquinhos Santos
+Marquinhos Santos,América-MG,2021,2021-10-23,2021-12-09,11,6,3,2,TM+OG+CBF,1.0,14,12,confirmado,False,Diogo Giacomini,Vagner Mancini
+Marquinhos Santos,América-MG,2022,2022-04-10,2022-04-10,1,0,0,1,TM+OG+CBF,1.0,14,12,confirmado,False,Diogo Giacomini,Vagner Mancini
+Vagner Mancini,América-MG,2022,2022-04-16,2022-11-13,37,15,8,14,TM+OG+CBF,1.0,15,54,confirmado,False,Marquinhos Santos,Fabián Bustos
+Vagner Mancini,América-MG,2023,2023-04-15,2023-08-06,17,2,4,11,TM+OG+CBF,1.0,15,54,confirmado,False,Marquinhos Santos,Fabián Bustos
+Fabián Bustos,América-MG,2023,2023-08-13,2023-11-08,16,2,5,9,TM+OG+CBF,1.0,16,16,confirmado,False,Vagner Mancini,Diogo Giacomini
+Diogo Giacomini,América-MG,2023,2023-11-12,2023-12-06,5,1,0,4,TM+OG+CBF,1.0,17,5,confirmado,False,Fabián Bustos,
+Lori Sandri,América-RN,2007,2007-05-02,2007-06-29,8,1,1,6,TM+OG,1.0,18,8,confirmado,False,,Marcelo Veiga
+Marcelo Veiga,América-RN,2007,2007-07-03,2007-08-26,13,2,0,11,TM+OG,1.0,19,13,confirmado,False,Lori Sandri,Moroni
+Moroni,América-RN,2007,2007-08-29,2007-12-02,17,1,4,12,TM+OG,1.0,20,17,confirmado,False,Marcelo Veiga,
+Vadão,Athletico-PR,2003,2003-03-29,2003-08-03,23,7,5,11,TM+OG,0.957,21,23,confirmado,False,,Mário Sérgio
+Mário Sérgio,Athletico-PR,2003,2003-08-06,2003-12-14,23,10,5,8,TM+OG,1.0,22,23,confirmado,False,Vadão,DESCONHECIDO
+DESCONHECIDO,Athletico-PR,2004,2004-04-22,2004-04-25,2,0,0,2,,0.0,23,2,verificar,False,Mário Sérgio,Lio Evaristo
+Lio Evaristo,Athletico-PR,2004,2004-04-28,2004-04-28,1,1,0,0,TM+OG,1.0,24,1,confirmado,True,DESCONHECIDO,Levir Culpi
+Levir Culpi,Athletico-PR,2004,2004-05-02,2004-12-19,43,24,11,8,TM+OG,0.767,25,43,provável,False,Lio Evaristo,Edinho
+Edinho,Athletico-PR,2005,2005-04-24,2005-05-07,3,0,0,3,TM+OG,0.667,26,3,provável,False,Levir Culpi,Borba Filho
+Borba Filho,Athletico-PR,2005,2005-05-15,2005-05-22,2,0,0,2,TM+OG,1.0,27,2,confirmado,True,Edinho,Antônio Lopes
+Antônio Lopes,Athletico-PR,2005,2005-05-29,2005-09-25,23,9,6,8,TM+OG,0.826,28,23,confirmado,False,Borba Filho,Evaristo de Macedo
+Evaristo de Macedo,Athletico-PR,2005,2005-10-02,2005-12-04,14,9,1,4,TM+OG,1.0,29,14,confirmado,False,Antônio Lopes,Givanildo Oliveira
+Givanildo Oliveira,Athletico-PR,2006,2006-04-16,2006-07-16,12,4,2,6,TM+OG,0.917,30,12,confirmado,False,Evaristo de Macedo,Vadão
+Vadão,Athletico-PR,2006,2006-07-23,2006-12-03,26,9,7,10,TM+OG,0.962,31,31,confirmado,False,Givanildo Oliveira,Antônio Lopes
+Vadão,Athletico-PR,2007,2007-05-02,2007-06-09,5,2,1,2,TM+OG,1.0,31,31,confirmado,False,Givanildo Oliveira,Antônio Lopes
+Antônio Lopes,Athletico-PR,2007,2007-06-16,2007-08-17,15,3,7,5,TM+OG,1.0,32,15,confirmado,False,Vadão,Ney Franco
+Ney Franco,Athletico-PR,2007,2007-08-25,2007-12-02,18,9,4,5,TM+OG,1.0,33,20,confirmado,False,Antônio Lopes,Roberto Fernandes
+Ney Franco,Athletico-PR,2008,2008-05-11,2008-05-18,2,1,1,0,TM+OG,1.0,33,20,confirmado,False,Antônio Lopes,Roberto Fernandes
+Roberto Fernandes,Athletico-PR,2008,2008-05-25,2008-08-03,15,3,4,8,TM+OG,1.0,34,15,confirmado,False,Ney Franco,Tico dos Santos
+Tico dos Santos,Athletico-PR,2008,2008-08-06,2008-08-16,3,2,0,1,TM+OG,0.667,35,3,provável,True,Roberto Fernandes,Mário Sérgio
+Mário Sérgio,Athletico-PR,2008,2008-08-20,2008-09-03,4,0,0,4,TM+OG,1.0,36,4,confirmado,False,Tico dos Santos,Geninho
+Geninho,Athletico-PR,2008,2008-09-13,2008-12-07,14,6,4,4,TM+OG,1.0,37,19,confirmado,False,Mário Sérgio,Waldemar Lemos
+Geninho,Athletico-PR,2009,2009-05-10,2009-06-07,5,0,1,4,TM+OG,1.0,37,19,confirmado,False,Mário Sérgio,Waldemar Lemos
+Waldemar Lemos,Athletico-PR,2009,2009-06-13,2009-07-29,10,3,2,5,TM+OG,1.0,38,10,confirmado,False,Geninho,Riva Carli
+Riva Carli,Athletico-PR,2009,2009-08-02,2009-08-02,1,1,0,0,OG,0.0,39,1,verificar,True,Waldemar Lemos,Antônio Lopes
+Antônio Lopes,Athletico-PR,2009,2009-08-05,2009-12-06,22,9,6,7,TM+OG,1.0,40,22,confirmado,False,Riva Carli,Leandro Niehues
+Leandro Niehues,Athletico-PR,2010,2010-05-09,2010-05-30,5,1,1,3,TM+OG,1.0,41,5,confirmado,False,Antônio Lopes,Paulo César Carpegiani
+Paulo César Carpegiani,Athletico-PR,2010,2010-06-02,2010-10-02,22,11,5,6,TM+OG,1.0,42,22,confirmado,False,Leandro Niehues,Sérgio Soares
+Sérgio Soares,Athletico-PR,2010,2010-10-06,2010-12-05,11,5,3,3,TM+OG,1.0,43,11,confirmado,False,Paulo César Carpegiani,Adilson Batista
+Adilson Batista,Athletico-PR,2011,2011-05-21,2011-06-25,6,0,1,5,TM+OG,1.0,44,6,confirmado,False,Sérgio Soares,Leandro Niehues
+Leandro Niehues,Athletico-PR,2011,2011-06-30,2011-06-30,1,0,0,1,OG,0.0,45,1,verificar,True,Adilson Batista,Renato Gaúcho
+Renato Gaúcho,Athletico-PR,2011,2011-07-06,2011-08-31,13,4,5,4,TM+OG,0.923,46,13,confirmado,False,Leandro Niehues,Antônio Lopes
+Antônio Lopes,Athletico-PR,2011,2011-09-04,2011-12-04,18,6,5,7,TM+OG,1.0,47,18,confirmado,False,Renato Gaúcho,Ricardo Drubscky
+Ricardo Drubscky,Athletico-PR,2013,2013-05-26,2013-07-06,6,1,3,2,TM+OG,1.0,48,6,confirmado,False,Antônio Lopes,Vagner Mancini
+Vagner Mancini,Athletico-PR,2013,2013-07-14,2013-12-08,32,17,7,8,TM+OG,0.969,49,32,confirmado,False,Ricardo Drubscky,Miguel Ángel Portugal
+Miguel Ángel Portugal,Athletico-PR,2014,2014-04-20,2014-06-01,9,3,4,2,TM+OG+CBF,0.556,50,9,provável,False,Vagner Mancini,Doriva
+Doriva,Athletico-PR,2014,2014-07-16,2014-08-31,9,3,2,4,TM+OG+CBF,0.889,51,9,confirmado,False,Miguel Ángel Portugal,Claudinei Oliveira
+Claudinei Oliveira,Athletico-PR,2014,2014-09-07,2014-12-07,20,9,3,8,TM+OG+CBF,1.0,52,20,confirmado,False,Doriva,Milton Mendes
+Milton Mendes,Athletico-PR,2015,2015-05-10,2015-09-27,28,11,5,12,TM+OG+CBF,1.0,53,28,confirmado,False,Claudinei Oliveira,Sérgio Vieira
+Sérgio Vieira,Athletico-PR,2015,2015-10-03,2015-10-03,1,0,0,1,TM+OG+CBF,1.0,54,1,confirmado,True,Milton Mendes,Cristóvão Borges
+Cristóvão Borges,Athletico-PR,2015,2015-10-14,2015-12-06,9,3,4,2,TM+OG+CBF,1.0,55,9,confirmado,False,Sérgio Vieira,Paulo Autuori
+Paulo Autuori,Athletico-PR,2016,2016-05-14,2016-12-11,38,17,6,15,TM+OG+CBF,1.0,56,40,confirmado,False,Cristóvão Borges,Eduardo Baptista
+Paulo Autuori,Athletico-PR,2017,2017-05-14,2017-05-21,2,0,0,2,TM+OG+CBF,1.0,56,40,confirmado,False,Cristóvão Borges,Eduardo Baptista
+Eduardo Baptista,Athletico-PR,2017,2017-05-28,2017-07-09,10,4,3,3,TM+OG+CBF,1.0,57,10,confirmado,False,Paulo Autuori,Fabiano Soares
+Fabiano Soares,Athletico-PR,2017,2017-07-12,2017-12-03,26,10,6,10,TM+OG+CBF,1.0,58,26,confirmado,False,Eduardo Baptista,Fernando Diniz
+Fernando Diniz,Athletico-PR,2018,2018-04-15,2018-06-13,12,2,3,7,TM+OG+CBF,1.0,59,12,confirmado,False,Fabiano Soares,Tiago Nunes
+Tiago Nunes,Athletico-PR,2018,2018-07-19,2018-12-01,26,14,6,6,TM+OG+CBF,1.0,60,56,confirmado,False,Fernando Diniz,Eduardo Barros
+Tiago Nunes,Athletico-PR,2019,2019-04-28,2019-11-03,30,13,7,10,TM+OG+CBF,1.0,60,56,confirmado,False,Fernando Diniz,Eduardo Barros
+Eduardo Barros,Athletico-PR,2019,2019-11-05,2019-12-08,8,5,3,0,TM+OG+CBF,1.0,61,8,confirmado,False,Tiago Nunes,Dorival Júnior
+Dorival Júnior,Athletico-PR,2020,2020-08-09,2020-08-26,6,2,0,4,TM+OG+CBF,0.667,62,6,provável,False,Eduardo Barros,Eduardo Barros
+Eduardo Barros,Athletico-PR,2020,2020-09-02,2020-10-17,10,2,4,4,TM+OG+CBF,1.0,63,10,confirmado,False,Dorival Júnior,Paulo Autuori
+Paulo Autuori,Athletico-PR,2020,2020-10-25,2021-02-14,20,10,4,6,TM+OG+CBF,1.0,64,20,confirmado,False,Eduardo Barros,António Oliveira
+António Oliveira,Athletico-PR,2020,2021-02-21,2021-02-25,2,1,0,1,TM+OG+CBF,1.0,65,2,confirmado,False,Paulo Autuori,Paulo Autuori
+Paulo Autuori,Athletico-PR,2021,2021-05-30,2021-05-30,1,1,0,0,OG+CBF,1.0,66,1,confirmado,False,António Oliveira,António Oliveira
+António Oliveira,Athletico-PR,2021,2021-06-06,2021-09-05,17,6,3,8,TM+OG+CBF,0.941,67,17,confirmado,False,Paulo Autuori,Paulo Autuori
+Paulo Autuori,Athletico-PR,2021,2021-09-11,2021-09-18,2,1,0,1,OG+CBF,1.0,68,2,confirmado,True,António Oliveira,Bruno Lazaroni
+Bruno Lazaroni,Athletico-PR,2021,2021-09-26,2021-10-03,2,1,0,1,TM+OG+CBF,1.0,69,2,confirmado,True,Paulo Autuori,Alberto Valentim
+Alberto Valentim,Athletico-PR,2021,2021-10-06,2021-12-09,16,4,5,7,TM+OG+CBF,0.938,70,17,confirmado,False,Bruno Lazaroni,Fábio Carille
+Alberto Valentim,Athletico-PR,2022,2022-04-10,2022-04-10,1,0,0,1,TM+OG+CBF,1.0,70,17,confirmado,False,Bruno Lazaroni,Fábio Carille
+Fábio Carille,Athletico-PR,2022,2022-04-17,2022-04-30,3,1,0,2,TM+OG+CBF,1.0,71,3,confirmado,True,Alberto Valentim,Wesley Carvalho
+Wesley Carvalho,Athletico-PR,2022,2022-05-07,2022-05-07,1,1,0,0,TM+OG+CBF,1.0,72,1,confirmado,True,Fábio Carille,Luiz Felipe Scolari
+Luiz Felipe Scolari,Athletico-PR,2022,2022-05-14,2022-11-13,33,14,10,9,TM+OG+CBF,1.0,73,33,confirmado,False,Wesley Carvalho,Paulo Turra
+Paulo Turra,Athletico-PR,2023,2023-04-15,2023-06-11,10,5,1,4,TM+OG+CBF,1.0,74,10,confirmado,False,Luiz Felipe Scolari,Wesley Carvalho
+Wesley Carvalho,Athletico-PR,2023,2023-06-21,2023-12-06,28,9,13,6,TM+OG+CBF,1.0,75,28,confirmado,False,Paulo Turra,Cuca
+Cuca,Athletico-PR,2024,2024-04-14,2024-06-23,11,5,4,2,TM+OG+CBF,0.909,76,11,confirmado,False,Wesley Carvalho,Juca
+Juca,Athletico-PR,2024,2024-06-26,2024-07-10,5,2,0,3,TM+CBF,1.0,77,5,confirmado,False,Cuca,Martín Varini
+Martín Varini,Athletico-PR,2024,2024-07-21,2024-09-22,9,1,3,5,TM+OG+CBF,1.0,78,9,confirmado,False,Juca,Lucho González
+Lucho González,Athletico-PR,2024,2024-09-29,2024-12-08,13,3,2,8,TM+OG+CBF,1.0,79,13,confirmado,False,Martín Varini,
+Geninho,Atlético-GO,2010,2010-05-08,2010-06-06,7,1,1,5,TM+OG,1.0,80,7,confirmado,False,,Roberto Fernandes
+Roberto Fernandes,Atlético-GO,2010,2010-07-15,2010-07-24,4,1,0,3,TM+OG,1.0,81,4,confirmado,False,Geninho,René Simões
+René Simões,Atlético-GO,2010,2010-07-31,2010-12-05,27,9,8,10,TM+OG,0.963,82,27,confirmado,False,Roberto Fernandes,Paulo César Gusmão
+Paulo César Gusmão,Atlético-GO,2011,2011-05-22,2011-07-27,12,3,3,6,TM+OG,0.75,83,12,provável,False,René Simões,Jairo Araújo
+Jairo Araújo,Atlético-GO,2011,2011-07-31,2011-08-13,4,1,1,2,OG,0.25,84,4,verificar,False,Paulo César Gusmão,Hélio dos Anjos
+Hélio dos Anjos,Atlético-GO,2011,2011-08-18,2011-12-04,22,8,8,6,TM+OG,1.0,85,22,confirmado,False,Jairo Araújo,Adilson Batista
+Adilson Batista,Atlético-GO,2012,2012-05-20,2012-05-26,2,0,2,0,TM+OG,1.0,86,2,confirmado,False,Hélio dos Anjos,Hélio dos Anjos
+Hélio dos Anjos,Atlético-GO,2012,2012-06-06,2012-07-07,6,0,0,6,TM+OG,1.0,87,6,confirmado,False,Adilson Batista,Jairo Araújo
+Jairo Araújo,Atlético-GO,2012,2012-07-15,2012-09-09,15,3,6,6,TM+OG,1.0,88,15,confirmado,False,Hélio dos Anjos,Arthur Neto
+Arthur Neto,Atlético-GO,2012,2012-09-12,2012-10-27,10,2,0,8,TM+OG,1.0,89,10,confirmado,False,Jairo Araújo,Jairo Araújo
+Jairo Araújo,Atlético-GO,2012,2012-11-04,2012-12-02,5,2,1,2,TM+OG,1.0,90,5,confirmado,False,Arthur Neto,Marcelo Cabo
+Marcelo Cabo,Atlético-GO,2017,2017-05-15,2017-06-05,4,0,0,4,TM+OG+CBF,1.0,91,4,confirmado,False,Jairo Araújo,João Paulo Sanches
+João Paulo Sanches,Atlético-GO,2017,2017-06-08,2017-06-08,1,1,0,0,TM+OG+CBF,1.0,92,1,confirmado,True,Marcelo Cabo,Doriva
+Doriva,Atlético-GO,2017,2017-06-11,2017-07-20,10,1,2,7,TM+OG+CBF,1.0,93,10,confirmado,False,João Paulo Sanches,João Paulo Sanches
+João Paulo Sanches,Atlético-GO,2017,2017-07-23,2017-12-03,23,7,7,9,TM+OG+CBF,1.0,94,23,confirmado,False,Doriva,Vagner Mancini
+Vagner Mancini,Atlético-GO,2020,2020-08-11,2020-10-11,15,4,6,5,TM+OG+CBF,1.0,95,15,confirmado,False,João Paulo Sanches,Eduardo Souza
+Eduardo Souza,Atlético-GO,2020,2020-10-14,2020-11-07,5,1,2,2,TM+OG+CBF,1.0,96,5,confirmado,False,Vagner Mancini,Marcelo Cabo
+Marcelo Cabo,Atlético-GO,2020,2020-11-14,2021-02-25,18,7,6,5,TM+OG+CBF,1.0,97,18,confirmado,False,Eduardo Souza,Eduardo Barroca
+Eduardo Barroca,Atlético-GO,2021,2021-05-30,2021-09-26,21,6,9,6,TM+OG+CBF,1.0,98,21,confirmado,False,Marcelo Cabo,Eduardo Souza
+Eduardo Souza,Atlético-GO,2021,2021-10-02,2021-11-10,9,3,1,5,TM+OG+CBF,0.889,99,9,confirmado,False,Eduardo Barroca,Marcelo Cabo
+Marcelo Cabo,Atlético-GO,2021,2021-11-13,2021-12-09,8,4,4,0,TM+OG+CBF,1.0,100,8,confirmado,False,Eduardo Souza,Umberto Louzer
+Umberto Louzer,Atlético-GO,2022,2022-04-09,2022-05-14,6,0,3,3,TM+OG+CBF,1.0,101,6,confirmado,False,Marcelo Cabo,Jorginho (Jorge de Amorim)
+Jorginho (Jorge de Amorim),Atlético-GO,2022,2022-05-21,2022-08-27,18,5,4,9,TM+OG+CBF,1.0,102,18,confirmado,False,Umberto Louzer,Eduardo Baptista
+Eduardo Baptista,Atlético-GO,2022,2022-09-04,2022-09-28,4,0,0,4,TM+OG+CBF,1.0,103,4,confirmado,False,Jorginho (Jorge de Amorim),Eduardo Souza
+Eduardo Souza,Atlético-GO,2022,2022-10-01,2022-11-13,10,3,5,2,TM+OG+CBF,1.0,104,10,confirmado,False,Eduardo Baptista,Jair Ventura
+Jair Ventura,Atlético-GO,2024,2024-04-14,2024-06-19,10,2,2,6,TM+OG+CBF,1.0,105,10,confirmado,False,Eduardo Souza,Anderson Gomes
+Anderson Gomes,Atlético-GO,2024,2024-06-22,2024-07-07,5,0,3,2,TM+OG+CBF,1.0,106,5,confirmado,False,Jair Ventura,Vagner Mancini
+Vagner Mancini,Atlético-GO,2024,2024-07-11,2024-08-03,6,0,1,5,TM+OG+CBF,1.0,107,6,confirmado,False,Anderson Gomes,Umberto Louzer
+Umberto Louzer,Atlético-GO,2024,2024-08-11,2024-10-26,10,3,1,6,TM+OG+CBF,1.0,108,10,confirmado,False,Vagner Mancini,Anderson Gomes
+Anderson Gomes,Atlético-GO,2024,2024-11-06,2024-12-08,7,2,2,3,TM+OG+CBF,1.0,109,7,confirmado,False,Umberto Louzer,
+Celso Roth,Atlético-MG,2003,2003-03-30,2003-07-19,20,8,7,5,TM+OG,1.0,110,20,confirmado,False,,Marcelo Oliveira
+Marcelo Oliveira,Atlético-MG,2003,2003-07-23,2003-11-06,21,8,8,5,TM+OG,1.0,111,21,confirmado,False,Celso Roth,Procópio Cardoso
+Procópio Cardoso,Atlético-MG,2003,2003-11-09,2003-12-13,5,3,0,2,TM+OG,1.0,112,5,confirmado,False,Marcelo Oliveira,Paulo Bonamigo
+Paulo Bonamigo,Atlético-MG,2004,2004-04-21,2004-07-17,16,3,8,5,TM+OG,1.0,113,16,confirmado,False,Procópio Cardoso,Jair Picerni
+Jair Picerni,Atlético-MG,2004,2004-07-20,2004-10-02,18,4,7,7,TM+OG,0.778,114,18,provável,False,Paulo Bonamigo,Mário Sérgio
+Mário Sérgio,Atlético-MG,2004,2004-10-07,2004-11-27,9,3,1,5,TM+OG,1.0,115,9,confirmado,False,Jair Picerni,Procópio Cardoso
+Procópio Cardoso,Atlético-MG,2004,2004-12-04,2004-12-19,3,2,1,0,TM+OG,1.0,116,3,confirmado,False,Mário Sérgio,Tite
+Tite,Atlético-MG,2005,2005-04-23,2005-07-30,16,3,3,10,TM+OG,1.0,117,16,confirmado,False,Procópio Cardoso,Marco Aurélio
+Marco Aurélio,Atlético-MG,2005,2005-08-03,2005-10-26,18,6,3,9,TM,0.0,118,18,verificar,False,Tite,Lori Sandri
+Lori Sandri,Atlético-MG,2005,2005-10-30,2005-12-04,8,4,2,2,TM+OG,1.0,119,8,confirmado,False,Marco Aurélio,Tico dos Santos
+Tico dos Santos,Atlético-MG,2007,2007-05-12,2007-05-19,2,1,0,1,TM+OG,1.0,120,2,confirmado,False,Lori Sandri,Zetti
+Zetti,Atlético-MG,2007,2007-05-26,2007-07-20,11,3,4,4,TM+OG,1.0,121,11,confirmado,False,Tico dos Santos,Marcelo Oliveira
+Marcelo Oliveira,Atlético-MG,2007,2007-07-26,2007-07-26,1,1,0,0,TM+OG,1.0,122,1,confirmado,True,Zetti,Emerson Leão
+Emerson Leão,Atlético-MG,2007,2007-07-28,2007-12-02,24,10,6,8,TM+OG,1.0,123,24,confirmado,False,Marcelo Oliveira,Geninho
+Geninho,Atlético-MG,2008,2008-05-11,2008-05-11,1,0,1,0,OG+Wiki,0.0,124,1,verificar,False,Emerson Leão,Marcelo Oliveira
+Marcelo Oliveira,Atlético-MG,2008,2008-05-18,2008-05-18,1,0,1,0,TM+OG,1.0,125,1,confirmado,True,Geninho,Alexandre Gallo
+Alexandre Gallo,Atlético-MG,2008,2008-05-25,2008-07-31,14,4,4,6,TM+OG,1.0,126,14,confirmado,False,Marcelo Oliveira,Marcelo Oliveira
+Marcelo Oliveira,Atlético-MG,2008,2008-08-03,2008-12-07,22,8,6,8,TM+OG,1.0,127,22,confirmado,False,Alexandre Gallo,Celso Roth
+Celso Roth,Atlético-MG,2009,2009-05-09,2009-12-05,38,16,8,14,TM+OG,1.0,128,38,confirmado,False,Marcelo Oliveira,Vanderlei Luxemburgo
+Vanderlei Luxemburgo,Atlético-MG,2010,2010-05-09,2010-09-23,24,6,3,15,TM+OG,1.0,129,24,confirmado,False,Celso Roth,Dorival Júnior
+Dorival Júnior,Atlético-MG,2010,2010-09-26,2010-12-05,14,7,3,4,TM+OG,1.0,130,29,confirmado,False,Vanderlei Luxemburgo,Cuca
+Dorival Júnior,Atlético-MG,2011,2011-05-21,2011-08-06,15,4,3,8,TM+OG,0.933,130,29,confirmado,False,Vanderlei Luxemburgo,Cuca
+Cuca,Atlético-MG,2011,2011-08-14,2011-12-04,23,9,3,11,TM+OG,1.0,131,99,confirmado,False,Dorival Júnior,Paulo Autuori
+Cuca,Atlético-MG,2012,2012-05-20,2012-12-02,38,20,12,6,TM+OG,1.0,131,99,confirmado,False,Dorival Júnior,Paulo Autuori
+Cuca,Atlético-MG,2013,2013-05-26,2013-12-08,38,15,12,11,TM+OG,0.895,131,99,confirmado,False,Dorival Júnior,Paulo Autuori
+Paulo Autuori,Atlético-MG,2014,2014-04-20,2014-04-20,1,0,1,0,TM+OG+CBF,1.0,132,1,confirmado,False,Cuca,Levir Culpi
+Levir Culpi,Atlético-MG,2014,2014-04-27,2014-12-07,37,17,10,10,TM+OG+CBF,1.0,133,73,confirmado,False,Paulo Autuori,Diogo Giacomini
+Levir Culpi,Atlético-MG,2015,2015-05-09,2015-11-22,36,20,6,10,TM+OG+CBF,1.0,133,73,confirmado,False,Paulo Autuori,Diogo Giacomini
+Diogo Giacomini,Atlético-MG,2015,2015-11-29,2015-12-06,2,1,0,1,TM+OG+CBF,1.0,134,2,confirmado,False,Levir Culpi,Diego Aguirre
+Diego Aguirre,Atlético-MG,2016,2016-05-14,2016-05-14,1,1,0,0,TM+OG+CBF,1.0,135,1,confirmado,False,Diogo Giacomini,Marcelo Oliveira
+Marcelo Oliveira,Atlético-MG,2016,2016-05-22,2016-11-20,35,16,11,8,TM+OG+CBF,1.0,136,35,confirmado,False,Diego Aguirre,Diogo Giacomini
+Diogo Giacomini,Atlético-MG,2016,2016-11-27,2016-11-27,1,0,0,1,TM+OG+CBF,1.0,137,1,confirmado,False,Marcelo Oliveira,Roger Machado
+Roger Machado,Atlético-MG,2017,2017-05-13,2017-07-19,15,5,5,5,TM+OG+CBF,1.0,138,15,confirmado,False,Diogo Giacomini,Diogo Giacomini
+Diogo Giacomini,Atlético-MG,2017,2017-07-23,2017-07-23,1,0,0,1,OG+CBF,1.0,139,1,confirmado,True,Roger Machado,Rogério Micale
+Rogério Micale,Atlético-MG,2017,2017-07-30,2017-09-24,9,3,2,4,TM+OG+CBF,1.0,140,9,confirmado,False,Diogo Giacomini,Oswaldo de Oliveira
+Oswaldo de Oliveira,Atlético-MG,2017,2017-10-01,2017-12-03,13,6,5,2,TM+OG+CBF,1.0,141,13,confirmado,False,Rogério Micale,Thiago Larghi
+Thiago Larghi,Atlético-MG,2018,2018-04-15,2018-10-14,29,13,7,9,TM+OG+CBF,1.0,142,29,confirmado,False,Oswaldo de Oliveira,Levir Culpi
+Levir Culpi,Atlético-MG,2018,2018-10-21,2018-12-01,9,4,1,4,TM+OG+CBF,1.0,143,9,confirmado,False,Thiago Larghi,Rodrigo Santana
+Rodrigo Santana,Atlético-MG,2019,2019-04-27,2019-10-13,25,9,4,12,TM+OG+CBF,1.0,144,25,confirmado,False,Levir Culpi,Vagner Mancini
+Vagner Mancini,Atlético-MG,2019,2019-10-16,2019-12-08,13,4,5,4,TM+OG+CBF,1.0,145,13,confirmado,False,Rodrigo Santana,Jorge Sampaoli
+Jorge Sampaoli,Atlético-MG,2020,2020-08-09,2021-02-21,37,19,8,10,TM+OG+CBF,0.946,146,37,confirmado,False,Vagner Mancini,Jorge Desio
+Jorge Desio,Atlético-MG,2020,2021-02-25,2021-02-25,1,1,0,0,OG+CBF,1.0,147,1,confirmado,False,Jorge Sampaoli,Cuca
+Cuca,Atlético-MG,2021,2021-05-30,2021-12-09,38,26,6,6,TM+OG+CBF,1.0,148,38,confirmado,False,Jorge Desio,Antonio Mohamed
+Antonio Mohamed,Atlético-MG,2022,2022-04-10,2022-07-21,18,8,8,2,TM+OG+CBF,1.0,149,18,confirmado,False,Cuca,Lucas Gonçalves
+Lucas Gonçalves,Atlético-MG,2022,2022-07-24,2022-07-24,1,0,0,1,TM+OG+CBF,1.0,150,1,confirmado,True,Antonio Mohamed,Cuca
+Cuca,Atlético-MG,2022,2022-07-31,2022-11-13,19,7,5,7,TM+OG+CBF,1.0,151,19,confirmado,False,Lucas Gonçalves,Eduardo Coudet
+Eduardo Coudet,Atlético-MG,2023,2023-04-15,2023-06-10,10,5,3,2,TM+OG+CBF,1.0,152,10,confirmado,False,Cuca,Luiz Felipe Scolari
+Luiz Felipe Scolari,Atlético-MG,2023,2023-06-21,2023-12-06,28,14,6,8,TM+OG+CBF,0.964,153,28,confirmado,False,Eduardo Coudet,Gabriel Milito
+Gabriel Milito,Atlético-MG,2024,2024-04-14,2024-12-04,37,10,14,13,TM+OG+CBF,1.0,154,37,confirmado,False,Luiz Felipe Scolari,Lucas Gonçalves
+Lucas Gonçalves,Atlético-MG,2024,2024-12-08,2024-12-08,1,1,0,0,TM+OG+CBF,1.0,155,1,confirmado,False,Gabriel Milito,Cuca
+Cuca,Atlético-MG,2025,2025-03-29,2025-08-24,19,6,6,7,TM+OG,1.0,156,19,confirmado,False,Lucas Gonçalves,Lucas Gonçalves
+Lucas Gonçalves,Atlético-MG,2025,2025-08-31,2025-08-31,1,0,0,1,TM+OG,1.0,157,1,confirmado,True,Cuca,Jorge Sampaoli
+Jorge Sampaoli,Atlético-MG,2025,2025-09-14,2025-12-07,18,6,6,6,TM+OG,1.0,158,18,confirmado,False,Lucas Gonçalves,
+Silas,Avaí,2009,2009-05-09,2009-12-05,38,15,12,11,TM+OG,1.0,159,38,confirmado,False,,Péricles Chamusca
+Péricles Chamusca,Avaí,2010,2010-05-09,2010-06-05,7,2,2,3,TM+OG,1.0,160,7,confirmado,False,Silas,Antônio Lopes
+Antônio Lopes,Avaí,2010,2010-07-14,2010-09-19,16,4,5,7,TM+OG,1.0,161,16,confirmado,False,Péricles Chamusca,Edson Neguinho
+Edson Neguinho,Avaí,2010,2010-09-23,2010-10-07,5,1,1,3,OG,0.2,162,5,verificar,False,Antônio Lopes,Vágner Benazzi
+Vágner Benazzi,Avaí,2010,2010-10-10,2010-12-05,10,4,2,4,TM+OG,0.9,163,10,confirmado,False,Edson Neguinho,Silas
+Silas,Avaí,2011,2011-05-21,2011-06-05,3,0,0,3,TM+OG,1.0,164,3,confirmado,False,Vágner Benazzi,Alexandre Gallo
+Alexandre Gallo,Avaí,2011,2011-06-11,2011-08-21,15,3,5,7,TM+OG,0.867,165,15,confirmado,False,Silas,Toninho Cecílio
+Toninho Cecílio,Avaí,2011,2011-08-28,2011-11-12,16,4,3,9,TM+OG,1.0,166,16,confirmado,False,Alexandre Gallo,Edson Neguinho
+Edson Neguinho,Avaí,2011,2011-11-16,2011-12-04,4,0,2,2,OG+Wiki,0.0,167,4,verificar,False,Toninho Cecílio,Gilson Kleina
+Gilson Kleina,Avaí,2015,2015-05-10,2015-11-07,34,9,8,17,TM+OG+CBF,1.0,168,34,confirmado,False,Edson Neguinho,Raul Cabral
+Raul Cabral,Avaí,2015,2015-11-18,2015-12-06,4,2,1,1,TM+OG+CBF,1.0,169,4,confirmado,False,Gilson Kleina,Claudinei Oliveira
+Claudinei Oliveira,Avaí,2017,2017-05-14,2017-12-03,38,10,13,15,TM+OG+CBF,1.0,170,38,confirmado,False,Raul Cabral,Geninho
+Geninho,Avaí,2019,2019-04-27,2019-06-13,9,0,4,5,TM+OG+CBF,1.0,171,9,confirmado,False,Claudinei Oliveira,Alberto Valentim
+Alberto Valentim,Avaí,2019,2019-07-13,2019-10-10,15,3,4,8,TM+OG+CBF,1.0,172,15,confirmado,False,Geninho,Evando
+Evando,Avaí,2019,2019-10-13,2019-12-08,14,0,3,11,TM+OG+CBF,1.0,173,14,confirmado,False,Alberto Valentim,Eduardo Barroca
+Eduardo Barroca,Avaí,2022,2022-04-10,2022-09-11,26,6,7,13,TM+OG+CBF,1.0,174,26,confirmado,False,Evando,Lisca
+Lisca,Avaí,2022,2022-09-17,2022-10-22,7,1,0,6,TM+OG+CBF,1.0,175,7,confirmado,False,Eduardo Barroca,Fabrício Bento
+Fabrício Bento,Avaí,2022,2022-10-27,2022-11-13,5,2,1,2,TM+OG+CBF,1.0,176,5,confirmado,False,Lisca,
+Bobô,Bahia,2003,2003-03-30,2003-04-26,6,1,1,4,TM+OG,0.833,177,6,confirmado,False,,Evaristo de Macedo
+Evaristo de Macedo,Bahia,2003,2003-05-03,2003-08-07,18,5,6,7,TM+OG,1.0,178,18,confirmado,False,Bobô,Marcelo Chamusca
+Marcelo Chamusca,Bahia,2003,2003-08-10,2003-08-16,2,1,0,1,TM+OG,1.0,179,2,confirmado,True,Evaristo de Macedo,Lula Pereira
+Lula Pereira,Bahia,2003,2003-08-20,2003-10-25,13,3,3,7,TM+OG,1.0,180,13,confirmado,False,Marcelo Chamusca,Edinho
+Edinho,Bahia,2003,2003-11-01,2003-12-14,7,2,0,5,TM+OG,1.0,181,7,confirmado,False,Lula Pereira,René Simões
+René Simões,Bahia,2011,2011-05-22,2011-09-01,20,4,9,7,TM+OG,1.0,182,20,confirmado,False,Edinho,Joel Santana
+Joel Santana,Bahia,2011,2011-09-04,2011-12-04,18,7,4,7,TM+OG,0.944,183,18,confirmado,False,René Simões,Falcão
+Falcão,Bahia,2012,2012-05-20,2012-07-19,10,1,4,5,TM+OG,1.0,184,10,confirmado,False,Joel Santana,Caio Júnior
+Caio Júnior,Bahia,2012,2012-07-22,2012-08-26,9,2,4,3,TM+Wiki,0.0,185,9,verificar,False,Falcão,Jorginho Cantinflas
+Jorginho Cantinflas,Bahia,2012,2012-08-29,2012-12-02,19,8,6,5,TM+OG,1.0,186,19,confirmado,False,Caio Júnior,Cristóvão Borges
+Cristóvão Borges,Bahia,2013,2013-05-26,2013-12-08,38,12,12,14,TM+OG,0.947,187,38,confirmado,False,Jorginho Cantinflas,Marquinhos Santos
+Marquinhos Santos,Bahia,2014,2014-04-20,2014-07-26,12,2,3,7,TM+OG+CBF,1.0,188,12,confirmado,False,Cristóvão Borges,Charles
+Charles,Bahia,2014,2014-08-03,2014-08-09,2,1,1,0,TM+OG+CBF,1.0,189,2,confirmado,True,Marquinhos Santos,Gilson Kleina
+Gilson Kleina,Bahia,2014,2014-08-16,2014-11-09,19,4,6,9,TM+OG+CBF,1.0,190,19,confirmado,False,Charles,Charles
+Charles,Bahia,2014,2014-11-16,2014-12-07,5,2,0,3,TM+OG+CBF,1.0,191,5,confirmado,False,Gilson Kleina,Guto Ferreira
+Guto Ferreira,Bahia,2017,2017-05-14,2017-05-28,3,1,0,2,TM+OG+CBF,1.0,192,3,confirmado,False,Charles,Jorginho (Jorge de Amorim)
+Jorginho (Jorge de Amorim),Bahia,2017,2017-06-05,2017-07-30,14,4,4,6,TM+OG+CBF,1.0,193,14,confirmado,False,Guto Ferreira,Preto Casagrande
+Preto Casagrande,Bahia,2017,2017-08-02,2017-09-30,9,3,3,3,TM+OG+CBF,1.0,194,9,confirmado,False,Jorginho (Jorge de Amorim),Paulo César Carpegiani
+Paulo César Carpegiani,Bahia,2017,2017-10-12,2017-12-03,12,5,4,3,TM+OG+CBF,1.0,195,12,confirmado,False,Preto Casagrande,Guto Ferreira
+Guto Ferreira,Bahia,2018,2018-04-15,2018-06-03,9,2,2,5,TM+OG+CBF,1.0,196,9,confirmado,False,Paulo César Carpegiani,Claudio Prates
+Claudio Prates,Bahia,2018,2018-06-07,2018-06-13,3,1,1,1,TM+OG+CBF,1.0,197,3,confirmado,True,Guto Ferreira,Enderson Moreira
+Enderson Moreira,Bahia,2018,2018-07-19,2018-12-02,26,9,9,8,TM+OG+CBF,1.0,198,26,confirmado,False,Claudio Prates,Roger Machado
+Roger Machado,Bahia,2019,2019-04-28,2019-12-08,38,12,13,13,TM+OG+CBF,1.0,199,44,confirmado,False,Enderson Moreira,Claudio Prates
+Roger Machado,Bahia,2020,2020-08-12,2020-09-02,6,2,2,2,TM+OG+CBF,1.0,199,44,confirmado,False,Enderson Moreira,Claudio Prates
+Claudio Prates,Bahia,2020,2020-09-06,2020-09-10,2,0,1,1,TM+OG+CBF,1.0,200,2,confirmado,True,Roger Machado,Mano Menezes
+Mano Menezes,Bahia,2020,2020-09-13,2020-12-20,18,6,1,11,TM+OG+CBF,0.944,201,18,confirmado,False,Claudio Prates,Dado Cavalcanti
+Dado Cavalcanti,Bahia,2020,2020-12-27,2021-02-25,12,4,4,4,TM+OG+CBF,1.0,202,28,confirmado,False,Mano Menezes,Bruno Lopes
+Dado Cavalcanti,Bahia,2021,2021-05-29,2021-08-15,16,5,3,8,TM+OG+CBF,1.0,202,28,confirmado,False,Mano Menezes,Bruno Lopes
+Bruno Lopes,Bahia,2021,2021-08-21,2021-08-21,1,0,0,1,TM+CBF,1.0,203,1,confirmado,True,Dado Cavalcanti,Diego Dabove
+Diego Dabove,Bahia,2021,2021-08-30,2021-10-05,6,1,2,3,TM+OG+CBF,1.0,204,6,confirmado,False,Bruno Lopes,Guto Ferreira
+Guto Ferreira,Bahia,2021,2021-10-09,2021-12-09,15,5,5,5,TM+OG+CBF,1.0,205,15,confirmado,False,Diego Dabove,Renato Paiva
+Renato Paiva,Bahia,2023,2023-04-15,2023-09-03,22,5,7,10,TM+OG+CBF,1.0,206,22,confirmado,False,Guto Ferreira,Rogério Ceni
+Rogério Ceni,Bahia,2023,2023-09-14,2023-12-06,16,7,1,8,TM+OG+CBF,1.0,207,92,confirmado,False,Renato Paiva,
+Rogério Ceni,Bahia,2024,2024-04-13,2024-12-08,38,15,8,15,TM+OG+CBF,1.0,207,92,confirmado,False,Renato Paiva,
+Rogério Ceni,Bahia,2025,2025-03-30,2025-12-07,38,17,9,12,TM+OG,0.737,207,92,provável,False,Renato Paiva,
+Levir Culpi,Botafogo,2004,2004-04-21,2004-04-25,2,0,0,2,TM,0.0,208,2,verificar,False,,Luiz Roberto Matter
+Luiz Roberto Matter,Botafogo,2004,2004-04-28,2004-05-16,4,0,3,1,TM+OG,1.0,209,4,confirmado,False,Levir Culpi,Mauro Galvão
+Mauro Galvão,Botafogo,2004,2004-05-22,2004-08-15,18,4,7,7,TM+OG,1.0,210,18,confirmado,False,Luiz Roberto Matter,Paulo Bonamigo
+Paulo Bonamigo,Botafogo,2004,2004-08-18,2004-12-19,22,7,8,7,TM+OG,1.0,211,22,confirmado,False,Mauro Galvão,Paulo César Gusmão
+Paulo César Gusmão,Botafogo,2005,2005-04-24,2005-06-26,8,5,0,3,TM,0.5,212,8,provável,False,Paulo Bonamigo,Péricles Chamusca
+Péricles Chamusca,Botafogo,2005,2005-07-03,2005-08-28,13,4,3,6,TM+OG,0.923,213,13,confirmado,False,Paulo César Gusmão,Celso Roth
+Celso Roth,Botafogo,2005,2005-09-07,2005-12-04,21,8,5,8,TM+OG,1.0,214,21,confirmado,False,Péricles Chamusca,DESCONHECIDO
+DESCONHECIDO,Botafogo,2006,2006-04-16,2006-04-29,3,1,1,1,,0.0,215,3,verificar,False,Celso Roth,Cuca
+Cuca,Botafogo,2006,2006-05-07,2006-12-03,35,12,11,12,TM+OG,0.914,216,62,confirmado,False,DESCONHECIDO,Mário Sérgio
+Cuca,Botafogo,2007,2007-05-02,2007-09-23,27,11,9,7,TM+OG,0.963,216,62,confirmado,False,DESCONHECIDO,Mário Sérgio
+Mário Sérgio,Botafogo,2007,2007-09-30,2007-10-06,3,0,0,3,TM+OG,1.0,217,3,confirmado,True,Cuca,Cuca
+Cuca,Botafogo,2007,2007-10-14,2007-12-02,8,3,4,1,TM+OG,1.0,218,11,confirmado,False,Mário Sérgio,Geninho
+Cuca,Botafogo,2008,2008-05-11,2008-05-25,3,1,1,1,TM+OG,1.0,218,11,confirmado,False,Mário Sérgio,Geninho
+Geninho,Botafogo,2008,2008-06-01,2008-07-09,7,2,1,4,TM+OG,0.857,219,7,confirmado,False,Cuca,Ney Franco
+Ney Franco,Botafogo,2008,2008-07-13,2008-12-07,28,12,6,10,TM+OG,1.0,220,45,confirmado,False,Geninho,Estevam Soares
+Ney Franco,Botafogo,2009,2009-05-10,2009-08-08,17,4,7,6,TM+OG,1.0,220,45,confirmado,False,Geninho,Estevam Soares
+Estevam Soares,Botafogo,2009,2009-08-15,2009-12-06,21,7,7,7,TM+OG,1.0,221,21,confirmado,False,Ney Franco,Joel Santana
+Joel Santana,Botafogo,2010,2010-05-08,2010-12-05,38,14,17,7,TM+OG,1.0,222,38,confirmado,False,Estevam Soares,Cassius Hartmann
+Cassius Hartmann,Botafogo,2011,2011-05-22,2011-05-22,1,0,0,1,TM+OG,1.0,223,1,confirmado,False,Joel Santana,Caio Júnior
+Caio Júnior,Botafogo,2011,2011-05-28,2011-11-16,34,16,7,11,TM+OG,1.0,224,34,confirmado,False,Cassius Hartmann,Flávio Tenius
+Flávio Tenius,Botafogo,2011,2011-11-20,2011-12-04,3,0,1,2,TM+OG,1.0,225,3,confirmado,False,Caio Júnior,Oswaldo de Oliveira
+Oswaldo de Oliveira,Botafogo,2012,2012-05-20,2012-12-01,38,15,10,13,TM+OG,1.0,226,76,confirmado,False,Flávio Tenius,Vagner Mancini
+Oswaldo de Oliveira,Botafogo,2013,2013-05-25,2013-12-08,38,17,10,11,TM+OG,0.895,226,76,confirmado,False,Flávio Tenius,Vagner Mancini
+Vagner Mancini,Botafogo,2014,2014-04-20,2014-12-07,38,9,7,22,TM+OG+CBF,1.0,227,38,confirmado,False,Oswaldo de Oliveira,Ricardo Gomes
+Ricardo Gomes,Botafogo,2016,2016-05-15,2016-08-04,18,5,5,8,TM+OG+CBF,1.0,228,18,confirmado,False,Vagner Mancini,Jair Ventura
+Jair Ventura,Botafogo,2016,2016-08-14,2016-12-11,20,12,3,5,TM+OG+CBF,1.0,229,58,confirmado,False,Ricardo Gomes,Alberto Valentim
+Jair Ventura,Botafogo,2017,2017-05-14,2017-12-03,38,14,11,13,TM+OG+CBF,1.0,229,58,confirmado,False,Ricardo Gomes,Alberto Valentim
+Alberto Valentim,Botafogo,2018,2018-04-16,2018-06-13,12,4,5,3,TM+OG+CBF,1.0,230,12,confirmado,False,Jair Ventura,Marcos Paquetá
+Marcos Paquetá,Botafogo,2018,2018-07-18,2018-07-29,4,1,0,3,TM+OG+CBF,1.0,231,4,confirmado,False,Alberto Valentim,Bruno Lazaroni
+Bruno Lazaroni,Botafogo,2018,2018-08-04,2018-08-04,1,0,1,0,TM+OG+CBF,1.0,232,1,confirmado,True,Marcos Paquetá,Zé Ricardo
+Zé Ricardo,Botafogo,2018,2018-08-12,2018-12-01,21,8,6,7,TM+OG+CBF,1.0,233,21,confirmado,False,Bruno Lazaroni,Eduardo Barroca
+Eduardo Barroca,Botafogo,2019,2019-04-27,2019-10-06,23,8,3,12,TM+OG+CBF,1.0,234,23,confirmado,False,Zé Ricardo,Bruno Lazaroni
+Bruno Lazaroni,Botafogo,2019,2019-10-09,2019-10-12,2,1,0,1,TM+OG+CBF,1.0,235,2,confirmado,True,Eduardo Barroca,Alberto Valentim
+Alberto Valentim,Botafogo,2019,2019-10-16,2019-12-08,13,4,1,8,TM+OG+CBF,1.0,236,13,confirmado,False,Bruno Lazaroni,Paulo Autuori
+Paulo Autuori,Botafogo,2020,2020-08-11,2020-09-30,12,1,8,3,TM+OG+CBF,1.0,237,12,confirmado,False,Alberto Valentim,Bruno Lazaroni
+Bruno Lazaroni,Botafogo,2020,2020-10-04,2020-10-19,5,2,2,1,TM+OG+CBF,1.0,238,5,confirmado,False,Paulo Autuori,Flávio Tenius
+Flávio Tenius,Botafogo,2020,2020-10-31,2020-11-08,2,0,1,1,TM+OG+CBF,1.0,239,2,confirmado,True,Bruno Lazaroni,Emiliano Díaz
+Emiliano Díaz,Botafogo,2020,2020-11-16,2020-11-25,3,0,0,3,TM+OG+CBF,1.0,240,3,confirmado,True,Flávio Tenius,Felipe Lucena
+Felipe Lucena,Botafogo,2020,2020-12-05,2020-12-12,3,0,0,3,TM+OG+CBF,1.0,241,3,confirmado,True,Emiliano Díaz,Eduardo Barroca
+Eduardo Barroca,Botafogo,2020,2020-12-19,2021-02-05,9,1,1,7,TM+OG+CBF,1.0,242,9,confirmado,False,Felipe Lucena,Lúcio Flávio
+Lúcio Flávio,Botafogo,2020,2021-02-08,2021-02-25,4,1,0,3,TM+OG+CBF,1.0,243,4,confirmado,False,Eduardo Barroca,Luís Castro
+Luís Castro,Botafogo,2022,2022-04-10,2022-11-13,38,15,8,15,TM+OG+CBF,0.974,244,50,confirmado,False,Lúcio Flávio,Cláudio Caçapa
+Luís Castro,Botafogo,2023,2023-04-15,2023-06-25,12,10,0,2,TM+OG+CBF,1.0,244,50,confirmado,False,Lúcio Flávio,Cláudio Caçapa
+Cláudio Caçapa,Botafogo,2023,2023-07-02,2023-07-15,3,3,0,0,TM+OG+CBF,1.0,245,3,confirmado,True,Luís Castro,Bruno Lage
+Bruno Lage,Botafogo,2023,2023-07-23,2023-10-02,10,3,4,3,TM+OG+CBF,1.0,246,10,confirmado,False,Cláudio Caçapa,Lúcio Flávio
+Lúcio Flávio,Botafogo,2023,2023-10-08,2023-11-12,8,2,2,4,TM+OG+CBF,1.0,247,8,confirmado,False,Bruno Lage,Tiago Nunes
+Tiago Nunes,Botafogo,2023,2023-11-23,2023-12-06,5,0,4,1,TM+OG+CBF,1.0,248,5,confirmado,False,Lúcio Flávio,Artur Jorge
+Artur Jorge,Botafogo,2024,2024-04-14,2024-12-08,38,23,10,5,TM+OG+CBF,1.0,249,38,confirmado,False,Tiago Nunes,Renato Paiva
+Renato Paiva,Botafogo,2025,2025-03-30,2025-06-04,11,5,3,3,TM+OG,1.0,250,11,confirmado,False,Artur Jorge,Davide Ancelotti
+Davide Ancelotti,Botafogo,2025,2025-07-12,2025-12-07,27,12,9,6,TM+OG,0.963,251,27,confirmado,False,Renato Paiva,
+Felipe Conceição,Bragantino,2020,2020-08-09,2020-08-29,6,1,2,3,TM+OG+CBF,1.0,252,6,confirmado,False,,Marcinho
+Marcinho,Bragantino,2020,2020-09-02,2020-09-02,1,0,1,0,TM+OG,1.0,253,1,confirmado,True,Felipe Conceição,Maurício Barbieri
+Maurício Barbieri,Bragantino,2020,2020-09-06,2021-02-25,31,12,11,8,TM+OG+CBF,1.0,254,106,confirmado,False,Marcinho,Marcinho
+Maurício Barbieri,Bragantino,2021,2021-05-30,2021-12-09,38,14,14,10,TM+OG+CBF,0.974,254,106,confirmado,False,Marcinho,Marcinho
+Maurício Barbieri,Bragantino,2022,2022-04-11,2022-11-09,37,11,11,15,TM+OG+CBF,1.0,254,106,confirmado,False,Marcinho,Marcinho
+Marcinho,Bragantino,2022,2022-11-13,2022-11-13,1,0,0,1,TM+OG,1.0,255,1,confirmado,False,Maurício Barbieri,Pedro Caixinha
+Pedro Caixinha,Bragantino,2023,2023-04-15,2023-12-06,38,17,11,10,TM+OG+CBF,1.0,256,69,confirmado,False,Marcinho,Fernando Seabra
+Pedro Caixinha,Bragantino,2024,2024-04-13,2024-10-26,31,8,10,13,TM+OG+CBF,0.968,256,69,confirmado,False,Marcinho,Fernando Seabra
+Fernando Seabra,Bragantino,2024,2024-11-02,2024-12-08,7,2,4,1,TM+OG+CBF,1.0,257,37,confirmado,False,Pedro Caixinha,Vagner Mancini
+Fernando Seabra,Bragantino,2025,2025-03-31,2025-10-26,30,10,6,14,TM+OG,1.0,257,37,confirmado,False,Pedro Caixinha,Vagner Mancini
+Vagner Mancini,Bragantino,2025,2025-11-02,2025-12-07,8,4,0,4,TM+OG,1.0,258,8,confirmado,False,Fernando Seabra,
+DESCONHECIDO,Brasiliense,2005,2005-04-24,2005-04-24,1,0,0,1,,0.0,259,1,verificar,False,,Valdir Espinosa
+Valdir Espinosa,Brasiliense,2005,2005-04-30,2005-05-29,5,2,0,3,OG,0.2,260,5,verificar,False,DESCONHECIDO,Joel Santana
+Joel Santana,Brasiliense,2005,2005-06-11,2005-10-21,26,6,8,12,TM+OG,0.923,261,26,confirmado,False,Valdir Espinosa,Márcio Bittencourt
+Márcio Bittencourt,Brasiliense,2005,2005-10-24,2005-12-04,10,2,3,5,TM+OG,1.0,262,10,confirmado,False,Joel Santana,
+Marcelo Cabo,CSA,2019,2019-04-28,2019-06-12,9,1,3,5,TM+OG+CBF,1.0,263,9,confirmado,False,,Argel Fuchs
+Argel Fuchs,CSA,2019,2019-07-14,2019-11-27,26,7,5,14,TM+OG+CBF,1.0,264,26,confirmado,False,Marcelo Cabo,Jacozinho
+Jacozinho,CSA,2019,2019-11-30,2019-12-08,3,0,0,3,TM+OG+CBF,1.0,265,3,confirmado,False,Argel Fuchs,
+Paulo César Gusmão,Ceará,2010,2010-05-09,2010-06-06,7,5,2,0,TM+OG,1.0,266,7,confirmado,False,,Estevam Soares
+Estevam Soares,Ceará,2010,2010-07-14,2010-08-08,6,0,4,2,TM+OG,1.0,267,6,confirmado,False,Paulo César Gusmão,Mário Sérgio
+Mário Sérgio,Ceará,2010,2010-08-14,2010-09-08,7,1,1,5,TM+OG,1.0,268,7,confirmado,False,Estevam Soares,Dimas Filgueiras
+Dimas Filgueiras,Ceará,2010,2010-09-12,2010-12-05,18,4,10,4,TM+OG,1.0,269,18,confirmado,False,Mário Sérgio,Vagner Mancini
+Vagner Mancini,Ceará,2011,2011-05-21,2011-09-11,23,7,6,10,TM+OG,1.0,270,23,confirmado,False,Dimas Filgueiras,Estevam Soares
+Estevam Soares,Ceará,2011,2011-09-17,2011-10-23,8,1,2,5,TM+OG,1.0,271,8,confirmado,False,Vagner Mancini,Dimas Filgueiras
+Dimas Filgueiras,Ceará,2011,2011-10-29,2011-12-04,7,2,1,4,TM+OG,1.0,272,7,confirmado,False,Estevam Soares,Marcelo Chamusca
+Marcelo Chamusca,Ceará,2018,2018-04-14,2018-05-20,6,0,3,3,TM+OG+CBF,1.0,273,6,confirmado,False,Dimas Filgueiras,Jorginho (Jorge de Amorim)
+Jorginho (Jorge de Amorim),Ceará,2018,2018-05-27,2018-06-03,3,0,0,3,TM+OG+CBF,1.0,274,3,confirmado,True,Marcelo Chamusca,Lisca
+Lisca,Ceará,2018,2018-06-06,2018-12-02,29,10,11,8,TM+OG+CBF,1.0,275,29,confirmado,False,Jorginho (Jorge de Amorim),Enderson Moreira
+Enderson Moreira,Ceará,2019,2019-04-28,2019-09-29,22,6,5,11,TM+OG+CBF,1.0,276,22,confirmado,False,Lisca,Adilson Batista
+Adilson Batista,Ceará,2019,2019-10-06,2019-11-26,13,4,2,7,TM+OG+CBF,1.0,277,13,confirmado,False,Enderson Moreira,Argel Fuchs
+Argel Fuchs,Ceará,2019,2019-11-29,2019-12-08,3,0,2,1,TM+OG+CBF,1.0,278,3,confirmado,False,Adilson Batista,Guto Ferreira
+Guto Ferreira,Ceará,2020,2020-08-08,2021-02-25,38,14,10,14,TM+OG+CBF,0.974,279,56,confirmado,False,Argel Fuchs,Tiago Nunes
+Guto Ferreira,Ceará,2021,2021-05-30,2021-08-29,18,5,9,4,TM+OG+CBF,1.0,279,56,confirmado,False,Argel Fuchs,Tiago Nunes
+Tiago Nunes,Ceará,2021,2021-09-12,2021-12-09,20,6,8,6,TM+OG+CBF,0.95,280,20,confirmado,False,Guto Ferreira,Dorival Júnior
+Dorival Júnior,Ceará,2022,2022-04-09,2022-06-08,10,3,4,3,TM+CBF,1.0,281,10,confirmado,False,Tiago Nunes,Marquinhos Santos
+Marquinhos Santos,Ceará,2022,2022-06-12,2022-08-14,12,2,6,4,TM+OG+CBF,0.917,282,12,confirmado,False,Dorival Júnior,Juca
+Juca,Ceará,2022,2022-08-21,2022-08-27,2,0,2,0,TM+CBF,1.0,283,2,confirmado,True,Marquinhos Santos,Lucho González
+Lucho González,Ceará,2022,2022-09-04,2022-10-26,10,1,4,5,TM+OG+CBF,1.0,284,10,confirmado,False,Juca,Juca
+Juca,Ceará,2022,2022-10-31,2022-11-13,4,1,0,3,TM+CBF,1.0,285,4,confirmado,False,Lucho González,Léo Condé
+Léo Condé,Ceará,2025,2025-03-31,2025-12-07,38,11,10,17,TM+OG,0.895,286,38,confirmado,False,Juca,
+Gilmar Dal Pozzo,Chapecoense,2014,2014-04-19,2014-05-21,6,0,2,4,TM+OG+CBF,1.0,287,6,confirmado,False,,Celso Rodrigues
+Celso Rodrigues,Chapecoense,2014,2014-05-25,2014-09-10,14,5,3,6,TM+OG+CBF,1.0,288,14,confirmado,False,Gilmar Dal Pozzo,Jorginho Cantinflas
+Jorginho Cantinflas,Chapecoense,2014,2014-09-13,2014-11-16,14,4,4,6,TM+OG+CBF,1.0,289,14,confirmado,False,Celso Rodrigues,Celso Rodrigues
+Celso Rodrigues,Chapecoense,2014,2014-11-20,2014-12-07,4,2,1,1,TM+OG+CBF,1.0,290,4,confirmado,False,Jorginho Cantinflas,Vinícius Eutrópio
+Vinícius Eutrópio,Chapecoense,2015,2015-05-09,2015-09-13,25,8,6,11,TM+OG+CBF,1.0,291,25,confirmado,False,Celso Rodrigues,Guto Ferreira
+Guto Ferreira,Chapecoense,2015,2015-09-17,2015-12-06,13,4,5,4,TM+OG+CBF,1.0,292,23,confirmado,False,Vinícius Eutrópio,Emerson Cris
+Guto Ferreira,Chapecoense,2016,2016-05-15,2016-06-23,10,3,6,1,TM+OG+CBF,1.0,292,23,confirmado,False,Vinícius Eutrópio,Emerson Cris
+Emerson Cris,Chapecoense,2016,2016-06-26,2016-06-26,1,0,0,1,OG+CBF,1.0,293,1,confirmado,True,Guto Ferreira,Caio Júnior
+Caio Júnior,Chapecoense,2016,2016-06-29,2016-11-27,26,10,7,9,TM+OG+CBF,1.0,294,26,confirmado,False,Emerson Cris,Vagner Mancini
+Vagner Mancini,Chapecoense,2017,2017-05-13,2017-07-03,11,4,2,5,TM+OG+CBF,1.0,295,11,confirmado,False,Caio Júnior,Vinícius Eutrópio
+Vinícius Eutrópio,Chapecoense,2017,2017-07-09,2017-09-10,12,3,2,7,TM+OG+CBF,1.0,296,12,confirmado,False,Vagner Mancini,Emerson Cris
+Emerson Cris,Chapecoense,2017,2017-09-17,2017-10-22,7,4,1,2,TM+OG+CBF,1.0,297,7,confirmado,False,Vinícius Eutrópio,Gilson Kleina
+Gilson Kleina,Chapecoense,2017,2017-10-28,2017-12-03,8,4,4,0,TM+OG+CBF,1.0,298,25,confirmado,False,Emerson Cris,Guto Ferreira
+Gilson Kleina,Chapecoense,2018,2018-04-15,2018-08-05,17,3,9,5,TM+OG+CBF,1.0,298,25,confirmado,False,Emerson Cris,Guto Ferreira
+Guto Ferreira,Chapecoense,2018,2018-08-12,2018-10-14,12,4,1,7,TM+OG+CBF,1.0,299,12,confirmado,False,Gilson Kleina,Claudinei Oliveira
+Claudinei Oliveira,Chapecoense,2018,2018-10-21,2018-12-02,9,4,1,4,TM+OG+CBF,1.0,300,9,confirmado,False,Guto Ferreira,Ney Franco
+Ney Franco,Chapecoense,2019,2019-04-27,2019-07-22,11,2,2,7,TM+OG+CBF,1.0,301,11,confirmado,False,Claudinei Oliveira,Emerson Cris
+Emerson Cris,Chapecoense,2019,2019-07-28,2019-09-14,8,1,3,4,TM+OG+CBF,1.0,302,8,confirmado,False,Ney Franco,Marquinhos Santos
+Marquinhos Santos,Chapecoense,2019,2019-09-22,2019-12-08,19,4,6,9,TM+OG+CBF,1.0,303,19,confirmado,False,Emerson Cris,Felipe Endres
+Felipe Endres,Chapecoense,2021,2021-05-30,2021-05-30,1,0,0,1,TM+OG+CBF,1.0,304,1,confirmado,False,Marquinhos Santos,Jair Ventura
+Jair Ventura,Chapecoense,2021,2021-06-06,2021-08-01,13,0,4,9,TM+OG+CBF,1.0,305,13,confirmado,False,Felipe Endres,Pintado
+Pintado,Chapecoense,2021,2021-08-09,2021-10-24,14,1,6,7,TM+OG+CBF,0.857,306,14,confirmado,False,Jair Ventura,Felipe Endres
+Felipe Endres,Chapecoense,2021,2021-11-01,2021-12-09,10,0,2,8,TM+OG+CBF,1.0,307,10,confirmado,False,Pintado,
+Geninho,Corinthians,2003,2003-03-30,2003-09-28,33,11,11,11,TM+OG,1.0,308,33,confirmado,False,,Jairo Leal
+Jairo Leal,Corinthians,2003,2003-10-05,2003-10-05,1,1,0,0,TM+OG,1.0,309,1,confirmado,True,Geninho,Júnior
+Júnior,Corinthians,2003,2003-10-08,2003-10-12,2,0,0,2,TM,0.0,310,2,verificar,True,Jairo Leal,Juninho Fonseca
+Juninho Fonseca,Corinthians,2003,2003-10-19,2003-12-14,10,3,1,6,TM+OG,1.0,311,10,confirmado,False,Júnior,Oswaldo de Oliveira
+Oswaldo de Oliveira,Corinthians,2004,2004-04-21,2004-05-23,7,2,1,4,TM+OG,1.0,312,7,confirmado,False,Juninho Fonseca,Tite
+Tite,Corinthians,2004,2004-05-30,2004-12-19,39,18,13,8,TM+OG,1.0,313,39,confirmado,False,Oswaldo de Oliveira,Daniel Passarella
+Daniel Passarella,Corinthians,2005,2005-04-24,2005-05-08,3,0,1,2,TM+OG,1.0,314,3,confirmado,False,Tite,Márcio Bittencourt
+Márcio Bittencourt,Corinthians,2005,2005-05-15,2005-09-25,23,15,4,4,TM+OG,1.0,315,23,confirmado,False,Daniel Passarella,Antônio Lopes
+Antônio Lopes,Corinthians,2005,2005-10-02,2005-12-04,16,9,4,3,TM+OG,1.0,316,16,confirmado,False,Márcio Bittencourt,Ademar Braga
+Ademar Braga,Corinthians,2006,2006-04-16,2006-05-14,5,2,0,3,TM+OG,1.0,317,5,confirmado,False,Antônio Lopes,Geninho
+Geninho,Corinthians,2006,2006-05-21,2006-08-12,11,2,1,8,TM+OG,1.0,318,11,confirmado,False,Ademar Braga,Emerson Leão
+Emerson Leão,Corinthians,2006,2006-08-15,2006-12-03,22,11,7,4,TM+OG,1.0,319,22,confirmado,False,Geninho,Paulo César Carpegiani
+Paulo César Carpegiani,Corinthians,2007,2007-05-02,2007-08-25,21,6,9,6,TM+OG,1.0,320,21,confirmado,False,Emerson Leão,Zé Augusto
+Zé Augusto,Corinthians,2007,2007-08-29,2007-09-23,6,2,0,4,TM+OG,1.0,321,6,confirmado,False,Paulo César Carpegiani,Nelsinho Baptista
+Nelsinho Baptista,Corinthians,2007,2007-09-29,2007-12-02,11,2,5,4,TM+OG,1.0,322,11,confirmado,False,Zé Augusto,Mano Menezes
+Mano Menezes,Corinthians,2009,2009-05-10,2009-12-05,38,14,10,14,TM+OG,0.947,323,49,confirmado,False,Nelsinho Baptista,Adilson Batista
+Mano Menezes,Corinthians,2010,2010-05-09,2010-07-25,11,7,3,1,TM+OG,1.0,323,49,confirmado,False,Nelsinho Baptista,Adilson Batista
+Adilson Batista,Corinthians,2010,2010-08-01,2010-10-10,17,7,4,6,TM+OG,1.0,324,17,confirmado,False,Mano Menezes,Fábio Carille
+Fábio Carille,Corinthians,2010,2010-10-13,2010-10-17,2,0,1,1,TM+OG,1.0,325,2,confirmado,True,Adilson Batista,Tite
+Tite,Corinthians,2010,2010-10-24,2010-12-05,8,5,3,0,TM+OG,1.0,326,122,confirmado,False,Fábio Carille,Mano Menezes
+Tite,Corinthians,2011,2011-05-22,2011-12-04,38,21,8,9,TM+OG,1.0,326,122,confirmado,False,Fábio Carille,Mano Menezes
+Tite,Corinthians,2012,2012-05-20,2012-12-02,38,15,12,11,TM+OG,0.947,326,122,confirmado,False,Fábio Carille,Mano Menezes
+Tite,Corinthians,2013,2013-05-25,2013-12-07,38,11,17,10,TM+OG,0.895,326,122,confirmado,False,Fábio Carille,Mano Menezes
+Mano Menezes,Corinthians,2014,2014-04-20,2014-12-06,38,19,12,7,TM+OG+CBF,1.0,327,38,confirmado,False,Tite,Tite
+Tite,Corinthians,2015,2015-05-10,2015-12-06,38,24,9,5,TM+OG+CBF,1.0,328,45,confirmado,False,Mano Menezes,Fábio Carille
+Tite,Corinthians,2016,2016-05-15,2016-06-12,7,4,1,2,TM+OG+CBF,1.0,328,45,confirmado,False,Mano Menezes,Fábio Carille
+Fábio Carille,Corinthians,2016,2016-06-16,2016-06-19,2,1,0,1,OG+CBF,1.0,329,2,confirmado,True,Tite,Cristóvão Borges
+Cristóvão Borges,Corinthians,2016,2016-06-22,2016-09-17,17,7,4,6,TM+OG+CBF,1.0,330,17,confirmado,False,Fábio Carille,Fábio Carille
+Fábio Carille,Corinthians,2016,2016-09-25,2016-10-12,4,1,1,2,OG+CBF,1.0,331,4,confirmado,False,Cristóvão Borges,Oswaldo de Oliveira
+Oswaldo de Oliveira,Corinthians,2016,2016-10-16,2016-12-11,8,2,4,2,TM+OG+CBF,1.0,332,8,confirmado,False,Fábio Carille,Fábio Carille
+Fábio Carille,Corinthians,2017,2017-05-13,2017-12-03,38,21,9,8,TM+OG+CBF,1.0,333,44,confirmado,False,Oswaldo de Oliveira,Osmar Loss
+Fábio Carille,Corinthians,2018,2018-04-15,2018-05-20,6,3,2,1,TM+OG+CBF,1.0,333,44,confirmado,False,Oswaldo de Oliveira,Osmar Loss
+Osmar Loss,Corinthians,2018,2018-05-27,2018-09-05,17,5,4,8,TM+OG+CBF,1.0,334,17,confirmado,False,Fábio Carille,Jair Ventura
+Jair Ventura,Corinthians,2018,2018-09-09,2018-12-02,15,3,5,7,TM+OG+CBF,1.0,335,15,confirmado,False,Osmar Loss,Fábio Carille
+Fábio Carille,Corinthians,2019,2019-04-28,2019-11-03,30,11,12,7,TM+OG+CBF,1.0,336,30,confirmado,False,Jair Ventura,Dyego Coelho
+Dyego Coelho,Corinthians,2019,2019-11-06,2019-12-08,8,3,2,3,TM+OG+CBF,1.0,337,8,confirmado,False,Fábio Carille,Tiago Nunes
+Tiago Nunes,Corinthians,2020,2020-08-11,2020-09-10,8,2,3,3,TM+OG+CBF,1.0,338,8,confirmado,False,Dyego Coelho,Dyego Coelho
+Dyego Coelho,Corinthians,2020,2020-09-13,2020-10-11,7,1,3,3,TM+OG+CBF,1.0,339,7,confirmado,False,Tiago Nunes,Vagner Mancini
+Vagner Mancini,Corinthians,2020,2020-10-14,2021-02-25,23,10,6,7,TM+OG+CBF,1.0,340,23,confirmado,False,Dyego Coelho,Sylvinho
+Sylvinho,Corinthians,2021,2021-05-30,2021-12-09,38,15,12,11,TM+OG+CBF,1.0,341,38,confirmado,False,Vagner Mancini,Vítor Pereira
+Vítor Pereira,Corinthians,2022,2022-04-10,2022-11-13,38,18,11,9,TM+CBF,1.0,342,38,confirmado,False,Sylvinho,Fernando Lázaro
+Fernando Lázaro,Corinthians,2023,2023-04-16,2023-04-16,1,1,0,0,TM+OG+CBF,1.0,343,1,confirmado,False,Vítor Pereira,Cuca
+Cuca,Corinthians,2023,2023-04-23,2023-04-23,1,0,0,1,TM+OG+CBF,1.0,344,1,confirmado,True,Fernando Lázaro,Danilo
+Danilo,Corinthians,2023,2023-04-29,2023-04-29,1,0,0,1,TM+CBF,1.0,345,1,confirmado,True,Cuca,Vanderlei Luxemburgo
+Vanderlei Luxemburgo,Corinthians,2023,2023-05-08,2023-09-22,21,6,9,6,TM+OG+CBF,1.0,346,21,confirmado,False,Danilo,Mano Menezes
+Mano Menezes,Corinthians,2023,2023-09-30,2023-12-06,14,5,5,4,TM+OG+CBF,1.0,347,14,confirmado,False,Vanderlei Luxemburgo,António Oliveira
+António Oliveira,Corinthians,2024,2024-04-14,2024-07-01,13,1,6,6,TM+OG+CBF,1.0,348,13,confirmado,False,Mano Menezes,Raphael Laruccia
+Raphael Laruccia,Corinthians,2024,2024-07-04,2024-07-10,3,1,0,2,TM+OG+CBF,1.0,349,3,confirmado,True,António Oliveira,Ramón Díaz
+Ramón Díaz,Corinthians,2024,2024-07-16,2024-12-08,22,13,5,4,TM+OG+CBF,1.0,350,26,confirmado,False,Raphael Laruccia,Orlando Ribeiro
+Ramón Díaz,Corinthians,2025,2025-03-30,2025-04-16,4,1,1,2,TM+OG,1.0,350,26,confirmado,False,Raphael Laruccia,Orlando Ribeiro
+Orlando Ribeiro,Corinthians,2025,2025-04-19,2025-04-27,2,1,0,1,TM+OG,1.0,351,2,confirmado,True,Ramón Díaz,Dorival Júnior
+Dorival Júnior,Corinthians,2025,2025-05-03,2025-12-07,32,10,10,12,TM+OG,0.906,352,32,confirmado,False,Orlando Ribeiro,
+Paulo Bonamigo,Coritiba,2003,2003-03-30,2003-12-13,46,21,10,15,TM+OG,0.87,353,46,confirmado,False,,Antônio Lopes
+Antônio Lopes,Coritiba,2004,2004-04-22,2004-12-19,46,15,17,14,TM+OG,0.826,354,47,confirmado,False,Paulo Bonamigo,Cuca
+Antônio Lopes,Coritiba,2005,2005-04-24,2005-04-24,1,1,0,0,TM,0.0,354,47,verificar,False,Paulo Bonamigo,Cuca
+Cuca,Coritiba,2005,2005-05-01,2005-10-11,29,9,8,12,TM+OG,0.931,355,29,confirmado,False,Antônio Lopes,DESCONHECIDO
+DESCONHECIDO,Coritiba,2005,2005-10-15,2005-10-25,3,0,0,3,,0.0,356,3,verificar,True,Cuca,Márcio Araújo
+Márcio Araújo,Coritiba,2005,2005-10-28,2005-12-04,9,3,2,4,TM+OG,0.889,357,9,confirmado,False,DESCONHECIDO,Dorival Júnior
+Dorival Júnior,Coritiba,2008,2008-05-11,2008-12-07,38,14,11,13,TM+OG,1.0,358,38,confirmado,False,Márcio Araújo,René Simões
+René Simões,Coritiba,2009,2009-05-09,2009-08-09,18,4,4,10,TM+OG,1.0,359,18,confirmado,False,Dorival Júnior,Ney Franco
+Ney Franco,Coritiba,2009,2009-08-16,2009-12-06,20,8,5,7,TM+OG,1.0,360,20,confirmado,False,René Simões,Marcelo Oliveira
+Marcelo Oliveira,Coritiba,2011,2011-05-22,2011-12-04,38,16,9,13,TM+OG,0.974,361,60,confirmado,False,Ney Franco,Marquinhos Santos
+Marcelo Oliveira,Coritiba,2012,2012-05-20,2012-09-05,22,6,4,12,TM+OG,1.0,361,60,confirmado,False,Ney Franco,Marquinhos Santos
+Marquinhos Santos,Coritiba,2012,2012-09-08,2012-12-02,16,8,2,6,TM+OG,1.0,362,39,confirmado,False,Marcelo Oliveira,Marcelo Serrano
+Marquinhos Santos,Coritiba,2013,2013-05-26,2013-09-21,23,7,10,6,TM+OG,1.0,362,39,confirmado,False,Marcelo Oliveira,Marcelo Serrano
+Marcelo Serrano,Coritiba,2013,2013-09-28,2013-09-28,1,0,0,1,TM+OG,1.0,363,1,confirmado,True,Marquinhos Santos,Péricles Chamusca
+Péricles Chamusca,Coritiba,2013,2013-10-02,2013-11-16,11,3,1,7,TM+OG,1.0,364,11,confirmado,False,Marcelo Serrano,Tcheco
+Tcheco,Coritiba,2013,2013-11-24,2013-12-08,3,2,1,0,TM+OG,1.0,365,3,confirmado,False,Péricles Chamusca,Celso Roth
+Celso Roth,Coritiba,2014,2014-04-19,2014-08-23,17,3,6,8,TM+OG+CBF,1.0,366,17,confirmado,False,Tcheco,Marquinhos Santos
+Marquinhos Santos,Coritiba,2014,2014-08-31,2014-12-07,21,9,5,7,TM+OG+CBF,1.0,367,27,confirmado,False,Celso Roth,Ney Franco
+Marquinhos Santos,Coritiba,2015,2015-05-09,2015-06-07,6,1,0,5,TM+OG+CBF,1.0,367,27,confirmado,False,Celso Roth,Ney Franco
+Ney Franco,Coritiba,2015,2015-06-13,2015-10-31,27,7,10,10,TM+OG+CBF,1.0,368,27,confirmado,False,Marquinhos Santos,Pachequinho
+Pachequinho,Coritiba,2015,2015-11-07,2015-12-06,5,3,1,1,TM+OG+CBF,1.0,369,5,confirmado,False,Ney Franco,Gilson Kleina
+Gilson Kleina,Coritiba,2016,2016-05-14,2016-06-01,5,1,1,3,TM+OG+CBF,1.0,370,5,confirmado,False,Pachequinho,Pachequinho
+Pachequinho,Coritiba,2016,2016-06-04,2016-08-03,13,3,5,5,TM+OG+CBF,1.0,371,13,confirmado,False,Gilson Kleina,Paulo César Carpegiani
+Paulo César Carpegiani,Coritiba,2016,2016-08-07,2016-12-11,20,7,7,6,TM+OG+CBF,1.0,372,20,confirmado,False,Pachequinho,Pachequinho
+Pachequinho,Coritiba,2017,2017-05-15,2017-07-19,15,5,4,6,TM+OG+CBF,1.0,373,15,confirmado,False,Paulo César Carpegiani,Marcelo Oliveira
+Marcelo Oliveira,Coritiba,2017,2017-07-22,2017-12-03,23,6,6,11,TM+OG+CBF,1.0,374,23,confirmado,False,Pachequinho,Eduardo Barroca
+Eduardo Barroca,Coritiba,2020,2020-08-08,2020-08-19,4,0,0,4,TM+OG+CBF,1.0,375,4,confirmado,False,Marcelo Oliveira,Mozart
+Mozart,Coritiba,2020,2020-08-23,2020-08-23,1,1,0,0,TM,0.0,376,1,verificar,True,Eduardo Barroca,Jorginho (Jorge de Amorim)
+Jorginho (Jorge de Amorim),Coritiba,2020,2020-08-30,2020-10-24,13,3,4,6,TM+OG+CBF,1.0,377,13,confirmado,False,Mozart,Pachequinho
+Pachequinho,Coritiba,2020,2020-10-31,2020-11-14,3,1,1,1,TM+OG+CBF,0.667,378,3,provável,True,Jorginho (Jorge de Amorim),Rodrigo Santana
+Rodrigo Santana,Coritiba,2020,2020-11-21,2020-12-13,4,0,1,3,TM+OG+CBF,1.0,379,4,confirmado,False,Pachequinho,Pachequinho
+Pachequinho,Coritiba,2020,2020-12-19,2021-01-09,4,0,1,3,TM+OG+CBF,0.5,380,4,provável,False,Rodrigo Santana,Gustavo Morínigo
+Gustavo Morínigo,Coritiba,2020,2021-01-16,2021-02-25,9,2,3,4,TM+OG+CBF,0.556,381,31,provável,False,Pachequinho,Guto Ferreira
+Gustavo Morínigo,Coritiba,2022,2022-04-10,2022-08-14,22,6,4,12,TM+OG+CBF,1.0,381,31,confirmado,False,Pachequinho,Guto Ferreira
+Guto Ferreira,Coritiba,2022,2022-08-20,2022-11-13,16,6,2,8,TM+OG+CBF,1.0,382,16,confirmado,False,Gustavo Morínigo,António Oliveira
+António Oliveira,Coritiba,2023,2023-04-16,2023-04-16,1,0,0,1,TM+OG+CBF,1.0,383,1,confirmado,False,Guto Ferreira,Leonardo Galbes
+Leonardo Galbes,Coritiba,2023,2023-04-23,2023-04-23,1,0,0,1,TM,0.0,384,1,verificar,True,António Oliveira,Antônio Carlos Zago
+Antônio Carlos Zago,Coritiba,2023,2023-04-29,2023-06-25,10,0,4,6,TM+OG+CBF,1.0,385,10,confirmado,False,Leonardo Galbes,Thiago Kosloski
+Thiago Kosloski,Coritiba,2023,2023-07-03,2023-11-25,23,8,1,14,TM+OG+CBF,1.0,386,23,confirmado,False,Antônio Carlos Zago,Guto Ferreira
+Guto Ferreira,Coritiba,2023,2023-11-29,2023-12-06,3,0,1,2,TM+OG+CBF,0.667,387,3,provável,False,Thiago Kosloski,
+Edson Gaúcho,Criciúma,2003,2003-03-30,2003-05-18,9,2,3,4,TM+OG,1.0,388,9,confirmado,False,,Gilson Kleina
+Gilson Kleina,Criciúma,2003,2003-05-25,2003-07-10,8,6,0,2,TM+OG,0.875,389,8,confirmado,False,Edson Gaúcho,Lori Sandri
+Lori Sandri,Criciúma,2003,2003-07-13,2003-08-03,6,3,1,2,TM+OG,1.0,390,6,confirmado,False,Gilson Kleina,Gilson Kleina
+Gilson Kleina,Criciúma,2003,2003-08-06,2003-12-13,23,6,5,12,TM+OG,1.0,391,23,confirmado,False,Lori Sandri,Vágner Benazzi
+Vágner Benazzi,Criciúma,2004,2004-04-22,2004-09-01,28,10,6,12,TM+OG,1.0,392,28,confirmado,False,Gilson Kleina,Lori Sandri
+Lori Sandri,Criciúma,2004,2004-09-08,2004-12-19,18,3,5,10,TM+OG,0.889,393,18,confirmado,False,Vágner Benazzi,Vadão
+Vadão,Criciúma,2013,2013-05-26,2013-08-18,15,4,2,9,TM+OG,1.0,394,15,confirmado,False,Lori Sandri,Sílvio Criciúma
+Sílvio Criciúma,Criciúma,2013,2013-08-24,2013-09-22,8,3,1,4,TM+OG,1.0,395,8,confirmado,False,Vadão,Argel Fuchs
+Argel Fuchs,Criciúma,2013,2013-09-25,2013-12-08,15,6,4,5,TM+OG,1.0,396,15,confirmado,False,Sílvio Criciúma,Caio Júnior
+Caio Júnior,Criciúma,2014,2014-04-20,2014-04-27,2,0,0,2,TM+OG+CBF,1.0,397,2,confirmado,False,Argel Fuchs,Wagner Lopes
+Wagner Lopes,Criciúma,2014,2014-05-04,2014-08-24,15,4,5,6,TM+OG+CBF,1.0,398,15,confirmado,False,Caio Júnior,Wilson Vaterkemper
+Wilson Vaterkemper,Criciúma,2014,2014-08-31,2014-08-31,1,0,0,1,TM+OG+CBF,1.0,399,1,confirmado,True,Wagner Lopes,Gilmar Dal Pozzo
+Gilmar Dal Pozzo,Criciúma,2014,2014-09-07,2014-10-25,13,3,4,6,TM+OG+CBF,1.0,400,13,confirmado,False,Wilson Vaterkemper,Toninho Cecílio
+Toninho Cecílio,Criciúma,2014,2014-11-02,2014-11-19,4,0,0,4,TM+OG+CBF,1.0,401,4,confirmado,False,Gilmar Dal Pozzo,Luizinho Vieira
+Luizinho Vieira,Criciúma,2014,2014-11-23,2014-12-06,3,0,2,1,TM+OG+CBF,1.0,402,3,confirmado,False,Toninho Cecílio,Claudio Tencati
+Claudio Tencati,Criciúma,2024,2024-04-13,2024-12-08,38,9,11,18,TM+OG+CBF,1.0,403,38,confirmado,False,Luizinho Vieira,
+Vanderlei Luxemburgo,Cruzeiro,2003,2003-03-30,2003-12-14,46,31,7,8,TM+OG,0.739,404,46,provável,False,,Paulo César Gusmão
+Paulo César Gusmão,Cruzeiro,2004,2004-04-21,2004-05-16,6,3,2,1,OG+Wiki,0.5,405,6,provável,False,Vanderlei Luxemburgo,Emerson Leão
+Emerson Leão,Cruzeiro,2004,2004-05-23,2004-07-28,13,5,1,7,TM+OG,1.0,406,13,confirmado,False,Paulo César Gusmão,Ney Franco
+Ney Franco,Cruzeiro,2004,2004-07-31,2004-08-05,2,1,1,0,TM+OG,1.0,407,2,confirmado,True,Emerson Leão,Marco Aurélio
+Marco Aurélio,Cruzeiro,2004,2004-08-08,2004-11-13,20,6,4,10,TM,0.0,408,20,verificar,False,Ney Franco,Ney Franco
+Ney Franco,Cruzeiro,2004,2004-11-21,2004-12-19,5,1,0,4,TM+OG,1.0,409,5,confirmado,False,Marco Aurélio,Levir Culpi
+Levir Culpi,Cruzeiro,2005,2005-04-23,2005-07-03,10,3,5,2,TM+OG,1.0,410,10,confirmado,False,Ney Franco,Paulo César Gusmão
+Paulo César Gusmão,Cruzeiro,2005,2005-07-10,2005-12-04,32,14,4,14,TM+OG,1.0,411,48,confirmado,False,Levir Culpi,Oswaldo de Oliveira
+Paulo César Gusmão,Cruzeiro,2006,2006-04-16,2006-08-13,16,7,5,4,TM+OG,1.0,411,48,confirmado,False,Levir Culpi,Oswaldo de Oliveira
+Oswaldo de Oliveira,Cruzeiro,2006,2006-08-17,2006-12-03,22,7,6,9,TM+OG,0.955,412,22,confirmado,False,Paulo César Gusmão,Dorival Júnior
+Dorival Júnior,Cruzeiro,2007,2007-05-02,2007-12-02,38,18,6,14,TM+OG,1.0,413,38,confirmado,False,Oswaldo de Oliveira,Adilson Batista
+Adilson Batista,Cruzeiro,2008,2008-05-10,2008-12-07,38,21,4,13,TM+OG,1.0,414,82,confirmado,False,Dorival Júnior,Émerson Ávila
+Adilson Batista,Cruzeiro,2009,2009-05-10,2009-12-06,38,18,8,12,TM+OG,0.921,414,82,confirmado,False,Dorival Júnior,Émerson Ávila
+Adilson Batista,Cruzeiro,2010,2010-05-09,2010-06-02,6,2,3,1,TM+OG,1.0,414,82,confirmado,False,Dorival Júnior,Émerson Ávila
+Émerson Ávila,Cruzeiro,2010,2010-06-06,2010-06-06,1,0,0,1,TM+OG,1.0,415,1,confirmado,True,Adilson Batista,Cuca
+Cuca,Cruzeiro,2010,2010-07-14,2010-12-05,31,18,6,7,TM+OG,1.0,416,36,confirmado,False,Émerson Ávila,Joel Santana
+Cuca,Cruzeiro,2011,2011-05-22,2011-06-18,5,0,3,2,TM+OG,1.0,416,36,confirmado,False,Émerson Ávila,Joel Santana
+Joel Santana,Cruzeiro,2011,2011-06-25,2011-08-31,15,8,0,7,TM+OG,1.0,417,15,confirmado,False,Cuca,Émerson Ávila
+Émerson Ávila,Cruzeiro,2011,2011-09-04,2011-09-25,6,0,2,4,TM+OG,1.0,418,6,confirmado,False,Joel Santana,Vagner Mancini
+Vagner Mancini,Cruzeiro,2011,2011-10-02,2011-12-04,12,3,5,4,TM+OG,1.0,419,12,confirmado,False,Émerson Ávila,Celso Roth
+Celso Roth,Cruzeiro,2012,2012-05-20,2012-12-02,38,15,7,16,TM+OG,1.0,420,38,confirmado,False,Vagner Mancini,Marcelo Oliveira
+Marcelo Oliveira,Cruzeiro,2013,2013-05-26,2013-12-07,38,23,7,8,TM+OG,0.947,421,80,confirmado,False,Celso Roth,Vanderlei Luxemburgo
+Marcelo Oliveira,Cruzeiro,2014,2014-04-20,2014-12-07,38,24,8,6,TM+OG+CBF,1.0,421,80,confirmado,False,Celso Roth,Vanderlei Luxemburgo
+Marcelo Oliveira,Cruzeiro,2015,2015-05-10,2015-05-31,4,0,1,3,TM+CBF,1.0,421,80,confirmado,False,Celso Roth,Vanderlei Luxemburgo
+Vanderlei Luxemburgo,Cruzeiro,2015,2015-06-03,2015-08-30,17,6,3,8,TM+OG+CBF,1.0,422,17,confirmado,False,Marcelo Oliveira,Deivid
+Deivid,Cruzeiro,2015,2015-09-02,2015-09-02,1,1,0,0,TM+OG,1.0,423,1,confirmado,True,Vanderlei Luxemburgo,Mano Menezes
+Mano Menezes,Cruzeiro,2015,2015-09-06,2015-12-06,16,8,6,2,TM+OG+CBF,1.0,424,16,confirmado,False,Deivid,Geraldo Delamore
+Geraldo Delamore,Cruzeiro,2016,2016-05-14,2016-05-14,1,0,0,1,TM+OG+CBF,1.0,425,1,confirmado,False,Mano Menezes,Paulo Bento
+Paulo Bento,Cruzeiro,2016,2016-05-21,2016-07-24,15,4,3,8,TM+OG+CBF,1.0,426,15,confirmado,False,Geraldo Delamore,Mano Menezes
+Mano Menezes,Cruzeiro,2016,2016-07-31,2016-12-11,22,10,6,6,TM+OG+CBF,1.0,427,111,confirmado,False,Paulo Bento,Ricardo Resende
+Mano Menezes,Cruzeiro,2017,2017-05-14,2017-12-03,38,15,12,11,TM+OG+CBF,1.0,427,111,confirmado,False,Paulo Bento,Ricardo Resende
+Mano Menezes,Cruzeiro,2018,2018-04-14,2018-12-02,38,14,11,13,TM+OG+CBF,1.0,427,111,confirmado,False,Paulo Bento,Ricardo Resende
+Mano Menezes,Cruzeiro,2019,2019-04-27,2019-08-04,13,2,4,7,TM+OG+CBF,1.0,427,111,confirmado,False,Paulo Bento,Ricardo Resende
+Ricardo Resende,Cruzeiro,2019,2019-08-11,2019-08-11,1,0,1,0,TM+OG+CBF,1.0,428,1,confirmado,True,Mano Menezes,Rogério Ceni
+Rogério Ceni,Cruzeiro,2019,2019-08-18,2019-09-25,7,2,2,3,TM+OG+CBF,1.0,429,7,confirmado,False,Ricardo Resende,Abel Braga
+Abel Braga,Cruzeiro,2019,2019-09-30,2019-11-27,14,3,8,3,TM+OG+CBF,1.0,430,14,confirmado,False,Rogério Ceni,Adilson Batista
+Adilson Batista,Cruzeiro,2019,2019-12-01,2019-12-08,3,0,0,3,TM+OG+CBF,1.0,431,3,confirmado,False,Abel Braga,Pepa
+Pepa,Cruzeiro,2023,2023-04-16,2023-08-27,21,6,7,8,TM+OG+CBF,1.0,432,21,confirmado,False,Adilson Batista,Fernando Seabra
+Fernando Seabra,Cruzeiro,2023,2023-09-03,2023-09-03,1,0,1,0,TM+OG+CBF,1.0,433,1,confirmado,True,Pepa,Zé Ricardo
+Zé Ricardo,Cruzeiro,2023,2023-09-14,2023-11-11,10,3,2,5,TM+OG+CBF,1.0,434,10,confirmado,False,Fernando Seabra,Paulo Autuori
+Paulo Autuori,Cruzeiro,2023,2023-11-18,2023-12-06,6,2,4,0,TM+OG+CBF,1.0,435,6,confirmado,False,Zé Ricardo,Fernando Seabra
+Fernando Seabra,Cruzeiro,2024,2024-04-14,2024-09-22,27,12,6,9,TM+OG+CBF,1.0,436,27,confirmado,False,Paulo Autuori,Fernando Diniz
+Fernando Diniz,Cruzeiro,2024,2024-09-29,2024-12-08,11,2,4,5,TM+OG+CBF,1.0,437,11,confirmado,False,Fernando Seabra,Leonardo Jardim
+Leonardo Jardim,Cruzeiro,2025,2025-03-29,2025-12-07,38,19,13,6,TM+OG,0.816,438,38,confirmado,False,Fernando Diniz,
+Alberto Valentim,Cuiabá,2021,2021-05-29,2021-05-29,1,0,1,0,TM+OG+CBF,1.0,439,1,confirmado,False,,Luiz Fernando Iubel
+Luiz Fernando Iubel,Cuiabá,2021,2021-06-06,2021-07-01,5,0,3,2,TM+OG+CBF,1.0,440,5,confirmado,False,Alberto Valentim,Jorginho (Jorge de Amorim)
+Jorginho (Jorge de Amorim),Cuiabá,2021,2021-07-04,2021-12-09,32,10,13,9,TM+OG+CBF,1.0,441,32,confirmado,False,Luiz Fernando Iubel,Pintado
+Pintado,Cuiabá,2022,2022-04-10,2022-05-08,5,2,1,2,TM+OG+CBF,1.0,442,5,confirmado,False,Jorginho (Jorge de Amorim),Luiz Fernando Iubel
+Luiz Fernando Iubel,Cuiabá,2022,2022-05-15,2022-06-04,4,0,1,3,OG+CBF,1.0,443,4,confirmado,False,Pintado,António Oliveira
+António Oliveira,Cuiabá,2022,2022-06-07,2022-11-13,29,8,9,12,TM+OG+CBF,0.966,444,29,confirmado,False,Luiz Fernando Iubel,Ivo Vieira
+Ivo Vieira,Cuiabá,2023,2023-04-15,2023-05-10,5,1,1,3,TM+OG+CBF,1.0,445,5,confirmado,False,António Oliveira,Luiz Fernando Iubel
+Luiz Fernando Iubel,Cuiabá,2023,2023-05-13,2023-05-22,2,1,0,1,TM+OG+CBF,1.0,446,2,confirmado,True,Ivo Vieira,António Oliveira
+António Oliveira,Cuiabá,2023,2023-05-27,2023-12-06,31,12,8,11,TM+OG+CBF,1.0,447,31,confirmado,False,Luiz Fernando Iubel,Luiz Fernando Iubel
+Luiz Fernando Iubel,Cuiabá,2024,2024-04-14,2024-04-27,3,0,0,3,TM+OG+CBF,1.0,448,3,confirmado,False,António Oliveira,Ricardo Colbachini
+Ricardo Colbachini,Cuiabá,2024,2024-05-05,2024-05-05,1,0,0,1,TM+OG+CBF,1.0,449,1,confirmado,True,Luiz Fernando Iubel,Petit
+Petit,Cuiabá,2024,2024-06-01,2024-08-24,18,4,6,8,TM+CBF,0.833,450,18,confirmado,False,Ricardo Colbachini,Bernardo Franco
+Bernardo Franco,Cuiabá,2024,2024-08-31,2024-12-08,16,2,6,8,TM+CBF,0.938,451,16,confirmado,False,Petit,
+Vágner Benazzi,Figueirense,2003,2003-03-30,2003-06-15,13,3,5,5,TM+OG,0.923,452,13,confirmado,False,,Arthur Neto
+Arthur Neto,Figueirense,2003,2003-06-22,2003-08-10,12,5,2,5,TM+OG,0.917,453,12,confirmado,False,Vágner Benazzi,Luiz Carlos Ferreira
+Luiz Carlos Ferreira,Figueirense,2003,2003-08-16,2003-09-21,6,3,2,1,TM+Wiki,0.0,454,6,verificar,False,Arthur Neto,Dorival Júnior
+Dorival Júnior,Figueirense,2003,2003-09-25,2003-12-13,15,6,5,4,TM+OG,1.0,455,61,confirmado,False,Luiz Carlos Ferreira,Marco Aurélio
+Dorival Júnior,Figueirense,2004,2004-04-21,2004-12-19,46,17,12,17,TM+OG,0.826,455,61,confirmado,False,Luiz Carlos Ferreira,Marco Aurélio
+Marco Aurélio,Figueirense,2005,2005-04-23,2005-07-16,12,2,4,6,TM,0.0,456,12,verificar,False,Dorival Júnior,DESCONHECIDO
+DESCONHECIDO,Figueirense,2005,2005-07-20,2005-08-14,6,1,3,2,,0.0,457,6,verificar,False,Marco Aurélio,Adilson Batista
+Adilson Batista,Figueirense,2005,2005-08-21,2005-12-04,24,11,4,9,TM+OG,1.0,458,34,confirmado,False,DESCONHECIDO,Waldemar Lemos
+Adilson Batista,Figueirense,2006,2006-04-16,2006-06-04,10,4,3,3,TM+OG,0.8,458,34,confirmado,False,DESCONHECIDO,Waldemar Lemos
+Waldemar Lemos,Figueirense,2006,2006-07-11,2006-12-03,28,11,9,8,TM+OG,1.0,459,28,confirmado,False,Adilson Batista,Mário Sérgio
+Mário Sérgio,Figueirense,2007,2007-05-02,2007-09-05,24,7,7,10,TM+OG,0.958,460,24,confirmado,False,Waldemar Lemos,Hudson Coutinho
+Hudson Coutinho,Figueirense,2007,2007-09-08,2007-09-08,1,1,0,0,TM+OG,1.0,461,1,confirmado,True,Mário Sérgio,Alexandre Gallo
+Alexandre Gallo,Figueirense,2007,2007-09-16,2007-12-02,13,6,4,3,TM+OG,1.0,462,15,confirmado,False,Hudson Coutinho,Guilherme Macuglia
+Alexandre Gallo,Figueirense,2008,2008-05-11,2008-05-18,2,1,1,0,TM+OG,1.0,462,15,confirmado,False,Hudson Coutinho,Guilherme Macuglia
+Guilherme Macuglia,Figueirense,2008,2008-05-24,2008-06-21,5,1,1,3,TM+OG,1.0,463,5,confirmado,False,Alexandre Gallo,Paulo César Gusmão
+Paulo César Gusmão,Figueirense,2008,2008-06-29,2008-09-21,19,5,5,9,TM+OG,0.947,464,19,confirmado,False,Guilherme Macuglia,Mário Sérgio
+Mário Sérgio,Figueirense,2008,2008-09-27,2008-11-20,10,2,4,4,TM+OG,0.7,465,10,provável,False,Paulo César Gusmão,Pintado
+Pintado,Figueirense,2008,2008-11-30,2008-12-07,2,2,0,0,OG+Wiki,0.0,466,2,verificar,False,Mário Sérgio,Jorginho (Jorge de Amorim)
+Jorginho (Jorge de Amorim),Figueirense,2011,2011-05-22,2011-12-04,38,15,13,10,TM+OG,1.0,467,38,confirmado,False,Pintado,Argel Fuchs
+Argel Fuchs,Figueirense,2012,2012-05-19,2012-07-19,10,1,5,4,TM+OG,1.0,468,10,confirmado,False,Jorginho (Jorge de Amorim),Hélio dos Anjos
+Hélio dos Anjos,Figueirense,2012,2012-07-22,2012-08-19,8,1,0,7,TM+OG,0.875,469,8,confirmado,False,Argel Fuchs,Abel Ribeiro
+Abel Ribeiro,Figueirense,2012,2012-08-26,2012-08-26,1,1,0,0,TM+OG,1.0,470,1,confirmado,True,Hélio dos Anjos,Márcio Goiano
+Márcio Goiano,Figueirense,2012,2012-08-29,2012-11-03,15,4,3,8,TM+Wiki,0.0,471,15,verificar,False,Abel Ribeiro,Fernando Gil
+Fernando Gil,Figueirense,2012,2012-11-11,2012-12-02,4,0,1,3,TM+OG,0.75,472,4,provável,False,Márcio Goiano,Vinícius Eutrópio
+Vinícius Eutrópio,Figueirense,2014,2014-04-19,2014-04-27,2,0,0,2,TM+OG+CBF,1.0,473,2,confirmado,False,Fernando Gil,Guto Ferreira
+Guto Ferreira,Figueirense,2014,2014-05-04,2014-07-19,9,2,1,6,TM+OG+CBF,1.0,474,9,confirmado,False,Vinícius Eutrópio,Argel Fuchs
+Argel Fuchs,Figueirense,2014,2014-07-26,2014-12-06,27,11,7,9,TM+OG+CBF,1.0,475,45,confirmado,False,Guto Ferreira,Hudson Coutinho
+Argel Fuchs,Figueirense,2015,2015-05-10,2015-08-12,18,5,5,8,TM+OG+CBF,1.0,475,45,confirmado,False,Guto Ferreira,Hudson Coutinho
+Hudson Coutinho,Figueirense,2015,2015-08-16,2015-08-16,1,0,0,1,TM+OG+CBF,1.0,476,1,confirmado,True,Argel Fuchs,René Simões
+René Simões,Figueirense,2015,2015-08-22,2015-09-16,7,2,1,4,TM+OG+CBF,1.0,477,7,confirmado,False,Hudson Coutinho,Hudson Coutinho
+Hudson Coutinho,Figueirense,2015,2015-09-19,2015-12-06,12,4,4,4,TM+OG+CBF,1.0,478,12,confirmado,False,René Simões,Vinícius Eutrópio
+Vinícius Eutrópio,Figueirense,2016,2016-05-15,2016-07-10,14,3,6,5,TM+OG+CBF,1.0,479,14,confirmado,False,Hudson Coutinho,Argel Fuchs
+Argel Fuchs,Figueirense,2016,2016-07-17,2016-09-04,8,2,3,3,TM+CBF,0.75,480,8,provável,False,Vinícius Eutrópio,Tuca Guimarães
+Tuca Guimarães,Figueirense,2016,2016-09-07,2016-09-18,4,1,1,2,TM+OG+CBF,1.0,481,4,confirmado,False,Argel Fuchs,Marquinhos Santos
+Marquinhos Santos,Figueirense,2016,2016-09-25,2016-12-11,12,2,3,7,TM+OG+CBF,1.0,482,12,confirmado,False,Tuca Guimarães,
+Nelsinho Baptista,Flamengo,2003,2003-03-30,2003-07-16,19,6,6,7,TM+OG,1.0,483,19,confirmado,False,,Marcos Paquetá
+Marcos Paquetá,Flamengo,2003,2003-07-20,2003-07-20,1,0,0,1,TM+OG,1.0,484,1,confirmado,True,Nelsinho Baptista,Oswaldo de Oliveira
+Oswaldo de Oliveira,Flamengo,2003,2003-07-24,2003-10-12,16,7,3,6,TM+OG,1.0,485,16,confirmado,False,Marcos Paquetá,Waldemar Lemos
+Waldemar Lemos,Flamengo,2003,2003-10-18,2003-12-14,10,5,3,2,TM+OG,0.9,486,10,confirmado,False,Oswaldo de Oliveira,Abel Braga
+Abel Braga,Flamengo,2004,2004-04-21,2004-07-17,16,2,6,8,TM+OG,1.0,487,16,confirmado,False,Waldemar Lemos,Andrade
+Andrade,Flamengo,2004,2004-07-20,2004-07-28,3,1,2,0,TM+OG,1.0,488,3,confirmado,True,Abel Braga,Paulo César Gusmão
+Paulo César Gusmão,Flamengo,2004,2004-08-01,2004-08-14,5,2,0,3,TM+OG,0.8,489,5,confirmado,False,Andrade,Andrade
+Andrade,Flamengo,2004,2004-08-18,2004-08-21,2,1,0,1,TM+OG,1.0,490,2,confirmado,True,Paulo César Gusmão,Ricardo Gomes
+Ricardo Gomes,Flamengo,2004,2004-08-29,2004-10-30,13,4,4,5,TM+OG,1.0,491,13,confirmado,False,Andrade,Andrade
+Andrade,Flamengo,2004,2004-11-06,2004-12-19,7,3,3,1,TM+OG,0.857,492,7,confirmado,False,Ricardo Gomes,Celso Roth
+Celso Roth,Flamengo,2005,2005-04-23,2005-08-28,23,6,7,10,TM+OG,0.826,493,23,confirmado,False,Andrade,Júlio César Leal
+Júlio César Leal,Flamengo,2005,2005-09-08,2005-09-08,1,0,1,0,TM,0.0,494,1,verificar,True,Celso Roth,Andrade
+Andrade,Flamengo,2005,2005-09-11,2005-09-25,4,1,2,1,TM,0.25,495,4,verificar,False,Júlio César Leal,Júlio César Leal
+Júlio César Leal,Flamengo,2005,2005-10-02,2005-10-22,5,1,0,4,TM,0.0,496,5,verificar,False,Andrade,Joel Santana
+Joel Santana,Flamengo,2005,2005-10-26,2005-11-27,8,5,3,0,TM+OG,1.0,497,8,confirmado,False,Júlio César Leal,Júlio César Leal
+Júlio César Leal,Flamengo,2005,2005-12-04,2005-12-04,1,1,0,0,TM,0.0,498,1,verificar,False,Joel Santana,Waldemar Lemos
+Waldemar Lemos,Flamengo,2006,2006-04-16,2006-05-21,6,2,1,3,TM+OG,1.0,499,6,confirmado,False,Júlio César Leal,Ney Franco
+Ney Franco,Flamengo,2006,2006-05-23,2006-12-02,32,13,6,13,TM+OG,0.969,500,44,confirmado,False,Waldemar Lemos,Joel Santana
+Ney Franco,Flamengo,2007,2007-05-02,2007-07-28,12,2,6,4,TM+OG,1.0,500,44,confirmado,False,Waldemar Lemos,Joel Santana
+Joel Santana,Flamengo,2007,2007-08-04,2007-12-02,26,15,4,7,TM+OG,0.885,501,26,confirmado,False,Ney Franco,Caio Júnior
+Caio Júnior,Flamengo,2008,2008-05-11,2008-12-07,38,18,10,10,TM+OG,1.0,502,38,confirmado,False,Joel Santana,Cuca
+Cuca,Flamengo,2009,2009-05-10,2009-07-22,13,4,5,4,TM+OG,1.0,503,13,confirmado,False,Caio Júnior,Andrade
+Andrade,Flamengo,2009,2009-07-26,2009-12-06,25,15,5,5,TM+OG,1.0,504,25,confirmado,False,Cuca,Rogério Lourenço
+Rogério Lourenço,Flamengo,2010,2010-05-09,2010-08-26,16,5,6,5,TM+OG,1.0,505,16,confirmado,False,Andrade,Toninho Barroso
+Toninho Barroso,Flamengo,2010,2010-08-29,2010-08-29,1,0,0,1,OG,0.0,506,1,verificar,True,Rogério Lourenço,Silas
+Silas,Flamengo,2010,2010-09-01,2010-10-02,10,1,6,3,TM+OG,1.0,507,10,confirmado,False,Toninho Barroso,Vanderlei Luxemburgo
+Vanderlei Luxemburgo,Flamengo,2010,2010-10-07,2010-12-05,11,3,5,3,TM+OG,1.0,508,49,confirmado,False,Silas,Joel Santana
+Vanderlei Luxemburgo,Flamengo,2011,2011-05-21,2011-12-04,38,15,16,7,TM+OG,0.947,508,49,confirmado,False,Silas,Joel Santana
+Joel Santana,Flamengo,2012,2012-05-19,2012-07-22,11,4,3,4,TM+OG,1.0,509,11,confirmado,False,Vanderlei Luxemburgo,Dorival Júnior
+Dorival Júnior,Flamengo,2012,2012-07-26,2012-12-01,27,8,11,8,TM+OG,1.0,510,27,confirmado,False,Joel Santana,Jorginho (Jorge de Amorim)
+Jorginho (Jorge de Amorim),Flamengo,2013,2013-05-26,2013-06-05,4,0,2,2,TM,0.5,511,4,provável,False,Dorival Júnior,Jayme de Almeida Filho
+Jayme de Almeida Filho,Flamengo,2013,2013-06-08,2013-06-08,1,1,0,0,TM+OG,1.0,512,1,confirmado,True,Jorginho (Jorge de Amorim),Mano Menezes
+Mano Menezes,Flamengo,2013,2013-07-06,2013-09-19,17,5,6,6,TM+OG,1.0,513,17,confirmado,False,Jayme de Almeida Filho,Jayme de Almeida Filho
+Jayme de Almeida Filho,Flamengo,2013,2013-09-22,2013-12-07,16,6,5,5,TM+OG,1.0,514,20,confirmado,False,Mano Menezes,Ney Franco
+Jayme de Almeida Filho,Flamengo,2014,2014-04-20,2014-05-11,4,1,1,2,TM+OG+CBF,1.0,514,20,confirmado,False,Mano Menezes,Ney Franco
+Ney Franco,Flamengo,2014,2014-05-18,2014-07-20,7,0,3,4,TM+OG+CBF,1.0,515,7,confirmado,False,Jayme de Almeida Filho,Vanderlei Luxemburgo
+Vanderlei Luxemburgo,Flamengo,2014,2014-07-27,2014-12-07,27,13,6,8,TM+OG+CBF,1.0,516,30,confirmado,False,Ney Franco,Cristóvão Borges
+Vanderlei Luxemburgo,Flamengo,2015,2015-05-10,2015-05-24,3,0,1,2,TM+OG+CBF,1.0,516,30,confirmado,False,Ney Franco,Cristóvão Borges
+Cristóvão Borges,Flamengo,2015,2015-05-31,2015-08-16,16,7,1,8,TM+OG+CBF,1.0,517,16,confirmado,False,Vanderlei Luxemburgo,Oswaldo de Oliveira
+Oswaldo de Oliveira,Flamengo,2015,2015-08-23,2015-11-22,17,8,2,7,TM+OG+CBF,1.0,518,17,confirmado,False,Cristóvão Borges,Jayme de Almeida Filho
+Jayme de Almeida Filho,Flamengo,2015,2015-11-29,2015-12-06,2,0,0,2,TM+OG+CBF,1.0,519,2,confirmado,False,Oswaldo de Oliveira,Muricy Ramalho
+Muricy Ramalho,Flamengo,2016,2016-05-14,2016-05-14,1,1,0,0,TM+OG+CBF,1.0,520,1,confirmado,False,Jayme de Almeida Filho,Jayme de Almeida Filho
+Jayme de Almeida Filho,Flamengo,2016,2016-05-22,2016-05-25,2,0,1,1,TM+OG+CBF,1.0,521,2,confirmado,True,Muricy Ramalho,Zé Ricardo
+Zé Ricardo,Flamengo,2016,2016-05-29,2016-12-11,35,19,10,6,TM+OG+CBF,1.0,522,54,confirmado,False,Jayme de Almeida Filho,Jayme de Almeida Filho
+Zé Ricardo,Flamengo,2017,2017-05-13,2017-08-06,19,7,8,4,TM+OG+CBF,1.0,522,54,confirmado,False,Jayme de Almeida Filho,Jayme de Almeida Filho
+Jayme de Almeida Filho,Flamengo,2017,2017-08-13,2017-08-13,1,0,0,1,TM+OG+CBF,1.0,523,1,confirmado,True,Zé Ricardo,Reinaldo Rueda
+Reinaldo Rueda,Flamengo,2017,2017-08-19,2017-12-03,18,8,3,7,TM+OG+CBF,1.0,524,18,confirmado,False,Jayme de Almeida Filho,Maurício Barbieri
+Maurício Barbieri,Flamengo,2018,2018-04-14,2018-09-23,26,14,6,6,TM+OG+CBF,1.0,525,26,confirmado,False,Reinaldo Rueda,Dorival Júnior
+Dorival Júnior,Flamengo,2018,2018-09-29,2018-12-01,12,7,3,2,TM+OG+CBF,1.0,526,12,confirmado,False,Maurício Barbieri,Abel Braga
+Abel Braga,Flamengo,2019,2019-04-27,2019-05-26,6,3,1,2,TM+OG+CBF,1.0,527,6,confirmado,False,Dorival Júnior,Marcelo Salles
+Marcelo Salles,Flamengo,2019,2019-06-01,2019-06-12,3,2,1,0,TM+OG+CBF,1.0,528,3,confirmado,True,Abel Braga,Jorge Jesus
+Jorge Jesus,Flamengo,2019,2019-07-14,2019-12-08,29,23,4,2,TM+OG+CBF,1.0,529,29,confirmado,False,Marcelo Salles,Domènec Torrent
+Domènec Torrent,Flamengo,2020,2020-08-09,2020-09-13,10,5,2,3,TM+OG+CBF,1.0,530,10,confirmado,False,Jorge Jesus,Jordi Guerrero
+Jordi Guerrero,Flamengo,2020,2020-09-27,2020-09-27,1,0,1,0,OG+CBF,1.0,531,1,confirmado,True,Domènec Torrent,Jordi Gris
+Jordi Gris,Flamengo,2020,2020-10-04,2020-10-04,1,1,0,0,OG+CBF,1.0,532,1,confirmado,True,Jordi Guerrero,Domènec Torrent
+Domènec Torrent,Flamengo,2020,2020-10-07,2020-11-08,8,4,2,2,TM+OG+CBF,1.0,533,8,confirmado,False,Jordi Gris,Rogério Ceni
+Rogério Ceni,Flamengo,2020,2020-11-14,2021-02-25,18,11,3,4,TM+OG+CBF,1.0,534,26,confirmado,False,Domènec Torrent,Maurício Souza
+Rogério Ceni,Flamengo,2021,2021-05-30,2021-07-07,8,4,0,4,TM+OG+CBF,0.875,534,26,confirmado,False,Domènec Torrent,Maurício Souza
+Maurício Souza,Flamengo,2021,2021-07-11,2021-07-11,1,1,0,0,TM+OG+CBF,1.0,535,1,confirmado,True,Rogério Ceni,Renato Gaúcho
+Renato Gaúcho,Flamengo,2021,2021-07-18,2021-11-23,25,15,7,3,TM+OG+CBF,1.0,536,25,confirmado,False,Maurício Souza,Maurício Souza
+Maurício Souza,Flamengo,2021,2021-11-30,2021-12-09,4,1,1,2,TM+OG+CBF,1.0,537,4,confirmado,False,Renato Gaúcho,Paulo Sousa
+Paulo Sousa,Flamengo,2022,2022-04-09,2022-06-08,10,3,3,4,TM+CBF,1.0,538,10,confirmado,False,Maurício Souza,Dorival Júnior
+Dorival Júnior,Flamengo,2022,2022-06-11,2022-11-13,28,15,5,8,TM+OG+CBF,1.0,539,28,confirmado,False,Paulo Sousa,Mário Jorge
+Mário Jorge,Flamengo,2023,2023-04-16,2023-04-16,1,1,0,0,TM,0.0,540,1,verificar,False,Dorival Júnior,Jorge Sampaoli
+Jorge Sampaoli,Flamengo,2023,2023-04-23,2023-09-20,23,10,7,6,TM+OG+CBF,1.0,541,23,confirmado,False,Mário Jorge,Mário Jorge
+Mário Jorge,Flamengo,2023,2023-09-30,2023-10-07,2,1,1,0,TM,0.0,542,2,verificar,True,Jorge Sampaoli,Tite
+Tite,Flamengo,2023,2023-10-19,2023-12-06,12,7,1,4,TM+OG+CBF,1.0,543,39,confirmado,False,Mário Jorge,Filipe Luís
+Tite,Flamengo,2024,2024-04-14,2024-09-29,27,14,6,7,TM+OG+CBF,1.0,543,39,confirmado,False,Mário Jorge,Filipe Luís
+Filipe Luís,Flamengo,2024,2024-10-05,2024-12-08,11,6,4,1,TM+OG+CBF,1.0,544,48,confirmado,False,Tite,Bruno Pivetti
+Filipe Luís,Flamengo,2025,2025-03-29,2025-12-03,37,23,9,5,TM+OG,0.73,544,48,provável,False,Tite,Bruno Pivetti
+Bruno Pivetti,Flamengo,2025,2025-12-06,2025-12-06,1,0,1,0,TM+OG,1.0,545,1,confirmado,False,Filipe Luís,
+Renato Gaúcho,Fluminense,2003,2003-03-30,2003-07-10,17,6,4,7,TM+OG,1.0,546,17,confirmado,False,,Gilson Gênio
+Gilson Gênio,Fluminense,2003,2003-07-13,2003-07-13,1,0,0,1,OG,0.0,547,1,verificar,True,Renato Gaúcho,Valdir Espinosa
+Valdir Espinosa,Fluminense,2003,2003-07-16,2003-07-16,1,0,0,1,TM,0.0,548,1,verificar,True,Gilson Gênio,Joel Santana
+Joel Santana,Fluminense,2003,2003-07-19,2003-09-28,14,2,4,8,TM+OG,1.0,549,14,confirmado,False,Valdir Espinosa,Renato Gaúcho
+Renato Gaúcho,Fluminense,2003,2003-10-04,2003-12-14,13,5,3,5,TM+OG,1.0,550,13,confirmado,False,Joel Santana,Ricardo Gomes
+Ricardo Gomes,Fluminense,2004,2004-04-22,2004-08-15,24,8,8,8,TM+OG,1.0,551,24,confirmado,False,Renato Gaúcho,Valdir Espinosa
+Valdir Espinosa,Fluminense,2004,2004-08-19,2004-08-19,1,0,0,1,TM,0.0,552,1,verificar,True,Ricardo Gomes,Alexandre Gama
+Alexandre Gama,Fluminense,2004,2004-08-22,2004-12-19,21,10,5,6,TM+OG,0.81,553,21,confirmado,False,Valdir Espinosa,Abel Braga
+Abel Braga,Fluminense,2005,2005-04-24,2005-12-04,42,19,11,12,TM+OG,0.81,554,42,confirmado,False,Alexandre Gama,Oswaldo de Oliveira
+Oswaldo de Oliveira,Fluminense,2006,2006-04-16,2006-08-06,15,7,4,4,TM+OG,0.867,555,15,confirmado,False,Abel Braga,Josué Teixeira
+Josué Teixeira,Fluminense,2006,2006-08-13,2006-08-23,4,1,1,2,TM+OG,1.0,556,4,confirmado,False,Oswaldo de Oliveira,Antônio Lopes
+Antônio Lopes,Fluminense,2006,2006-08-26,2006-09-23,7,1,2,4,TM+OG,1.0,557,7,confirmado,False,Josué Teixeira,Paulo César Gusmão
+Paulo César Gusmão,Fluminense,2006,2006-10-04,2006-12-03,12,2,5,5,TM+OG,1.0,558,12,confirmado,False,Antônio Lopes,Renato Gaúcho
+Renato Gaúcho,Fluminense,2007,2007-05-02,2007-12-02,38,16,13,9,TM+OG,0.895,559,57,confirmado,False,Paulo César Gusmão,Cuca
+Renato Gaúcho,Fluminense,2008,2008-05-11,2008-08-10,19,4,4,11,TM+OG,0.947,559,57,confirmado,False,Paulo César Gusmão,Cuca
+Cuca,Fluminense,2008,2008-08-17,2008-10-01,9,2,5,2,TM+OG,1.0,560,9,confirmado,False,Renato Gaúcho,René Simões
+René Simões,Fluminense,2008,2008-10-11,2008-12-07,10,5,3,2,TM+OG,1.0,561,10,confirmado,False,Cuca,Carlos Alberto Parreira
+Carlos Alberto Parreira,Fluminense,2009,2009-05-10,2009-07-12,10,2,4,4,TM+OG,1.0,562,10,confirmado,False,René Simões,Vinícius Eutrópio
+Vinícius Eutrópio,Fluminense,2009,2009-07-15,2009-07-18,2,0,0,2,TM+OG,1.0,563,2,confirmado,True,Carlos Alberto Parreira,Renato Gaúcho
+Renato Gaúcho,Fluminense,2009,2009-07-23,2009-08-30,10,1,3,6,TM+OG,1.0,564,10,confirmado,False,Vinícius Eutrópio,Cuca
+Cuca,Fluminense,2009,2009-09-06,2009-12-06,16,8,6,2,TM+OG,0.938,565,16,confirmado,False,Renato Gaúcho,Muricy Ramalho
+Muricy Ramalho,Fluminense,2010,2010-05-09,2010-12-05,38,20,11,7,TM+OG,1.0,566,38,confirmado,False,Cuca,Enderson Moreira
+Enderson Moreira,Fluminense,2011,2011-05-22,2011-05-29,2,1,0,1,TM+OG,1.0,567,2,confirmado,False,Muricy Ramalho,Leomir
+Leomir,Fluminense,2011,2011-06-04,2011-06-04,1,1,0,0,TM+OG,1.0,568,1,confirmado,True,Enderson Moreira,Abel Braga
+Abel Braga,Fluminense,2011,2011-06-12,2011-11-27,34,18,2,14,TM+OG,1.0,569,34,confirmado,False,Leomir,Leomir
+Leomir,Fluminense,2011,2011-12-04,2011-12-04,1,0,1,0,TM,0.0,570,1,verificar,False,Abel Braga,Abel Braga
+Abel Braga,Fluminense,2012,2012-05-20,2012-12-02,38,22,11,5,TM+OG,1.0,571,47,confirmado,False,Leomir,Vanderlei Luxemburgo
+Abel Braga,Fluminense,2013,2013-05-26,2013-07-28,9,3,0,6,TM+OG,1.0,571,47,confirmado,False,Leomir,Vanderlei Luxemburgo
+Vanderlei Luxemburgo,Fluminense,2013,2013-07-31,2013-11-10,24,6,9,9,TM+OG,1.0,572,24,confirmado,False,Abel Braga,Dorival Júnior
+Dorival Júnior,Fluminense,2013,2013-11-14,2013-12-08,5,3,1,1,TM+OG,1.0,573,5,confirmado,False,Vanderlei Luxemburgo,Cristóvão Borges
+Cristóvão Borges,Fluminense,2014,2014-04-19,2014-12-07,38,17,10,11,TM+OG+CBF,1.0,574,38,confirmado,False,Dorival Júnior,Ricardo Drubscky
+Ricardo Drubscky,Fluminense,2015,2015-05-09,2015-05-17,2,1,0,1,TM+OG+CBF,1.0,575,2,confirmado,False,Cristóvão Borges,Enderson Moreira
+Enderson Moreira,Fluminense,2015,2015-05-24,2015-09-16,24,9,4,11,TM+OG+CBF,1.0,576,24,confirmado,False,Ricardo Drubscky,Eduardo Baptista
+Eduardo Baptista,Fluminense,2015,2015-09-19,2015-12-06,12,4,1,7,TM+OG+CBF,1.0,577,12,confirmado,False,Enderson Moreira,Levir Culpi
+Levir Culpi,Fluminense,2016,2016-05-15,2016-11-06,34,13,9,12,TM+OG+CBF,1.0,578,34,confirmado,False,Eduardo Baptista,Marcão
+Marcão,Fluminense,2016,2016-11-15,2016-12-11,4,0,2,2,TM+OG+CBF,1.0,579,4,confirmado,False,Levir Culpi,Abel Braga
+Abel Braga,Fluminense,2017,2017-05-14,2017-12-03,38,11,14,13,TM+OG+CBF,1.0,580,50,confirmado,False,Marcão,Marcelo Oliveira
+Abel Braga,Fluminense,2018,2018-04-15,2018-06-13,12,4,2,6,TM+OG+CBF,1.0,580,50,confirmado,False,Marcão,Marcelo Oliveira
+Marcelo Oliveira,Fluminense,2018,2018-07-19,2018-11-25,25,7,7,11,TM+OG+CBF,1.0,581,25,confirmado,False,Abel Braga,Fábio Moreno
+Fábio Moreno,Fluminense,2018,2018-12-02,2018-12-02,1,1,0,0,TM+OG+CBF,1.0,582,1,confirmado,False,Marcelo Oliveira,Fernando Diniz
+Fernando Diniz,Fluminense,2019,2019-04-28,2019-08-18,15,3,3,9,TM+OG+CBF,1.0,583,15,confirmado,False,Fábio Moreno,Oswaldo de Oliveira
+Oswaldo de Oliveira,Fluminense,2019,2019-09-02,2019-09-26,6,2,1,3,TM+OG+CBF,1.0,584,6,confirmado,False,Fernando Diniz,Marcão
+Marcão,Fluminense,2019,2019-09-29,2019-12-08,17,7,6,4,TM+OG+CBF,1.0,585,17,confirmado,False,Oswaldo de Oliveira,Odair Hellmann
+Odair Hellmann,Fluminense,2020,2020-08-09,2020-12-05,24,11,6,7,TM+OG+CBF,1.0,586,24,confirmado,False,Marcão,Marcão
+Marcão,Fluminense,2020,2020-12-13,2021-02-25,14,7,4,3,TM+OG+CBF,0.857,587,14,confirmado,False,Odair Hellmann,Roger Machado
+Roger Machado,Fluminense,2021,2021-05-29,2021-08-15,15,4,5,6,TM+OG+CBF,1.0,588,15,confirmado,False,Marcão,Marcão
+Marcão,Fluminense,2021,2021-08-23,2021-12-09,23,11,4,8,TM+OG+CBF,1.0,589,23,confirmado,False,Roger Machado,Abel Braga
+Abel Braga,Fluminense,2022,2022-04-09,2022-04-23,3,1,1,1,TM+OG+CBF,1.0,590,3,confirmado,False,Marcão,Marcão
+Marcão,Fluminense,2022,2022-05-01,2022-05-01,1,0,0,1,TM+OG,1.0,591,1,confirmado,True,Abel Braga,Fernando Diniz
+Fernando Diniz,Fluminense,2022,2022-05-08,2022-11-13,34,20,6,8,TM+OG+CBF,1.0,592,83,confirmado,False,Marcão,Marcão
+Fernando Diniz,Fluminense,2023,2023-04-15,2023-12-06,38,16,8,14,TM+OG+CBF,0.974,592,83,confirmado,False,Marcão,Marcão
+Fernando Diniz,Fluminense,2024,2024-04-13,2024-06-23,11,1,3,7,TM+OG+CBF,1.0,592,83,confirmado,False,Marcão,Marcão
+Marcão,Fluminense,2024,2024-06-27,2024-06-30,2,0,0,2,TM+OG,1.0,593,2,confirmado,True,Fernando Diniz,Mano Menezes
+Mano Menezes,Fluminense,2024,2024-07-04,2024-12-08,25,11,7,7,TM+OG+CBF,1.0,594,26,confirmado,False,Marcão,Renato Gaúcho
+Mano Menezes,Fluminense,2025,2025-03-29,2025-03-29,1,0,0,1,TM+OG,1.0,594,26,confirmado,False,Marcão,Renato Gaúcho
+Renato Gaúcho,Fluminense,2025,2025-04-06,2025-09-20,21,9,4,8,TM+OG,1.0,595,21,confirmado,False,Mano Menezes,Luis Zubeldía
+Luis Zubeldía,Fluminense,2025,2025-09-28,2025-12-07,16,10,3,3,TM+OG,1.0,596,16,confirmado,False,Renato Gaúcho,
+Luiz Carlos Cruz,Fortaleza,2003,2003-03-30,2003-03-30,1,0,1,0,TM+OG,1.0,597,1,confirmado,False,,Ferdinando Teixeira
+Ferdinando Teixeira,Fortaleza,2003,2003-04-05,2003-06-15,12,3,2,7,TM+OG,1.0,598,12,confirmado,False,Luiz Carlos Cruz,Luiz Carlos Cruz
+Luiz Carlos Cruz,Fortaleza,2003,2003-06-22,2003-08-17,13,4,2,7,TM+OG,1.0,599,13,confirmado,False,Ferdinando Teixeira,Márcio Araújo
+Márcio Araújo,Fortaleza,2003,2003-08-20,2003-12-14,20,5,8,7,TM+OG,1.0,600,20,confirmado,False,Luiz Carlos Cruz,Vágner Benazzi
+Vágner Benazzi,Fortaleza,2005,2005-04-24,2005-06-26,9,2,3,4,TM+OG,1.0,601,9,confirmado,False,Márcio Araújo,Hélio dos Anjos
+Hélio dos Anjos,Fortaleza,2005,2005-07-03,2005-10-15,23,10,2,11,TM+OG,1.0,602,23,confirmado,False,Vágner Benazzi,Valdir Espinosa
+Valdir Espinosa,Fortaleza,2005,2005-10-22,2005-12-04,10,4,2,4,TM+OG,1.0,603,10,confirmado,False,Hélio dos Anjos,Márcio Bittencourt
+Márcio Bittencourt,Fortaleza,2006,2006-04-16,2006-06-03,10,2,4,4,TM+OG,0.9,604,10,confirmado,False,Valdir Espinosa,Hélio dos Anjos
+Hélio dos Anjos,Fortaleza,2006,2006-07-12,2006-09-03,12,2,6,4,TM+OG,1.0,605,12,confirmado,False,Márcio Bittencourt,Roberval Davino
+Roberval Davino,Fortaleza,2006,2006-09-10,2006-11-11,13,2,3,8,TM+OG,1.0,606,13,confirmado,False,Hélio dos Anjos,Daniel Frasson
+Daniel Frasson,Fortaleza,2006,2006-11-19,2006-12-03,3,2,1,0,OG,0.333,607,3,provável,False,Roberval Davino,Rogério Ceni
+Rogério Ceni,Fortaleza,2019,2019-04-28,2019-08-03,13,4,2,7,TM+OG+CBF,1.0,608,13,confirmado,False,Daniel Frasson,Marconne Montenegro
+Marconne Montenegro,Fortaleza,2019,2019-08-12,2019-08-12,1,1,0,0,TM+CBF,1.0,609,1,confirmado,True,Rogério Ceni,Zé Ricardo
+Zé Ricardo,Fortaleza,2019,2019-08-17,2019-09-26,7,1,2,4,TM+OG+CBF,1.0,610,7,confirmado,False,Marconne Montenegro,Rogério Ceni
+Rogério Ceni,Fortaleza,2019,2019-09-30,2019-12-08,17,9,4,4,TM+OG+CBF,1.0,611,35,confirmado,False,Zé Ricardo,Marconne Montenegro
+Rogério Ceni,Fortaleza,2020,2020-08-09,2020-11-07,18,6,6,6,TM+OG+CBF,1.0,611,35,confirmado,False,Zé Ricardo,Marconne Montenegro
+Marconne Montenegro,Fortaleza,2020,2020-11-11,2020-11-11,1,0,0,1,TM+OG+CBF,1.0,612,1,confirmado,True,Rogério Ceni,Marcelo Chamusca
+Marcelo Chamusca,Fortaleza,2020,2020-11-14,2021-01-06,9,1,4,4,TM+OG+CBF,1.0,613,9,confirmado,False,Marconne Montenegro,Enderson Moreira
+Enderson Moreira,Fortaleza,2020,2021-01-09,2021-02-25,10,3,1,6,TM+OG+CBF,1.0,614,10,confirmado,False,Marcelo Chamusca,Juan Pablo Vojvoda
+Juan Pablo Vojvoda,Fortaleza,2021,2021-05-30,2021-12-09,38,17,7,14,TM+OG+CBF,1.0,615,165,confirmado,False,Enderson Moreira,Renato Paiva
+Juan Pablo Vojvoda,Fortaleza,2022,2022-04-10,2022-11-13,38,15,10,13,TM+OG+CBF,1.0,615,165,confirmado,False,Enderson Moreira,Renato Paiva
+Juan Pablo Vojvoda,Fortaleza,2023,2023-04-15,2023-12-06,38,15,9,14,TM+OG+CBF,1.0,615,165,confirmado,False,Enderson Moreira,Renato Paiva
+Juan Pablo Vojvoda,Fortaleza,2024,2024-04-13,2024-12-08,38,19,11,8,TM+OG+CBF,1.0,615,165,confirmado,False,Enderson Moreira,Renato Paiva
+Juan Pablo Vojvoda,Fortaleza,2025,2025-03-29,2025-07-13,13,2,4,7,TM+OG,1.0,615,165,confirmado,False,Enderson Moreira,Renato Paiva
+Renato Paiva,Fortaleza,2025,2025-07-19,2025-08-31,8,1,2,5,TM+OG,1.0,616,8,confirmado,False,Juan Pablo Vojvoda,Martín Palermo
+Martín Palermo,Fortaleza,2025,2025-09-13,2025-12-07,17,8,4,5,TM+OG,1.0,617,17,confirmado,False,Renato Paiva,
+Candinho,Goiás,2003,2003-03-30,2003-05-25,10,1,3,6,TM+OG,0.8,618,10,confirmado,False,,Cuca
+Cuca,Goiás,2003,2003-06-01,2003-12-13,36,17,8,11,TM+OG,1.0,619,36,confirmado,False,Candinho,Celso Roth
+Celso Roth,Goiás,2004,2004-04-21,2004-12-19,46,21,9,16,TM+OG,0.826,620,46,confirmado,False,Cuca,Péricles Chamusca
+Péricles Chamusca,Goiás,2005,2005-04-23,2005-04-23,1,1,0,0,TM+OG,1.0,621,1,confirmado,False,Celso Roth,Edson Gaúcho
+Edson Gaúcho,Goiás,2005,2005-04-30,2005-07-16,11,4,2,5,TM+OG,0.909,622,11,confirmado,False,Péricles Chamusca,Geninho
+Geninho,Goiás,2005,2005-07-20,2005-12-04,30,17,6,7,TM+OG,1.0,623,33,confirmado,False,Edson Gaúcho,Antônio Lopes
+Geninho,Goiás,2006,2006-04-16,2006-04-30,3,0,2,1,TM+OG,0.667,623,33,provável,False,Edson Gaúcho,Antônio Lopes
+Antônio Lopes,Goiás,2006,2006-05-07,2006-08-16,14,5,3,6,TM+OG,0.786,624,14,provável,False,Geninho,Geninho
+Geninho,Goiás,2006,2006-08-19,2006-12-02,21,10,5,6,TM+OG,0.762,625,21,provável,False,Antônio Lopes,Wanderley Filho
+Wanderley Filho,Goiás,2007,2007-05-02,2007-05-02,1,0,0,1,TM+OG,1.0,626,1,confirmado,False,Geninho,Paulo Bonamigo
+Paulo Bonamigo,Goiás,2007,2007-05-19,2007-09-15,25,10,3,12,TM+OG,1.0,627,25,confirmado,False,Wanderley Filho,Márcio Araújo
+Márcio Araújo,Goiás,2007,2007-09-22,2007-11-28,11,2,3,6,TM+OG,1.0,628,11,confirmado,False,Paulo Bonamigo,Cassius Hartmann
+Cassius Hartmann,Goiás,2007,2007-12-02,2007-12-02,1,1,0,0,TM+OG,1.0,629,1,confirmado,False,Márcio Araújo,Vadão
+Vadão,Goiás,2008,2008-05-10,2008-06-22,7,1,3,3,TM+OG,0.857,630,7,confirmado,False,Cassius Hartmann,Hélio dos Anjos
+Hélio dos Anjos,Goiás,2008,2008-06-28,2008-12-07,31,13,8,10,OG+Wiki,0.323,631,69,provável,False,Vadão,Emerson Leão
+Hélio dos Anjos,Goiás,2009,2009-05-10,2009-12-06,38,15,10,13,TM+OG,0.947,631,69,confirmado,False,Vadão,Emerson Leão
+Emerson Leão,Goiás,2010,2010-05-09,2010-08-25,16,3,4,9,TM+OG,1.0,632,16,confirmado,False,Hélio dos Anjos,Jorginho (Jorge de Amorim)
+Jorginho (Jorge de Amorim),Goiás,2010,2010-08-28,2010-11-07,18,5,3,10,TM+OG,0.944,633,18,confirmado,False,Emerson Leão,Arthur Neto
+Arthur Neto,Goiás,2010,2010-11-14,2010-12-05,4,0,2,2,TM+OG,1.0,634,4,confirmado,False,Jorginho (Jorge de Amorim),Enderson Moreira
+Enderson Moreira,Goiás,2013,2013-05-26,2013-12-08,38,16,11,11,TM+OG,0.868,635,38,confirmado,False,Arthur Neto,Ricardo Drubscky
+Ricardo Drubscky,Goiás,2014,2014-04-20,2014-12-07,38,13,8,17,TM+OG+CBF,1.0,636,38,confirmado,False,Enderson Moreira,Hélio dos Anjos
+Hélio dos Anjos,Goiás,2015,2015-05-10,2015-06-21,8,2,3,3,TM+OG+CBF,1.0,637,8,confirmado,False,Ricardo Drubscky,Augusto César
+Augusto César,Goiás,2015,2015-06-28,2015-07-05,3,0,1,2,TM+OG+CBF,1.0,638,3,confirmado,True,Hélio dos Anjos,Julinho Camargo
+Julinho Camargo,Goiás,2015,2015-07-08,2015-09-16,15,5,3,7,TM+OG+CBF,1.0,639,15,confirmado,False,Augusto César,Wanderley Filho
+Wanderley Filho,Goiás,2015,2015-09-20,2015-09-20,1,1,0,0,TM+OG,1.0,640,1,confirmado,True,Julinho Camargo,Arthur Neto
+Arthur Neto,Goiás,2015,2015-09-26,2015-10-18,4,0,0,4,TM+OG+CBF,1.0,641,4,confirmado,False,Wanderley Filho,Danny Sérgio
+Danny Sérgio,Goiás,2015,2015-10-25,2015-12-06,7,2,1,4,TM+OG+CBF,1.0,642,7,confirmado,False,Arthur Neto,Claudinei Oliveira
+Claudinei Oliveira,Goiás,2019,2019-04-28,2019-08-04,12,5,2,5,TM+OG+CBF,1.0,643,12,confirmado,False,Danny Sérgio,Robson Gomes
+Robson Gomes,Goiás,2019,2019-08-07,2019-08-07,1,0,0,1,TM+OG+CBF,1.0,644,1,confirmado,True,Claudinei Oliveira,Ney Franco
+Ney Franco,Goiás,2019,2019-08-11,2019-12-08,25,10,5,10,TM+OG+CBF,1.0,645,28,confirmado,False,Robson Gomes,Glauber Ramos
+Ney Franco,Goiás,2020,2020-08-11,2020-08-19,3,0,1,2,TM+OG+CBF,1.0,645,28,confirmado,False,Robson Gomes,Glauber Ramos
+Glauber Ramos,Goiás,2020,2020-08-22,2020-08-22,1,1,0,0,TM+OG+CBF,1.0,646,1,confirmado,True,Ney Franco,Thiago Larghi
+Thiago Larghi,Goiás,2020,2020-09-02,2020-09-27,5,1,2,2,TM+OG+CBF,1.0,647,5,confirmado,False,Glauber Ramos,Enderson Moreira
+Enderson Moreira,Goiás,2020,2020-10-04,2020-11-14,10,0,3,7,TM+OG+CBF,1.0,648,10,confirmado,False,Thiago Larghi,Augusto César
+Augusto César,Goiás,2020,2020-11-21,2020-11-30,3,1,1,1,OG+CBF,1.0,649,3,confirmado,True,Enderson Moreira,Glauber Ramos
+Glauber Ramos,Goiás,2020,2020-12-03,2021-02-03,12,5,1,6,TM+OG+CBF,0.833,650,12,confirmado,False,Augusto César,Augusto César
+Augusto César,Goiás,2020,2021-02-06,2021-02-25,4,1,2,1,OG+CBF,1.0,651,4,confirmado,False,Glauber Ramos,Glauber Ramos
+Glauber Ramos,Goiás,2022,2022-04-10,2022-04-10,1,0,0,1,TM+OG+CBF,1.0,652,1,confirmado,False,Augusto César,Jair Ventura
+Jair Ventura,Goiás,2022,2022-04-16,2022-11-13,37,11,13,13,TM+OG+CBF,1.0,653,37,confirmado,False,Glauber Ramos,Émerson Ávila
+Émerson Ávila,Goiás,2023,2023-04-15,2023-06-11,10,2,2,6,TM+OG+CBF,1.0,654,10,confirmado,False,Jair Ventura,Armando Evangelista
+Armando Evangelista,Goiás,2023,2023-06-22,2023-11-12,24,6,9,9,TM+OG+CBF,1.0,655,24,confirmado,False,Émerson Ávila,Mário Henrique
+Mário Henrique,Goiás,2023,2023-11-27,2023-12-06,4,1,0,3,TM+OG+CBF,1.0,656,4,confirmado,False,Armando Evangelista,
+Tite,Grêmio,2003,2003-03-29,2003-06-01,11,3,2,6,TM+OG,0.818,657,11,confirmado,False,,Cléber Xavier
+Cléber Xavier,Grêmio,2003,2003-06-07,2003-06-07,1,1,0,0,TM+OG,1.0,658,1,confirmado,True,Tite,Darío Pereyra
+Darío Pereyra,Grêmio,2003,2003-06-15,2003-07-20,8,1,2,5,TM+OG,1.0,659,8,confirmado,False,Cléber Xavier,Nestor Simionato
+Nestor Simionato,Grêmio,2003,2003-07-24,2003-08-20,7,1,1,5,TM+OG,1.0,660,7,confirmado,False,Darío Pereyra,Adilson Batista
+Adilson Batista,Grêmio,2003,2003-08-23,2003-12-14,19,7,6,6,TM+OG,1.0,661,27,confirmado,False,Nestor Simionato,José Luiz Plein
+Adilson Batista,Grêmio,2004,2004-04-21,2004-05-30,8,2,4,2,TM+OG,1.0,661,27,confirmado,False,Nestor Simionato,José Luiz Plein
+José Luiz Plein,Grêmio,2004,2004-06-12,2004-09-09,21,4,6,11,TM+OG,1.0,662,21,confirmado,False,Adilson Batista,Cuca
+Cuca,Grêmio,2004,2004-09-12,2004-10-26,9,2,1,6,TM+OG,1.0,663,9,confirmado,False,José Luiz Plein,Cláudio Duarte
+Cláudio Duarte,Grêmio,2004,2004-10-30,2004-12-19,8,1,1,6,TM+OG,1.0,664,8,confirmado,False,Cuca,Mano Menezes
+Mano Menezes,Grêmio,2006,2006-04-16,2006-10-26,31,16,7,8,TM+OG,0.968,665,31,confirmado,False,Cláudio Duarte,Sidnei Lobo
+Sidnei Lobo,Grêmio,2006,2006-11-01,2006-11-08,3,1,0,2,TM+OG,1.0,666,3,confirmado,True,Mano Menezes,Mano Menezes
+Mano Menezes,Grêmio,2006,2006-11-12,2006-12-03,4,3,0,1,TM+OG,1.0,667,42,confirmado,False,Sidnei Lobo,Celso Roth
+Mano Menezes,Grêmio,2007,2007-05-02,2007-12-02,38,17,7,14,TM+OG,0.947,667,42,confirmado,False,Sidnei Lobo,Celso Roth
+Celso Roth,Grêmio,2008,2008-05-10,2008-12-07,38,21,9,8,TM+OG,1.0,668,38,confirmado,False,Mano Menezes,Marcelo Rospide
+Marcelo Rospide,Grêmio,2009,2009-05-10,2009-05-16,2,0,1,1,TM+OG,1.0,669,2,confirmado,False,Celso Roth,Paulo Autuori
+Paulo Autuori,Grêmio,2009,2009-05-24,2009-11-04,32,13,8,11,TM+OG,1.0,670,32,confirmado,False,Marcelo Rospide,Marcelo Rospide
+Marcelo Rospide,Grêmio,2009,2009-11-14,2009-12-06,4,2,1,1,TM+OG,0.75,671,4,provável,False,Paulo Autuori,Silas
+Silas,Grêmio,2010,2010-05-08,2010-08-08,13,2,6,5,TM+OG,1.0,672,13,confirmado,False,Marcelo Rospide,Renato Gaúcho
+Renato Gaúcho,Grêmio,2010,2010-08-15,2010-12-05,25,15,6,4,TM+OG,1.0,673,32,confirmado,False,Silas,Julinho Camargo
+Renato Gaúcho,Grêmio,2011,2011-05-22,2011-06-29,7,2,2,3,TM+OG,1.0,673,32,confirmado,False,Silas,Julinho Camargo
+Julinho Camargo,Grêmio,2011,2011-07-06,2011-08-03,6,1,3,2,TM+OG,1.0,674,6,confirmado,False,Renato Gaúcho,Celso Roth
+Celso Roth,Grêmio,2011,2011-08-06,2011-12-04,25,10,4,11,TM+OG,1.0,675,25,confirmado,False,Julinho Camargo,Vanderlei Luxemburgo
+Vanderlei Luxemburgo,Grêmio,2012,2012-05-20,2012-12-02,38,20,11,7,TM+OG,0.868,676,43,confirmado,False,Celso Roth,Renato Gaúcho
+Vanderlei Luxemburgo,Grêmio,2013,2013-05-26,2013-06-12,5,2,2,1,TM+OG,1.0,676,43,confirmado,False,Celso Roth,Renato Gaúcho
+Renato Gaúcho,Grêmio,2013,2013-07-06,2013-12-08,33,16,9,8,TM+OG,1.0,677,33,confirmado,False,Vanderlei Luxemburgo,Enderson Moreira
+Enderson Moreira,Grêmio,2014,2014-04-20,2014-07-27,12,5,4,3,TM+OG+CBF,1.0,678,12,confirmado,False,Renato Gaúcho,André Jardine
+André Jardine,Grêmio,2014,2014-08-02,2014-08-02,1,0,0,1,TM+OG,1.0,679,1,confirmado,True,Enderson Moreira,Luiz Felipe Scolari
+Luiz Felipe Scolari,Grêmio,2014,2014-08-10,2014-12-07,25,12,6,7,TM+OG+CBF,1.0,680,27,confirmado,False,André Jardine,James Freitas
+Luiz Felipe Scolari,Grêmio,2015,2015-05-10,2015-05-16,2,0,1,1,TM+OG+CBF,1.0,680,27,confirmado,False,André Jardine,James Freitas
+James Freitas,Grêmio,2015,2015-05-23,2015-05-23,1,1,0,0,TM+OG+CBF,1.0,681,1,confirmado,True,Luiz Felipe Scolari,Roger Machado
+Roger Machado,Grêmio,2015,2015-05-31,2015-12-06,35,19,7,9,TM+OG+CBF,0.971,682,60,confirmado,False,James Freitas,James Freitas
+Roger Machado,Grêmio,2016,2016-05-15,2016-09-14,25,10,7,8,TM+OG+CBF,1.0,682,60,confirmado,False,James Freitas,James Freitas
+James Freitas,Grêmio,2016,2016-09-18,2016-09-18,1,0,0,1,TM+OG+CBF,1.0,683,1,confirmado,True,Roger Machado,Renato Gaúcho
+Renato Gaúcho,Grêmio,2016,2016-09-25,2016-11-20,10,4,4,2,TM+OG+CBF,1.0,684,10,confirmado,False,James Freitas,James Freitas
+James Freitas,Grêmio,2016,2016-11-27,2016-12-11,2,0,0,2,TM+OG+CBF,1.0,685,2,confirmado,False,Renato Gaúcho,Renato Gaúcho
+Renato Gaúcho,Grêmio,2017,2017-05-14,2017-11-26,37,18,8,11,TM+OG+CBF,0.973,686,37,confirmado,False,James Freitas,César Bueno
+César Bueno,Grêmio,2017,2017-12-03,2017-12-03,1,0,0,1,TM+OG+CBF,1.0,687,1,confirmado,False,Renato Gaúcho,Renato Gaúcho
+Renato Gaúcho,Grêmio,2018,2018-04-14,2018-12-02,38,18,12,8,TM+OG+CBF,1.0,688,75,confirmado,False,César Bueno,Victor Hugo Signorelli
+Renato Gaúcho,Grêmio,2019,2019-04-28,2019-12-04,37,19,8,10,TM+OG+CBF,1.0,688,75,confirmado,False,César Bueno,Victor Hugo Signorelli
+Victor Hugo Signorelli,Grêmio,2019,2019-12-08,2019-12-08,1,0,0,1,TM+OG,1.0,689,1,confirmado,False,Renato Gaúcho,Renato Gaúcho
+Renato Gaúcho,Grêmio,2020,2020-08-09,2021-02-21,37,14,17,6,TM+OG+CBF,1.0,690,37,confirmado,False,Victor Hugo Signorelli,Alexandre Mendes
+Alexandre Mendes,Grêmio,2020,2021-02-25,2021-02-25,1,0,0,1,TM+OG,1.0,691,1,confirmado,False,Renato Gaúcho,Tiago Nunes
+Tiago Nunes,Grêmio,2021,2021-05-30,2021-07-04,7,0,2,5,TM+OG+CBF,1.0,692,7,confirmado,False,Alexandre Mendes,Thiago Gomes
+Thiago Gomes,Grêmio,2021,2021-07-07,2021-07-07,1,0,0,1,TM+OG+CBF,1.0,693,1,confirmado,True,Tiago Nunes,Luiz Felipe Scolari
+Luiz Felipe Scolari,Grêmio,2021,2021-07-10,2021-10-10,15,6,3,6,TM+OG+CBF,1.0,694,15,confirmado,False,Thiago Gomes,Thiago Gomes
+Thiago Gomes,Grêmio,2021,2021-10-13,2021-10-13,1,0,0,1,TM+OG+CBF,1.0,695,1,confirmado,True,Luiz Felipe Scolari,Vagner Mancini
+Vagner Mancini,Grêmio,2021,2021-10-17,2021-12-09,14,6,2,6,TM+OG+CBF,1.0,696,14,confirmado,False,Thiago Gomes,Renato Gaúcho
+Renato Gaúcho,Grêmio,2023,2023-04-16,2023-12-06,38,21,5,12,TM+OG+CBF,0.974,697,61,confirmado,False,Vagner Mancini,Alexandre Mendes
+Renato Gaúcho,Grêmio,2024,2024-04-14,2024-09-01,23,8,3,12,TM+OG+CBF,0.957,697,61,confirmado,False,Vagner Mancini,Alexandre Mendes
+Alexandre Mendes,Grêmio,2024,2024-09-15,2024-09-15,1,0,1,0,TM+CBF,1.0,698,1,confirmado,True,Renato Gaúcho,Marcelo Salles
+Marcelo Salles,Grêmio,2024,2024-09-22,2024-10-04,4,2,1,1,TM+CBF,0.75,699,4,provável,False,Alexandre Mendes,Renato Gaúcho
+Renato Gaúcho,Grêmio,2024,2024-10-09,2024-12-08,10,2,4,4,TM+OG+CBF,1.0,700,10,confirmado,False,Marcelo Salles,Gustavo Quinteros
+Gustavo Quinteros,Grêmio,2025,2025-03-29,2025-04-16,4,1,0,3,TM+OG,1.0,701,4,confirmado,False,Renato Gaúcho,James Freitas
+James Freitas,Grêmio,2025,2025-04-19,2025-04-19,1,0,1,0,TM+OG,1.0,702,1,confirmado,True,Gustavo Quinteros,Mano Menezes
+Mano Menezes,Grêmio,2025,2025-04-27,2025-12-07,33,12,9,12,TM+OG,0.909,703,33,confirmado,False,James Freitas,
+Estevam Soares,Grêmio Barueri/Prudente,2009,2009-05-09,2009-08-09,18,7,7,4,TM+OG,1.0,704,18,confirmado,False,,Diego Cerri
+Diego Cerri,Grêmio Barueri/Prudente,2009,2009-08-16,2009-10-24,13,3,4,6,TM+OG,1.0,705,13,confirmado,False,Estevam Soares,Goiano
+Goiano,Grêmio Barueri/Prudente,2009,2009-10-28,2009-12-06,7,2,2,3,TM+OG,1.0,706,7,confirmado,False,Diego Cerri,Toninho Cecílio
+Toninho Cecílio,Grêmio Barueri/Prudente,2010,2010-05-09,2010-08-08,13,3,6,4,TM+OG,1.0,707,13,confirmado,False,Goiano,Fábio Giuntini
+Fábio Giuntini,Grêmio Barueri/Prudente,2010,2010-08-15,2010-08-15,1,0,0,1,OG,0.0,708,1,verificar,True,Toninho Cecílio,Antônio Carlos Zago
+Antônio Carlos Zago,Grêmio Barueri/Prudente,2010,2010-08-21,2010-09-09,6,1,2,3,TM+OG,1.0,709,6,confirmado,False,Fábio Giuntini,Marcelo Rospide
+Marcelo Rospide,Grêmio Barueri/Prudente,2010,2010-09-12,2010-09-25,5,0,0,5,TM+OG,1.0,710,5,confirmado,False,Antônio Carlos Zago,Fábio Giuntini
+Fábio Giuntini,Grêmio Barueri/Prudente,2010,2010-09-29,2010-12-02,13,3,2,8,TM+OG,0.846,711,13,confirmado,False,Marcelo Rospide,
+Pepe,Guarani,2003,2003-03-29,2003-06-29,15,5,3,7,TM+OG,1.0,712,15,confirmado,False,,Luiz Carlos Barbieri
+Luiz Carlos Barbieri,Guarani,2003,2003-07-06,2003-12-13,31,12,7,12,TM+OG,1.0,713,31,confirmado,False,Pepe,Joel Santana
+Joel Santana,Guarani,2004,2004-04-22,2004-05-08,5,1,2,2,TM+OG,1.0,714,5,confirmado,False,Luiz Carlos Barbieri,DESCONHECIDO
+DESCONHECIDO,Guarani,2004,2004-05-16,2004-05-16,1,0,0,1,,0.0,715,1,verificar,True,Joel Santana,Zetti
+Zetti,Guarani,2004,2004-05-23,2004-07-24,12,3,2,7,TM+OG,0.917,716,12,confirmado,False,DESCONHECIDO,Lori Sandri
+Lori Sandri,Guarani,2004,2004-07-28,2004-08-22,8,1,5,2,TM+OG,0.875,717,8,confirmado,False,Zetti,Agnaldo Liz
+Agnaldo Liz,Guarani,2004,2004-08-28,2004-10-02,8,1,4,3,TM+OG,0.625,718,8,provável,False,Lori Sandri,DESCONHECIDO
+DESCONHECIDO,Guarani,2004,2004-10-07,2004-10-07,1,0,0,1,,0.0,719,1,verificar,True,Agnaldo Liz,Jair Picerni
+Jair Picerni,Guarani,2004,2004-10-17,2004-12-19,11,5,3,3,TM+OG,1.0,720,11,confirmado,False,DESCONHECIDO,Vagner Mancini
+Vagner Mancini,Guarani,2010,2010-05-09,2010-12-05,38,8,13,17,TM+OG,1.0,721,38,confirmado,False,Jair Picerni,
+Muricy Ramalho,Internacional,2003,2003-03-30,2003-12-13,46,20,10,16,TM+OG,0.739,722,46,provável,False,,Lori Sandri
+Lori Sandri,Internacional,2004,2004-04-21,2004-06-27,11,5,2,4,TM+OG,1.0,723,11,confirmado,False,Muricy Ramalho,Leandro Machado
+Leandro Machado,Internacional,2004,2004-07-03,2004-07-03,1,1,0,0,TM+OG,1.0,724,1,confirmado,True,Lori Sandri,Joel Santana
+Joel Santana,Internacional,2004,2004-07-07,2004-09-01,16,4,3,9,TM+OG,1.0,725,16,confirmado,False,Leandro Machado,Muricy Ramalho
+Muricy Ramalho,Internacional,2004,2004-09-08,2004-12-19,18,10,2,6,TM+OG,1.0,726,60,confirmado,False,Joel Santana,Abel Braga
+Muricy Ramalho,Internacional,2005,2005-04-24,2005-12-04,42,23,9,10,TM+OG,0.81,726,60,confirmado,False,Joel Santana,Abel Braga
+Abel Braga,Internacional,2006,2006-04-15,2006-11-26,37,20,9,8,TM+OG,0.919,727,37,confirmado,False,Muricy Ramalho,Leomir
+Leomir,Internacional,2006,2006-12-02,2006-12-02,1,0,0,1,TM+OG,1.0,728,1,confirmado,False,Abel Braga,Alexandre Gallo
+Alexandre Gallo,Internacional,2007,2007-05-02,2007-08-10,18,7,3,8,TM+OG,1.0,729,18,confirmado,False,Leomir,Abel Braga
+Abel Braga,Internacional,2007,2007-08-12,2007-12-02,20,8,6,6,TM+OG,1.0,730,24,confirmado,False,Alexandre Gallo,Guto Ferreira
+Abel Braga,Internacional,2008,2008-05-11,2008-05-31,4,1,1,2,TM+OG,1.0,730,24,confirmado,False,Alexandre Gallo,Guto Ferreira
+Guto Ferreira,Internacional,2008,2008-06-08,2008-06-08,1,0,0,1,OG,0.0,731,1,verificar,True,Abel Braga,Tite
+Tite,Internacional,2008,2008-06-14,2008-12-07,33,14,8,11,TM+OG,1.0,732,60,confirmado,False,Guto Ferreira,Mário Sérgio
+Tite,Internacional,2009,2009-05-10,2009-10-04,27,13,5,9,TM+OG,1.0,732,60,confirmado,False,Guto Ferreira,Mário Sérgio
+Mário Sérgio,Internacional,2009,2009-10-07,2009-12-06,11,6,3,2,TM+OG,1.0,733,11,confirmado,False,Tite,Jorge Fossati
+Jorge Fossati,Internacional,2010,2010-05-09,2010-05-27,4,1,0,3,TM+OG,1.0,734,4,confirmado,False,Mário Sérgio,Enderson Moreira
+Enderson Moreira,Internacional,2010,2010-05-30,2010-06-06,3,1,1,1,TM+OG,1.0,735,3,confirmado,True,Jorge Fossati,Celso Roth
+Celso Roth,Internacional,2010,2010-07-14,2010-12-02,31,14,9,8,TM+OG,0.968,736,31,confirmado,False,Enderson Moreira,Falcão
+Falcão,Internacional,2011,2011-05-21,2011-07-17,11,4,3,4,TM+OG,1.0,737,11,confirmado,False,Celso Roth,Osmar Loss
+Osmar Loss,Internacional,2011,2011-07-21,2011-08-07,4,2,1,1,OG,0.5,738,4,provável,False,Falcão,Dorival Júnior
+Dorival Júnior,Internacional,2011,2011-08-14,2011-12-04,23,10,8,5,TM+OG,0.957,739,33,confirmado,False,Osmar Loss,Fernandão
+Dorival Júnior,Internacional,2012,2012-05-20,2012-07-18,10,4,4,2,TM+OG,1.0,739,33,confirmado,False,Osmar Loss,Fernandão
+Fernandão,Internacional,2012,2012-07-22,2012-11-18,26,9,8,9,TM+OG,1.0,740,26,confirmado,False,Dorival Júnior,Osmar Loss
+Osmar Loss,Internacional,2012,2012-11-25,2012-12-02,2,0,1,1,TM+OG,1.0,741,2,confirmado,False,Fernandão,Dunga
+Dunga,Internacional,2013,2013-05-25,2013-10-03,25,8,10,7,TM+OG,1.0,742,25,confirmado,False,Osmar Loss,Clemer
+Clemer,Internacional,2013,2013-10-06,2013-12-08,13,3,5,5,TM+OG,1.0,743,13,confirmado,False,Dunga,Abel Braga
+Abel Braga,Internacional,2014,2014-04-19,2014-12-06,38,21,6,11,TM+OG+CBF,1.0,744,38,confirmado,False,Clemer,Diego Aguirre
+Diego Aguirre,Internacional,2015,2015-05-10,2015-08-02,16,5,6,5,TM+OG+CBF,1.0,745,16,confirmado,False,Abel Braga,Odair Hellmann
+Odair Hellmann,Internacional,2015,2015-08-09,2015-08-12,2,1,0,1,TM+OG+CBF,1.0,746,2,confirmado,True,Diego Aguirre,Argel Fuchs
+Argel Fuchs,Internacional,2015,2015-08-16,2015-12-06,20,11,3,6,TM+OG+CBF,1.0,747,34,confirmado,False,Odair Hellmann,Falcão
+Argel Fuchs,Internacional,2016,2016-05-15,2016-07-10,14,6,2,6,TM+OG+CBF,1.0,747,34,confirmado,False,Odair Hellmann,Falcão
+Falcão,Internacional,2016,2016-07-17,2016-08-07,5,0,2,3,TM+OG+CBF,1.0,748,5,confirmado,False,Argel Fuchs,Celso Roth
+Celso Roth,Internacional,2016,2016-08-15,2016-11-17,16,4,5,7,TM+OG+CBF,1.0,749,16,confirmado,False,Falcão,Lisca
+Lisca,Internacional,2016,2016-11-21,2016-12-11,3,1,1,1,TM+OG+CBF,1.0,750,3,confirmado,False,Celso Roth,Odair Hellmann
+Odair Hellmann,Internacional,2018,2018-04-15,2018-12-02,38,19,12,7,TM+OG+CBF,1.0,751,62,confirmado,False,Lisca,Ricardo Colbachini
+Odair Hellmann,Internacional,2019,2019-04-27,2019-10-09,24,11,5,8,TM+OG+CBF,1.0,751,62,confirmado,False,Lisca,Ricardo Colbachini
+Ricardo Colbachini,Internacional,2019,2019-10-13,2019-10-20,3,1,1,1,TM+OG+CBF,1.0,752,3,confirmado,True,Odair Hellmann,Zé Ricardo
+Zé Ricardo,Internacional,2019,2019-10-26,2019-12-08,11,4,3,4,TM+OG+CBF,1.0,753,11,confirmado,False,Ricardo Colbachini,Eduardo Coudet
+Eduardo Coudet,Internacional,2020,2020-08-08,2020-11-08,20,10,6,4,TM+OG+CBF,1.0,754,20,confirmado,False,Zé Ricardo,Abel Braga
+Abel Braga,Internacional,2020,2020-11-14,2020-11-14,1,0,0,1,TM+OG+CBF,1.0,755,1,confirmado,True,Eduardo Coudet,Leomir
+Leomir,Internacional,2020,2020-11-22,2020-12-06,3,0,2,1,OG+CBF,1.0,756,3,confirmado,True,Abel Braga,Abel Braga
+Abel Braga,Internacional,2020,2020-12-12,2021-02-25,14,10,2,2,TM+OG+CBF,1.0,757,14,confirmado,False,Leomir,Miguel Ángel Ramírez
+Miguel Ángel Ramírez,Internacional,2021,2021-05-30,2021-06-06,2,0,1,1,TM+OG+CBF,1.0,758,2,confirmado,False,Abel Braga,Osmar Loss
+Osmar Loss,Internacional,2021,2021-06-13,2021-06-20,3,1,1,1,TM+OG+CBF,1.0,759,3,confirmado,True,Miguel Ángel Ramírez,Diego Aguirre
+Diego Aguirre,Internacional,2021,2021-06-24,2021-12-09,33,11,10,12,TM+OG+CBF,1.0,760,33,confirmado,False,Osmar Loss,Alexander Medina
+Alexander Medina,Internacional,2022,2022-04-10,2022-04-10,1,0,0,1,TM+OG+CBF,1.0,761,1,confirmado,False,Diego Aguirre,Cauan de Almeida
+Cauan de Almeida,Internacional,2022,2022-04-17,2022-04-23,2,2,0,0,TM+OG+CBF,0.5,762,2,provável,True,Alexander Medina,Mano Menezes
+Mano Menezes,Internacional,2022,2022-05-01,2022-11-13,35,18,13,4,TM+OG+CBF,1.0,763,50,confirmado,False,Cauan de Almeida,Eduardo Coudet
+Mano Menezes,Internacional,2023,2023-04-15,2023-07-16,15,6,4,5,TM+OG+CBF,1.0,763,50,confirmado,False,Cauan de Almeida,Eduardo Coudet
+Eduardo Coudet,Internacional,2023,2023-07-23,2023-12-06,23,9,6,8,TM+OG+CBF,1.0,764,36,confirmado,False,Mano Menezes,Roger Machado
+Eduardo Coudet,Internacional,2024,2024-04-13,2024-07-07,13,5,4,4,TM+OG+CBF,1.0,764,36,confirmado,False,Mano Menezes,Roger Machado
+Roger Machado,Internacional,2024,2024-07-20,2024-12-08,25,13,7,5,TM+OG+CBF,1.0,765,48,confirmado,False,Eduardo Coudet,Ramón Díaz
+Roger Machado,Internacional,2025,2025-03-29,2025-09-21,23,7,6,10,TM+OG,1.0,765,48,confirmado,False,Eduardo Coudet,Ramón Díaz
+Ramón Díaz,Internacional,2025,2025-09-27,2025-11-28,13,3,5,5,TM+OG,1.0,766,13,confirmado,False,Roger Machado,Abel Braga
+Abel Braga,Internacional,2025,2025-12-03,2025-12-07,2,1,0,1,TM+OG,1.0,767,2,confirmado,False,Ramón Díaz,
+Giba,Ipatinga,2008,2008-05-11,2008-06-22,7,1,2,4,TM+OG,0.857,768,7,confirmado,False,,Ricardo Drubscky
+Ricardo Drubscky,Ipatinga,2008,2008-06-28,2008-08-20,14,3,3,8,TM+OG,0.786,769,14,provável,False,Giba,Márcio Bittencourt
+Márcio Bittencourt,Ipatinga,2008,2008-08-24,2008-11-01,12,4,2,6,TM+OG,0.833,770,12,confirmado,False,Ricardo Drubscky,Enderson Moreira
+Enderson Moreira,Ipatinga,2008,2008-11-09,2008-12-07,5,1,1,3,TM+OG,1.0,771,5,confirmado,False,Márcio Bittencourt,
+Hemerson Maria,Joinville,2015,2015-05-09,2015-06-03,5,0,1,4,TM+OG+CBF,1.0,772,5,confirmado,False,,Adilson Batista
+Adilson Batista,Joinville,2015,2015-06-06,2015-07-26,10,2,2,6,TM+OG+CBF,1.0,773,10,confirmado,False,Hemerson Maria,Paulo César Gusmão
+Paulo César Gusmão,Joinville,2015,2015-08-02,2015-12-06,23,5,7,11,TM+OG+CBF,1.0,774,23,confirmado,False,Adilson Batista,
+Marinho Peres,Juventude,2003,2003-03-30,2003-03-30,1,0,1,0,TM,0.0,775,1,verificar,False,,Cristóvão Borges
+Cristóvão Borges,Juventude,2003,2003-04-06,2003-05-11,7,1,2,4,TM+OG,1.0,776,7,confirmado,False,Marinho Peres,Marinho Peres
+Marinho Peres,Juventude,2003,2003-05-17,2003-06-22,6,1,2,3,TM+OG,1.0,777,6,confirmado,False,Cristóvão Borges,Raul Plassmann
+Raul Plassmann,Juventude,2003,2003-06-28,2003-09-14,16,4,3,9,TM+OG,1.0,778,16,confirmado,False,Marinho Peres,José Luiz Plein
+José Luiz Plein,Juventude,2003,2003-09-21,2003-12-14,16,6,6,4,TM+OG,1.0,779,16,confirmado,False,Raul Plassmann,Ivo Wortmann
+Ivo Wortmann,Juventude,2004,2004-04-21,2004-12-19,46,20,10,16,TM+OG,0.87,780,56,confirmado,False,José Luiz Plein,Dorival Júnior
+Ivo Wortmann,Juventude,2005,2005-04-24,2005-07-03,10,4,4,2,TM+OG,1.0,780,56,confirmado,False,José Luiz Plein,Dorival Júnior
+Dorival Júnior,Juventude,2005,2005-07-09,2005-07-27,4,2,0,2,TM+OG,0.75,781,4,provável,False,Ivo Wortmann,Sebastião Lazaroni
+Sebastião Lazaroni,Juventude,2005,2005-07-31,2005-10-15,17,4,4,9,TM+OG,0.765,782,17,provável,False,Dorival Júnior,Hélio dos Anjos
+Hélio dos Anjos,Juventude,2005,2005-10-19,2005-12-04,11,5,2,4,TM+OG,1.0,783,21,confirmado,False,Sebastião Lazaroni,Ivo Wortmann
+Hélio dos Anjos,Juventude,2006,2006-04-15,2006-06-04,10,4,2,4,TM+OG,1.0,783,21,confirmado,False,Sebastião Lazaroni,Ivo Wortmann
+Ivo Wortmann,Juventude,2006,2006-07-12,2006-12-03,28,9,6,13,TM+OG,1.0,784,29,confirmado,False,Hélio dos Anjos,Valteir Gomes Franco
+Ivo Wortmann,Juventude,2007,2007-05-02,2007-05-02,1,0,0,1,TM+OG,1.0,784,29,confirmado,False,Hélio dos Anjos,Valteir Gomes Franco
+Valteir Gomes Franco,Juventude,2007,2007-05-19,2007-05-19,1,0,0,1,TM+OG,1.0,785,1,confirmado,True,Ivo Wortmann,Beto Almeida
+Beto Almeida,Juventude,2007,2007-05-26,2007-05-26,1,0,0,1,TM,0.0,786,1,verificar,True,Valteir Gomes Franco,Flávio Campos
+Flávio Campos,Juventude,2007,2007-06-02,2007-07-26,10,4,2,4,TM+OG,0.7,787,10,provável,False,Beto Almeida,Valteir Gomes Franco
+Valteir Gomes Franco,Juventude,2007,2007-07-28,2007-07-28,1,0,1,0,TM+OG,1.0,788,1,confirmado,True,Flávio Campos,Cláudio Duarte
+Cláudio Duarte,Juventude,2007,2007-08-01,2007-08-10,4,0,1,3,TM+OG,1.0,789,4,confirmado,False,Valteir Gomes Franco,Valteir Gomes Franco
+Valteir Gomes Franco,Juventude,2007,2007-08-18,2007-08-18,1,0,1,0,TM+OG,1.0,790,1,confirmado,True,Cláudio Duarte,Beto Almeida
+Beto Almeida,Juventude,2007,2007-08-22,2007-12-02,19,7,3,9,TM+OG,1.0,791,19,confirmado,False,Valteir Gomes Franco,Eduardo Barros
+Eduardo Barros,Juventude,2021,2021-05-29,2021-05-29,1,0,1,0,OG+CBF,1.0,792,1,confirmado,False,Beto Almeida,Marquinhos Santos
+Marquinhos Santos,Juventude,2021,2021-06-06,2021-10-17,26,6,9,11,TM+OG+CBF,1.0,793,26,confirmado,False,Eduardo Barros,Jair Ventura
+Jair Ventura,Juventude,2021,2021-10-23,2021-12-09,11,5,3,3,TM+OG+CBF,1.0,794,11,confirmado,False,Marquinhos Santos,Eduardo Baptista
+Eduardo Baptista,Juventude,2022,2022-04-11,2022-06-19,13,2,4,7,TM+OG+CBF,1.0,795,13,confirmado,False,Jair Ventura,Umberto Louzer
+Umberto Louzer,Juventude,2022,2022-06-25,2022-10-01,16,1,6,9,TM+OG+CBF,1.0,796,16,confirmado,False,Eduardo Baptista,Lucas Zanella
+Lucas Zanella,Juventude,2022,2022-10-04,2022-10-27,5,0,2,3,TM+OG+CBF,1.0,797,5,confirmado,False,Umberto Louzer,Celso Roth
+Celso Roth,Juventude,2022,2022-11-02,2022-11-13,4,0,1,3,TM+OG+CBF,1.0,798,4,confirmado,False,Lucas Zanella,Roger Machado
+Roger Machado,Juventude,2024,2024-04-13,2024-07-16,15,5,5,5,TM+OG+CBF,1.0,799,15,confirmado,False,Celso Roth,Jair Ventura
+Jair Ventura,Juventude,2024,2024-07-21,2024-10-26,16,3,5,8,TM+OG+CBF,0.938,800,16,confirmado,False,Roger Machado,Fábio Matias
+Fábio Matias,Juventude,2024,2024-11-02,2024-12-08,7,3,2,2,TM+OG+CBF,1.0,801,15,confirmado,False,Jair Ventura,Claudio Tencati
+Fábio Matias,Juventude,2025,2025-03-29,2025-05-10,8,2,1,5,TM+OG,1.0,801,15,confirmado,False,Jair Ventura,Claudio Tencati
+Claudio Tencati,Juventude,2025,2025-05-18,2025-07-27,7,1,1,5,TM+OG,1.0,802,7,confirmado,False,Fábio Matias,Gerson Ramos
+Gerson Ramos,Juventude,2025,2025-08-04,2025-08-04,1,0,0,1,TM+OG,1.0,803,1,confirmado,True,Claudio Tencati,Thiago Carpini
+Thiago Carpini,Juventude,2025,2025-08-11,2025-12-07,22,6,6,10,TM+OG,1.0,804,22,confirmado,False,Gerson Ramos,
+Rafael Guanaes,Mirassol,2025,2025-03-29,2025-12-06,38,18,13,7,TM+OG,0.974,805,38,confirmado,False,,
+Paulo César Gusmão,Náutico,2007,2007-05-12,2007-06-29,8,1,2,5,TM+OG,1.0,806,8,confirmado,False,,Roberto Fernandes
+Roberto Fernandes,Náutico,2007,2007-07-03,2007-12-02,30,13,5,12,TM+OG,1.0,807,32,confirmado,False,Paulo César Gusmão,Marcelo Sangaletti
+Roberto Fernandes,Náutico,2008,2008-05-10,2008-05-18,2,2,0,0,TM+OG,1.0,807,32,confirmado,False,Paulo César Gusmão,Marcelo Sangaletti
+Marcelo Sangaletti,Náutico,2008,2008-05-24,2008-05-24,1,0,0,1,TM+OG,1.0,808,1,confirmado,True,Roberto Fernandes,Leandro Machado
+Leandro Machado,Náutico,2008,2008-06-01,2008-07-16,9,3,2,4,TM+OG,0.889,809,9,confirmado,False,Marcelo Sangaletti,Pintado
+Pintado,Náutico,2008,2008-07-20,2008-08-06,6,0,1,5,OG+Wiki,0.0,810,6,verificar,False,Leandro Machado,Roberto Fernandes
+Roberto Fernandes,Náutico,2008,2008-08-10,2008-12-07,20,6,8,6,TM+OG,1.0,811,20,confirmado,False,Pintado,Waldemar Lemos
+Waldemar Lemos,Náutico,2009,2009-05-10,2009-06-04,5,2,2,1,TM+OG,1.0,812,5,confirmado,False,Roberto Fernandes,Márcio Bittencourt
+Márcio Bittencourt,Náutico,2009,2009-06-14,2009-07-11,5,0,0,5,TM+OG,1.0,813,5,confirmado,False,Waldemar Lemos,Geninho
+Geninho,Náutico,2009,2009-07-16,2009-12-05,28,8,6,14,TM+OG,1.0,814,28,confirmado,False,Márcio Bittencourt,Alexandre Gallo
+Alexandre Gallo,Náutico,2012,2012-05-19,2012-12-02,38,14,7,17,TM+OG,1.0,815,38,confirmado,False,Geninho,Silas
+Silas,Náutico,2013,2013-05-26,2013-06-02,3,0,1,2,TM+OG,1.0,816,3,confirmado,False,Alexandre Gallo,Lisca
+Lisca,Náutico,2013,2013-06-05,2013-06-09,2,1,0,1,TM,0.0,817,2,verificar,True,Silas,Zé Teodoro
+Zé Teodoro,Náutico,2013,2013-07-06,2013-08-14,7,1,1,5,TM+OG,1.0,818,7,confirmado,False,Lisca,Jorginho Cantinflas
+Jorginho Cantinflas,Náutico,2013,2013-08-17,2013-09-05,5,0,0,5,TM+OG,1.0,819,5,confirmado,False,Zé Teodoro,Levi Gomes
+Levi Gomes,Náutico,2013,2013-09-08,2013-09-22,5,0,2,3,TM+OG,1.0,820,5,confirmado,False,Jorginho Cantinflas,Marcelo Martelotte
+Marcelo Martelotte,Náutico,2013,2013-09-25,2013-12-07,16,3,1,12,TM+OG,1.0,821,16,confirmado,False,Levi Gomes,
+Jair Picerni,Palmeiras,2004,2004-04-21,2004-05-16,6,2,2,2,TM+OG,1.0,822,6,confirmado,False,,Wilson Coimbra
+Wilson Coimbra,Palmeiras,2004,2004-05-23,2004-05-23,1,1,0,0,TM+OG,1.0,823,1,confirmado,True,Jair Picerni,Estevam Soares
+Estevam Soares,Palmeiras,2004,2004-05-29,2004-12-19,39,19,11,9,TM+OG,1.0,824,39,confirmado,False,Wilson Coimbra,Paulo Bonamigo
+Paulo Bonamigo,Palmeiras,2005,2005-04-23,2005-07-17,12,4,1,7,TM+OG,1.0,825,12,confirmado,False,Estevam Soares,Emerson Leão
+Emerson Leão,Palmeiras,2005,2005-07-20,2005-11-27,29,15,9,5,TM+OG,0.793,826,29,provável,False,Paulo Bonamigo,Pedro Santilli
+Pedro Santilli,Palmeiras,2005,2005-12-04,2005-12-04,1,1,0,0,TM,0.0,827,1,verificar,False,Emerson Leão,Emerson Leão
+Emerson Leão,Palmeiras,2006,2006-04-16,2006-04-22,2,0,0,2,TM+OG,1.0,828,2,confirmado,False,Pedro Santilli,Marcelo Vilar
+Marcelo Vilar,Palmeiras,2006,2006-04-30,2006-05-14,3,0,1,2,TM+OG,1.0,829,3,confirmado,True,Emerson Leão,Tite
+Tite,Palmeiras,2006,2006-05-21,2006-09-21,20,8,5,7,TM+OG,1.0,830,20,confirmado,False,Marcelo Vilar,Marcelo Vilar
+Marcelo Vilar,Palmeiras,2006,2006-09-24,2006-11-01,7,2,1,4,TM+OG,1.0,831,7,confirmado,False,Tite,Jair Picerni
+Jair Picerni,Palmeiras,2006,2006-11-04,2006-12-03,6,2,1,3,TM+OG,1.0,832,6,confirmado,False,Marcelo Vilar,Caio Júnior
+Caio Júnior,Palmeiras,2007,2007-05-02,2007-12-02,38,16,10,12,TM+OG,1.0,833,38,confirmado,False,Jair Picerni,Vanderlei Luxemburgo
+Vanderlei Luxemburgo,Palmeiras,2008,2008-05-11,2008-12-07,38,19,8,11,TM+OG,0.921,834,45,confirmado,False,Caio Júnior,Jorginho Cantinflas
+Vanderlei Luxemburgo,Palmeiras,2009,2009-05-09,2009-06-20,7,3,3,1,TM+OG,1.0,834,45,confirmado,False,Caio Júnior,Jorginho Cantinflas
+Jorginho Cantinflas,Palmeiras,2009,2009-06-28,2009-07-26,7,5,1,1,TM+OG,1.0,835,7,confirmado,False,Vanderlei Luxemburgo,Muricy Ramalho
+Muricy Ramalho,Palmeiras,2009,2009-07-29,2009-12-06,24,9,7,8,TM+OG,1.0,836,24,confirmado,False,Jorginho Cantinflas,Antônio Carlos Zago
+Antônio Carlos Zago,Palmeiras,2010,2010-05-08,2010-05-16,2,1,1,0,TM+OG,1.0,837,2,confirmado,False,Muricy Ramalho,Jorge Parraga
+Jorge Parraga,Palmeiras,2010,2010-05-22,2010-06-06,5,1,2,2,TM+OG,1.0,838,5,confirmado,False,Antônio Carlos Zago,Murtosa
+Murtosa,Palmeiras,2010,2010-07-15,2010-07-15,1,1,0,0,TM,0.0,839,1,verificar,True,Jorge Parraga,Luiz Felipe Scolari
+Luiz Felipe Scolari,Palmeiras,2010,2010-07-18,2010-12-05,30,9,11,10,TM+OG,0.767,840,92,provável,False,Murtosa,Narciso
+Luiz Felipe Scolari,Palmeiras,2011,2011-05-22,2011-12-04,38,11,17,10,TM+OG,0.921,840,92,confirmado,False,Murtosa,Narciso
+Luiz Felipe Scolari,Palmeiras,2012,2012-05-19,2012-09-12,24,5,5,14,TM+OG,0.875,840,92,confirmado,False,Murtosa,Narciso
+Narciso,Palmeiras,2012,2012-09-16,2012-09-16,1,0,0,1,TM+OG,1.0,841,1,confirmado,True,Luiz Felipe Scolari,Gilson Kleina
+Gilson Kleina,Palmeiras,2012,2012-09-22,2012-12-01,13,4,2,7,TM+OG,1.0,842,16,confirmado,False,Narciso,Alberto Valentim
+Gilson Kleina,Palmeiras,2014,2014-04-20,2014-05-04,3,1,0,2,TM+OG+CBF,1.0,842,16,confirmado,False,Narciso,Alberto Valentim
+Alberto Valentim,Palmeiras,2014,2014-05-10,2014-06-01,6,3,1,2,TM+OG+CBF,1.0,843,6,confirmado,False,Gilson Kleina,Ricardo Gareca
+Ricardo Gareca,Palmeiras,2014,2014-07-17,2014-08-30,9,1,1,7,TM+OG+CBF,1.0,844,9,confirmado,False,Alberto Valentim,Dorival Júnior
+Dorival Júnior,Palmeiras,2014,2014-09-07,2014-12-07,20,6,5,9,TM+OG+CBF,1.0,845,20,confirmado,False,Ricardo Gareca,Oswaldo de Oliveira
+Oswaldo de Oliveira,Palmeiras,2015,2015-05-09,2015-06-07,6,1,3,2,TM+OG+CBF,1.0,846,6,confirmado,False,Dorival Júnior,Alberto Valentim
+Alberto Valentim,Palmeiras,2015,2015-06-14,2015-06-14,1,1,0,0,TM+OG+CBF,1.0,847,1,confirmado,True,Oswaldo de Oliveira,Marcelo Oliveira
+Marcelo Oliveira,Palmeiras,2015,2015-06-20,2015-12-06,31,13,5,13,TM+OG+CBF,1.0,848,31,confirmado,False,Alberto Valentim,Cuca
+Cuca,Palmeiras,2016,2016-05-14,2016-12-11,38,24,8,6,TM+OG+CBF,0.974,849,65,confirmado,False,Marcelo Oliveira,Alberto Valentim
+Cuca,Palmeiras,2017,2017-05-14,2017-10-12,27,13,5,9,TM+OG+CBF,1.0,849,65,confirmado,False,Marcelo Oliveira,Alberto Valentim
+Alberto Valentim,Palmeiras,2017,2017-10-15,2017-12-03,11,6,1,4,TM+OG+CBF,1.0,850,11,confirmado,False,Cuca,Roger Machado
+Roger Machado,Palmeiras,2018,2018-04-16,2018-07-25,15,6,5,4,TM+OG+CBF,1.0,851,15,confirmado,False,Alberto Valentim,Wesley Carvalho
+Wesley Carvalho,Palmeiras,2018,2018-07-29,2018-07-29,1,1,0,0,TM+OG,1.0,852,1,confirmado,True,Roger Machado,Luiz Felipe Scolari
+Luiz Felipe Scolari,Palmeiras,2018,2018-08-05,2018-12-02,22,16,6,0,TM+OG+CBF,0.955,853,38,confirmado,False,Wesley Carvalho,Mano Menezes
+Luiz Felipe Scolari,Palmeiras,2019,2019-04-28,2019-09-01,16,8,6,2,TM+OG+CBF,1.0,853,38,confirmado,False,Wesley Carvalho,Mano Menezes
+Mano Menezes,Palmeiras,2019,2019-09-07,2019-11-30,20,11,5,4,TM+OG+CBF,1.0,854,20,confirmado,False,Luiz Felipe Scolari,Andrey Lopes
+Andrey Lopes,Palmeiras,2019,2019-12-04,2019-12-08,2,2,0,0,TM+OG+CBF,1.0,855,2,confirmado,False,Mano Menezes,Vanderlei Luxemburgo
+Vanderlei Luxemburgo,Palmeiras,2020,2020-08-12,2020-10-14,15,5,7,3,TM+OG+CBF,1.0,856,15,confirmado,False,Andrey Lopes,Andrey Lopes
+Andrey Lopes,Palmeiras,2020,2020-10-18,2020-11-02,3,2,0,1,TM+OG+CBF,1.0,857,3,confirmado,True,Vanderlei Luxemburgo,Abel Ferreira
+Abel Ferreira,Palmeiras,2020,2020-11-08,2021-02-25,20,8,6,6,TM+OG+CBF,0.85,858,54,confirmado,False,Andrey Lopes,João Martins
+Abel Ferreira,Palmeiras,2021,2021-05-30,2021-11-20,34,18,4,12,TM+OG+CBF,0.912,858,54,confirmado,False,Andrey Lopes,João Martins
+João Martins,Palmeiras,2021,2021-11-23,2021-11-30,2,1,1,0,TM+OG+CBF,1.0,859,2,confirmado,True,Abel Ferreira,Paulo Victor Gomes
+Paulo Victor Gomes,Palmeiras,2021,2021-12-06,2021-12-09,2,1,1,0,TM+OG+CBF,1.0,860,2,confirmado,False,João Martins,Abel Ferreira
+Abel Ferreira,Palmeiras,2022,2022-04-09,2022-11-13,38,23,12,3,TM+OG+CBF,0.895,861,152,confirmado,False,Paulo Victor Gomes,
+Abel Ferreira,Palmeiras,2023,2023-04-15,2023-12-06,38,20,10,8,TM+OG+CBF,0.842,861,152,confirmado,False,Paulo Victor Gomes,
+Abel Ferreira,Palmeiras,2024,2024-04-14,2024-12-08,38,22,7,9,TM+OG+CBF,0.947,861,152,confirmado,False,Paulo Victor Gomes,
+Abel Ferreira,Palmeiras,2025,2025-03-30,2025-12-07,38,23,7,8,TM+OG,0.684,861,152,provável,False,Paulo Victor Gomes,
+Cuca,Paraná,2003,2003-03-30,2003-05-24,10,4,3,3,TM,0.4,862,10,provável,False,,Adilson Batista
+Adilson Batista,Paraná,2003,2003-06-01,2003-07-13,8,3,1,4,TM+OG,1.0,863,8,confirmado,False,Cuca,Caio Júnior
+Caio Júnior,Paraná,2003,2003-07-20,2003-07-20,1,0,0,1,TM,0.0,864,1,verificar,True,Adilson Batista,Antonio Carlos Vieira
+Antonio Carlos Vieira,Paraná,2003,2003-07-23,2003-08-09,6,3,1,2,TM,0.0,865,6,verificar,False,Caio Júnior,Edu Marangon
+Edu Marangon,Paraná,2003,2003-08-17,2003-09-20,6,1,1,4,TM+OG,1.0,866,6,confirmado,False,Antonio Carlos Vieira,Saulo Freitas
+Saulo Freitas,Paraná,2003,2003-09-24,2003-12-13,15,7,5,3,OG+Wiki,0.133,867,15,verificar,False,Edu Marangon,Paulo Campos
+Paulo Campos,Paraná,2004,2004-04-21,2004-06-26,11,3,4,4,TM,0.0,868,11,verificar,False,Saulo Freitas,Gilson Kleina
+Gilson Kleina,Paraná,2004,2004-07-04,2004-08-28,16,3,1,12,TM+OG,1.0,869,16,confirmado,False,Paulo Campos,Paulo Campos
+Paulo Campos,Paraná,2004,2004-09-01,2004-12-19,19,9,4,6,TM,0.0,870,19,verificar,False,Gilson Kleina,Lori Sandri
+Lori Sandri,Paraná,2005,2005-04-23,2005-08-28,23,10,8,5,TM+OG,1.0,871,23,confirmado,False,Paulo Campos,Luiz Carlos Barbieri
+Luiz Carlos Barbieri,Paraná,2005,2005-09-07,2005-12-04,19,7,2,10,TM+OG,1.0,872,19,confirmado,False,Lori Sandri,Caio Júnior
+Caio Júnior,Paraná,2006,2006-04-15,2006-11-04,33,16,5,12,TM+OG,0.545,873,33,provável,False,Luiz Carlos Barbieri,Gilson Kleina
+Gilson Kleina,Paraná,2006,2006-11-08,2006-12-03,5,2,1,2,TM,0.0,874,5,verificar,False,Caio Júnior,Zetti
+Zetti,Paraná,2007,2007-05-02,2007-05-19,2,2,0,0,TM+OG,1.0,875,2,confirmado,False,Gilson Kleina,Pintado
+Pintado,Paraná,2007,2007-05-26,2007-07-19,10,3,4,3,TM+OG,1.0,876,10,confirmado,False,Zetti,Gilson Kleina
+Gilson Kleina,Paraná,2007,2007-07-21,2007-08-17,8,1,2,5,TM+OG,1.0,877,8,confirmado,False,Pintado,Lori Sandri
+Lori Sandri,Paraná,2007,2007-08-26,2007-10-07,10,3,1,6,TM+OG,1.0,878,10,confirmado,False,Gilson Kleina,Saulo Freitas
+Saulo Freitas,Paraná,2007,2007-10-13,2007-12-02,8,2,1,5,TM+OG,1.0,879,8,confirmado,False,Lori Sandri,Rogério Micale
+Rogério Micale,Paraná,2018,2018-04-16,2018-08-12,18,3,5,10,TM+OG,1.0,880,18,confirmado,False,Saulo Freitas,Claudinei Oliveira
+Claudinei Oliveira,Paraná,2018,2018-08-19,2018-10-13,11,0,3,8,TM+OG,1.0,881,11,confirmado,False,Rogério Micale,Dado Cavalcanti
+Dado Cavalcanti,Paraná,2018,2018-10-21,2018-12-02,9,1,3,5,TM+OG+CBF,1.0,882,9,confirmado,False,Claudinei Oliveira,
+Darío Pereyra,Paysandu,2003,2003-03-30,2003-05-25,10,2,3,5,TM+OG,1.0,883,10,confirmado,False,,Ivo Wortmann
+Ivo Wortmann,Paysandu,2003,2003-05-31,2003-12-14,36,13,9,14,TM+OG,1.0,884,36,confirmado,False,Darío Pereyra,Arthur Neto
+Arthur Neto,Paysandu,2004,2004-04-22,2004-04-28,3,0,1,2,TM+OG,1.0,885,3,confirmado,False,Ivo Wortmann,Givanildo Oliveira
+Givanildo Oliveira,Paysandu,2004,2004-05-01,2004-08-08,19,5,6,8,TM+OG,0.947,886,19,confirmado,False,Arthur Neto,Marinho Peres
+Marinho Peres,Paysandu,2004,2004-08-11,2004-08-11,1,0,0,1,TM,0.0,887,1,verificar,True,Givanildo Oliveira,Adilson Batista
+Adilson Batista,Paysandu,2004,2004-08-15,2004-11-14,18,7,5,6,TM+OG,1.0,888,18,confirmado,False,Marinho Peres,Vágner Benazzi
+Vágner Benazzi,Paysandu,2004,2004-11-21,2004-12-19,5,2,2,1,TM+OG,0.8,889,5,confirmado,False,Adilson Batista,Paulo Campos
+Paulo Campos,Paysandu,2005,2005-04-24,2005-07-09,11,3,2,6,TM,0.0,890,11,verificar,False,Vágner Benazzi,Roberto Cavalo
+Roberto Cavalo,Paysandu,2005,2005-07-21,2005-07-24,2,0,0,2,TM,0.0,891,2,verificar,True,Paulo Campos,Gilson Kleina
+Gilson Kleina,Paysandu,2005,2005-07-28,2005-10-05,16,4,3,9,TM+OG,1.0,892,16,confirmado,False,Roberto Cavalo,Marinho Peres
+Marinho Peres,Paysandu,2005,2005-10-11,2005-12-04,13,5,0,8,TM,0.0,893,13,verificar,False,Gilson Kleina,
+Abel Braga,Ponte Preta,2003,2003-03-30,2003-12-14,46,11,18,17,TM+OG,0.87,894,46,confirmado,False,,Estevam Soares
+Estevam Soares,Ponte Preta,2004,2004-04-21,2004-05-23,7,4,2,1,TM,0.143,895,7,verificar,False,Abel Braga,DESCONHECIDO
+DESCONHECIDO,Ponte Preta,2004,2004-05-29,2004-05-29,1,0,0,1,,0.0,896,1,verificar,True,Estevam Soares,Marco Aurélio
+Marco Aurélio,Ponte Preta,2004,2004-06-13,2004-08-01,12,6,0,6,TM,0.0,897,12,verificar,False,DESCONHECIDO,Nenê Santana
+Nenê Santana,Ponte Preta,2004,2004-08-04,2004-12-19,26,9,5,12,TM+OG,0.885,898,26,confirmado,False,Marco Aurélio,Vadão
+Vadão,Ponte Preta,2005,2005-04-24,2005-07-24,13,8,2,3,TM+OG,0.615,899,13,provável,False,Nenê Santana,Nenê Santana
+Nenê Santana,Ponte Preta,2005,2005-07-27,2005-07-31,2,1,1,0,TM+OG,0.5,900,2,provável,True,Vadão,Zetti
+Zetti,Ponte Preta,2005,2005-08-03,2005-08-21,5,0,0,5,TM+OG,0.8,901,5,confirmado,False,Nenê Santana,Nenê Santana
+Nenê Santana,Ponte Preta,2005,2005-08-24,2005-08-24,1,0,0,1,OG,0.0,902,1,verificar,True,Zetti,Estevam Soares
+Estevam Soares,Ponte Preta,2005,2005-08-28,2005-11-20,19,5,3,11,TM+OG,1.0,903,19,confirmado,False,Nenê Santana,Nenê Santana
+Nenê Santana,Ponte Preta,2005,2005-11-27,2005-12-04,2,1,0,1,OG,0.0,904,2,verificar,False,Estevam Soares,Vadão
+Vadão,Ponte Preta,2006,2006-04-16,2006-05-27,8,2,2,4,TM+OG,0.875,905,8,confirmado,False,Nenê Santana,Marco Aurélio
+Marco Aurélio,Ponte Preta,2006,2006-05-31,2006-10-04,19,6,4,9,TM+OG,1.0,906,19,confirmado,False,Vadão,DESCONHECIDO
+DESCONHECIDO,Ponte Preta,2006,2006-10-07,2006-12-03,11,2,3,6,,0.0,907,11,verificar,False,Marco Aurélio,Gilson Kleina
+Gilson Kleina,Ponte Preta,2012,2012-05-20,2012-09-16,25,8,9,8,TM+OG,1.0,908,25,confirmado,False,DESCONHECIDO,Guto Ferreira
+Guto Ferreira,Ponte Preta,2012,2012-09-23,2012-12-02,13,4,3,6,TM+OG,0.923,909,17,confirmado,False,Gilson Kleina,Zé Sérgio
+Guto Ferreira,Ponte Preta,2013,2013-05-26,2013-06-05,4,1,0,3,TM+OG,1.0,909,17,confirmado,False,Gilson Kleina,Zé Sérgio
+Zé Sérgio,Ponte Preta,2013,2013-06-08,2013-06-08,1,0,0,1,TM+OG,1.0,910,1,confirmado,True,Guto Ferreira,Paulo César Carpegiani
+Paulo César Carpegiani,Ponte Preta,2013,2013-07-06,2013-08-24,10,3,3,4,TM+OG,1.0,911,10,confirmado,False,Zé Sérgio,Jorginho (Jorge de Amorim)
+Jorginho (Jorge de Amorim),Ponte Preta,2013,2013-08-31,2013-12-08,23,5,7,11,TM+OG,1.0,912,23,confirmado,False,Paulo César Carpegiani,Guto Ferreira
+Guto Ferreira,Ponte Preta,2015,2015-05-10,2015-08-02,16,4,7,5,TM+OG+CBF,1.0,913,16,confirmado,False,Jorginho (Jorge de Amorim),Doriva
+Doriva,Ponte Preta,2015,2015-08-09,2015-10-04,13,6,4,3,TM+OG+CBF,1.0,914,13,confirmado,False,Guto Ferreira,Felipe Moreira
+Felipe Moreira,Ponte Preta,2015,2015-10-14,2015-12-06,9,3,1,5,TM+OG+CBF,1.0,915,9,confirmado,False,Doriva,Eduardo Baptista
+Eduardo Baptista,Ponte Preta,2016,2016-05-15,2016-11-26,37,14,8,15,TM+OG+CBF,1.0,916,37,confirmado,False,Felipe Moreira,Felipe Moreira
+Felipe Moreira,Ponte Preta,2016,2016-12-11,2016-12-11,1,1,0,0,OG+CBF,1.0,917,1,confirmado,False,Eduardo Baptista,Gilson Kleina
+Gilson Kleina,Ponte Preta,2017,2017-05-14,2017-09-16,24,7,7,10,TM+OG+CBF,1.0,918,24,confirmado,False,Felipe Moreira,Eduardo Baptista
+Eduardo Baptista,Ponte Preta,2017,2017-09-24,2017-12-03,14,3,2,9,TM+OG+CBF,1.0,919,14,confirmado,False,Gilson Kleina,
+Vágner Benazzi,Portuguesa,2008,2008-05-11,2008-07-23,14,4,4,6,TM+OG,0.857,920,14,confirmado,False,,Valdir Espinosa
+Valdir Espinosa,Portuguesa,2008,2008-07-27,2008-08-21,7,2,0,5,OG+Wiki,0.0,921,7,verificar,False,Vágner Benazzi,Vágner Benazzi
+Vágner Benazzi,Portuguesa,2008,2008-08-24,2008-08-24,1,0,0,1,TM,0.0,922,1,verificar,True,Valdir Espinosa,Estevam Soares
+Estevam Soares,Portuguesa,2008,2008-08-31,2008-12-07,16,3,7,6,OG+Wiki,0.0,923,16,verificar,False,Vágner Benazzi,Geninho
+Geninho,Portuguesa,2012,2012-05-19,2012-12-02,38,10,15,13,TM+OG,1.0,924,38,confirmado,False,Estevam Soares,Edson Pimenta
+Edson Pimenta,Portuguesa,2013,2013-05-25,2013-07-27,9,1,4,4,TM+OG,1.0,925,9,confirmado,False,Geninho,Guto Ferreira
+Guto Ferreira,Portuguesa,2013,2013-07-31,2013-12-08,29,11,8,10,TM+OG,1.0,926,29,confirmado,False,Edson Pimenta,
+Giba,Santa Cruz,2006,2006-04-16,2006-05-06,4,0,2,2,TM,0.0,927,4,verificar,False,,Valdir Espinosa
+Valdir Espinosa,Santa Cruz,2006,2006-05-14,2006-05-21,2,0,0,2,TM+OG,1.0,928,2,confirmado,True,Giba,René Simões
+René Simões,Santa Cruz,2006,2006-05-24,2006-09-03,16,4,4,8,TM,0.0,929,16,verificar,False,Valdir Espinosa,Dado Cavalcanti
+Dado Cavalcanti,Santa Cruz,2006,2006-09-09,2006-09-16,2,0,0,2,TM,0.0,930,2,verificar,True,René Simões,Fito Neves
+Fito Neves,Santa Cruz,2006,2006-09-21,2006-11-18,12,3,1,8,TM,0.333,931,12,provável,False,Dado Cavalcanti,Dado Cavalcanti
+Dado Cavalcanti,Santa Cruz,2006,2006-11-26,2006-12-03,2,0,0,2,TM,0.0,932,2,verificar,False,Fito Neves,Milton Mendes
+Milton Mendes,Santa Cruz,2016,2016-05-15,2016-08-07,19,5,3,11,TM+OG+CBF,1.0,933,19,confirmado,False,Dado Cavalcanti,Adriano Teixeira
+Adriano Teixeira,Santa Cruz,2016,2016-08-14,2016-08-14,1,0,1,0,OG+CBF,1.0,934,1,confirmado,True,Milton Mendes,Doriva
+Doriva,Santa Cruz,2016,2016-08-21,2016-10-19,12,1,1,10,TM+OG+CBF,1.0,935,12,confirmado,False,Adriano Teixeira,Adriano Teixeira
+Adriano Teixeira,Santa Cruz,2016,2016-10-29,2016-12-11,6,2,2,2,TM+OG+CBF,1.0,936,6,confirmado,False,Doriva,
+Sérgio Guedes,Santo André,2009,2009-05-10,2009-07-25,14,4,5,5,TM+OG,1.0,937,14,confirmado,False,,Sandro Gaúcho
+Sandro Gaúcho,Santo André,2009,2009-07-29,2009-07-29,1,0,1,0,TM+OG,1.0,938,1,confirmado,True,Sérgio Guedes,Alexandre Gallo
+Alexandre Gallo,Santo André,2009,2009-08-02,2009-08-29,7,2,0,5,TM+OG,1.0,939,7,confirmado,False,Sandro Gaúcho,Sérgio Soares
+Sérgio Soares,Santo André,2009,2009-09-06,2009-12-06,16,5,2,9,TM+OG,0.875,940,16,confirmado,False,Alexandre Gallo,
+Emerson Leão,Santos,2003,2003-03-30,2003-12-14,46,25,12,9,TM+OG,0.717,941,50,provável,False,,Márcio Fernandes
+Emerson Leão,Santos,2004,2004-04-21,2004-05-02,4,1,0,3,TM+OG,1.0,941,50,confirmado,False,,Márcio Fernandes
+Márcio Fernandes,Santos,2004,2004-05-08,2004-05-08,1,1,0,0,TM,0.0,942,1,verificar,True,Emerson Leão,Vanderlei Luxemburgo
+Vanderlei Luxemburgo,Santos,2004,2004-05-15,2004-12-19,41,25,8,8,TM+OG,0.78,943,41,provável,False,Márcio Fernandes,Alexandre Gallo
+Alexandre Gallo,Santos,2005,2005-04-24,2005-09-25,27,12,8,7,TM+OG,0.926,944,27,confirmado,False,Vanderlei Luxemburgo,Nelsinho Baptista
+Nelsinho Baptista,Santos,2005,2005-10-01,2005-11-19,13,3,3,7,TM+OG,1.0,945,13,confirmado,False,Alexandre Gallo,Serginho Chulapa
+Serginho Chulapa,Santos,2005,2005-11-27,2005-12-04,2,1,0,1,TM+OG,1.0,946,2,confirmado,False,Nelsinho Baptista,Vanderlei Luxemburgo
+Vanderlei Luxemburgo,Santos,2006,2006-04-16,2006-12-03,38,18,10,10,TM+OG,0.921,947,76,confirmado,False,Serginho Chulapa,Emerson Leão
+Vanderlei Luxemburgo,Santos,2007,2007-05-02,2007-12-02,38,19,5,14,TM+OG,0.974,947,76,confirmado,False,Serginho Chulapa,Emerson Leão
+Emerson Leão,Santos,2008,2008-05-11,2008-05-25,3,1,0,2,TM+OG,1.0,948,3,confirmado,False,Vanderlei Luxemburgo,Márcio Fernandes
+Márcio Fernandes,Santos,2008,2008-06-01,2008-06-01,1,0,1,0,TM+OG,1.0,949,1,confirmado,True,Emerson Leão,Cuca
+Cuca,Santos,2008,2008-06-08,2008-08-10,15,3,4,8,TM+OG,0.933,950,15,confirmado,False,Márcio Fernandes,Márcio Fernandes
+Márcio Fernandes,Santos,2008,2008-08-17,2008-12-07,19,7,7,5,TM+OG,1.0,951,19,confirmado,False,Cuca,Vagner Mancini
+Vagner Mancini,Santos,2009,2009-05-10,2009-07-12,10,3,4,3,TM+OG,1.0,952,10,confirmado,False,Márcio Fernandes,Serginho Chulapa
+Serginho Chulapa,Santos,2009,2009-07-15,2009-07-19,2,0,1,1,TM+OG,1.0,953,2,confirmado,True,Vagner Mancini,Vanderlei Luxemburgo
+Vanderlei Luxemburgo,Santos,2009,2009-07-22,2009-12-06,26,9,8,9,TM+OG,1.0,954,26,confirmado,False,Serginho Chulapa,Dorival Júnior
+Dorival Júnior,Santos,2010,2010-05-08,2010-09-19,22,10,5,7,TM+OG,0.909,955,22,confirmado,False,Vanderlei Luxemburgo,Marcelo Martelotte
+Marcelo Martelotte,Santos,2010,2010-09-22,2010-12-05,16,5,6,5,TM+OG,1.0,956,16,confirmado,False,Dorival Júnior,Muricy Ramalho
+Muricy Ramalho,Santos,2011,2011-05-21,2011-12-04,38,15,8,15,TM+OG,0.921,957,78,confirmado,False,Marcelo Martelotte,Claudinei Oliveira
+Muricy Ramalho,Santos,2012,2012-05-20,2012-12-01,38,13,14,11,TM+OG,0.947,957,78,confirmado,False,Marcelo Martelotte,Claudinei Oliveira
+Muricy Ramalho,Santos,2013,2013-05-26,2013-05-29,2,0,1,1,TM+OG,1.0,957,78,confirmado,False,Marcelo Martelotte,Claudinei Oliveira
+Claudinei Oliveira,Santos,2013,2013-06-01,2013-12-08,36,15,11,10,TM+OG,1.0,958,36,confirmado,False,Muricy Ramalho,Oswaldo de Oliveira
+Oswaldo de Oliveira,Santos,2014,2014-04-20,2014-08-31,18,6,5,7,TM+OG+CBF,1.0,959,18,confirmado,False,Claudinei Oliveira,Enderson Moreira
+Enderson Moreira,Santos,2014,2014-09-06,2014-12-07,20,9,3,8,TM+OG+CBF,1.0,960,20,confirmado,False,Oswaldo de Oliveira,Marcelo Fernandes
+Marcelo Fernandes,Santos,2015,2015-05-10,2015-07-08,12,2,4,6,TM+OG+CBF,1.0,961,12,confirmado,False,Enderson Moreira,Dorival Júnior
+Dorival Júnior,Santos,2015,2015-07-11,2015-12-06,26,14,6,6,TM+OG+CBF,1.0,962,68,confirmado,False,Marcelo Fernandes,Elano
+Dorival Júnior,Santos,2016,2016-05-14,2016-12-11,38,22,5,11,TM+OG+CBF,1.0,962,68,confirmado,False,Marcelo Fernandes,Elano
+Dorival Júnior,Santos,2017,2017-05-14,2017-06-03,4,1,0,3,TM+OG+CBF,1.0,962,68,confirmado,False,Marcelo Fernandes,Elano
+Elano,Santos,2017,2017-06-07,2017-06-11,2,2,0,0,TM+OG+CBF,1.0,963,2,confirmado,True,Dorival Júnior,Levir Culpi
+Levir Culpi,Santos,2017,2017-06-14,2017-10-28,25,11,11,3,TM+OG+CBF,1.0,964,25,confirmado,False,Elano,Elano
+Elano,Santos,2017,2017-11-04,2017-12-03,7,3,1,3,TM+OG+CBF,1.0,965,7,confirmado,False,Levir Culpi,Jair Ventura
+Jair Ventura,Santos,2018,2018-04-14,2018-07-22,13,4,3,6,TM+OG+CBF,1.0,966,13,confirmado,False,Elano,Serginho Chulapa
+Serginho Chulapa,Santos,2018,2018-07-25,2018-07-29,2,0,1,1,TM+OG,1.0,967,2,confirmado,True,Jair Ventura,Cuca
+Cuca,Santos,2018,2018-08-04,2018-12-02,23,9,7,7,TM+OG+CBF,1.0,968,23,confirmado,False,Serginho Chulapa,Jorge Sampaoli
+Jorge Sampaoli,Santos,2019,2019-04-28,2019-12-08,38,22,8,8,TM+OG+CBF,1.0,969,38,confirmado,False,Cuca,Cuca
+Cuca,Santos,2020,2020-08-09,2021-02-21,37,14,12,11,TM+OG+CBF,0.946,970,37,confirmado,False,Jorge Sampaoli,Marcelo Fernandes
+Marcelo Fernandes,Santos,2020,2021-02-25,2021-02-25,1,0,0,1,TM+OG+CBF,1.0,971,1,confirmado,False,Cuca,Fernando Diniz
+Fernando Diniz,Santos,2021,2021-05-29,2021-09-04,19,5,7,7,TM+OG+CBF,0.895,972,19,confirmado,False,Marcelo Fernandes,Fábio Carille
+Fábio Carille,Santos,2021,2021-09-11,2021-12-09,19,7,7,5,TM+OG+CBF,1.0,973,19,confirmado,False,Fernando Diniz,Fabián Bustos
+Fabián Bustos,Santos,2022,2022-04-09,2022-07-02,15,4,7,4,TM+OG+CBF,0.933,974,15,confirmado,False,Fábio Carille,Marcelo Fernandes
+Marcelo Fernandes,Santos,2022,2022-07-10,2022-07-20,3,2,0,1,TM+OG+CBF,1.0,975,3,confirmado,True,Fabián Bustos,Lisca
+Lisca,Santos,2022,2022-07-23,2022-09-10,8,2,3,3,TM+OG+CBF,1.0,976,8,confirmado,False,Marcelo Fernandes,Orlando Ribeiro
+Orlando Ribeiro,Santos,2022,2022-09-18,2022-11-13,12,4,1,7,TM+OG+CBF,1.0,977,12,confirmado,False,Lisca,Odair Hellmann
+Odair Hellmann,Santos,2023,2023-04-16,2023-06-21,11,3,4,4,TM+OG+CBF,1.0,978,11,confirmado,False,Orlando Ribeiro,Claudiomiro
+Claudiomiro,Santos,2023,2023-06-25,2023-06-25,1,0,0,1,TM,0.0,979,1,verificar,True,Odair Hellmann,Paulo Turra
+Paulo Turra,Santos,2023,2023-07-02,2023-08-05,6,1,2,3,TM+OG+CBF,1.0,980,6,confirmado,False,Claudiomiro,Diego Aguirre
+Diego Aguirre,Santos,2023,2023-08-13,2023-09-14,5,1,0,4,TM+OG+CBF,1.0,981,5,confirmado,False,Paulo Turra,Marcelo Fernandes
+Marcelo Fernandes,Santos,2023,2023-09-18,2023-12-06,15,6,4,5,TM+OG+CBF,1.0,982,15,confirmado,False,Diego Aguirre,Pedro Caixinha
+Pedro Caixinha,Santos,2025,2025-03-30,2025-04-13,3,0,1,2,TM+OG,1.0,983,3,confirmado,False,Marcelo Fernandes,César Sampaio
+César Sampaio,Santos,2025,2025-04-16,2025-04-27,3,1,0,2,TM+OG,1.0,984,3,confirmado,True,Pedro Caixinha,Cléber Xavier
+Cléber Xavier,Santos,2025,2025-05-04,2025-08-17,13,5,2,6,TM+OG,1.0,985,13,confirmado,False,César Sampaio,Matheus Bachi
+Matheus Bachi,Santos,2025,2025-08-24,2025-08-24,1,0,0,1,TM+OG,1.0,986,1,confirmado,True,Cléber Xavier,Juan Pablo Vojvoda
+Juan Pablo Vojvoda,Santos,2025,2025-08-31,2025-12-07,18,6,8,4,TM+OG,1.0,987,18,confirmado,False,Matheus Bachi,
+Giba,Sport,2007,2007-05-02,2007-06-09,5,1,1,3,TM,0.0,988,5,verificar,False,,Edson Leivinha
+Edson Leivinha,Sport,2007,2007-06-16,2007-06-16,1,0,1,0,TM+OG,1.0,989,1,confirmado,True,Giba,Geninho
+Geninho,Sport,2007,2007-06-23,2007-12-02,32,13,7,12,TM+OG,1.0,990,32,confirmado,False,Edson Leivinha,Nelsinho Baptista
+Nelsinho Baptista,Sport,2008,2008-05-11,2008-12-07,38,14,10,14,TM+OG,0.947,991,42,confirmado,False,Geninho,Emerson Leão
+Nelsinho Baptista,Sport,2009,2009-05-09,2009-05-30,4,0,2,2,TM+OG,0.75,991,42,provável,False,Geninho,Emerson Leão
+Emerson Leão,Sport,2009,2009-06-07,2009-07-26,10,3,2,5,TM+OG,1.0,992,10,confirmado,False,Nelsinho Baptista,Péricles Chamusca
+Péricles Chamusca,Sport,2009,2009-07-29,2009-11-07,20,4,5,11,TM+OG,0.85,993,20,confirmado,False,Emerson Leão,Levi Gomes
+Levi Gomes,Sport,2009,2009-11-11,2009-12-06,4,0,1,3,OG+Wiki,0.0,994,4,verificar,False,Péricles Chamusca,Vagner Mancini
+Vagner Mancini,Sport,2012,2012-05-19,2012-08-11,16,3,5,8,TM+OG,1.0,995,16,confirmado,False,Levi Gomes,Waldemar Lemos
+Waldemar Lemos,Sport,2012,2012-08-15,2012-10-04,12,3,4,5,TM+OG,0.833,996,12,confirmado,False,Vagner Mancini,Sérgio Guedes
+Sérgio Guedes,Sport,2012,2012-10-11,2012-12-02,10,4,2,4,TM+OG,1.0,997,10,confirmado,False,Waldemar Lemos,Eduardo Baptista
+Eduardo Baptista,Sport,2014,2014-04-20,2014-12-07,38,14,10,14,TM+OG+CBF,1.0,998,64,confirmado,False,Sérgio Guedes,Daniel Paulista
+Eduardo Baptista,Sport,2015,2015-05-10,2015-09-16,26,8,13,5,TM+OG+CBF,1.0,998,64,confirmado,False,Sérgio Guedes,Daniel Paulista
+Daniel Paulista,Sport,2015,2015-09-20,2015-09-20,1,0,0,1,TM+OG+CBF,1.0,999,1,confirmado,True,Eduardo Baptista,Falcão
+Falcão,Sport,2015,2015-09-27,2015-12-06,11,7,1,3,TM+OG+CBF,1.0,1000,11,confirmado,False,Daniel Paulista,Oswaldo de Oliveira
+Oswaldo de Oliveira,Sport,2016,2016-05-14,2016-10-12,30,9,7,14,TM+OG+CBF,1.0,1001,30,confirmado,False,Falcão,Daniel Paulista
+Daniel Paulista,Sport,2016,2016-10-16,2016-12-11,8,4,1,3,TM+OG+CBF,1.0,1002,8,confirmado,False,Oswaldo de Oliveira,Ney Franco
+Ney Franco,Sport,2017,2017-05-14,2017-05-21,2,0,1,1,TM+OG+CBF,1.0,1003,2,confirmado,False,Daniel Paulista,Daniel Paulista
+Daniel Paulista,Sport,2017,2017-05-28,2017-05-28,1,1,0,0,TM+OG+CBF,1.0,1004,1,confirmado,True,Ney Franco,Vanderlei Luxemburgo
+Vanderlei Luxemburgo,Sport,2017,2017-06-04,2017-10-22,27,8,7,12,TM+OG+CBF,1.0,1005,27,confirmado,False,Daniel Paulista,Daniel Paulista
+Daniel Paulista,Sport,2017,2017-10-29,2017-12-03,8,3,1,4,TM+OG+CBF,1.0,1006,8,confirmado,False,Vanderlei Luxemburgo,Nelsinho Baptista
+Nelsinho Baptista,Sport,2018,2018-04-15,2018-04-23,2,0,1,1,TM+OG+CBF,1.0,1007,2,confirmado,False,Daniel Paulista,Claudinei Oliveira
+Claudinei Oliveira,Sport,2018,2018-04-29,2018-08-12,16,5,4,7,TM+OG+CBF,1.0,1008,16,confirmado,False,Nelsinho Baptista,Eduardo Baptista
+Eduardo Baptista,Sport,2018,2018-08-18,2018-09-23,8,1,1,6,TM+OG+CBF,1.0,1009,8,confirmado,False,Claudinei Oliveira,Milton Mendes
+Milton Mendes,Sport,2018,2018-09-30,2018-12-02,12,5,3,4,TM+OG+CBF,1.0,1010,12,confirmado,False,Eduardo Baptista,Daniel Paulista
+Daniel Paulista,Sport,2020,2020-08-08,2020-08-23,5,1,1,3,TM+OG+CBF,1.0,1011,5,confirmado,False,Milton Mendes,Jair Ventura
+Jair Ventura,Sport,2020,2020-08-30,2020-11-14,16,6,3,7,TM+OG+CBF,1.0,1012,16,confirmado,False,Daniel Paulista,Ricardo Henriques
+Ricardo Henriques,Sport,2020,2020-11-23,2020-11-23,1,0,0,1,OG+CBF,1.0,1013,1,confirmado,True,Jair Ventura,César Lucena
+César Lucena,Sport,2020,2020-11-28,2020-11-28,1,0,0,1,OG+CBF,1.0,1014,1,confirmado,True,Ricardo Henriques,Jair Ventura
+Jair Ventura,Sport,2020,2020-12-06,2021-02-25,15,5,2,8,TM+OG+CBF,1.0,1015,15,confirmado,False,César Lucena,Umberto Louzer
+Umberto Louzer,Sport,2021,2021-05-30,2021-08-22,17,3,6,8,TM+OG+CBF,1.0,1016,17,confirmado,False,Jair Ventura,Ricardo Severo
+Ricardo Severo,Sport,2021,2021-08-28,2021-08-28,1,0,1,0,TM+OG+CBF,1.0,1017,1,confirmado,True,Umberto Louzer,Gustavo Florentín
+Gustavo Florentín,Sport,2021,2021-09-05,2021-12-09,20,6,4,10,TM+OG+CBF,0.95,1018,20,confirmado,False,Ricardo Severo,Pepa
+Pepa,Sport,2025,2025-03-29,2025-05-03,7,0,2,5,TM+OG,1.0,1019,7,confirmado,False,Gustavo Florentín,António Oliveira
+António Oliveira,Sport,2025,2025-05-11,2025-06-01,4,0,1,3,TM+OG,1.0,1020,4,confirmado,False,Pepa,Daniel Paulista
+Daniel Paulista,Sport,2025,2025-07-14,2025-10-25,18,2,8,8,TM+OG,1.0,1021,18,confirmado,False,António Oliveira,César Lucena
+César Lucena,Sport,2025,2025-11-01,2025-12-07,9,0,0,9,TM+OG,1.0,1022,9,confirmado,False,Daniel Paulista,
+Mário Sérgio,São Caetano,2003,2003-03-30,2003-07-20,20,6,9,5,TM+OG,0.85,1023,20,confirmado,False,,Nelsinho Baptista
+Nelsinho Baptista,São Caetano,2003,2003-07-24,2003-07-27,2,1,1,0,TM+OG,1.0,1024,2,confirmado,True,Mário Sérgio,Tite
+Tite,São Caetano,2003,2003-08-02,2003-12-13,24,12,4,8,TM+OG,1.0,1025,24,confirmado,False,Nelsinho Baptista,Muricy Ramalho
+Muricy Ramalho,São Caetano,2004,2004-04-21,2004-07-20,17,6,5,6,TM+OG,0.882,1026,17,confirmado,False,Tite,DESCONHECIDO
+DESCONHECIDO,São Caetano,2004,2004-07-24,2004-07-24,1,1,0,0,,0.0,1027,1,verificar,True,Muricy Ramalho,Péricles Chamusca
+Péricles Chamusca,São Caetano,2004,2004-07-29,2004-12-19,28,16,3,9,TM+OG,1.0,1028,28,confirmado,False,DESCONHECIDO,Estevam Soares
+Estevam Soares,São Caetano,2005,2005-04-23,2005-07-20,13,6,3,4,TM+OG,1.0,1029,13,confirmado,False,Péricles Chamusca,Levir Culpi
+Levir Culpi,São Caetano,2005,2005-07-23,2005-09-07,11,3,2,6,TM+OG,0.909,1030,11,confirmado,False,Estevam Soares,Dino Camargo
+Dino Camargo,São Caetano,2005,2005-09-10,2005-09-10,1,0,0,1,TM+OG,1.0,1031,1,confirmado,True,Levir Culpi,Jair Picerni
+Jair Picerni,São Caetano,2005,2005-09-17,2005-11-06,12,3,3,6,TM+OG,1.0,1032,12,confirmado,False,Dino Camargo,Cuca
+Cuca,São Caetano,2005,2005-11-13,2005-12-04,5,2,2,1,TM+OG,1.0,1033,5,confirmado,False,Jair Picerni,Nelsinho Baptista
+Nelsinho Baptista,São Caetano,2006,2006-04-16,2006-05-31,9,3,1,5,TM+OG,1.0,1034,9,confirmado,False,Cuca,Emerson Leão
+Emerson Leão,São Caetano,2006,2006-06-03,2006-08-16,8,3,5,0,TM+OG,0.75,1035,8,provável,False,Nelsinho Baptista,Paulo César Gusmão
+Paulo César Gusmão,São Caetano,2006,2006-08-20,2006-08-29,4,0,1,3,TM+OG,1.0,1036,4,confirmado,False,Emerson Leão,DESCONHECIDO
+DESCONHECIDO,São Caetano,2006,2006-09-03,2006-09-03,1,0,1,0,,0.0,1037,1,verificar,True,Paulo César Gusmão,Hélio dos Anjos
+Hélio dos Anjos,São Caetano,2006,2006-09-09,2006-10-14,7,0,0,7,TM+OG,1.0,1038,7,confirmado,False,DESCONHECIDO,Dorival Júnior
+Dorival Júnior,São Caetano,2006,2006-10-22,2006-12-02,9,3,1,5,TM+OG,1.0,1039,9,confirmado,False,Hélio dos Anjos,
+Oswaldo de Oliveira,São Paulo,2003,2003-03-30,2003-05-04,7,3,2,2,TM+OG,0.857,1040,7,confirmado,False,,Roberto Rojas
+Roberto Rojas,São Paulo,2003,2003-05-11,2003-12-14,39,19,10,10,TM+OG,0.821,1041,39,confirmado,False,Oswaldo de Oliveira,Cuca
+Cuca,São Paulo,2004,2004-04-22,2004-09-01,28,13,6,9,TM+OG,0.857,1042,28,confirmado,False,Roberto Rojas,Emerson Leão
+Emerson Leão,São Paulo,2004,2004-09-08,2004-12-19,18,11,4,3,TM+OG,1.0,1043,18,confirmado,False,Cuca,Milton Cruz
+Milton Cruz,São Paulo,2005,2005-04-24,2005-04-24,1,0,0,1,TM+OG,1.0,1044,1,confirmado,False,Emerson Leão,Paulo Autuori
+Paulo Autuori,São Paulo,2005,2005-04-30,2005-12-04,41,16,10,15,TM+OG,0.829,1045,41,confirmado,False,Milton Cruz,Muricy Ramalho
+Muricy Ramalho,São Paulo,2006,2006-04-16,2006-12-03,38,22,12,4,TM+OG,0.868,1046,120,confirmado,False,Paulo Autuori,Ricardo Gomes
+Muricy Ramalho,São Paulo,2007,2007-05-02,2007-12-02,38,23,8,7,TM+OG,0.921,1046,120,confirmado,False,Paulo Autuori,Ricardo Gomes
+Muricy Ramalho,São Paulo,2008,2008-05-10,2008-12-07,38,21,12,5,TM+OG,0.974,1046,120,confirmado,False,Paulo Autuori,Ricardo Gomes
+Muricy Ramalho,São Paulo,2009,2009-05-10,2009-06-13,6,1,4,1,TM+OG,1.0,1046,120,confirmado,False,Paulo Autuori,Ricardo Gomes
+Ricardo Gomes,São Paulo,2009,2009-06-21,2009-12-06,32,17,7,8,TM+OG,0.969,1047,44,confirmado,False,Muricy Ramalho,Sérgio Baresi
+Ricardo Gomes,São Paulo,2010,2010-05-09,2010-07-31,12,4,3,5,TM+OG,1.0,1047,44,confirmado,False,Muricy Ramalho,Sérgio Baresi
+Sérgio Baresi,São Paulo,2010,2010-08-08,2010-10-02,15,5,5,5,TM+OG,0.933,1048,15,confirmado,False,Ricardo Gomes,Paulo César Carpegiani
+Paulo César Carpegiani,São Paulo,2010,2010-10-06,2010-12-05,11,6,2,3,TM+OG,1.0,1049,19,confirmado,False,Sérgio Baresi,Milton Cruz
+Paulo César Carpegiani,São Paulo,2011,2011-05-22,2011-07-06,8,5,0,3,TM+OG,1.0,1049,19,confirmado,False,Sérgio Baresi,Milton Cruz
+Milton Cruz,São Paulo,2011,2011-07-09,2011-07-09,1,1,0,0,OG,0.0,1050,1,verificar,True,Paulo César Carpegiani,Adilson Batista
+Adilson Batista,São Paulo,2011,2011-07-17,2011-10-16,21,7,9,5,TM+OG,0.952,1051,21,confirmado,False,Milton Cruz,Milton Cruz
+Milton Cruz,São Paulo,2011,2011-10-23,2011-10-23,1,0,1,0,OG,0.0,1052,1,verificar,True,Adilson Batista,Emerson Leão
+Emerson Leão,São Paulo,2011,2011-10-30,2011-12-04,7,3,1,3,TM+OG,1.0,1053,13,confirmado,False,Milton Cruz,Milton Cruz
+Emerson Leão,São Paulo,2012,2012-05-20,2012-06-23,6,3,0,3,TM+OG,1.0,1053,13,confirmado,False,Milton Cruz,Milton Cruz
+Milton Cruz,São Paulo,2012,2012-06-30,2012-06-30,1,1,0,0,TM+OG,1.0,1054,1,confirmado,True,Emerson Leão,Ney Franco
+Ney Franco,São Paulo,2012,2012-07-08,2012-12-02,31,16,6,9,TM+OG,0.968,1055,36,confirmado,False,Milton Cruz,Milton Cruz
+Ney Franco,São Paulo,2013,2013-05-26,2013-06-12,5,2,2,1,TM+OG,1.0,1055,36,confirmado,False,Milton Cruz,Milton Cruz
+Milton Cruz,São Paulo,2013,2013-07-07,2013-07-07,1,0,0,1,OG,0.0,1056,1,verificar,True,Ney Franco,Paulo Autuori
+Paulo Autuori,São Paulo,2013,2013-07-10,2013-09-08,13,2,4,7,TM+OG,0.923,1057,13,confirmado,False,Milton Cruz,Muricy Ramalho
+Muricy Ramalho,São Paulo,2013,2013-09-12,2013-12-08,19,10,2,7,TM+OG,1.0,1058,57,confirmado,False,Paulo Autuori,Milton Cruz
+Muricy Ramalho,São Paulo,2014,2014-04-20,2014-12-07,38,20,10,8,TM+OG+CBF,1.0,1058,57,confirmado,False,Paulo Autuori,Milton Cruz
+Milton Cruz,São Paulo,2015,2015-05-10,2015-05-23,3,2,0,1,TM+OG+CBF,1.0,1059,3,confirmado,False,Muricy Ramalho,Juan Carlos Osorio
+Juan Carlos Osorio,São Paulo,2015,2015-05-31,2015-10-03,26,11,7,8,TM+OG+CBF,1.0,1060,26,confirmado,False,Milton Cruz,Doriva
+Doriva,São Paulo,2015,2015-10-14,2015-11-08,5,2,1,2,TM+OG+CBF,1.0,1061,5,confirmado,False,Juan Carlos Osorio,Milton Cruz
+Milton Cruz,São Paulo,2015,2015-11-19,2015-12-06,4,3,0,1,TM+OG+CBF,1.0,1062,4,confirmado,False,Doriva,Edgardo Bauza
+Edgardo Bauza,São Paulo,2016,2016-05-15,2016-08-03,18,6,5,7,TM+OG+CBF,0.944,1063,18,confirmado,False,Milton Cruz,André Jardine
+André Jardine,São Paulo,2016,2016-08-07,2016-08-14,2,1,0,1,TM+OG+CBF,1.0,1064,2,confirmado,True,Edgardo Bauza,Ricardo Gomes
+Ricardo Gomes,São Paulo,2016,2016-08-21,2016-11-20,16,5,5,6,TM+OG+CBF,1.0,1065,16,confirmado,False,André Jardine,Pintado
+Pintado,São Paulo,2016,2016-11-27,2016-12-11,2,2,0,0,TM+OG+CBF,1.0,1066,2,confirmado,False,Ricardo Gomes,Rogério Ceni
+Rogério Ceni,São Paulo,2017,2017-05-14,2017-07-02,11,3,2,6,TM+OG+CBF,1.0,1067,11,confirmado,False,Pintado,Pintado
+Pintado,São Paulo,2017,2017-07-09,2017-07-09,1,0,0,1,TM+OG+CBF,1.0,1068,1,confirmado,True,Rogério Ceni,Dorival Júnior
+Dorival Júnior,São Paulo,2017,2017-07-13,2017-12-03,26,10,9,7,TM+OG+CBF,1.0,1069,26,confirmado,False,Pintado,Diego Aguirre
+Diego Aguirre,São Paulo,2018,2018-04-16,2018-11-10,33,15,13,5,TM+OG+CBF,1.0,1070,33,confirmado,False,Dorival Júnior,André Jardine
+André Jardine,São Paulo,2018,2018-11-15,2018-12-02,5,1,2,2,TM+OG+CBF,1.0,1071,5,confirmado,False,Diego Aguirre,Cuca
+Cuca,São Paulo,2019,2019-04-27,2019-09-25,21,9,8,4,TM+OG+CBF,1.0,1072,21,confirmado,False,André Jardine,Fernando Diniz
+Fernando Diniz,São Paulo,2019,2019-09-28,2019-12-08,17,8,4,5,TM+OG+CBF,0.941,1073,50,confirmado,False,Cuca,Vizolli
+Fernando Diniz,São Paulo,2020,2020-08-13,2021-01-31,33,16,10,7,TM+OG+CBF,1.0,1073,50,confirmado,False,Cuca,Vizolli
+Vizolli,São Paulo,2020,2021-02-10,2021-02-25,5,2,2,1,TM+OG+CBF,1.0,1074,5,confirmado,False,Fernando Diniz,Hernán Crespo
+Hernán Crespo,São Paulo,2021,2021-05-29,2021-10-11,25,6,12,7,TM+OG+CBF,1.0,1075,25,confirmado,False,Vizolli,Rogério Ceni
+Rogério Ceni,São Paulo,2021,2021-10-14,2021-12-09,13,5,3,5,TM+OG+CBF,1.0,1076,52,confirmado,False,Hernán Crespo,Dorival Júnior
+Rogério Ceni,São Paulo,2022,2022-04-10,2022-11-13,38,13,15,10,TM+OG+CBF,0.974,1076,52,confirmado,False,Hernán Crespo,Dorival Júnior
+Rogério Ceni,São Paulo,2023,2023-04-15,2023-04-15,1,0,0,1,TM+OG+CBF,1.0,1076,52,confirmado,False,Hernán Crespo,Dorival Júnior
+Dorival Júnior,São Paulo,2023,2023-04-22,2023-12-06,37,14,11,12,TM+OG+CBF,1.0,1077,37,confirmado,False,Rogério Ceni,Thiago Carpini
+Thiago Carpini,São Paulo,2024,2024-04-13,2024-04-17,2,0,0,2,TM+OG+CBF,1.0,1078,2,confirmado,False,Dorival Júnior,Milton Cruz
+Milton Cruz,São Paulo,2024,2024-04-21,2024-04-21,1,1,0,0,TM+OG+CBF,1.0,1079,1,confirmado,True,Thiago Carpini,Luis Zubeldía
+Luis Zubeldía,São Paulo,2024,2024-04-29,2024-12-08,35,16,8,11,TM+OG+CBF,0.971,1080,47,confirmado,False,Milton Cruz,Hernán Crespo
+Luis Zubeldía,São Paulo,2025,2025-03-29,2025-06-12,12,2,6,4,TM+OG,0.833,1080,47,confirmado,False,Milton Cruz,Hernán Crespo
+Hernán Crespo,São Paulo,2025,2025-07-12,2025-12-07,26,12,3,11,TM+OG,1.0,1081,26,confirmado,False,Luis Zubeldía,
+Antônio Lopes,Vasco,2003,2003-03-29,2003-07-12,18,5,6,7,TM+OG,1.0,1082,18,confirmado,False,,Mauro Galvão
+Mauro Galvão,Vasco,2003,2003-07-16,2003-12-14,28,8,9,11,TM+OG,1.0,1083,28,confirmado,False,Antônio Lopes,Geninho
+Geninho,Vasco,2004,2004-04-22,2004-09-26,32,9,9,14,TM+OG,1.0,1084,32,confirmado,False,Mauro Galvão,Joel Santana
+Joel Santana,Vasco,2004,2004-09-29,2004-12-19,14,5,3,6,TM+OG,1.0,1085,14,confirmado,False,Geninho,DESCONHECIDO
+DESCONHECIDO,Vasco,2005,2005-04-24,2005-04-24,1,1,0,0,,0.0,1086,1,verificar,False,Joel Santana,Dário Lourenço
+Dário Lourenço,Vasco,2005,2005-04-30,2005-07-17,10,1,3,6,TM+OG,0.8,1087,10,confirmado,False,DESCONHECIDO,Renato Gaúcho
+Renato Gaúcho,Vasco,2005,2005-07-20,2005-12-04,31,13,8,10,TM+OG,1.0,1088,69,confirmado,False,Dário Lourenço,Celso Roth
+Renato Gaúcho,Vasco,2006,2006-04-15,2006-12-03,38,15,14,9,TM+OG,0.895,1088,69,confirmado,False,Dário Lourenço,Celso Roth
+Celso Roth,Vasco,2007,2007-05-02,2007-10-21,32,12,7,13,TM+OG,0.969,1089,32,confirmado,False,Renato Gaúcho,Valdir Espinosa
+Valdir Espinosa,Vasco,2007,2007-10-28,2007-12-02,6,3,2,1,TM+OG,1.0,1090,6,confirmado,False,Celso Roth,Antônio Lopes
+Antônio Lopes,Vasco,2008,2008-05-11,2008-08-06,18,5,4,9,TM+OG,1.0,1091,18,confirmado,False,Valdir Espinosa,Tita
+Tita,Vasco,2008,2008-08-10,2008-09-14,7,2,1,4,TM+OG,1.0,1092,7,confirmado,False,Antônio Lopes,Renato Gaúcho
+Renato Gaúcho,Vasco,2008,2008-09-21,2008-12-07,13,4,2,7,TM+OG,1.0,1093,13,confirmado,False,Tita,Gaúcho
+Gaúcho,Vasco,2010,2010-05-09,2010-05-16,2,0,1,1,TM+OG,1.0,1094,2,confirmado,False,Renato Gaúcho,Celso Roth
+Celso Roth,Vasco,2010,2010-05-23,2010-06-06,5,1,1,3,TM+OG,1.0,1095,5,confirmado,False,Gaúcho,Paulo César Gusmão
+Paulo César Gusmão,Vasco,2010,2010-07-14,2010-12-05,31,10,14,7,TM+OG,1.0,1096,31,confirmado,False,Celso Roth,Ricardo Gomes
+Ricardo Gomes,Vasco,2011,2011-05-21,2011-08-28,19,10,5,4,TM+OG,1.0,1097,19,confirmado,False,Paulo César Gusmão,Cristóvão Borges
+Cristóvão Borges,Vasco,2011,2011-08-31,2011-12-04,19,9,7,3,TM+OG,1.0,1098,42,confirmado,False,Ricardo Gomes,Gaúcho
+Cristóvão Borges,Vasco,2012,2012-05-20,2012-09-09,23,11,6,6,TM+OG,1.0,1098,42,confirmado,False,Ricardo Gomes,Gaúcho
+Gaúcho,Vasco,2012,2012-09-12,2012-09-12,1,1,0,0,TM+OG,1.0,1099,1,confirmado,True,Cristóvão Borges,Marcelo Oliveira
+Marcelo Oliveira,Vasco,2012,2012-09-16,2012-11-04,10,2,2,6,TM+OG,1.0,1100,10,confirmado,False,Gaúcho,Gaúcho
+Gaúcho,Vasco,2012,2012-11-11,2012-12-02,4,2,2,0,TM+OG,1.0,1101,4,confirmado,False,Marcelo Oliveira,Paulo Autuori
+Paulo Autuori,Vasco,2013,2013-05-25,2013-07-07,6,2,1,3,TM+OG,1.0,1102,6,confirmado,False,Gaúcho,Dorival Júnior
+Dorival Júnior,Vasco,2013,2013-07-14,2013-10-27,25,6,8,11,TM+OG,1.0,1103,25,confirmado,False,Paulo Autuori,Adilson Batista
+Adilson Batista,Vasco,2013,2013-11-02,2013-12-08,7,3,2,2,TM+OG,0.857,1104,7,confirmado,False,Dorival Júnior,Doriva
+Doriva,Vasco,2015,2015-05-10,2015-06-20,8,0,3,5,TM+OG+CBF,1.0,1105,8,confirmado,False,Adilson Batista,Celso Roth
+Celso Roth,Vasco,2015,2015-06-28,2015-08-15,11,3,1,7,TM+OG+CBF,1.0,1106,11,confirmado,False,Doriva,Jorginho (Jorge de Amorim)
+Jorginho (Jorge de Amorim),Vasco,2015,2015-08-22,2015-12-06,19,7,7,5,TM+OG+CBF,1.0,1107,19,confirmado,False,Celso Roth,Milton Mendes
+Milton Mendes,Vasco,2017,2017-05-14,2017-08-20,21,7,4,10,TM+OG+CBF,0.905,1108,21,confirmado,False,Jorginho (Jorge de Amorim),Valdir Bigode
+Valdir Bigode,Vasco,2017,2017-08-26,2017-08-26,1,1,0,0,TM+OG+CBF,1.0,1109,1,confirmado,True,Milton Mendes,Zé Ricardo
+Zé Ricardo,Vasco,2017,2017-09-09,2017-12-03,16,7,7,2,TM+OG+CBF,1.0,1110,24,confirmado,False,Valdir Bigode,Valdir Bigode
+Zé Ricardo,Vasco,2018,2018-04-15,2018-06-02,8,3,2,3,TM+OG+CBF,1.0,1110,24,confirmado,False,Valdir Bigode,Valdir Bigode
+Valdir Bigode,Vasco,2018,2018-06-06,2018-06-06,1,0,1,0,TM+OG+CBF,1.0,1111,1,confirmado,True,Zé Ricardo,Jorginho (Jorge de Amorim)
+Jorginho (Jorge de Amorim),Vasco,2018,2018-06-09,2018-08-12,7,2,1,4,TM+OG+CBF,1.0,1112,7,confirmado,False,Valdir Bigode,Valdir Bigode
+Valdir Bigode,Vasco,2018,2018-08-20,2018-08-26,3,1,2,0,TM+OG+CBF,1.0,1113,3,confirmado,True,Jorginho (Jorge de Amorim),Alberto Valentim
+Alberto Valentim,Vasco,2018,2018-08-29,2018-12-02,19,4,7,8,TM+OG+CBF,1.0,1114,19,confirmado,False,Valdir Bigode,Marcos Valadares
+Marcos Valadares,Vasco,2019,2019-04-28,2019-05-12,4,0,1,3,TM+CBF,1.0,1115,4,confirmado,False,Alberto Valentim,Vanderlei Luxemburgo
+Vanderlei Luxemburgo,Vasco,2019,2019-05-19,2019-12-08,34,12,12,10,TM+OG+CBF,1.0,1116,34,confirmado,False,Marcos Valadares,Ramon Menezes
+Ramon Menezes,Vasco,2020,2020-08-13,2020-10-07,13,5,3,5,TM+OG+CBF,0.923,1117,13,confirmado,False,Vanderlei Luxemburgo,Alexandre Grasseli
+Alexandre Grasseli,Vasco,2020,2020-10-10,2020-10-18,2,0,0,2,TM+OG,1.0,1118,2,confirmado,True,Ramon Menezes,Ricardo Sá Pinto
+Ricardo Sá Pinto,Vasco,2020,2020-10-21,2020-12-27,11,2,4,5,TM+OG+CBF,1.0,1119,11,confirmado,False,Alexandre Grasseli,Vanderlei Luxemburgo
+Vanderlei Luxemburgo,Vasco,2020,2021-01-07,2021-02-25,12,3,4,5,TM+OG+CBF,1.0,1120,12,confirmado,False,Ricardo Sá Pinto,Maurício Barbieri
+Maurício Barbieri,Vasco,2023,2023-04-15,2023-06-22,11,1,3,7,TM+OG+CBF,0.909,1121,11,confirmado,False,Vanderlei Luxemburgo,William Batista
+William Batista,Vasco,2023,2023-06-26,2023-07-08,3,1,0,2,TM+OG+CBF,1.0,1122,3,confirmado,True,Maurício Barbieri,Ramón Díaz
+Ramón Díaz,Vasco,2023,2023-07-23,2023-12-06,24,10,6,8,TM+OG+CBF,1.0,1123,28,confirmado,False,William Batista,Rafael Paiva
+Ramón Díaz,Vasco,2024,2024-04-14,2024-04-27,4,1,0,3,TM+OG+CBF,1.0,1123,28,confirmado,False,William Batista,Rafael Paiva
+Rafael Paiva,Vasco,2024,2024-05-05,2024-05-12,2,1,0,1,TM+OG+CBF,1.0,1124,2,confirmado,True,Ramón Díaz,Álvaro Pacheco
+Álvaro Pacheco,Vasco,2024,2024-06-02,2024-06-19,4,0,1,3,TM+OG+CBF,1.0,1125,4,confirmado,False,Rafael Paiva,Rafael Paiva
+Rafael Paiva,Vasco,2024,2024-06-22,2024-11-24,25,10,6,9,TM+OG+CBF,1.0,1126,25,confirmado,False,Álvaro Pacheco,Felipe Loureiro
+Felipe Loureiro,Vasco,2024,2024-11-30,2024-12-08,3,2,1,0,TM+OG+CBF,1.0,1127,3,confirmado,False,Rafael Paiva,Fábio Carille
+Fábio Carille,Vasco,2025,2025-03-30,2025-04-27,6,2,1,3,TM+OG,1.0,1128,6,confirmado,False,Felipe Loureiro,Felipe Loureiro
+Felipe Loureiro,Vasco,2025,2025-05-04,2025-05-04,1,0,0,1,TM+OG,1.0,1129,1,confirmado,True,Fábio Carille,Fernando Diniz
+Fernando Diniz,Vasco,2025,2025-05-10,2025-12-07,31,11,5,15,TM+OG,0.903,1130,31,confirmado,False,Felipe Loureiro,
+Joel Santana,Vitória,2003,2003-03-30,2003-06-22,14,5,3,6,TM+OG,1.0,1131,14,confirmado,False,,Edinho
+Edinho,Vitória,2003,2003-06-29,2003-07-24,7,2,3,2,TM+OG,1.0,1132,7,confirmado,False,Joel Santana,Nelsinho Góes
+Nelsinho Góes,Vitória,2003,2003-07-27,2003-08-03,2,0,0,2,TM+OG,1.0,1133,2,confirmado,True,Edinho,Lori Sandri
+Lori Sandri,Vitória,2003,2003-08-06,2003-11-23,20,7,5,8,TM+OG,1.0,1134,20,confirmado,False,Nelsinho Góes,Nelsinho Góes
+Nelsinho Góes,Vitória,2003,2003-11-30,2003-12-13,3,1,0,2,TM+OG,1.0,1135,3,confirmado,False,Lori Sandri,Agnaldo Liz
+Agnaldo Liz,Vitória,2004,2004-04-21,2004-06-27,11,5,1,5,TM+OG,0.727,1136,11,provável,False,Nelsinho Góes,Oswaldo de Oliveira
+Oswaldo de Oliveira,Vitória,2004,2004-07-03,2004-08-18,14,3,4,7,TM+OG,1.0,1137,14,confirmado,False,Agnaldo Liz,Hélio dos Anjos
+Hélio dos Anjos,Vitória,2004,2004-08-22,2004-09-29,8,1,1,6,TM+OG,0.75,1138,8,provável,False,Oswaldo de Oliveira,Evaristo de Macedo
+Evaristo de Macedo,Vitória,2004,2004-10-02,2004-12-19,13,4,3,6,TM+OG,0.846,1139,13,confirmado,False,Hélio dos Anjos,Vagner Mancini
+Vagner Mancini,Vitória,2008,2008-05-10,2008-12-07,38,15,7,16,TM+OG,1.0,1140,38,confirmado,False,Evaristo de Macedo,Paulo César Carpegiani
+Paulo César Carpegiani,Vitória,2009,2009-05-10,2009-08-09,18,7,4,7,TM+OG,1.0,1141,18,confirmado,False,Vagner Mancini,Vagner Mancini
+Vagner Mancini,Vitória,2009,2009-08-16,2009-12-06,20,6,5,9,TM+OG,1.0,1142,20,confirmado,False,Paulo César Carpegiani,Ricardo Silva
+Ricardo Silva,Vitória,2010,2010-05-08,2010-08-08,13,3,5,5,TM+OG,1.0,1143,13,confirmado,False,Vagner Mancini,Toninho Cecílio
+Toninho Cecílio,Vitória,2010,2010-08-15,2010-09-08,7,2,3,2,TM+OG,1.0,1144,7,confirmado,False,Ricardo Silva,Ricardo Silva
+Ricardo Silva,Vitória,2010,2010-09-11,2010-10-06,8,2,2,4,OG,0.125,1145,8,verificar,False,Toninho Cecílio,Antônio Lopes
+Antônio Lopes,Vitória,2010,2010-10-10,2010-12-05,10,2,5,3,TM+OG,1.0,1146,10,confirmado,False,Ricardo Silva,Caio Júnior
+Caio Júnior,Vitória,2013,2013-05-25,2013-09-01,17,6,4,7,TM+OG,1.0,1147,17,confirmado,False,Antônio Lopes,Ney Franco
+Ney Franco,Vitória,2013,2013-09-04,2013-12-08,21,10,7,4,TM+OG,1.0,1148,25,confirmado,False,Caio Júnior,Carlos Amadeu
+Ney Franco,Vitória,2014,2014-04-19,2014-05-11,4,1,2,1,TM+OG+CBF,1.0,1148,25,confirmado,False,Caio Júnior,Carlos Amadeu
+Carlos Amadeu,Vitória,2014,2014-05-18,2014-05-22,2,0,0,2,TM+OG+CBF,1.0,1149,2,confirmado,True,Ney Franco,Jorginho Cantinflas
+Jorginho Cantinflas,Vitória,2014,2014-05-25,2014-08-20,10,2,4,4,TM+OG+CBF,1.0,1150,10,confirmado,False,Carlos Amadeu,Ney Franco
+Ney Franco,Vitória,2014,2014-08-24,2014-12-07,22,7,2,13,TM+OG+CBF,1.0,1151,22,confirmado,False,Jorginho Cantinflas,Vagner Mancini
+Vagner Mancini,Vitória,2016,2016-05-15,2016-09-10,24,6,8,10,TM+OG+CBF,1.0,1152,24,confirmado,False,Ney Franco,Argel Fuchs
+Argel Fuchs,Vitória,2016,2016-09-15,2016-12-11,14,6,1,7,TM+OG+CBF,1.0,1153,14,confirmado,False,Vagner Mancini,Dejan Petkovic
+Dejan Petkovic,Vitória,2017,2017-05-14,2017-06-03,4,0,1,3,TM+OG+CBF,1.0,1154,4,confirmado,False,Argel Fuchs,Alexandre Gallo
+Alexandre Gallo,Vitória,2017,2017-06-08,2017-07-19,11,3,2,6,TM+OG+CBF,1.0,1155,11,confirmado,False,Dejan Petkovic,Flávio Tanajura
+Flávio Tanajura,Vitória,2017,2017-07-22,2017-07-22,1,0,0,1,OG+CBF,1.0,1156,1,confirmado,True,Alexandre Gallo,Vagner Mancini
+Vagner Mancini,Vitória,2017,2017-07-30,2017-12-03,22,8,7,7,TM+OG+CBF,1.0,1157,38,confirmado,False,Flávio Tanajura,João Burse
+Vagner Mancini,Vitória,2018,2018-04-14,2018-07-29,16,5,3,8,TM+OG+CBF,1.0,1157,38,confirmado,False,Flávio Tanajura,João Burse
+João Burse,Vitória,2018,2018-08-05,2018-08-12,2,0,1,1,TM+OG+CBF,1.0,1158,2,confirmado,True,Vagner Mancini,Paulo César Carpegiani
+Paulo César Carpegiani,Vitória,2018,2018-08-19,2018-11-04,14,4,3,7,TM+OG+CBF,1.0,1159,14,confirmado,False,João Burse,João Burse
+João Burse,Vitória,2018,2018-11-11,2018-12-02,6,0,3,3,TM+OG+CBF,1.0,1160,6,confirmado,False,Paulo César Carpegiani,Léo Condé
+Léo Condé,Vitória,2024,2024-04-14,2024-05-12,5,0,1,4,TM+OG+CBF,1.0,1161,5,confirmado,False,João Burse,Thiago Carpini
+Thiago Carpini,Vitória,2024,2024-06-01,2024-12-08,33,13,7,13,TM+OG+CBF,0.97,1162,45,confirmado,False,Léo Condé,Fábio Carille
+Thiago Carpini,Vitória,2025,2025-03-29,2025-06-12,12,2,5,5,TM+OG,0.917,1162,45,confirmado,False,Léo Condé,Fábio Carille
+Fábio Carille,Vitória,2025,2025-07-12,2025-08-25,9,1,5,3,TM+OG,1.0,1163,9,confirmado,False,Thiago Carpini,Rodrigo Chagas
+Rodrigo Chagas,Vitória,2025,2025-08-31,2025-09-20,3,1,0,2,TM+OG,1.0,1164,3,confirmado,True,Fábio Carille,Jair Ventura
+Jair Ventura,Vitória,2025,2025-09-28,2025-12-07,14,7,2,5,TM+OG,1.0,1165,14,confirmado,False,Rodrigo Chagas,

@@ -16,6 +16,7 @@ Projeto pessoal, em construção.
 |---|------|--------|
 | [01](analyses/01-fator-mandante-e-fator-casa/) | Fator mandante × fator casa — quanto jogar em casa valeu na Série A, separando o efeito do **mando de campo** do efeito da **praça específica** | ✅ concluída |
 | [02](analyses/02-linha-de-corte-do-rebaixamento/) | Linha de corte do rebaixamento — quantos pontos bastam para escapar, e se dá para transformar o ritmo em pontos de um clube numa probabilidade de queda | ✅ concluída |
+| [03](analyses/03-treinadores-da-serie-a/) | Treinadores da Série A (2003–2025) — base treinador × partida montada e validada com quatro fontes, e rankings de aproveitamento, vitórias, derrotas, ataque, defesa, por clube, por temporada, casa × fora e um "campeonato de treinadores" | ✅ concluída |
 
 **Fator mandante** é o efeito de ter o mando do jogo (mandante × visitante).
 **Fator casa** é o efeito de mandar naquele estádio específico — separação que
@@ -38,6 +39,15 @@ na rodada 35) e acerta **18 dos 20 clubes** de 2024 ao classificá-los acima ou
 abaixo de 50% de risco — inclusive o Corinthians, que estava em **exatos 49,2%**
 na rodada 30 antes de arrancar 24 pontos nas 8 rodadas finais.
 
+Resumo da 03: a base pública de partidas não tem técnico antes de 2014, então a
+análise reconstrói, jogo a jogo, quem estava no banco em 9.165 partidas de
+2003–2025 cruzando Transfermarkt, O Gol, CBF e Wikipédia — **94,9%** dos
+jogos-lado ficam confirmados por duas ou mais fontes, e **498 de 510** trocas de
+técnico registradas na Wikipédia são reproduzidas sem usá-la. Com 100+ jogos,
+**Abel Ferreira** (62,8%) e **Muricy Ramalho** (57,2%) lideram o aproveitamento;
+Cuca tem mais vitórias (266 em 612 jogos). Num "campeonato de treinadores" por
+aproveitamento, Muricy é o maior campeão (2006–2008).
+
 ## Escopo e recorte
 
 - **Competição:** Campeonato Brasileiro, Série A.
@@ -55,7 +65,7 @@ na rodada 30 antes de arrancar 24 pontos nas 8 rodadas finais.
 data/
 ├── raw/            # CSVs brutos baixados (não versionado)
 ├── processed/      # partidas.parquet, time_jogo.parquet — base tratada
-└── external/       # tabelas de canonicalização e registro de fontes
+└── external/       # tabelas de canonicalização, registro de fontes e base de treinadores
 src/futebrasil/
 ├── dados.py        # download e proveniência
 ├── lookups.py      # nomes canônicos de clubes e estádios
@@ -65,14 +75,20 @@ src/futebrasil/
 ├── tendencia.py    # o fator está subindo ou caindo? (inclinação por clube)
 ├── validacao.py    # reconstrói a classificação e confere com a referência
 ├── permanencia.py  # linha de segurança do rebaixamento e modelo de ritmo em pontos
+├── treinadores.py  # base treinador × partida: agregação, rankings, séries, campeonato
 └── pipeline.py     # baixar / preparar / validar
 analyses/
 ├── 01-fator-mandante-e-fator-casa/
 │   ├── run.py
 │   ├── outputs/{tables,figures}/
 │   └── README.md
-└── 02-linha-de-corte-do-rebaixamento/
+├── 02-linha-de-corte-do-rebaixamento/
+│   ├── run.py
+│   ├── outputs/{tables,figures}/
+│   └── README.md
+└── 03-treinadores-da-serie-a/
     ├── run.py
+    ├── coleta/      # scripts que montaram a base de treinadores (raspagem + validação)
     ├── outputs/{tables,figures}/
     └── README.md
 ```
@@ -87,6 +103,7 @@ pip install -e .
 python -m futebrasil.pipeline tudo          # baixa, trata e valida os dados
 python analyses/01-fator-mandante-e-fator-casa/run.py
 python analyses/02-linha-de-corte-do-rebaixamento/run.py
+python analyses/03-treinadores-da-serie-a/run.py     # usa data/external/treinadores/ (já versionado)
 ```
 
 `pipeline tudo` grava `data/processed/*.parquet` e um relatório de validação com a
@@ -97,6 +114,11 @@ classificação reconstruída de cada edição (as 22 batem com o campeão ofici
 Base de partidas: [adaoduque/Brasileirao_Dataset](https://github.com/adaoduque/Brasileirao_Dataset),
 compilada a partir das súmulas da CBF e do globoesporte. Detalhes, licenças e
 limitações em [data/README.md](data/README.md).
+
+Treinadores (análise 03): base própria montada a partir de
+[Transfermarkt](https://www.transfermarkt.com.br/), [O Gol](https://www.ogol.com.br/),
+CBF (via a base acima) e Wikipédia — método e validação em
+[analyses/03-treinadores-da-serie-a/](analyses/03-treinadores-da-serie-a/).
 
 ## Próximos passos
 

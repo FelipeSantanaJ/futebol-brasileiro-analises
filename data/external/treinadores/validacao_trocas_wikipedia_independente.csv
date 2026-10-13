@@ -1,0 +1,511 @@
+﻿temporada,clube_wiki,saiu,entrou,data_wiki,fonte,clube,seq_base,status_validacao,primeiro_jogo_entrante,ultimo_jogo_saiu
+2003,Fortaleza,Luis Carlos Cruz,Ferdinando Teixeira,3 April 2003,en.wikipedia,Fortaleza,Luiz Carlos Cruz > Ferdinando Teixeira > Luiz Carlos Cruz > Márcio Araújo,ok_ordem,2003-04-05,2003-08-17
+2003,Bahia,Bobô,Evaristo de Macedo,26 April 2003,en.wikipedia,Bahia,Bobô > Evaristo de Macedo > Marcelo Chamusca > Lula Pereira > Edinho,ok_ordem,2003-05-03,2003-04-26
+2003,São Paulo,Oswaldo de Oliveira,Roberto Rojas,3 May 2003,en.wikipedia,São Paulo,Oswaldo de Oliveira > Roberto Rojas,ok_ordem,2003-05-11,2003-05-04
+2003,Figueirense,Vágner Benazzi,Artur Neto,17 May 2003,en.wikipedia,Figueirense,Heron Ferreira > Vágner Benazzi > Arthur Neto > Luiz Carlos Ferreira > Dorival Júnior,ok_ordem,2003-06-22,2003-06-15
+2003,Goiás,Candinho,Cuca,25 May 2003,en.wikipedia,Goiás,Candinho > Cuca,ok_ordem,2003-06-01,2003-05-25
+2003,Paraná,Cuca,Adilson Batista,25 May 2003,en.wikipedia,Paraná,Cuca > Adilson Batista > Caio Júnior > Antonio Carlos Vieira > Edu Marangon > Antonio Carlos Vieira > Saulo Freitas,ok_ordem,2003-06-01,2003-05-24
+2003,Grêmio,Tite,Darío Pereyra,3 June 2003,en.wikipedia,Grêmio,Tite > Cléber Xavier > Darío Pereyra > Nestor Simionato > Adilson Batista,ok_ordem,2003-06-15,2003-06-01
+2003,Fortaleza,Ferdinando Teixeira,Luis Carlos Cruz,15 June 2003,en.wikipedia,Fortaleza,Luiz Carlos Cruz > Ferdinando Teixeira > Luiz Carlos Cruz > Márcio Araújo,ok_ordem,2003-03-30,2003-06-15
+2003,Vitória,Joel Santana,Edinho,24 June 2003,en.wikipedia,Vitória,Joel Santana > Edinho > Nelsinho Góes > Lori Sandri > Nelsinho Góes,ok_ordem,2003-06-29,2003-06-22
+2003,Fluminense,Renato Gaúcho,Joel Santana,11 July 2003,en.wikipedia,Fluminense,Renato Gaúcho > Gilson Gênio > Valdir Espinosa > Joel Santana > Renato Gaúcho,ok_ordem,2003-07-19,2003-12-14
+2003,Vasco,Antônio Lopes,Mauro Galvão,13 July 2003,en.wikipedia,Vasco,Antônio Lopes > Mauro Galvão,ok_ordem,2003-07-16,2003-07-12
+2003,Paraná,Adilson Batista,Edu Marangon,16 July 2003,en.wikipedia,Paraná,Cuca > Adilson Batista > Caio Júnior > Antonio Carlos Vieira > Edu Marangon > Antonio Carlos Vieira > Saulo Freitas,ok_ordem,2003-08-17,2003-07-13
+2003,Flamengo,Nelsinho Baptista,Oswaldo de Oliveira,17 July 2003,en.wikipedia,Flamengo,Nelsinho Baptista > Marcos Paquetá > Oswaldo de Oliveira > Waldemar Lemos > Marcos Paquetá,ok_ordem,2003-07-24,2003-07-16
+2003,Atlético Mineiro,Celso Roth,Marcelo Oliveira,21 July 2003,en.wikipedia,Atlético-MG,Celso Roth > Marcelo Oliveira > Procópio Cardoso,ok_ordem,2003-07-23,2003-07-19
+2003,Grêmio,Darío Pereyra,Nestor Simionato,21 July 2003,en.wikipedia,Grêmio,Tite > Cléber Xavier > Darío Pereyra > Nestor Simionato > Adilson Batista,ok_ordem,2003-07-24,2003-07-20
+2003,Vitória,Edinho,Lori Sandri,27 July 2003,en.wikipedia,Vitória,Joel Santana > Edinho > Nelsinho Góes > Lori Sandri > Nelsinho Góes,ok_ordem,2003-08-06,2003-07-24
+2003,Atlético Paranaense,Vadão,Mário Sérgio,4 August 2003,en.wikipedia,Athletico-PR,Vadão > Mário Sérgio,ok_ordem,2003-08-06,2003-08-03
+2003,Bahia,Evaristo de Macedo,Lula Pereira,7 August 2003,en.wikipedia,Bahia,Bobô > Evaristo de Macedo > Marcelo Chamusca > Lula Pereira > Edinho,ok_ordem,2003-08-20,2003-08-07
+2003,Figueirense,Artur Neto,Luiz Carlos Ferreira,12 August 2003,en.wikipedia,Figueirense,Heron Ferreira > Vágner Benazzi > Arthur Neto > Luiz Carlos Ferreira > Dorival Júnior,ok_ordem,2003-08-16,2003-08-10
+2003,Fortaleza,Luis Carlos Cruz,Márcio Araújo,17 August 2003,en.wikipedia,Fortaleza,Luiz Carlos Cruz > Ferdinando Teixeira > Luiz Carlos Cruz > Márcio Araújo,ok_ordem,2003-08-20,2003-08-17
+2003,Grêmio,Nestor Simionato,Adilson Batista,22 August 2003,en.wikipedia,Grêmio,Tite > Cléber Xavier > Darío Pereyra > Nestor Simionato > Adilson Batista,ok_ordem,2003-08-23,2003-08-20
+2003,Paraná,Edu Marangon,Saulo,22 September 2003,en.wikipedia,Paraná,Cuca > Adilson Batista > Caio Júnior > Antonio Carlos Vieira > Edu Marangon > Antonio Carlos Vieira > Saulo Freitas,ok_ordem,2003-11-01,2003-09-20
+2003,Figueirense,Luiz Carlos Ferreira,Dorival Júnior,23 September 2003,en.wikipedia,Figueirense,Heron Ferreira > Vágner Benazzi > Arthur Neto > Luiz Carlos Ferreira > Dorival Júnior,ok_ordem,2003-09-25,2003-03-30
+2003,Corinthians,Geninho,Júnior,29 September 2003,en.wikipedia,Corinthians,Geninho > Jairo Leal > Júnior > Juninho Fonseca,ok_ordem,2003-10-08,2003-09-28
+2003,Fluminense,Joel Santana,Renato Gaúcho,2 October 2003,en.wikipedia,Fluminense,Renato Gaúcho > Gilson Gênio > Valdir Espinosa > Joel Santana > Renato Gaúcho,ok_ordem,2003-03-30,2003-09-28
+2003,Flamengo,Oswaldo de Oliveira,Waldemar Lemos,12 October 2003,en.wikipedia,Flamengo,Nelsinho Baptista > Marcos Paquetá > Oswaldo de Oliveira > Waldemar Lemos > Marcos Paquetá,ok_ordem,2003-10-18,2003-10-12
+2003,Corinthians,Júnior,Juninho Fonseca,13 October 2003,en.wikipedia,Corinthians,Geninho > Jairo Leal > Júnior > Juninho Fonseca,ok_ordem,2003-10-19,2003-10-12
+2003,Bahia,Lula Pereira,Edinho,25 October 2003,en.wikipedia,Bahia,Bobô > Evaristo de Macedo > Marcelo Chamusca > Lula Pereira > Edinho,ok_ordem,2003-11-01,2003-10-25
+2003,Atlético Mineiro,Marcelo Oliveira,Procópio Cardoso,7 November 2003,en.wikipedia,Atlético-MG,Celso Roth > Marcelo Oliveira > Procópio Cardoso,ok_ordem,2003-11-09,2003-11-06
+2003,Vitória,Lori Sandri,Nelsinho Goés,24 November 2003,en.wikipedia,Vitória,Joel Santana > Edinho > Nelsinho Góes > Lori Sandri > Nelsinho Góes,ok_ordem,2003-07-27,2003-11-23
+2004,Botafogo,Levir Culpi,Luiz Matter (interim),26 April 2004,en.wikipedia,Botafogo,Levir Culpi > Luiz Roberto Matter > Mauro Galvão > Paulo Bonamigo,ok_ordem,2004-04-28,2004-04-25
+2004,Santos,Émerson Leão,Vanderlei Luxemburgo,6 May 2004,en.wikipedia,Santos,Emerson Leão > Márcio Fernandes > Vanderlei Luxemburgo,ok_ordem,2004-05-15,2004-05-02
+2004,Botafogo,Luiz Matter (interim),Mauro Galvão,16 May 2004,en.wikipedia,Botafogo,Levir Culpi > Luiz Roberto Matter > Mauro Galvão > Paulo Bonamigo,ok_ordem,2004-05-22,2004-05-16
+2004,Cruzeiro,PC Gusmão (interim),Émerson Leão,16 May 2004,en.wikipedia,Cruzeiro,Luis Antonio Zaluar > Paulo César Gusmão > Emerson Leão > Ney Franco > Marco Aurélio > Ney Franco,ok_ordem,2004-05-23,2004-05-16
+2004,Palmeiras,Jair Picerni,Estevam Soares,21 May 2004,en.wikipedia,Palmeiras,Jair Picerni > Wilson Coimbra > Estevam Soares,ok_ordem,2004-05-29,2004-05-16
+2004,Ponte Preta,Estevam Soares,Marco Aurélio,23 May 2004,en.wikipedia,Ponte Preta,Estevam Soares > DESCONHECIDO > Marco Aurélio > Nenê Santana,ok_ordem,2004-06-13,2004-05-23
+2004,Corinthians,Oswaldo de Oliveira,Tite,24 May 2004,en.wikipedia,Corinthians,Oswaldo de Oliveira > Tite,ok_ordem,2004-05-30,2004-05-23
+2004,Grêmio,Adílson Batista,José Luiz Plein,4 June 2004,en.wikipedia,Grêmio,Adilson Batista > José Luiz Plein > Cuca > Cláudio Duarte,ok_ordem,2004-06-12,2004-05-30
+2004,Paraná,Paulo Campos,Gilson Kleina,26 June 2004,en.wikipedia,Paraná,Paulo Campos > Gilson Kleina > Paulo Campos,ok_ordem,2004-07-04,2004-12-19
+2004,Internacional,Lori Sandri,Joel Santana,28 June 2004,en.wikipedia,Internacional,Lori Sandri > Leandro Machado > Joel Santana > Muricy Ramalho,ok_ordem,2004-07-07,2004-06-27
+2004,Vitória,Agnaldo Liz,Oswaldo de Oliveira,30 June 2004,en.wikipedia,Vitória,Agnaldo Liz > Oswaldo de Oliveira > Hélio dos Anjos > Evaristo de Macedo,ok_ordem,2004-07-03,2004-06-27
+2004,Flamengo,Abel Braga,Andrade (interim),18 July 2004,en.wikipedia,Flamengo,Abel Braga > Andrade > Paulo César Gusmão > Andrade > Ricardo Gomes > Andrade,ok_ordem,2004-07-20,2004-07-17
+2004,Atlético Mineiro,Paulo Bonamigo,Jair Picerni,19 July 2004,en.wikipedia,Atlético-MG,Paulo Bonamigo > Jair Picerni > Mário Sérgio > Procópio Cardoso,ok_ordem,2004-07-20,2004-07-17
+2004,Flamengo,Andrade (interim),PC Gusmão,28 July 2004,en.wikipedia,Flamengo,Abel Braga > Andrade > Paulo César Gusmão > Andrade > Ricardo Gomes > Andrade,ok_ordem,2004-08-01,2004-12-19
+2004,Cruzeiro,Émerson Leão,Ney Franco (interim),29 July 2004,en.wikipedia,Cruzeiro,Luis Antonio Zaluar > Paulo César Gusmão > Emerson Leão > Ney Franco > Marco Aurélio > Ney Franco,ok_ordem,2004-07-31,2004-07-28
+2004,Ponte Preta,Marco Aurélio,Nenê Santana,1 August 2004,en.wikipedia,Ponte Preta,Estevam Soares > DESCONHECIDO > Marco Aurélio > Nenê Santana,ok_ordem,2004-08-04,2004-08-01
+2004,Cruzeiro,Ney Franco (interim),Marco Aurélio,5 August 2004,en.wikipedia,Cruzeiro,Luis Antonio Zaluar > Paulo César Gusmão > Emerson Leão > Ney Franco > Marco Aurélio > Ney Franco,ok_ordem,2004-08-08,2004-12-19
+2004,Fluminense,Ricardo Gomes,Alexandre Gama,15 August 2004,en.wikipedia,Fluminense,Ricardo Gomes > Valdir Espinosa > Alexandre Gama,ok_ordem,2004-08-22,2004-08-15
+2004,Botafogo,Mauro Galvão,Paulo Bonamigo,16 August 2004,en.wikipedia,Botafogo,Levir Culpi > Luiz Roberto Matter > Mauro Galvão > Paulo Bonamigo,ok_ordem,2004-08-18,2004-08-15
+2004,Flamengo,PC Gusmão,Ricardo Gomes,16 August 2004,en.wikipedia,Flamengo,Abel Braga > Andrade > Paulo César Gusmão > Andrade > Ricardo Gomes > Andrade,ok_ordem,2004-08-29,2004-08-14
+2004,Vitória,Oswaldo de Oliveira,Hélio dos Anjos,19 August 2004,en.wikipedia,Vitória,Agnaldo Liz > Oswaldo de Oliveira > Hélio dos Anjos > Evaristo de Macedo,ok_ordem,2004-08-22,2004-08-18
+2004,Paraná,Gilson Kleina,Paulo Campos,28 August 2004,en.wikipedia,Paraná,Paulo Campos > Gilson Kleina > Paulo Campos,ok_ordem,2004-04-21,2004-08-28
+2004,Internacional,Joel Santana,Muricy Ramalho,2 September 2004,en.wikipedia,Internacional,Lori Sandri > Leandro Machado > Joel Santana > Muricy Ramalho,ok_ordem,2004-09-08,2004-09-01
+2004,São Paulo,Cuca,Émerson Leão,2 September 2004,en.wikipedia,São Paulo,Cuca > Emerson Leão,ok_ordem,2004-09-08,2004-09-01
+2004,Grêmio,José Luiz Plein,Cuca,10 September 2004,en.wikipedia,Grêmio,Adilson Batista > José Luiz Plein > Cuca > Cláudio Duarte,ok_ordem,2004-09-12,2004-09-09
+2004,Vasco,Geninho,Joel Santana,27 September 2004,en.wikipedia,Vasco,Geninho > Joel Santana,ok_ordem,2004-09-29,2004-09-26
+2004,Vitória,Hélio dos Anjos,Evaristo de Macedo,30 September 2004,en.wikipedia,Vitória,Agnaldo Liz > Oswaldo de Oliveira > Hélio dos Anjos > Evaristo de Macedo,ok_ordem,2004-09-29,2004-09-26
+2004,Atlético Mineiro,Jair Picerni,Mário Sérgio,3 October 2004,en.wikipedia,Atlético-MG,Paulo Bonamigo > Jair Picerni > Mário Sérgio > Procópio Cardoso,ok_ordem,2004-10-07,2004-10-02
+2004,Grêmio,Cuca,Claúdio Duarte,27 October 2004,en.wikipedia,Grêmio,Adilson Batista > José Luiz Plein > Cuca > Cláudio Duarte,ok_ordem,2004-10-30,2004-10-26
+2004,Flamengo,Ricardo Gomes,Andrade (interim),1 November 2004,en.wikipedia,Flamengo,Abel Braga > Andrade > Paulo César Gusmão > Andrade > Ricardo Gomes > Andrade,ok_ordem,2004-07-20,2004-10-30
+2004,Cruzeiro,Marco Aurélio,Ney Franco (interim),17 November 2004,en.wikipedia,Cruzeiro,Luis Antonio Zaluar > Paulo César Gusmão > Emerson Leão > Ney Franco > Marco Aurélio > Ney Franco,ok_ordem,2004-07-31,2004-11-13
+2004,Atlético Mineiro,Mário Sérgio,Procópio Cardoso,28 November 2004,en.wikipedia,Atlético-MG,Paulo Bonamigo > Jair Picerni > Mário Sérgio > Procópio Cardoso,ok_ordem,2004-12-04,2004-11-27
+2008,Atlético Mineiro,Alexandre Gallo 1 Agosto,Marcelo Oliveira 3 Agosto,,pt.wikipedia,Atlético-MG,Marcelo Oliveira > Alexandre Gallo > Marcelo Oliveira,ok_ordem,2008-05-11,2008-07-31
+2008,Atlético Mineiro,Geninho 15 Maio,Alexandre Gallo 25 Maio,,pt.wikipedia,Atlético-MG,Marcelo Oliveira > Alexandre Gallo > Marcelo Oliveira,saiu_nao_encontrado,2008-05-25,
+2008,Atlético Paranaense,Ney Franco 20 Maio,Roberto Fernandes 25 Maio,,pt.wikipedia,Athletico-PR,Ney Franco > Roberto Fernandes > Tico dos Santos > Mário Sérgio > Geninho,ok_ordem,2008-05-25,2008-05-18
+2008,Atlético Paranaense,Roberto Fernandes 3 Agosto,Tico dos Santos 1 7 Agosto,,pt.wikipedia,Athletico-PR,Ney Franco > Roberto Fernandes > Tico dos Santos > Mário Sérgio > Geninho,ok_ordem,2008-08-06,2008-08-03
+2008,Atlético Paranaense,Tico dos Santos 9 Agosto,Mário Sérgio 16 Agosto,,pt.wikipedia,Athletico-PR,Ney Franco > Roberto Fernandes > Tico dos Santos > Mário Sérgio > Geninho,ok_ordem,2008-08-20,2008-08-16
+2008,Atlético Paranaense,Mário Sérgio 3 Setembro,Geninho 13 Setembro,,pt.wikipedia,Athletico-PR,Ney Franco > Roberto Fernandes > Tico dos Santos > Mário Sérgio > Geninho,ok_ordem,2008-09-13,2008-09-03
+2008,Botafogo,Cuca 29 Maio,Geninho 1 Junho,,pt.wikipedia,Botafogo,Cuca > Geninho > Ney Franco,ok_ordem,2008-06-01,2008-05-25
+2008,Botafogo,Geninho 10 Julho,Ney Franco 13 Julho,,pt.wikipedia,Botafogo,Cuca > Geninho > Ney Franco,ok_ordem,2008-07-13,2008-07-09
+2008,Figueirense,Alexandre Gallo 18 Maio,Guilherme Macuglia 24 Maio,,pt.wikipedia,Figueirense,Alexandre Gallo > Guilherme Macuglia > Paulo César Gusmão > Mário Sérgio,ok_ordem,2008-05-24,2008-05-18
+2008,Figueirense,Guilherme Macuglia 24 Junho,Paulo César Gusmão 29 Junho,,pt.wikipedia,Figueirense,Alexandre Gallo > Guilherme Macuglia > Paulo César Gusmão > Mário Sérgio,ok_ordem,2008-06-29,2008-06-21
+2008,Figueirense,Paulo César Gusmão 15 Setembro,Mário Sérgio 21 Setembro,,pt.wikipedia,Figueirense,Alexandre Gallo > Guilherme Macuglia > Paulo César Gusmão > Mário Sérgio,ok_ordem,2008-10-08,2008-10-04
+2008,Figueirense,Mário Sérgio 16 Novembro,Pintado 20 Novembro,,pt.wikipedia,Figueirense,Alexandre Gallo > Guilherme Macuglia > Paulo César Gusmão > Mário Sérgio,entrante_nao_encontrado,,2008-12-07
+2008,Fluminense,Cuca 2 Outubro,René Simões 11 Outubro,,pt.wikipedia,Fluminense,Renato Gaúcho > Cuca > René Simões,ok_ordem,2008-10-11,2008-10-01
+2008,Fluminense,Renato Gaúcho 11 Agosto,Cuca 17 Agosto,,pt.wikipedia,Fluminense,Renato Gaúcho > Cuca > René Simões,ok_ordem,2008-08-17,2008-08-10
+2008,Goiás,Vadão 14 Junho,Hélio dos Anjos 22 Junho,,pt.wikipedia,Goiás,Vadão > Hélio dos Anjos,ok_ordem,2008-10-11,2008-10-01
+2008,Internacional,Abel Braga 31 Maio,Tite 8 Junho,,pt.wikipedia,Internacional,Abel Braga > Guto Ferreira > Tite,ok_ordem,2008-06-14,2008-05-31
+2008,Ipatinga,Giba 13 Junho,Ricardo Drubscky 22 Junho,,pt.wikipedia,Ipatinga,Giba > Ricardo Drubscky > Márcio Bittencourt > Enderson Moreira,ok_ordem,2008-07-13,2008-07-10
+2008,Ipatinga,Ricardo Drubscky 21 Agosto,Márcio Bittencourt 24 Agosto,,pt.wikipedia,Ipatinga,Giba > Ricardo Drubscky > Márcio Bittencourt > Enderson Moreira,ok_ordem,2008-08-24,2008-08-20
+2008,Náutico,Roberto Fernandes 20 Maio,Leandro Machado 24 Maio,,pt.wikipedia,Náutico,Roberto Fernandes > Marcelo Sangaletti > Leandro Machado > Roberto Fernandes,ok_ordem,2008-06-01,2008-12-07
+2008,Náutico,Leandro Machado 13 Julho,Pintado 17 Julho,,pt.wikipedia,Náutico,Roberto Fernandes > Marcelo Sangaletti > Leandro Machado > Roberto Fernandes,entrante_nao_encontrado,,2008-08-06
+2008,Náutico,Pintado 7 Agosto,Roberto Fernandes 10 Agosto,,pt.wikipedia,Náutico,Roberto Fernandes > Marcelo Sangaletti > Leandro Machado > Roberto Fernandes,saiu_nao_encontrado,2008-05-10,
+2008,Portuguesa,Vágner Benazzi 19 Julho,Valdir Espinosa 24 Julho,,pt.wikipedia,Portuguesa,Vágner Benazzi > Estevam Soares,entrante_nao_encontrado,,2008-11-15
+2008,Portuguesa,Valdir Espinosa 21 Agosto,Estevam Soares 28 Agosto,,pt.wikipedia,Portuguesa,Vágner Benazzi > Estevam Soares,saiu_nao_encontrado,2008-11-22,
+2008,Santos,Leão 25 Maio,Cuca 1 Junho,,pt.wikipedia,Santos,Emerson Leão > Márcio Fernandes > Cuca > Márcio Fernandes,ok_ordem,2008-06-08,2008-05-25
+2008,Santos,Cuca 7 Agosto,Márcio Fernandes 10 Agosto,,pt.wikipedia,Santos,Emerson Leão > Márcio Fernandes > Cuca > Márcio Fernandes,ok_ordem,2008-06-01,2008-08-10
+2008,Vasco da Gama,Antônio Lopes 6 Agosto,Tita 10 Agosto,,pt.wikipedia,Vasco,Antônio Lopes > Tita > Renato Gaúcho,ok_ordem,2008-08-10,2008-08-06
+2008,Vasco da Gama,Tita 14 Setembro,Renato Gaúcho 21 Setembro,,pt.wikipedia,Vasco,Antônio Lopes > Tita > Renato Gaúcho,ok_ordem,2008-09-21,2008-09-14
+2009,Grêmio,Marcelo Rospide[a],Paulo Autuori,16 de maio,pt.wikipedia,Grêmio,Marcelo Rospide > Paulo Autuori > Marcelo Rospide,ok_ordem,2009-05-24,2009-12-06
+2009,Sport,Nelsinho Baptista,Emerson Leão,25 de maio,pt.wikipedia,Sport,Nelsinho Baptista > Emerson Leão > Péricles Chamusca > Givanildo Oliveira,ok_ordem,2009-06-07,2009-05-30
+2009,Atlético Paranaense,Geninho,Waldemar Lemos,7 de junho,pt.wikipedia,Athletico-PR,Geninho > Waldemar Lemos > Riva Carli > Antônio Lopes,ok_ordem,2009-06-13,2009-06-07
+2009,Náutico,Waldemar Lemos,Márcio Bittencourt,9 de junho,pt.wikipedia,Náutico,Waldemar Lemos > Márcio Bittencourt > Geninho,ok_ordem,2009-06-14,2009-06-04
+2009,São Paulo,Muricy Ramalho,Ricardo Gomes,19 de junho,pt.wikipedia,São Paulo,Muricy Ramalho > Ricardo Gomes,ok_ordem,2009-06-21,2009-06-13
+2009,Palmeiras,Vanderlei Luxemburgo,Muricy Ramalho[c],26 de junho,pt.wikipedia,Palmeiras,Vanderlei Luxemburgo > Jorginho Cantinflas > Muricy Ramalho,ok_ordem,2009-07-29,2009-06-20
+2009,Náutico,Márcio Bittencourt,Geninho,12 de julho,pt.wikipedia,Náutico,Waldemar Lemos > Márcio Bittencourt > Geninho,ok_ordem,2009-07-16,2009-07-11
+2009,Santos,Vagner Mancini,Vanderlei Luxemburgo,13 de julho,pt.wikipedia,Santos,Vagner Mancini > Serginho Chulapa > Vanderlei Luxemburgo,ok_ordem,2009-07-22,2009-07-12
+2009,Fluminense,Carlos Alberto Parreira,Renato Gaúcho,13 de julho,pt.wikipedia,Fluminense,Carlos Alberto Parreira > Vinícius Eutrópio > Renato Gaúcho > Cuca,ok_ordem,2009-07-23,2009-07-12
+2009,Flamengo,Cuca,Andrade,23 de julho,pt.wikipedia,Flamengo,Cuca > Andrade,ok_ordem,2009-07-26,2009-07-22
+2009,Sport,Emerson Leão,Péricles Chamusca,27 de julho,pt.wikipedia,Sport,Nelsinho Baptista > Emerson Leão > Péricles Chamusca > Givanildo Oliveira,ok_ordem,2009-07-29,2009-07-26
+2009,Santo André,Sérgio Guedes,Alexandre Gallo,27 de julho,pt.wikipedia,Santo André,Sérgio Guedes > Sandro Gaúcho > Alexandre Gallo > Sérgio Soares,ok_ordem,2009-08-02,2009-07-25
+2009,Atlético Paranaense,Waldemar Lemos,Antônio Lopes,29 de julho,pt.wikipedia,Athletico-PR,Geninho > Waldemar Lemos > Riva Carli > Antônio Lopes,ok_ordem,2009-08-05,2009-07-29
+2009,Coritiba,René Simões,Ney Franco,9 de agosto,pt.wikipedia,Coritiba,René Simões > Ney Franco,ok_ordem,2009-08-16,2009-08-09
+2009,Botafogo,Ney Franco,Estevam Soares,10 de agosto,pt.wikipedia,Botafogo,Ney Franco > Estevam Soares,ok_ordem,2009-08-15,2009-08-08
+2009,Vitória,Paulo César Carpegiani,Vagner Mancini,10 de agosto,pt.wikipedia,Vitória,Paulo César Carpegiani > Vagner Mancini,ok_ordem,2009-08-16,2009-08-09
+2009,Grêmio Barueri,Estevam Soares,Luís Carlos Goiano[d],11 de agosto,pt.wikipedia,Grêmio Barueri/Prudente,Estevam Soares > Diego Cerri > Goiano,ok_ordem,2009-10-28,2009-08-09
+2009,Fluminense,Renato Gaúcho,Cuca,1 de setembro,pt.wikipedia,Fluminense,Carlos Alberto Parreira > Vinícius Eutrópio > Renato Gaúcho > Cuca,ok_ordem,2009-09-06,2009-08-30
+2009,Santo André,Alexandre Gallo,Sérgio Soares,4 de setembro,pt.wikipedia,Santo André,Sérgio Guedes > Sandro Gaúcho > Alexandre Gallo > Sérgio Soares,ok_ordem,2009-09-06,2009-08-29
+2009,Internacional,Tite,Mário Sérgio,5 de outubro,pt.wikipedia,Internacional,Tite > Mário Sérgio,ok_ordem,2009-10-07,2009-10-04
+2009,Sport,Péricles Chamusca,Levi Gomes,7 de novembro,pt.wikipedia,Sport,Nelsinho Baptista > Emerson Leão > Péricles Chamusca > Givanildo Oliveira,entrante_nao_encontrado,,2009-11-07
+2009,Grêmio,Paulo Autuori,Marcelo Rospide,11 de novembro,pt.wikipedia,Grêmio,Marcelo Rospide > Paulo Autuori > Marcelo Rospide,ok_ordem,2009-05-10,2009-11-04
+2010,Palmeiras,Antônio Carlos,Luiz Felipe Scolari[a1],18 de maio,pt.wikipedia,Palmeiras,Antônio Carlos Zago > Jorge Parraga > Murtosa > Luiz Felipe Scolari,ok_ordem,2010-07-18,2010-05-16
+2010,Vasco da Gama,Gaúcho,Celso Roth,18 de maio,pt.wikipedia,Vasco,Gaúcho > Celso Roth > Paulo César Gusmão,ok_ordem,2010-05-23,2010-05-16
+2010,Internacional,Jorge Fossati,Celso Roth[a2],28 de maio,pt.wikipedia,Internacional,Jorge Fossati > Enderson Moreira > Celso Roth,ok_ordem,2010-07-14,2010-05-27
+2010,Atlético-PR,Leandro Niehues,Paulo César Carpegiani,31 de maio,pt.wikipedia,Athletico-PR,Leandro Niehues > Paulo César Carpegiani > Sérgio Soares,ok_ordem,2010-06-02,2010-05-30
+2010,Cruzeiro,Adílson Batista,Cuca[a3],2 de junho,pt.wikipedia,Cruzeiro,Adilson Batista > Émerson Ávila > Cuca,ok_ordem,2010-07-14,2010-06-02
+2010,Atlético-GO,Geninho,Roberto Fernandes,7 de junho,pt.wikipedia,Atlético-GO,Geninho > Roberto Fernandes > René Simões,ok_ordem,2010-07-15,2010-06-06
+2010,Vasco da Gama,Celso Roth,PC Gusmão,12 de junho,pt.wikipedia,Vasco,Gaúcho > Celso Roth > Paulo César Gusmão,ok_ordem,2010-07-14,2010-06-06
+2010,Ceará,PC Gusmão,Estevam Soares,13 de junho,pt.wikipedia,Ceará,Paulo César Gusmão > Estevam Soares > Mário Sérgio > Dimas Filgueiras,ok_ordem,2010-07-14,2010-06-06
+2010,Avaí,Péricles Chamusca,Antônio Lopes,1 de julho,pt.wikipedia,Avaí,Péricles Chamusca > Antônio Lopes > Edson Neguinho > Vágner Benazzi,ok_ordem,2010-07-14,2010-06-05
+2010,Corinthians,Mano Menezes,Adílson Batista,26 de julho,pt.wikipedia,Corinthians,Mano Menezes > Adilson Batista > Fábio Carille > Tite,ok_ordem,2010-08-01,2010-07-25
+2010,Atlético-GO,Roberto Fernandes,René Simões,30 de julho,pt.wikipedia,Atlético-GO,Geninho > Roberto Fernandes > René Simões,ok_ordem,2010-07-31,2010-07-24
+2010,São Paulo,Ricardo Gomes,Sérgio Baresi (interino),6 de agosto,pt.wikipedia,São Paulo,Ricardo Gomes > Sérgio Baresi > Paulo César Carpegiani,ok_ordem,2010-08-08,2010-07-31
+2010,Grêmio,Silas,Renato Gaúcho,8 de agosto,pt.wikipedia,Grêmio,Silas > Renato Gaúcho,ok_ordem,2010-08-15,2010-08-08
+2010,Vitória,Ricardo Silva,Toninho Cecílio,9 de agosto,pt.wikipedia,Vitória,Ricardo Silva > Toninho Cecílio > Ricardo Silva > Antônio Lopes,ok_ordem,2010-08-15,2010-10-06
+2010,Ceará,Estevam Soares,Mário Sérgio,9 de agosto,pt.wikipedia,Ceará,Paulo César Gusmão > Estevam Soares > Mário Sérgio > Dimas Filgueiras,ok_ordem,2010-08-14,2010-08-08
+2010,Grêmio Prudente,Toninho Cecílio,Antônio Carlos,9 de agosto,pt.wikipedia,Grêmio Barueri/Prudente,Toninho Cecílio > Fábio Giuntini > Antônio Carlos Zago > Marcelo Rospide > Fábio Giuntini,ok_ordem,2010-08-21,2010-08-08
+2010,Flamengo,Rogério Lourenço,Silas,27 de agosto,pt.wikipedia,Flamengo,Rogério Lourenço > Toninho Barroso > Silas > Vanderlei Luxemburgo,ok_ordem,2010-09-01,2010-08-26
+2010,Goiás,Emerson Leão,Jorginho,27 de agosto,pt.wikipedia,Goiás,Emerson Leão > Jorginho (Jorge de Amorim) > Arthur Neto,ok_ordem,2010-08-28,2010-08-25
+2010,Vitória,Toninho Cecílio,Ricardo Silva,9 de setembro,pt.wikipedia,Vitória,Ricardo Silva > Toninho Cecílio > Ricardo Silva > Antônio Lopes,ok_ordem,2010-05-08,2010-09-08
+2010,Ceará,Mário Sérgio,Dimas Filgueiras (interino),9 de setembro,pt.wikipedia,Ceará,Paulo César Gusmão > Estevam Soares > Mário Sérgio > Dimas Filgueiras,ok_ordem,2010-09-12,2010-09-08
+2010,Grêmio Prudente,Antônio Carlos,Marcelo Rospide,10 de setembro,pt.wikipedia,Grêmio Barueri/Prudente,Toninho Cecílio > Fábio Giuntini > Antônio Carlos Zago > Marcelo Rospide > Fábio Giuntini,ok_ordem,2010-09-12,2010-09-09
+2010,Avaí,Antônio Lopes,Édson dos Santos (interino),20 de setembro,pt.wikipedia,Avaí,Péricles Chamusca > Antônio Lopes > Edson Neguinho > Vágner Benazzi,ok_ordem,2010-09-23,2010-09-19
+2010,Santos,Dorival Júnior,Marcelo Martelotte (interino),21 de setembro,pt.wikipedia,Santos,Dorival Júnior > Marcelo Martelotte,ok_ordem,2010-09-22,2010-09-19
+2010,Atlético-MG,Vanderlei Luxemburgo,Dorival Júnior,23 de setembro,pt.wikipedia,Atlético-MG,Vanderlei Luxemburgo > Dorival Júnior,ok_ordem,2010-09-26,2010-09-23
+2010,Grêmio Prudente,Marcelo Rospide,Fábio Giuntini,27 de setembro,pt.wikipedia,Grêmio Barueri/Prudente,Toninho Cecílio > Fábio Giuntini > Antônio Carlos Zago > Marcelo Rospide > Fábio Giuntini,ok_ordem,2010-08-15,2010-09-25
+2010,São Paulo,Sérgio Baresi,Paulo César Carpegiani,3 de outubro,pt.wikipedia,São Paulo,Ricardo Gomes > Sérgio Baresi > Paulo César Carpegiani,ok_ordem,2010-10-06,2010-10-02
+2010,Atlético-PR,Paulo César Carpegiani,Sérgio Soares,3 de outubro,pt.wikipedia,Athletico-PR,Leandro Niehues > Paulo César Carpegiani > Sérgio Soares,ok_ordem,2010-10-06,2010-10-02
+2010,Flamengo,Silas,Vanderlei Luxemburgo,4 de outubro,pt.wikipedia,Flamengo,Rogério Lourenço > Toninho Barroso > Silas > Vanderlei Luxemburgo,ok_ordem,2010-10-07,2010-10-02
+2010,Vitória,Ricardo Silva,Antônio Lopes,7 de outubro,pt.wikipedia,Vitória,Ricardo Silva > Toninho Cecílio > Ricardo Silva > Antônio Lopes,ok_ordem,2010-10-10,2010-10-06
+2010,Avaí,Edson dos Santos,Vágner Benazzi,10 de outubro,pt.wikipedia,Avaí,Péricles Chamusca > Antônio Lopes > Edson Neguinho > Vágner Benazzi,ok_ordem,2010-10-10,2010-10-07
+2010,Corinthians,Adílson Batista,Tite,10 de outubro,pt.wikipedia,Corinthians,Mano Menezes > Adilson Batista > Fábio Carille > Tite,ok_ordem,2010-10-24,2010-10-10
+2010,Goiás,Jorginho,Arthur Neto,9 de novembro,pt.wikipedia,Goiás,Emerson Leão > Jorginho (Jorge de Amorim) > Arthur Neto,ok_ordem,2010-11-14,2010-11-07
+2011,Avaí,Silas,Alexandre Gallo,8 de junho,pt.wikipedia,Avaí,Silas > Alexandre Gallo > Toninho Cecílio > Mauro Ovelha,ok_ordem,2011-06-11,2011-06-05
+2011,Cruzeiro,Cuca,Joel Santana,19 de junho,pt.wikipedia,Cruzeiro,Cuca > Joel Santana > Émerson Ávila > Vagner Mancini,ok_ordem,2011-06-25,2011-06-18
+2011,Atlético-PR,Adílson Batista,Renato Gaúcho,25 de junho,pt.wikipedia,Athletico-PR,Adilson Batista > Leandro Niehues > Renato Gaúcho > Antônio Lopes,ok_ordem,2011-07-06,2011-06-25
+2011,Grêmio,Renato Gaúcho,Julinho Camargo,30 de junho,pt.wikipedia,Grêmio,Renato Gaúcho > Julinho Camargo > Celso Roth,ok_ordem,2011-07-06,2011-06-29
+2011,São Paulo,Paulo César Carpegiani,Adílson Batista[a1],7 de julho,pt.wikipedia,São Paulo,Paulo César Carpegiani > Milton Cruz > Adilson Batista > Milton Cruz > Emerson Leão,ok_ordem,2011-07-17,2011-07-06
+2011,América-MG,Mauro Fernandes,Antônio Lopes,11 de julho,pt.wikipedia,América-MG,Mauro Fernandes > Antônio Lopes > Givanildo Oliveira,ok_ordem,2011-07-17,2011-07-10
+2011,Internacional,Paulo Roberto Falcão,Dorival Júnior[a2],18 de julho,pt.wikipedia,Internacional,Falcão > Osmar Loss > Dorival Júnior,ok_ordem,2011-08-14,2011-07-17
+2011,Atlético-GO,Paulo César Gusmão,Hélio dos Anjos[a3],21 de julho,pt.wikipedia,Atlético-GO,Paulo César Gusmão > Jairo Araújo > Hélio dos Anjos,ok_ordem,2011-08-18,2011-07-27
+2011,América-MG,Antônio Lopes,Givanildo Oliveira,1 de agosto,pt.wikipedia,América-MG,Mauro Fernandes > Antônio Lopes > Givanildo Oliveira,ok_ordem,2011-08-03,2011-07-31
+2011,Grêmio,Julinho Camargo,Celso Roth,4 de agosto,pt.wikipedia,Grêmio,Renato Gaúcho > Julinho Camargo > Celso Roth,ok_ordem,2011-08-06,2011-08-03
+2011,Atlético-MG,Dorival Júnior,Cuca,7 de agosto,pt.wikipedia,Atlético-MG,Dorival Júnior > Cuca,ok_ordem,2011-08-14,2011-08-06
+2011,Avaí,Alexandre Gallo,Toninho Cecílio,18 de agosto,pt.wikipedia,Avaí,Silas > Alexandre Gallo > Toninho Cecílio > Mauro Ovelha,ok_ordem,2011-08-28,2011-08-21
+2011,Atlético-PR,Renato Gaúcho,Antônio Lopes,1 de setembro,pt.wikipedia,Athletico-PR,Adilson Batista > Leandro Niehues > Renato Gaúcho > Antônio Lopes,ok_ordem,2011-09-04,2011-08-31
+2011,Cruzeiro,Joel Santana,Emerson Ávila,2 de setembro,pt.wikipedia,Cruzeiro,Cuca > Joel Santana > Émerson Ávila > Vagner Mancini,ok_ordem,2011-09-04,2011-08-31
+2011,Bahia,René Simões,Joel Santana,2 de setembro,pt.wikipedia,Bahia,René Simões > Joel Santana,ok_ordem,2011-09-04,2011-09-01
+2011,Ceará,Vágner Mancini,Estevam Soares,11 de setembro,pt.wikipedia,Ceará,Vagner Mancini > Estevam Soares > Dimas Filgueiras,ok_ordem,2011-09-17,2011-09-11
+2011,Cruzeiro,Emerson Ávila,Vágner Mancini,26 de setembro,pt.wikipedia,Cruzeiro,Cuca > Joel Santana > Émerson Ávila > Vagner Mancini,ok_ordem,2011-10-02,2011-09-25
+2011,São Paulo,Adílson Batista,Emerson Leão[a1],16 de outubro,pt.wikipedia,São Paulo,Paulo César Carpegiani > Milton Cruz > Adilson Batista > Milton Cruz > Emerson Leão,ok_ordem,2011-10-30,2011-10-16
+2011,Ceará,Estevam Soares,Dimas Filgueiras,23 de outubro,pt.wikipedia,Ceará,Vagner Mancini > Estevam Soares > Dimas Filgueiras,ok_ordem,2011-10-29,2011-10-23
+2011,Avaí,Toninho Cecílio,Edson Neguinho (interino),14 de novembro,pt.wikipedia,Avaí,Silas > Alexandre Gallo > Toninho Cecílio > Mauro Ovelha,entrante_nao_encontrado,,2011-11-12
+2011,Botafogo,Caio Júnior,Flávio Tenius (interino),17 de novembro,pt.wikipedia,Botafogo,Cassius Hartmann > Caio Júnior > Flávio Tenius,ok_ordem,2011-11-20,2011-11-16
+2012,Atlético-GO,Adílson Batista,Hélio dos Anjos,29 de maio,pt.wikipedia,Atlético-GO,Adilson Batista > Hélio dos Anjos > Jairo Araújo > Arthur Neto > Jairo Araújo,ok_ordem,2012-06-06,2012-05-26
+2012,São Paulo,Emerson Leão,Ney Franco[a1],26 de junho,pt.wikipedia,São Paulo,Emerson Leão > Milton Cruz > Ney Franco,ok_ordem,2012-07-08,2012-06-23
+2012,Atlético-GO,Hélio dos Anjos,Arthur Neto[a5],9 de julho,pt.wikipedia,Atlético-GO,Adilson Batista > Hélio dos Anjos > Jairo Araújo > Arthur Neto > Jairo Araújo,ok_ordem,2012-09-12,2012-07-07
+2012,Bahia,Paulo Roberto Falcão,Caio Júnior,20 de julho,pt.wikipedia,Bahia,Falcão > Caio Júnior > Jorginho Cantinflas,ok_ordem,2012-07-22,2012-07-19
+2012,Internacional,Dorival Júnior,Fernandão,20 de julho,pt.wikipedia,Internacional,Dorival Júnior > Fernandão > Osmar Loss,ok_ordem,2012-07-22,2012-07-18
+2012,Figueirense,Argel Fucks,Hélio dos Anjos[a2],20 de julho,pt.wikipedia,Figueirense,Argel Fuchs > Abel Ribeiro > Hélio dos Anjos > Abel Ribeiro > Márcio Goiano > Fernando Gil,ok_ordem,2012-07-25,2012-07-19
+2012,Flamengo,Joel Santana,Dorival Júnior,23 de julho,pt.wikipedia,Flamengo,Joel Santana > Dorival Júnior,ok_ordem,2012-07-26,2012-07-22
+2012,Sport,Vágner Mancini,Waldemar Lemos[a3],11 de agosto,pt.wikipedia,Sport,Vagner Mancini > Waldemar Lemos > Sérgio Guedes,ok_ordem,2012-08-15,2012-08-11
+2012,Figueirense,Hélio dos Anjos,Márcio Goiano[a2],24 de agosto,pt.wikipedia,Figueirense,Argel Fuchs > Abel Ribeiro > Hélio dos Anjos > Abel Ribeiro > Márcio Goiano > Fernando Gil,ok_ordem,2012-08-29,2012-08-19
+2012,Bahia,Caio Júnior,Jorginho,27 de agosto,pt.wikipedia,Bahia,Falcão > Caio Júnior > Jorginho Cantinflas,ok_ordem,2012-08-29,2012-08-26
+2012,Coritiba,Marcelo Oliveira,Marquinhos Santos,6 de setembro,pt.wikipedia,Coritiba,Marcelo Oliveira > Marquinhos Santos,ok_ordem,2012-09-08,2012-09-05
+2012,Vasco,Cristóvão Borges,Marcelo Oliveira[a6],10 de setembro,pt.wikipedia,Vasco,Cristóvão Borges > Gaúcho > Marcelo Oliveira > Gaúcho,ok_ordem,2012-09-16,2012-09-09
+2012,Palmeiras,Luiz Felipe Scolari,Gilson Kleina[a7],13 de setembro,pt.wikipedia,Palmeiras,Luiz Felipe Scolari > Narciso > Gilson Kleina,ok_ordem,2012-09-22,2012-09-12
+2012,Ponte Preta,Gilson Kleina,Guto Ferreira[a8],19 de setembro,pt.wikipedia,Ponte Preta,Gilson Kleina > Guto Ferreira,ok_ordem,2012-09-23,2012-09-16
+2012,Sport,Waldemar Lemos,Sérgio Guedes,6 de outubro,pt.wikipedia,Sport,Vagner Mancini > Waldemar Lemos > Sérgio Guedes,ok_ordem,2012-10-11,2012-10-04
+2012,Atlético-GO,Arthur Neto,Jairo Araújo (interino),29 de outubro,pt.wikipedia,Atlético-GO,Adilson Batista > Hélio dos Anjos > Jairo Araújo > Arthur Neto > Jairo Araújo,ok_ordem,2012-07-15,2012-10-27
+2012,Vasco,Marcelo Oliveira,Gaúcho,5 de novembro,pt.wikipedia,Vasco,Cristóvão Borges > Gaúcho > Marcelo Oliveira > Gaúcho,ok_ordem,2012-09-12,2012-11-04
+2012,Figueirense,Márcio Goiano,Fernando Gil (interino),5 de novembro,pt.wikipedia,Figueirense,Argel Fuchs > Abel Ribeiro > Hélio dos Anjos > Abel Ribeiro > Márcio Goiano > Fernando Gil,ok_ordem,2012-11-11,2012-11-03
+2012,Internacional,Fernandão,Osmar Loss (interino),20 de novembro,pt.wikipedia,Internacional,Dorival Júnior > Fernandão > Osmar Loss,ok_ordem,2012-11-25,2012-11-18
+2013,Santos,Muricy Ramalho,Claudinei Oliveira,31 de maio,pt.wikipedia,Santos,Muricy Ramalho > Claudinei Oliveira,ok_ordem,2013-06-01,2013-05-29
+2013,Náutico,Silas,Zé Teodoro[a1],2 de junho,pt.wikipedia,Náutico,Silas > Lisca > Zé Teodoro > Jorginho Cantinflas > Levi Gomes > Marcelo Martelotte,ok_ordem,2013-07-06,2013-06-02
+2013,Flamengo,Jorginho,Mano Menezes[a2],5 de junho,pt.wikipedia,Flamengo,Jorginho (Jorge de Amorim) > Jayme de Almeida Filho > Mano Menezes > Jayme de Almeida Filho,ok_ordem,2013-07-06,2013-06-05
+2013,Ponte Preta,Guto Ferreira,Paulo César Carpegiani[a3],6 de junho,pt.wikipedia,Ponte Preta,Guto Ferreira > Zé Sérgio > Paulo César Carpegiani > Jorginho (Jorge de Amorim),ok_ordem,2013-07-06,2013-06-05
+2013,Grêmio,Vanderlei Luxemburgo,Renato Portaluppi,29 de junho,pt.wikipedia,Grêmio,Vanderlei Luxemburgo > Renato Gaúcho,ok_ordem,2013-07-06,2013-06-12
+2013,São Paulo,Ney Franco,Paulo Autuori[a5],5 de julho,pt.wikipedia,São Paulo,Ney Franco > Milton Cruz > Paulo Autuori > Muricy Ramalho,ok_ordem,2013-07-10,2013-06-12
+2013,Atlético-PR,Ricardo Drubscky,Vágner Mancini[a6],8 de julho,pt.wikipedia,Athletico-PR,Ricardo Drubscky > Vagner Mancini,ok_ordem,2013-07-14,2013-07-06
+2013,Vasco da Gama,Paulo Autuori,Dorival Júnior,9 de julho,pt.wikipedia,Vasco,Paulo Autuori > Dorival Júnior > Adilson Batista,ok_ordem,2013-07-14,2013-07-07
+2013,Portuguesa,Edson Pimenta,Guto Ferreira,28 de julho,pt.wikipedia,Portuguesa,Edson Pimenta > Guto Ferreira,ok_ordem,2013-07-31,2013-07-27
+2013,Fluminense,Abel Braga,Vanderlei Luxemburgo,29 de julho,pt.wikipedia,Fluminense,Abel Braga > Vanderlei Luxemburgo > Dorival Júnior,ok_ordem,2013-07-31,2013-07-28
+2013,Náutico,Zé Teodoro,Jorginho,14 de agosto,pt.wikipedia,Náutico,Silas > Lisca > Zé Teodoro > Jorginho Cantinflas > Levi Gomes > Marcelo Martelotte,ok_ordem,2013-08-17,2013-08-14
+2013,Criciúma,Vadão,Sílvio Criciúma[a8],23 de agosto,pt.wikipedia,Criciúma,Vadão > Sílvio Criciúma > Argel Fuchs,ok_ordem,2013-08-24,2013-08-18
+2013,Ponte Preta,Paulo César Carpegiani,Jorginho,24 de agosto,pt.wikipedia,Ponte Preta,Guto Ferreira > Zé Sérgio > Paulo César Carpegiani > Jorginho (Jorge de Amorim),ok_ordem,2013-08-31,2013-08-24
+2013,Vitória,Caio Júnior,Ney Franco,1 de setembro,pt.wikipedia,Vitória,Caio Júnior > Ney Franco,ok_ordem,2013-09-04,2013-09-01
+2013,Náutico,Jorginho,Levi Gomes,5 de setembro,pt.wikipedia,Náutico,Silas > Lisca > Zé Teodoro > Jorginho Cantinflas > Levi Gomes > Marcelo Martelotte,ok_ordem,2013-09-08,2013-09-05
+2013,São Paulo,Paulo Autuori,Muricy Ramalho,9 de setembro,pt.wikipedia,São Paulo,Ney Franco > Milton Cruz > Paulo Autuori > Muricy Ramalho,ok_ordem,2013-09-12,2013-09-08
+2013,Flamengo,Mano Menezes,Jayme de Almeida[a2],19 de setembro,pt.wikipedia,Flamengo,Jorginho (Jorge de Amorim) > Jayme de Almeida Filho > Mano Menezes > Jayme de Almeida Filho,ok_ordem,2013-06-08,2013-09-19
+2013,Náutico,Levi Gomes,Marcelo Martelotte,22 de setembro,pt.wikipedia,Náutico,Silas > Lisca > Zé Teodoro > Jorginho Cantinflas > Levi Gomes > Marcelo Martelotte,ok_ordem,2013-09-25,2013-09-22
+2013,Criciúma,Sílvio Criciúma,Argel Fucks,24 de setembro,pt.wikipedia,Criciúma,Vadão > Sílvio Criciúma > Argel Fuchs,ok_ordem,2013-09-25,2013-09-22
+2013,Coritiba,Marquinhos Santos,Péricles Chamusca[a9],24 de setembro,pt.wikipedia,Coritiba,Marquinhos Santos > Marcelo Serrano > Péricles Chamusca > Tcheco,ok_ordem,2013-10-02,2013-09-21
+2013,Internacional,Dunga,Clemer[a10],4 de outubro,pt.wikipedia,Internacional,Dunga > Clemer,ok_ordem,2013-10-06,2013-10-03
+2013,Vasco da Gama,Dorival Júnior,Adílson Batista,28 de outubro,pt.wikipedia,Vasco,Paulo Autuori > Dorival Júnior > Adilson Batista,ok_ordem,2013-11-02,2013-10-27
+2013,Fluminense,Vanderlei Luxemburgo,Dorival Júnior,11 de novembro,pt.wikipedia,Fluminense,Abel Braga > Vanderlei Luxemburgo > Dorival Júnior,ok_ordem,2013-11-14,2013-11-10
+2013,Coritiba,Péricles Chamusca,Tcheco,17 de novembro,pt.wikipedia,Coritiba,Marquinhos Santos > Marcelo Serrano > Péricles Chamusca > Tcheco,ok_ordem,2013-11-24,2013-11-16
+2014,Atlético-MG,Paulo Autuori,Levir Culpi,24 de abril,pt.wikipedia,Atlético-MG,Paulo Autuori > Levir Culpi,ok_ordem,2014-04-27,2014-04-20
+2014,Criciúma,Caio Júnior,Wagner Lopes,29 de abril,pt.wikipedia,Criciúma,Caio Júnior > Wagner Lopes > Wilson Vaterkemper > Gilmar Dal Pozzo > Toninho Cecílio > Luizinho Vieira,ok_ordem,2014-05-04,2014-04-27
+2014,Figueirense,Vinícius Eutrópio,Guto Ferreira,30 de abril,pt.wikipedia,Figueirense,Vinícius Eutrópio > Guto Ferreira > Argel Fuchs,ok_ordem,2014-05-04,2014-04-27
+2014,Palmeiras,Gilson Kleina,Ricardo Gareca[a1],8 de maio,pt.wikipedia,Palmeiras,Gilson Kleina > Alberto Valentim > Ricardo Gareca > Dorival Júnior,ok_ordem,2014-07-17,2014-05-04
+2014,Vitória,Ney Franco,Jorginho[a2],12 de maio,pt.wikipedia,Vitória,Ney Franco > Carlos Amadeu > Jorginho Cantinflas > Ney Franco,ok_ordem,2014-05-25,2014-12-07
+2014,Flamengo,Jayme de Almeida,Ney Franco,12 de maio,pt.wikipedia,Flamengo,Jayme de Almeida Filho > Ney Franco > Vanderlei Luxemburgo,ok_ordem,2014-05-18,2014-05-11
+2014,Atlético-PR,Miguel Ángel Portugal,Doriva[a3],19 de maio,pt.wikipedia,Athletico-PR,Miguel Ángel Portugal > Doriva > Claudinei Oliveira,ok_ordem,2014-07-16,2014-06-01
+2014,Chapecoense,Gilmar Dal Pozzo,Celso Rodrigues (interino),23 de maio,pt.wikipedia,Chapecoense,Gilmar Dal Pozzo > Celso Rodrigues > Jorginho Cantinflas > Celso Rodrigues,ok_ordem,2014-05-25,2014-05-21
+2014,Flamengo,Ney Franco,Vanderlei Luxemburgo,23 de julho,pt.wikipedia,Flamengo,Jayme de Almeida Filho > Ney Franco > Vanderlei Luxemburgo,ok_ordem,2014-07-27,2014-07-20
+2014,Figueirense,Guto Ferreira,Argel Fucks,23 de julho,pt.wikipedia,Figueirense,Vinícius Eutrópio > Guto Ferreira > Argel Fuchs,ok_ordem,2014-07-26,2014-07-19
+2014,Bahia,Marquinhos Santos,Gilson Kleina[a4],26 de julho,pt.wikipedia,Bahia,Marquinhos Santos > Charles > Gilson Kleina > Charles,ok_ordem,2014-08-16,2014-07-26
+2014,Grêmio,Enderson Moreira,Luiz Felipe Scolari[a5],27 de julho,pt.wikipedia,Grêmio,Enderson Moreira > André Jardine > Luiz Felipe Scolari,ok_ordem,2014-08-10,2014-07-27
+2014,Vitória,Jorginho,Ney Franco,21 de agosto,pt.wikipedia,Vitória,Ney Franco > Carlos Amadeu > Jorginho Cantinflas > Ney Franco,ok_ordem,2014-04-19,2014-08-20
+2014,Coritiba,Celso Roth,Marquinhos Santos,24 de agosto,pt.wikipedia,Coritiba,Celso Roth > Marquinhos Santos,ok_ordem,2014-08-31,2014-08-23
+2014,Atlético-PR,Doriva,Claudinei Oliveira[a3],24 de agosto,pt.wikipedia,Athletico-PR,Miguel Ángel Portugal > Doriva > Claudinei Oliveira,ok_ordem,2014-09-07,2014-08-31
+2014,Criciúma,Wagner Lopes,Gilmar Dal Pozzo[a6],25 de agosto,pt.wikipedia,Criciúma,Caio Júnior > Wagner Lopes > Wilson Vaterkemper > Gilmar Dal Pozzo > Toninho Cecílio > Luizinho Vieira,ok_ordem,2014-09-07,2014-08-24
+2014,Palmeiras,Ricardo Gareca,Dorival Júnior,1 de setembro,pt.wikipedia,Palmeiras,Gilson Kleina > Alberto Valentim > Ricardo Gareca > Dorival Júnior,ok_ordem,2014-09-07,2014-06-01
+2014,Santos,Oswaldo de Oliveira,Enderson Moreira,2 de setembro,pt.wikipedia,Santos,Oswaldo de Oliveira > Enderson Moreira,ok_ordem,2014-09-06,2014-08-31
+2014,Chapecoense,Celso Rodrigues,Jorginho,11 de setembro,pt.wikipedia,Chapecoense,Gilmar Dal Pozzo > Celso Rodrigues > Jorginho Cantinflas > Celso Rodrigues,ok_ordem,2014-09-13,2014-12-07
+2014,Criciúma,Gilmar Dal Pozzo,Toninho Cecílio,27 de outubro,pt.wikipedia,Criciúma,Caio Júnior > Wagner Lopes > Wilson Vaterkemper > Gilmar Dal Pozzo > Toninho Cecílio > Luizinho Vieira,ok_ordem,2014-11-02,2014-10-25
+2014,Bahia,Gilson Kleina,Charles Fabian (interino),11 de novembro,pt.wikipedia,Bahia,Marquinhos Santos > Charles > Gilson Kleina > Charles,ok_ordem,2014-08-03,2014-11-09
+2014,Chapecoense,Jorginho,Celso Rodrigues (interino),17 de novembro,pt.wikipedia,Chapecoense,Gilmar Dal Pozzo > Celso Rodrigues > Jorginho Cantinflas > Celso Rodrigues,ok_ordem,2014-05-25,2014-11-16
+2014,Criciúma,Toninho Cecílio,Luizinho Vieira (interino),20 de novembro,pt.wikipedia,Criciúma,Caio Júnior > Wagner Lopes > Wilson Vaterkemper > Gilmar Dal Pozzo > Toninho Cecílio > Luizinho Vieira,ok_ordem,2014-11-23,2014-11-19
+2015,Grêmio,Luiz Felipe Scolari,Roger Machado[a1],19 de maio,pt.wikipedia,Grêmio,Luiz Felipe Scolari > James Freitas > Roger Machado,ok_ordem,2015-05-31,2015-05-16
+2015,Fluminense,Ricardo Drubscky,Enderson Moreira,20 de maio,pt.wikipedia,Fluminense,Ricardo Drubscky > Enderson Moreira > Eduardo Baptista,ok_ordem,2015-05-24,2015-05-17
+2015,Flamengo,Vanderlei Luxemburgo,Cristóvão Borges,25 de maio,pt.wikipedia,Flamengo,Vanderlei Luxemburgo > Cristóvão Borges > Oswaldo de Oliveira > Jayme de Almeida Filho,ok_ordem,2015-05-31,2015-05-24
+2015,São Paulo,Milton Cruz (interino),Juan Carlos Osorio[a2],26 de maio,pt.wikipedia,São Paulo,Milton Cruz > Juan Carlos Osorio > Doriva > Milton Cruz,ok_ordem,2015-05-31,2015-12-06
+2015,Cruzeiro,Marcelo Oliveira,Vanderlei Luxemburgo,2 de junho,pt.wikipedia,Cruzeiro,Marcelo Oliveira > Vanderlei Luxemburgo > Deivid > Mano Menezes,ok_ordem,2015-06-03,2015-05-31
+2015,Joinville,Hemerson Maria,Adílson Batista,4 de junho,pt.wikipedia,Joinville,Hemerson Maria > Adilson Batista > Paulo César Gusmão,ok_ordem,2015-06-06,2015-06-03
+2015,Coritiba,Marquinhos Santos,Ney Franco,8 de junho,pt.wikipedia,Coritiba,Marquinhos Santos > Ney Franco > Pachequinho,ok_ordem,2015-06-13,2015-06-07
+2015,Palmeiras,Oswaldo de Oliveira,Marcelo Oliveira[a3],9 de junho,pt.wikipedia,Palmeiras,Oswaldo de Oliveira > Alberto Valentim > Marcelo Oliveira,ok_ordem,2015-06-20,2015-06-07
+2015,Vasco,Doriva,Celso Roth,21 de junho,pt.wikipedia,Vasco,Doriva > Celso Roth > Jorginho (Jorge de Amorim),ok_ordem,2015-06-28,2015-06-20
+2015,Goiás,Hélio dos Anjos,Julinho Camargo[a4],23 de junho,pt.wikipedia,Goiás,Hélio dos Anjos > Augusto César > Julinho Camargo > Wanderley Filho > Arthur Neto > Danny Sérgio,ok_ordem,2015-07-08,2015-06-21
+2015,Santos,Marcelo Fernandes,Dorival Júnior,9 de julho,pt.wikipedia,Santos,Marcelo Fernandes > Dorival Júnior,ok_ordem,2015-07-11,2015-07-08
+2015,Joinville,Adílson Batista,PC Gusmão,26 de julho,pt.wikipedia,Joinville,Hemerson Maria > Adilson Batista > Paulo César Gusmão,ok_ordem,2015-08-02,2015-07-26
+2015,Ponte Preta,Guto Ferreira,Doriva,3 de agosto,pt.wikipedia,Ponte Preta,Guto Ferreira > Doriva > Felipe Moreira,ok_ordem,2015-08-09,2015-08-02
+2015,Internacional,Diego Aguirre,Argel Fucks[a5],6 de agosto,pt.wikipedia,Internacional,Diego Aguirre > Odair Hellmann > Argel Fuchs,ok_ordem,2015-08-16,2015-08-02
+2015,Figueirense,Argel Fucks,René Simões[a6],13 de agosto,pt.wikipedia,Figueirense,Argel Fuchs > Hudson Coutinho > René Simões > Hudson Coutinho,ok_ordem,2015-08-22,2015-08-12
+2015,Vasco,Celso Roth,Jorginho,15 de agosto,pt.wikipedia,Vasco,Doriva > Celso Roth > Jorginho (Jorge de Amorim),ok_ordem,2015-08-22,2015-08-15
+2015,Flamengo,Cristóvão Borges,Oswaldo de Oliveira,20 de agosto,pt.wikipedia,Flamengo,Vanderlei Luxemburgo > Cristóvão Borges > Oswaldo de Oliveira > Jayme de Almeida Filho,ok_ordem,2015-08-23,2015-08-16
+2015,Cruzeiro,Vanderlei Luxemburgo,Mano Menezes[a7],31 de agosto,pt.wikipedia,Cruzeiro,Marcelo Oliveira > Vanderlei Luxemburgo > Deivid > Mano Menezes,ok_ordem,2015-09-06,2015-08-30
+2015,Chapecoense,Vinícius Eutrópio,Guto Ferreira,14 de setembro,pt.wikipedia,Chapecoense,Vinícius Eutrópio > Guto Ferreira,ok_ordem,2015-09-17,2015-09-13
+2015,Fluminense,Enderson Moreira,Eduardo Baptista,16 de setembro,pt.wikipedia,Fluminense,Ricardo Drubscky > Enderson Moreira > Eduardo Baptista,ok_ordem,2015-09-19,2015-09-16
+2015,Figueirense,René Simões,Hudson Coutinho[a6],16 de setembro,pt.wikipedia,Figueirense,Argel Fuchs > Hudson Coutinho > René Simões > Hudson Coutinho,ok_ordem,2015-08-16,2015-09-16
+2015,Goiás,Julinho Camargo,Arthur Neto[a8],17 de setembro,pt.wikipedia,Goiás,Hélio dos Anjos > Augusto César > Julinho Camargo > Wanderley Filho > Arthur Neto > Danny Sérgio,ok_ordem,2015-09-26,2015-09-16
+2015,Sport,Eduardo Baptista,Paulo Roberto Falcão[a9],17 de setembro,pt.wikipedia,Sport,Eduardo Baptista > Daniel Paulista > Falcão,ok_ordem,2015-09-27,2015-09-16
+2015,Atlético-PR,Milton Mendes,Cristóvão Borges[a10],27 de setembro,pt.wikipedia,Athletico-PR,Milton Mendes > Sérgio Vieira > Cristóvão Borges,ok_ordem,2015-10-14,2015-09-27
+2015,São Paulo,Juan Carlos Osorio,Doriva,6 de outubro,pt.wikipedia,São Paulo,Milton Cruz > Juan Carlos Osorio > Doriva > Milton Cruz,ok_ordem,2015-10-14,2015-10-03
+2015,Ponte Preta,Doriva,Felipe Moreira (interino),7 de outubro,pt.wikipedia,Ponte Preta,Guto Ferreira > Doriva > Felipe Moreira,ok_ordem,2015-10-14,2015-10-04
+2015,Goiás,Arthur Neto,Danny Sérgio,18 de outubro,pt.wikipedia,Goiás,Hélio dos Anjos > Augusto César > Julinho Camargo > Wanderley Filho > Arthur Neto > Danny Sérgio,ok_ordem,2015-10-25,2015-10-18
+2015,Coritiba,Ney Franco,Pachequinho,3 de novembro,pt.wikipedia,Coritiba,Marquinhos Santos > Ney Franco > Pachequinho,ok_ordem,2015-11-07,2015-10-31
+2015,São Paulo,Doriva,Milton Cruz (interino),9 de novembro,pt.wikipedia,São Paulo,Milton Cruz > Juan Carlos Osorio > Doriva > Milton Cruz,ok_ordem,2015-05-10,2015-11-08
+2015,Avaí,Gilson Kleina,Raul Cabral,10 de novembro,pt.wikipedia,Avaí,Gilson Kleina > Raul Cabral,ok_ordem,2015-11-18,2015-11-07
+2015,Atlético-MG,Levir Culpi,Diogo Giacomini (interino),26 de novembro,pt.wikipedia,Atlético-MG,Levir Culpi > Diogo Giacomini,ok_ordem,2015-11-29,2015-11-22
+2015,Flamengo,Oswaldo de Oliveira,Jayme de Almeida (interino),28 de novembro,pt.wikipedia,Flamengo,Vanderlei Luxemburgo > Cristóvão Borges > Oswaldo de Oliveira > Jayme de Almeida Filho,ok_ordem,2015-11-29,2015-11-22
+2016,Cruzeiro,Geraldo Delamore (interino),Paulo Bento[a1],16 de maio,pt.wikipedia,Cruzeiro,Geraldo Delamore > Paulo Bento > Mano Menezes,ok_ordem,2016-05-21,2016-05-14
+2016,Atlético-MG,Diego Aguirre,Marcelo Oliveira,19 de maio,pt.wikipedia,Atlético-MG,Diego Aguirre > Marcelo Oliveira > Diogo Giacomini,ok_ordem,2016-05-22,2016-05-14
+2016,Flamengo,Muricy Ramalho[a2],Zé Ricardo[a3],26 de maio,pt.wikipedia,Flamengo,Muricy Ramalho > Jayme de Almeida Filho > Zé Ricardo,ok_ordem,2016-05-29,2016-05-14
+2016,Coritiba,Gilson Kleina,Pachequinho (interino),2 de junho,pt.wikipedia,Coritiba,Gilson Kleina > Pachequinho > Paulo César Carpegiani,ok_ordem,2016-06-04,2016-06-01
+2016,América-MG,Givanildo Oliveira,Sérgio Vieira[a4],3 de junho,pt.wikipedia,América-MG,Givanildo Oliveira > Claudio Prates > Sérgio Vieira > Enderson Moreira,ok_ordem,2016-06-11,2016-06-02
+2016,Corinthians,Tite,Cristóvão Borges[a5],15 de junho,pt.wikipedia,Corinthians,Tite > Fábio Carille > Cristóvão Borges > Fábio Carille > Oswaldo de Oliveira,ok_ordem,2016-06-22,2016-06-12
+2016,Chapecoense,Guto Ferreira,Caio Júnior[a6],24 de junho,pt.wikipedia,Chapecoense,Guto Ferreira > Emerson Cris > Caio Júnior,ok_ordem,2016-06-29,2016-06-23
+2016,Internacional,Argel Fucks,Paulo Roberto Falcão,10 de julho,pt.wikipedia,Internacional,Argel Fuchs > Falcão > Celso Roth > Lisca,ok_ordem,2016-07-17,2016-07-10
+2016,Figueirense,Vinícius Eutrópio,Argel Fucks,11 de julho,pt.wikipedia,Figueirense,Vinícius Eutrópio > Argel Fuchs > Tuca Guimarães > Marquinhos Santos,ok_ordem,2016-07-17,2016-07-10
+2016,América-MG,Sérgio Vieira,Enderson Moreira,17 de julho,pt.wikipedia,América-MG,Givanildo Oliveira > Claudio Prates > Sérgio Vieira > Enderson Moreira,ok_ordem,2016-07-25,2016-07-17
+2016,Cruzeiro,Paulo Bento,Mano Menezes,25 de julho,pt.wikipedia,Cruzeiro,Geraldo Delamore > Paulo Bento > Mano Menezes,ok_ordem,2016-07-31,2016-07-24
+2016,São Paulo,Edgardo Bauza,Ricardo Gomes[a7],4 de agosto,pt.wikipedia,São Paulo,Edgardo Bauza > André Jardine > Ricardo Gomes > Pintado,ok_ordem,2016-08-21,2016-08-03
+2016,Coritiba,Pachequinho (interino),Paulo César Carpegiani,5 de agosto,pt.wikipedia,Coritiba,Gilson Kleina > Pachequinho > Paulo César Carpegiani,ok_ordem,2016-08-07,2016-08-03
+2016,Internacional,Paulo Roberto Falcão,Celso Roth,8 de agosto,pt.wikipedia,Internacional,Argel Fuchs > Falcão > Celso Roth > Lisca,ok_ordem,2016-08-15,2016-08-07
+2016,Santa Cruz,Milton Mendes,Doriva[a8],9 de agosto,pt.wikipedia,Santa Cruz,Milton Mendes > Adriano Teixeira > Doriva > Adriano Teixeira,ok_ordem,2016-08-21,2016-08-07
+2016,Botafogo,Ricardo Gomes,Jair Ventura,12 de agosto,pt.wikipedia,Botafogo,Ricardo Gomes > Jair Ventura,ok_ordem,2016-08-14,2016-08-04
+2016,Figueirense,Argel Fucks,Tuca Guimarães[a9],21 de agosto,pt.wikipedia,Figueirense,Vinícius Eutrópio > Argel Fuchs > Tuca Guimarães > Marquinhos Santos,ok_ordem,2016-09-07,2016-09-04
+2016,Vitória,Vágner Mancini,Argel Fucks,10 de setembro,pt.wikipedia,Vitória,Vagner Mancini > Argel Fuchs,ok_ordem,2016-09-15,2016-09-10
+2016,Grêmio,Roger Machado,Renato Gaúcho[a10],14 de setembro,pt.wikipedia,Grêmio,Roger Machado > James Freitas > Renato Gaúcho > James Freitas,ok_ordem,2016-09-18,2016-09-14
+2016,Corinthians,Cristóvão Borges,Fábio Carille,17 de setembro,pt.wikipedia,Corinthians,Tite > Fábio Carille > Cristóvão Borges > Fábio Carille > Oswaldo de Oliveira,ok_ordem,2016-06-16,2016-09-17
+2016,Figueirense,Tuca Guimarães,Marquinhos Santos,19 de setembro,pt.wikipedia,Figueirense,Vinícius Eutrópio > Argel Fuchs > Tuca Guimarães > Marquinhos Santos,ok_ordem,2016-09-25,2016-09-04
+2016,Corinthians,Fábio Carille,Oswaldo de Oliveira,13 de outubro,pt.wikipedia,Corinthians,Tite > Fábio Carille > Cristóvão Borges > Fábio Carille > Oswaldo de Oliveira,ok_ordem,2016-10-16,2016-10-12
+2016,Sport,Oswaldo de Oliveira,Daniel Paulista,13 de outubro,pt.wikipedia,Sport,Oswaldo de Oliveira > Daniel Paulista,ok_ordem,2016-10-16,2016-10-12
+2016,Santa Cruz,Doriva,Adriano Teixeira (interino),20 de outubro,pt.wikipedia,Santa Cruz,Milton Mendes > Adriano Teixeira > Doriva > Adriano Teixeira,ok_ordem,2016-08-14,2016-10-19
+2016,Fluminense,Levir Culpi,Marcão (interino),6 de novembro,pt.wikipedia,Fluminense,Levir Culpi > Marcão,ok_ordem,2016-11-15,2016-11-06
+2016,Internacional,Celso Roth,Lisca,17 de novembro,pt.wikipedia,Internacional,Argel Fuchs > Falcão > Celso Roth > Lisca,ok_ordem,2016-11-21,2016-11-17
+2016,São Paulo,Ricardo Gomes,Pintado (interino),23 de novembro,pt.wikipedia,São Paulo,Edgardo Bauza > André Jardine > Ricardo Gomes > Pintado,ok_ordem,2016-11-27,2016-11-20
+2016,Atlético-MG,Marcelo Oliveira,Diogo Giacomini (interino),24 de novembro,pt.wikipedia,Atlético-MG,Diego Aguirre > Marcelo Oliveira > Diogo Giacomini,ok_ordem,2016-11-27,2016-11-20
+2016,Ponte Preta,Eduardo Baptista,Felipe Moreira,2 de dezembro,pt.wikipedia,Ponte Preta,Eduardo Baptista > Felipe Moreira,ok_ordem,2016-12-11,2016-11-26
+2017,Atlético-PR,Paulo Autuori,Eduardo Baptista,23 de maio,pt.wikipedia,Athletico-PR,Paulo Autuori > Eduardo Baptista > Fabiano Soares,ok_ordem,2017-05-28,2017-05-21
+2017,Sport,Ney Franco,Vanderlei Luxemburgo[nota 6],25 de maio,pt.wikipedia,Sport,Ney Franco > Daniel Paulista > Vanderlei Luxemburgo > Daniel Paulista,ok_ordem,2017-06-04,2017-05-21
+2017,Bahia,Guto Ferreira,Jorginho,30 de maio,pt.wikipedia,Bahia,Guto Ferreira > Jorginho (Jorge de Amorim) > Preto Casagrande > Paulo César Carpegiani,ok_ordem,2017-06-05,2017-05-28
+2017,Vitória,Dejan Petković,Alexandre Gallo,3 de junho,pt.wikipedia,Vitória,Dejan Petkovic > Alexandre Gallo > Flávio Tanajura > Vagner Mancini,ok_ordem,2017-06-08,2017-06-03
+2017,Santos,Dorival Júnior,Levir Culpi[nota 7],4 de junho,pt.wikipedia,Santos,Dorival Júnior > Elano > Levir Culpi > Elano,ok_ordem,2017-06-14,2017-06-03
+2017,Atlético-GO,Marcelo Cabo,Doriva[nota 8],5 de junho,pt.wikipedia,Atlético-GO,Marcelo Cabo > João Paulo Sanches > Doriva > João Paulo Sanches,ok_ordem,2017-06-11,2017-06-05
+2017,São Paulo,Rogério Ceni,Dorival Júnior[nota 9],3 de julho,pt.wikipedia,São Paulo,Rogério Ceni > Pintado > Dorival Júnior,ok_ordem,2017-07-13,2017-07-02
+2017,Chapecoense,Vagner Mancini,Vinícius Eutrópio,4 de julho,pt.wikipedia,Chapecoense,Vagner Mancini > Vinícius Eutrópio > Emerson Cris > Gilson Kleina,ok_ordem,2017-07-09,2017-07-03
+2017,Atlético-PR,Eduardo Baptista,Fabiano Soares[nota 10],10 de julho,pt.wikipedia,Athletico-PR,Paulo Autuori > Eduardo Baptista > Fabiano Soares,ok_ordem,2017-07-12,2017-07-09
+2017,Coritiba,Pachequinho,Marcelo Oliveira[nota 11],19 de julho,pt.wikipedia,Coritiba,Pachequinho > Marcelo Oliveira,ok_ordem,2017-07-22,2017-07-19
+2017,Atlético-MG,Roger Machado,Rogério Micale[nota 12],20 de julho,pt.wikipedia,Atlético-MG,Roger Machado > Diogo Giacomini > Rogério Micale > Oswaldo de Oliveira,ok_ordem,2017-07-30,2017-07-19
+2017,Vitória,Alexandre Gallo,Vagner Mancini[nota 13],21 de julho,pt.wikipedia,Vitória,Dejan Petkovic > Alexandre Gallo > Flávio Tanajura > Vagner Mancini,ok_ordem,2017-07-30,2017-07-19
+2017,Atlético-GO,Doriva,João Paulo Sanches (interino),21 de julho,pt.wikipedia,Atlético-GO,Marcelo Cabo > João Paulo Sanches > Doriva > João Paulo Sanches,ok_ordem,2017-06-08,2017-07-20
+2017,Bahia,Jorginho,Preto Casagrande[nota 14],31 de julho,pt.wikipedia,Bahia,Guto Ferreira > Jorginho (Jorge de Amorim) > Preto Casagrande > Paulo César Carpegiani,ok_ordem,2017-08-02,2017-07-30
+2017,Flamengo,Zé Ricardo,Reinaldo Rueda[nota 15],6 de agosto,pt.wikipedia,Flamengo,Zé Ricardo > Jayme de Almeida Filho > Reinaldo Rueda,ok_ordem,2017-08-19,2017-08-06
+2017,Vasco da Gama,Milton Mendes,Zé Ricardo[nota 16],21 de agosto,pt.wikipedia,Vasco,Milton Mendes > Valdir Bigode > Zé Ricardo,ok_ordem,2017-09-09,2017-08-20
+2017,Chapecoense,Vinícius Eutrópio,Gilson Kleina[nota 17],11 de setembro,pt.wikipedia,Chapecoense,Vagner Mancini > Vinícius Eutrópio > Emerson Cris > Gilson Kleina,ok_ordem,2017-10-28,2017-09-10
+2017,Ponte Preta,Gilson Kleina,Eduardo Baptista,16 de setembro,pt.wikipedia,Ponte Preta,Gilson Kleina > Eduardo Baptista,ok_ordem,2017-09-24,2017-09-16
+2017,Atlético-MG,Rogério Micale,Oswaldo de Oliveira,24 de setembro,pt.wikipedia,Atlético-MG,Roger Machado > Diogo Giacomini > Rogério Micale > Oswaldo de Oliveira,ok_ordem,2017-10-01,2017-09-24
+2017,Bahia,Preto Casagrande,Paulo César Carpegiani,3 de outubro,pt.wikipedia,Bahia,Guto Ferreira > Jorginho (Jorge de Amorim) > Preto Casagrande > Paulo César Carpegiani,ok_ordem,2017-10-12,2017-09-30
+2017,Palmeiras,Cuca,Alberto Valentim (interino),13 de outubro,pt.wikipedia,Palmeiras,Cuca > Alberto Valentim,ok_ordem,2017-10-15,2017-10-12
+2017,Sport,Vanderlei Luxemburgo,Daniel Paulista,27 de outubro,pt.wikipedia,Sport,Ney Franco > Daniel Paulista > Vanderlei Luxemburgo > Daniel Paulista,ok_ordem,2017-05-28,2017-10-22
+2017,Santos,Levir Culpi,Elano,28 de outubro,pt.wikipedia,Santos,Dorival Júnior > Elano > Levir Culpi > Elano,ok_ordem,2017-06-07,2017-10-28
+2018,Sport,Nelsinho Baptista,Claudinei Oliveira,24 de abril,pt.wikipedia,Sport,Nelsinho Baptista > Claudinei Oliveira > Eduardo Baptista > Milton Mendes,ok_ordem,2018-04-29,2018-04-23
+2018,Ceará,Marcelo Chamusca,Jorginho,20 de maio,pt.wikipedia,Ceará,Marcelo Chamusca > Jorginho (Jorge de Amorim) > Lisca,ok_ordem,2018-05-27,2018-05-20
+2018,Corinthians,Fábio Carille,Osmar Loss,22 de maio,pt.wikipedia,Corinthians,Fábio Carille > Osmar Loss > Jair Ventura,ok_ordem,2018-05-27,2018-05-20
+2018,Vasco,Zé Ricardo,Jorginho[nota 5],2 de junho,pt.wikipedia,Vasco,Zé Ricardo > Valdir Bigode > Jorginho (Jorge de Amorim) > Valdir Bigode > Alberto Valentim,ok_ordem,2018-06-09,2018-06-02
+2018,Bahia,Guto Ferreira,Enderson Moreira[nota 6],3 de junho,pt.wikipedia,Bahia,Guto Ferreira > Claudio Prates > Enderson Moreira,ok_ordem,2018-07-19,2018-06-03
+2018,Ceará,Jorginho,Lisca,4 de junho,pt.wikipedia,Ceará,Marcelo Chamusca > Jorginho (Jorge de Amorim) > Lisca,ok_ordem,2018-06-06,2018-06-03
+2018,Fluminense,Abel Braga,Marcelo Oliveira,16 de junho,pt.wikipedia,Fluminense,Abel Braga > Marcelo Oliveira > Fábio Moreno,ok_ordem,2018-07-19,2018-06-13
+2018,América-MG,Enderson Moreira,Ricardo Drubscky,16 de junho,pt.wikipedia,América-MG,Enderson Moreira > Ricardo Drubscky > Adilson Batista > Givanildo Oliveira,ok_ordem,2018-07-19,2018-06-13
+2018,Botafogo,Alberto Valentim,Marcos Paquetá,19 de junho,pt.wikipedia,Botafogo,Alberto Valentim > Marcos Paquetá > Bruno Lazaroni > Zé Ricardo,ok_ordem,2018-07-18,2018-06-13
+2018,Atlético-PR,Fernando Diniz,Tiago Nunes (interino),25 de junho,pt.wikipedia,Athletico-PR,Fernando Diniz > Tiago Nunes,ok_ordem,2018-07-19,2018-06-13
+2018,Santos,Jair Ventura,Cuca[nota 7],23 de julho,pt.wikipedia,Santos,Jair Ventura > Serginho Chulapa > Cuca,ok_ordem,2018-08-04,2018-07-22
+2018,América-MG,Ricardo Drubscky,Adílson Batista,24 de julho,pt.wikipedia,América-MG,Enderson Moreira > Ricardo Drubscky > Adilson Batista > Givanildo Oliveira,ok_ordem,2018-07-26,2018-07-22
+2018,Palmeiras,Roger Machado,Luiz Felipe Scolari[nota 8],26 de julho,pt.wikipedia,Palmeiras,Roger Machado > Wesley Carvalho > Luiz Felipe Scolari,ok_ordem,2018-08-05,2018-07-25
+2018,Vitória,Vágner Mancini,Paulo César Carpegiani[nota 9],29 de julho,pt.wikipedia,Vitória,Vagner Mancini > João Burse > Paulo César Carpegiani > João Burse,ok_ordem,2018-08-19,2018-07-29
+2018,Botafogo,Marcos Paquetá,Zé Ricardo[nota 11],1 de agosto,pt.wikipedia,Botafogo,Alberto Valentim > Marcos Paquetá > Bruno Lazaroni > Zé Ricardo,ok_ordem,2018-08-12,2018-07-29
+2018,Chapecoense,Gilson Kleina,Guto Ferreira,6 de agosto,pt.wikipedia,Chapecoense,Gilson Kleina > Guto Ferreira > Claudinei Oliveira,ok_ordem,2018-08-12,2018-08-05
+2018,Sport,Claudinei Oliveira,Eduardo Baptista,12 de agosto,pt.wikipedia,Sport,Nelsinho Baptista > Claudinei Oliveira > Eduardo Baptista > Milton Mendes,ok_ordem,2018-08-18,2018-08-12
+2018,Vasco,Jorginho,Alberto Valentim[nota 5],13 de agosto,pt.wikipedia,Vasco,Zé Ricardo > Valdir Bigode > Jorginho (Jorge de Amorim) > Valdir Bigode > Alberto Valentim,ok_ordem,2018-08-29,2018-08-12
+2018,Paraná,Rogério Micale,Claudinei Oliveira,14 de agosto,pt.wikipedia,Paraná,Rogério Micale > Claudinei Oliveira > Dado Cavalcanti,ok_ordem,2018-08-19,2018-08-12
+2018,Corinthians,Osmar Loss,Jair Ventura,5 de setembro,pt.wikipedia,Corinthians,Fábio Carille > Osmar Loss > Jair Ventura,ok_ordem,2018-09-09,2018-09-05
+2018,Sport,Eduardo Baptista,Milton Mendes,24 de setembro,pt.wikipedia,Sport,Nelsinho Baptista > Claudinei Oliveira > Eduardo Baptista > Milton Mendes,ok_ordem,2018-09-30,2018-04-23
+2018,Flamengo,Maurício Barbieri,Dorival Júnior,28 de setembro,pt.wikipedia,Flamengo,Maurício Barbieri > Dorival Júnior,ok_ordem,2018-09-29,2018-09-23
+2018,Chapecoense,Guto Ferreira,Claudinei Oliveira,15 de outubro,pt.wikipedia,Chapecoense,Gilson Kleina > Guto Ferreira > Claudinei Oliveira,ok_ordem,2018-10-21,2018-10-14
+2018,Paraná,Claudinei Oliveira,Dado Cavalcanti,16 de outubro,pt.wikipedia,Paraná,Rogério Micale > Claudinei Oliveira > Dado Cavalcanti,ok_ordem,2018-10-21,2018-10-13
+2018,Atlético-MG,Thiago Larghi,Levir Culpi,17 de outubro,pt.wikipedia,Atlético-MG,Thiago Larghi > Levir Culpi,ok_ordem,2018-10-21,2018-10-14
+2018,Vitória,Paulo César Carpegiani,João Burse (interino),6 de novembro,pt.wikipedia,Vitória,Vagner Mancini > João Burse > Paulo César Carpegiani > João Burse,ok_ordem,2018-08-05,2018-11-04
+2018,América-MG,Adílson Batista,Givanildo Oliveira,10 de novembro,pt.wikipedia,América-MG,Enderson Moreira > Ricardo Drubscky > Adilson Batista > Givanildo Oliveira,ok_ordem,2018-11-15,2018-11-10
+2018,São Paulo,Diego Aguirre,André Jardine[nota 13],11 de novembro,pt.wikipedia,São Paulo,Diego Aguirre > André Jardine,ok_ordem,2018-11-15,2018-11-10
+2018,Fluminense,Marcelo Oliveira,Fábio Moreno (interino),29 de novembro,pt.wikipedia,Fluminense,Abel Braga > Marcelo Oliveira > Fábio Moreno,ok_ordem,2018-12-02,2018-11-25
+2019,Vasco da Gama,Marcos Valadares (interino),Vanderlei Luxemburgo[nota 4],8 de maio,pt.wikipedia,Vasco,Marcos Valadares > Vanderlei Luxemburgo,ok_ordem,2019-05-19,2019-05-12
+2019,Flamengo,Abel Braga,Jorge Jesus[nota 5],29 de maio,pt.wikipedia,Flamengo,Abel Braga > Marcelo Salles > Jorge Jesus,ok_ordem,2019-07-14,2019-05-26
+2019,Avaí,Geninho,Alberto Valentim,17 de junho,pt.wikipedia,Avaí,Geninho > Alberto Valentim > Evando,ok_ordem,2019-07-13,2019-06-13
+2019,CSA,Marcelo Cabo,Argel Fucks,30 de junho,pt.wikipedia,CSA,Marcelo Cabo > Argel Fuchs > Jacozinho,ok_ordem,2019-07-14,2019-06-12
+2019,Chapecoense,Ney Franco,Marquinhos Santos[nota 7],24 de julho,pt.wikipedia,Chapecoense,Ney Franco > Emerson Cris > Marquinhos Santos,ok_ordem,2019-09-22,2019-07-22
+2019,Goiás,Claudinei Oliveira,Ney Franco[nota 8],4 de agosto,pt.wikipedia,Goiás,Claudinei Oliveira > Robson Gomes > Ney Franco,ok_ordem,2019-08-11,2019-08-04
+2019,Cruzeiro,Mano Menezes,Rogério Ceni[nota 10],8 de agosto,pt.wikipedia,Cruzeiro,Mano Menezes > Ricardo Resende > Rogério Ceni > Abel Braga > Adilson Batista,ok_ordem,2019-08-18,2019-08-04
+2019,Fortaleza,Rogério Ceni,Zé Ricardo[nota 11],11 de agosto,pt.wikipedia,Fortaleza,Rogério Ceni > Marconne Montenegro > Zé Ricardo > Rogério Ceni,ok_ordem,2019-08-17,2019-12-08
+2019,Fluminense,Fernando Diniz,Oswaldo de Oliveira,19 de agosto,pt.wikipedia,Fluminense,Fernando Diniz > Oswaldo de Oliveira > Marcão,ok_ordem,2019-09-29,2019-08-18
+2019,Palmeiras,Luiz Felipe Scolari,Mano Menezes,2 de setembro,pt.wikipedia,Palmeiras,Luiz Felipe Scolari > Mano Menezes > Andrey Lopes,ok_ordem,2019-09-07,2019-09-01
+2019,São Paulo,Cuca,Fernando Diniz,26 de setembro,pt.wikipedia,São Paulo,Cuca > Fernando Diniz,ok_ordem,2019-09-28,2019-09-25
+2019,Cruzeiro,Rogério Ceni,Abel Braga,26 de setembro,pt.wikipedia,Cruzeiro,Mano Menezes > Ricardo Resende > Rogério Ceni > Abel Braga > Adilson Batista,ok_ordem,2019-09-30,2019-09-25
+2019,Fortaleza,Zé Ricardo,Rogério Ceni,27 de setembro,pt.wikipedia,Fortaleza,Rogério Ceni > Marconne Montenegro > Zé Ricardo > Rogério Ceni,ok_ordem,2019-04-28,2019-09-26
+2019,Fluminense,Oswaldo de Oliveira,Marcão[nota 12],27 de setembro,pt.wikipedia,Fluminense,Fernando Diniz > Oswaldo de Oliveira > Marcão,ok_ordem,2019-09-29,2019-09-26
+2019,Ceará,Enderson Moreira,Adílson Batista,1 de outubro,pt.wikipedia,Ceará,Enderson Moreira > Adilson Batista > Argel Fuchs,ok_ordem,2019-10-06,2019-09-29
+2019,Botafogo,Eduardo Barroca,Alberto Valentim[nota 13],6 de outubro,pt.wikipedia,Botafogo,Eduardo Barroca > Bruno Lazaroni > Alberto Valentim,ok_ordem,2019-10-16,2019-10-06
+2019,Internacional,Odair Hellmann,Zé Ricardo[nota 14],10 de outubro,pt.wikipedia,Internacional,Odair Hellmann > Ricardo Colbachini > Zé Ricardo,ok_ordem,2019-10-26,2019-10-09
+2019,Avaí,Alberto Valentim,Evando,11 de outubro,pt.wikipedia,Avaí,Geninho > Alberto Valentim > Evando,ok_ordem,2019-10-13,2019-10-10
+2019,Atlético Mineiro,Rodrigo Santana,Vágner Mancini,13 de outubro,pt.wikipedia,Atlético-MG,Rodrigo Santana > Vagner Mancini,ok_ordem,2019-10-16,2019-10-13
+2019,Corinthians,Fábio Carille,Dyego Coelho (interino),3 de novembro,pt.wikipedia,Corinthians,Fábio Carille > Dyego Coelho,ok_ordem,2019-11-06,2019-11-03
+2019,Athletico Paranaense,Tiago Nunes,Eduardo Barros (interino),5 de novembro,pt.wikipedia,Athletico-PR,Tiago Nunes > Eduardo Barros,ok_ordem,2019-11-05,2019-11-03
+2019,Ceará,Adílson Batista,Argel Fucks,28 de novembro,pt.wikipedia,Ceará,Enderson Moreira > Adilson Batista > Argel Fuchs,ok_ordem,2019-11-29,2019-11-26
+2019,CSA,Argel Fucks,Jacozinho (interino),29 de novembro,pt.wikipedia,CSA,Marcelo Cabo > Argel Fuchs > Jacozinho,ok_ordem,2019-11-30,2019-11-27
+2019,Cruzeiro,Abel Braga,Adílson Batista,29 de novembro,pt.wikipedia,Cruzeiro,Mano Menezes > Ricardo Resende > Rogério Ceni > Abel Braga > Adilson Batista,ok_ordem,2019-12-01,2019-11-27
+2019,Palmeiras,Mano Menezes,Andrey Lopes (interino),1 de dezembro,pt.wikipedia,Palmeiras,Luiz Felipe Scolari > Mano Menezes > Andrey Lopes,ok_ordem,2019-12-04,2019-11-30
+2019,Chapecoense,Marquinhos Santos,Emerson Cris (interino),4 de dezembro,pt.wikipedia,Chapecoense,Ney Franco > Emerson Cris > Marquinhos Santos,ordem_invertida,2019-07-28,2019-12-08
+2020,Coritiba,Eduardo Barroca,Jorginho[nota 5],20 de agosto,pt.wikipedia,Coritiba,Eduardo Barroca > Mozart > Jorginho (Jorge de Amorim) > Pachequinho > Rodrigo Santana > Pachequinho > Gustavo Morínigo,ok_ordem,2020-08-30,2020-08-19
+2020,Goiás,Ney Franco,Thiago Larghi[nota 6],20 de agosto,pt.wikipedia,Goiás,Ney Franco > Glauber Ramos > Thiago Larghi > Enderson Moreira > Augusto César > Glauber Ramos > Augusto César,ok_ordem,2020-09-02,2020-08-19
+2020,Sport,Daniel Paulista,Jair Ventura,24 de agosto,pt.wikipedia,Sport,Daniel Paulista > Jair Ventura > Ricardo Henriques > César Lucena > Jair Ventura,ok_ordem,2020-08-30,2020-08-23
+2020,Athletico Paranaense,Dorival Júnior,Paulo Autuori[nota 7],28 de agosto,pt.wikipedia,Athletico-PR,Dorival Júnior > Eduardo Barros > Paulo Autuori > António Oliveira,ok_ordem,2020-10-25,2020-08-26
+2020,Red Bull Bragantino,Felipe Conceição,Maurício Barbieri[nota 8],31 de agosto,pt.wikipedia,Bragantino,Felipe Conceição > Marcinho > Maurício Barbieri,ok_ordem,2020-09-06,2020-08-29
+2020,Bahia,Roger Machado,Mano Menezes[nota 9],2 de setembro,pt.wikipedia,Bahia,Roger Machado > Claudio Prates > Mano Menezes > Dado Cavalcanti,ok_ordem,2020-09-13,2020-09-02
+2020,Corinthians,Tiago Nunes,Vágner Mancini[nota 10],11 de setembro,pt.wikipedia,Corinthians,Tiago Nunes > Dyego Coelho > Vagner Mancini,ok_ordem,2020-10-14,2020-09-10
+2020,Goiás,Thiago Larghi,Enderson Moreira,28 de setembro,pt.wikipedia,Goiás,Ney Franco > Glauber Ramos > Thiago Larghi > Enderson Moreira > Augusto César > Glauber Ramos > Augusto César,ok_ordem,2020-10-04,2020-09-27
+2020,Botafogo,Paulo Autuori,Bruno Lazaroni,1 de outubro,pt.wikipedia,Botafogo,Paulo Autuori > Bruno Lazaroni > Flávio Tenius > Emiliano Díaz > Felipe Lucena > Eduardo Barroca > Lúcio Flávio,ok_ordem,2020-10-04,2020-09-30
+2020,Vasco da Gama,Ramon Menezes,Ricardo Sá Pinto[nota 11],8 de outubro,pt.wikipedia,Vasco,Ramon Menezes > Alexandre Grasseli > Ricardo Sá Pinto > Vanderlei Luxemburgo,ok_ordem,2020-10-21,2020-10-07
+2020,Atlético Goianiense,Vágner Mancini,Marcelo Cabo[nota 12],11 de outubro,pt.wikipedia,Atlético-GO,Vagner Mancini > Eduardo Souza > Marcelo Cabo,ok_ordem,2020-11-14,2020-10-11
+2020,Palmeiras,Vanderlei Luxemburgo,Abel Ferreira[nota 13],14 de outubro,pt.wikipedia,Palmeiras,Vanderlei Luxemburgo > Andrey Lopes > Abel Ferreira,ok_ordem,2020-11-08,2020-10-14
+2020,Coritiba,Jorginho,Rodrigo Santana[nota 14],25 de outubro,pt.wikipedia,Coritiba,Eduardo Barroca > Mozart > Jorginho (Jorge de Amorim) > Pachequinho > Rodrigo Santana > Pachequinho > Gustavo Morínigo,ok_ordem,2020-10-31,2020-10-24
+2020,Botafogo,Bruno Lazaroni,Ramón Díaz[nota 16],28 de outubro,pt.wikipedia,Botafogo,Paulo Autuori > Bruno Lazaroni > Flávio Tenius > Emiliano Díaz > Felipe Lucena > Eduardo Barroca > Lúcio Flávio,entrante_nao_encontrado,,2020-10-19
+2020,Flamengo,Domènec Torrent,Rogério Ceni,9 de novembro,pt.wikipedia,Flamengo,Domènec Torrent > Jordi Guerrero > Jordi Gris > Domènec Torrent > Rogério Ceni,ok_ordem,2020-11-14,2020-11-08
+2020,Internacional,Eduardo Coudet,Abel Braga,9 de novembro,pt.wikipedia,Internacional,Eduardo Coudet > Abel Braga > Leomir > Abel Braga,ok_ordem,2020-11-14,2020-11-08
+2020,Fortaleza,Rogério Ceni,Marcelo Chamusca[nota 17],9 de novembro,pt.wikipedia,Fortaleza,Rogério Ceni > Marconne Montenegro > Marcelo Chamusca > Enderson Moreira,ok_ordem,2020-11-14,2020-11-07
+2020,Goiás,Enderson Moreira,Augusto César,17 de novembro,pt.wikipedia,Goiás,Ney Franco > Glauber Ramos > Thiago Larghi > Enderson Moreira > Augusto César > Glauber Ramos > Augusto César,ok_ordem,2020-11-21,2020-11-14
+2020,Botafogo,Ramón Díaz[nota 18],Eduardo Barroca,27 de novembro,pt.wikipedia,Botafogo,Paulo Autuori > Bruno Lazaroni > Flávio Tenius > Emiliano Díaz > Felipe Lucena > Eduardo Barroca > Lúcio Flávio,saiu_nao_encontrado,2020-12-19,
+2020,Fluminense,Odair Hellmann,Marcão,7 de dezembro,pt.wikipedia,Fluminense,Odair Hellmann > Marcão,ok_ordem,2020-12-13,2020-12-05
+2020,Coritiba,Rodrigo Santana,Gustavo Morínigo[nota 19],13 de dezembro,pt.wikipedia,Coritiba,Eduardo Barroca > Mozart > Jorginho (Jorge de Amorim) > Pachequinho > Rodrigo Santana > Pachequinho > Gustavo Morínigo,ok_ordem,2021-01-16,2021-01-09
+2020,Bahia,Mano Menezes,Dado Cavalcanti,20 de dezembro,pt.wikipedia,Bahia,Roger Machado > Claudio Prates > Mano Menezes > Dado Cavalcanti,ok_ordem,2020-12-27,2020-12-20
+2020,Vasco da Gama,Ricardo Sá Pinto,Vanderlei Luxemburgo,29 de dezembro,pt.wikipedia,Vasco,Ramon Menezes > Alexandre Grasseli > Ricardo Sá Pinto > Vanderlei Luxemburgo,ok_ordem,2021-01-07,2020-12-27
+2020,Fortaleza,Marcelo Chamusca,Enderson Moreira,7 de janeiro,pt.wikipedia,Fortaleza,Rogério Ceni > Marconne Montenegro > Marcelo Chamusca > Enderson Moreira,ok_ordem,2021-01-09,2021-01-06
+2020,São Paulo,Fernando Diniz,Marcos Vizolli (interino),1 de fevereiro,pt.wikipedia,São Paulo,Fernando Diniz > Vizolli,ok_ordem,2021-02-10,2021-01-31
+2020,Botafogo,Eduardo Barroca,Lúcio Flávio (interino),6 de fevereiro,pt.wikipedia,Botafogo,Paulo Autuori > Bruno Lazaroni > Flávio Tenius > Emiliano Díaz > Felipe Lucena > Eduardo Barroca > Lúcio Flávio,ok_ordem,2021-02-08,2021-02-05
+2020,Santos,Cuca,Marcelo Fernandes (interino),21 de fevereiro,pt.wikipedia,Santos,Cuca > Marcelo Fernandes,ok_ordem,2021-02-25,2021-02-21
+2021,Cuiabá,Alberto Valentim,Jorginho[nota 7],29 de maio,pt.wikipedia,Cuiabá,Alberto Valentim > Luiz Fernando Iubel > Jorginho (Jorge de Amorim),ok_ordem,2021-07-04,2021-05-29
+2021,Internacional,Miguel Ángel Ramírez,Diego Aguirre[nota 9],11 de junho,pt.wikipedia,Internacional,Miguel Ángel Ramírez > Osmar Loss > Diego Aguirre,ok_ordem,2021-06-24,2021-06-06
+2021,América Mineiro,Lisca,Vagner Mancini[nota 10],14 de junho,pt.wikipedia,América-MG,Lisca > Cauan de Almeida > Vagner Mancini > Diogo Giacomini > Marquinhos Santos,ok_ordem,2021-06-24,2021-06-13
+2021,Grêmio,Tiago Nunes,Luiz Felipe Scolari[nota 11],4 de julho,pt.wikipedia,Grêmio,Tiago Nunes > Thiago Gomes > Luiz Felipe Scolari > Thiago Gomes > Vagner Mancini,ok_ordem,2021-07-10,2021-07-04
+2021,Flamengo,Rogério Ceni,Renato Gaúcho[nota 12],10 de julho,pt.wikipedia,Flamengo,Rogério Ceni > Maurício Souza > Renato Gaúcho > Maurício Souza,ok_ordem,2021-07-18,2021-07-07
+2021,Chapecoense,Jair Ventura,Pintado,2 de agosto,pt.wikipedia,Chapecoense,Felipe Endres > Jair Ventura > Pintado > Felipe Endres,ok_ordem,2021-08-09,2021-08-01
+2021,Bahia,Dado Cavalcanti,Diego Dabove[nota 13],17 de agosto,pt.wikipedia,Bahia,Dado Cavalcanti > Bruno Lopes > Diego Dabove > Guto Ferreira,ok_ordem,2021-08-30,2021-08-15
+2021,Fluminense,Roger Machado,Marcão,20 de agosto,pt.wikipedia,Fluminense,Roger Machado > Marcão,ok_ordem,2021-08-23,2021-08-15
+2021,Sport,Umberto Louzer,Gustavo Florentín[nota 15],23 de agosto,pt.wikipedia,Sport,Umberto Louzer > Ricardo Severo > Gustavo Florentín,ok_ordem,2021-09-05,2021-08-22
+2021,Ceará,Guto Ferreira,Tiago Nunes,29 de agosto,pt.wikipedia,Ceará,Guto Ferreira > Tiago Nunes,ok_ordem,2021-09-12,2021-08-29
+2021,Santos,Fernando Diniz,Fábio Carille,5 de setembro,pt.wikipedia,Santos,Fernando Diniz > Fábio Carille,ok_ordem,2021-09-11,2021-09-04
+2021,Athletico Paranaense,António Oliveira,Alberto Valentim[nota 17],9 de setembro,pt.wikipedia,Athletico-PR,Paulo Autuori > António Oliveira > Paulo Autuori > Bruno Lazaroni > Alberto Valentim,ok_ordem,2021-10-06,2021-09-05
+2021,Atlético Goianiense,Eduardo Barroca,Marcelo Cabo[nota 18],27 de setembro,pt.wikipedia,Atlético-GO,Eduardo Barroca > Eduardo Souza > Marcelo Cabo,ok_ordem,2021-11-13,2021-09-26
+2021,Bahia,Diego Dabove,Guto Ferreira,6 de outubro,pt.wikipedia,Bahia,Dado Cavalcanti > Bruno Lopes > Diego Dabove > Guto Ferreira,ok_ordem,2021-10-09,2021-10-05
+2021,Grêmio,Luiz Felipe Scolari,Vagner Mancini[nota 11],11 de outubro,pt.wikipedia,Grêmio,Tiago Nunes > Thiago Gomes > Luiz Felipe Scolari > Thiago Gomes > Vagner Mancini,ok_ordem,2021-10-17,2021-10-10
+2021,São Paulo,Hernán Crespo,Rogério Ceni,13 de outubro,pt.wikipedia,São Paulo,Hernán Crespo > Rogério Ceni,ok_ordem,2021-10-14,2021-10-11
+2021,América Mineiro,Vagner Mancini,Marquinhos Santos[nota 19],13 de outubro,pt.wikipedia,América-MG,Lisca > Cauan de Almeida > Vagner Mancini > Diogo Giacomini > Marquinhos Santos,ok_ordem,2021-10-23,2021-10-13
+2021,Juventude,Marquinhos Santos,Jair Ventura,18 de outubro,pt.wikipedia,Juventude,Eduardo Barros > Marquinhos Santos > Jair Ventura,ok_ordem,2021-10-23,2021-10-17
+2021,Chapecoense,Pintado,Felipe Endres (interino),26 de outubro,pt.wikipedia,Chapecoense,Felipe Endres > Jair Ventura > Pintado > Felipe Endres,ok_ordem,2021-05-30,2021-10-24
+2021,Flamengo,Renato Gaúcho,Maurício Souza (interino),29 de novembro,pt.wikipedia,Flamengo,Rogério Ceni > Maurício Souza > Renato Gaúcho > Maurício Souza,ok_ordem,2021-07-11,2021-11-23
+2022,Athletico Paranaense,Alberto Valentim,Fábio Carille,10 de abril,pt.wikipedia,Athletico-PR,Alberto Valentim > Fábio Carille > Wesley Carvalho > Luiz Felipe Scolari,ok_ordem,2022-04-17,2022-04-10
+2022,América Mineiro,Marquinhos Santos,Vagner Mancini,11 de abril,pt.wikipedia,América-MG,Marquinhos Santos > Vagner Mancini,ok_ordem,2022-04-16,2022-04-10
+2022,Goiás,Glauber Ramos (interino),Jair Ventura,14 de abril,pt.wikipedia,Goiás,Glauber Ramos > Jair Ventura,ok_ordem,2022-04-16,2022-04-10
+2022,Internacional,Alexander Medina,Mano Menezes[nota 6],15 de abril,pt.wikipedia,Internacional,Alexander Medina > Cauan de Almeida > Mano Menezes,ok_ordem,2022-05-01,2022-04-10
+2022,Fluminense,Abel Braga,Fernando Diniz[nota 7],28 de abril,pt.wikipedia,Fluminense,Abel Braga > Marcão > Fernando Diniz,ok_ordem,2022-05-08,2022-04-23
+2022,Athletico Paranaense,Fábio Carille,Luiz Felipe Scolari[nota 9],3 de maio,pt.wikipedia,Athletico-PR,Alberto Valentim > Fábio Carille > Wesley Carvalho > Luiz Felipe Scolari,ok_ordem,2022-05-14,2022-04-30
+2022,Cuiabá,Pintado,António Oliveira[nota 11],12 de maio,pt.wikipedia,Cuiabá,Pintado > Luiz Fernando Iubel > António Oliveira,ok_ordem,2022-06-07,2022-05-08
+2022,Atlético Goianiense,Umberto Louzer,Jorginho,15 de maio,pt.wikipedia,Atlético-GO,Umberto Louzer > Jorginho (Jorge de Amorim) > Eduardo Baptista > Eduardo Souza,ok_ordem,2022-05-21,2022-05-14
+2022,Ceará,Dorival Júnior,Marquinhos Santos[nota 12],9 de junho,pt.wikipedia,Ceará,Dorival Júnior > Marquinhos Santos > Juca > Lucho González > Juca,ok_ordem,2022-06-12,2022-06-08
+2022,Flamengo,Paulo Sousa,Dorival Júnior,9 de junho,pt.wikipedia,Flamengo,Paulo Sousa > Dorival Júnior,ok_ordem,2022-06-11,2022-06-08
+2022,Juventude,Eduardo Baptista,Umberto Louzer,20 de junho,pt.wikipedia,Juventude,Eduardo Baptista > Umberto Louzer > Lucas Zanella > Celso Roth,ok_ordem,2022-06-25,2022-06-19
+2022,Santos,Fabián Bustos,Lisca[nota 13],7 de julho,pt.wikipedia,Santos,Fabián Bustos > Marcelo Fernandes > Lisca > Orlando Ribeiro,ok_ordem,2022-07-23,2022-07-02
+2022,Atlético Mineiro,Antonio Mohamed,Cuca[nota 14],21 de julho,pt.wikipedia,Atlético-MG,Antonio Mohamed > Lucas Gonçalves > Cuca,ok_ordem,2022-07-31,2022-07-21
+2022,Coritiba,Gustavo Morínigo,Guto Ferreira,14 de agosto,pt.wikipedia,Coritiba,Gustavo Morínigo > Guto Ferreira,ok_ordem,2022-08-20,2022-08-14
+2022,Ceará,Marquinhos Santos,Lucho González[nota 15],14 de agosto,pt.wikipedia,Ceará,Dorival Júnior > Marquinhos Santos > Juca > Lucho González > Juca,ok_ordem,2022-09-04,2022-08-14
+2022,Atlético Goianiense,Jorginho,Eduardo Baptista,27 de agosto,pt.wikipedia,Atlético-GO,Umberto Louzer > Jorginho (Jorge de Amorim) > Eduardo Baptista > Eduardo Souza,ok_ordem,2022-09-04,2022-08-27
+2022,Avaí,Eduardo Barroca,Lisca,12 de setembro,pt.wikipedia,Avaí,Eduardo Barroca > Lisca > Fabrício Bento,ok_ordem,2022-09-17,2022-09-11
+2022,Santos,Lisca,Orlando Ribeiro (interino),12 de setembro,pt.wikipedia,Santos,Fabián Bustos > Marcelo Fernandes > Lisca > Orlando Ribeiro,ok_ordem,2022-09-18,2022-09-10
+2022,Atlético Goianiense,Eduardo Baptista,Eduardo Souza (interino),29 de setembro,pt.wikipedia,Atlético-GO,Umberto Louzer > Jorginho (Jorge de Amorim) > Eduardo Baptista > Eduardo Souza,ok_ordem,2022-10-01,2022-09-28
+2022,Juventude,Umberto Louzer,Celso Roth[nota 16],3 de outubro,pt.wikipedia,Juventude,Eduardo Baptista > Umberto Louzer > Lucas Zanella > Celso Roth,ok_ordem,2022-11-02,2022-10-01
+2022,Avaí,Lisca,Fabrício Bento (interino),24 de outubro,pt.wikipedia,Avaí,Eduardo Barroca > Lisca > Fabrício Bento,ok_ordem,2022-10-27,2022-10-22
+2022,Ceará,Lucho González,Juca Antonello,28 de outubro,pt.wikipedia,Ceará,Dorival Júnior > Marquinhos Santos > Juca > Lucho González > Juca,ok_ordem,2022-08-21,2022-10-26
+2022,Red Bull Bragantino,Maurício Barbieri,Márcio Freitas (interino),10 de novembro,pt.wikipedia,Bragantino,Maurício Barbieri > Marcinho,ok_ordem,2022-11-13,2022-11-09
+2023,Flamengo,Mario Jorge (interino),Jorge Sampaoli[nota 5],17 de abril,pt.wikipedia,Flamengo,Mário Jorge > Jorge Sampaoli > Mário Jorge > Tite,ok_ordem,2023-04-16,2023-10-07
+2023,Coritiba,António Oliveira,Antônio Carlos Zago[nota 6],18 de abril,pt.wikipedia,Coritiba,António Oliveira > Leonardo Galbes > Antônio Carlos Zago > Thiago Kosloski > Guto Ferreira,ok_ordem,2023-04-29,2023-04-16
+2023,São Paulo,Rogério Ceni,Dorival Júnior,19 de abril,pt.wikipedia,São Paulo,Rogério Ceni > Dorival Júnior,ok_ordem,2023-04-22,2023-04-15
+2023,Corinthians,Fernando Lázaro,Cuca,20 de abril,pt.wikipedia,Corinthians,Fernando Lázaro > Cuca > Danilo > Vanderlei Luxemburgo > Mano Menezes,ok_ordem,2023-04-23,2023-04-16
+2023,Corinthians,Cuca,Vanderlei Luxemburgo[nota 10],27 de abril,pt.wikipedia,Corinthians,Fernando Lázaro > Cuca > Danilo > Vanderlei Luxemburgo > Mano Menezes,ok_ordem,2023-05-08,2023-04-23
+2023,Cuiabá,Ivo Vieira,António Oliveira[nota 11],10 de maio,pt.wikipedia,Cuiabá,Ivo Vieira > Luiz Fernando Iubel > António Oliveira,ok_ordem,2023-05-27,2023-05-10
+2023,Goiás,Emerson Ávila (interino),Armando Evangelista[nota 12],9 de junho,pt.wikipedia,Goiás,Émerson Ávila > Armando Evangelista > Mário Henrique,ok_ordem,2023-06-22,2023-06-11
+2023,Atlético Mineiro,Eduardo Coudet,Felipão,11 de junho,pt.wikipedia,Atlético-MG,Eduardo Coudet > Luiz Felipe Scolari,entrante_nao_encontrado,,2023-06-10
+2023,Athletico Paranaense,Paulo Turra,Wesley Carvalho (interino),16 de junho,pt.wikipedia,Athletico-PR,Paulo Turra > Wesley Carvalho,ok_ordem,2023-06-21,2023-06-11
+2023,Santos,Odair Hellmann,Paulo Turra[nota 13],22 de junho,pt.wikipedia,Santos,Odair Hellmann > Claudiomiro > Paulo Turra > Diego Aguirre > Marcelo Fernandes,ok_ordem,2023-07-02,2023-06-21
+2023,Vasco da Gama,Maurício Barbieri,Ramón Díaz[nota 14],22 de junho,pt.wikipedia,Vasco,Maurício Barbieri > William Batista > Ramón Díaz,ok_ordem,2023-07-23,2023-06-22
+2023,Coritiba,Antônio Carlos Zago,Thiago Kosloski,27 de junho,pt.wikipedia,Coritiba,António Oliveira > Leonardo Galbes > Antônio Carlos Zago > Thiago Kosloski > Guto Ferreira,ok_ordem,2023-07-03,2023-06-25
+2023,Botafogo,Luís Castro,Bruno Lage[nota 15],29 de junho,pt.wikipedia,Botafogo,Luís Castro > Cláudio Caçapa > Bruno Lage > Lúcio Flávio > Tiago Nunes,ok_ordem,2023-07-23,2023-06-25
+2023,Internacional,Mano Menezes,Eduardo Coudet,17 de julho,pt.wikipedia,Internacional,Mano Menezes > Eduardo Coudet,ok_ordem,2023-07-23,2023-07-16
+2023,Santos,Paulo Turra,Diego Aguirre,6 de agosto,pt.wikipedia,Santos,Odair Hellmann > Claudiomiro > Paulo Turra > Diego Aguirre > Marcelo Fernandes,ok_ordem,2023-08-13,2023-08-05
+2023,América Mineiro,Vagner Mancini,Fabián Bustos,6 de agosto,pt.wikipedia,América-MG,Vagner Mancini > Fabián Bustos > Diogo Giacomini,ok_ordem,2023-08-13,2023-08-06
+2023,Cruzeiro,Pepa,Zé Ricardo[nota 16],29 de agosto,pt.wikipedia,Cruzeiro,Pepa > Fernando Seabra > Zé Ricardo > Paulo Autuori,ok_ordem,2023-09-14,2023-08-27
+2023,Bahia,Renato Paiva,Rogério Ceni,6 de setembro,pt.wikipedia,Bahia,Renato Paiva > Rogério Ceni,ok_ordem,2023-09-14,2023-09-03
+2023,Santos,Diego Aguirre,Marcelo Fernandes,15 de setembro,pt.wikipedia,Santos,Odair Hellmann > Claudiomiro > Paulo Turra > Diego Aguirre > Marcelo Fernandes,ok_ordem,2023-09-18,2023-09-14
+2023,Corinthians,Vanderlei Luxemburgo,Mano Menezes,27 de setembro,pt.wikipedia,Corinthians,Fernando Lázaro > Cuca > Danilo > Vanderlei Luxemburgo > Mano Menezes,ok_ordem,2023-09-30,2023-09-22
+2023,Flamengo,Jorge Sampaoli,Tite[nota 17],28 de setembro,pt.wikipedia,Flamengo,Mário Jorge > Jorge Sampaoli > Mário Jorge > Tite,ok_ordem,2023-10-19,2023-10-07
+2023,Botafogo,Bruno Lage,Lúcio Flávio (interino),3 de outubro,pt.wikipedia,Botafogo,Luís Castro > Cláudio Caçapa > Bruno Lage > Lúcio Flávio > Tiago Nunes,ok_ordem,2023-10-08,2023-10-02
+2023,América Mineiro,Fabián Bustos,Diogo Giacomini (interino),9 de novembro,pt.wikipedia,América-MG,Vagner Mancini > Fabián Bustos > Diogo Giacomini,ok_ordem,2023-11-12,2023-11-08
+2023,Botafogo,Lúcio Flávio (interino),Tiago Nunes,12 de novembro,pt.wikipedia,Botafogo,Luís Castro > Cláudio Caçapa > Bruno Lage > Lúcio Flávio > Tiago Nunes,ok_ordem,2023-11-23,2023-11-12
+2023,Cruzeiro,Zé Ricardo,Paulo Autuori (interino),12 de novembro,pt.wikipedia,Cruzeiro,Pepa > Fernando Seabra > Zé Ricardo > Paulo Autuori,ok_ordem,2023-11-18,2023-11-11
+2023,Goiás,Armando Evangelista,Mário Henrique (interino),14 de novembro,pt.wikipedia,Goiás,Émerson Ávila > Armando Evangelista > Mário Henrique,ok_ordem,2023-11-27,2023-11-12
+2023,Coritiba,Thiago Kosloski,Guto Ferreira[nota 18],27 de novembro,pt.wikipedia,Coritiba,António Oliveira > Leonardo Galbes > Antônio Carlos Zago > Thiago Kosloski > Guto Ferreira,ok_ordem,2023-11-29,2023-11-25
+2024,São Paulo,Thiago Carpini,Luis Zubeldía[nota 4],18 de abril,pt.wikipedia,São Paulo,Thiago Carpini > Milton Cruz > Luis Zubeldía,ok_ordem,2024-04-29,2024-04-17
+2024,Vasco da Gama,Ramón Díaz,Álvaro Pacheco[nota 5],27 de abril,pt.wikipedia,Vasco,Ramón Díaz > Rafael Paiva > Álvaro Pacheco > Rafael Paiva > Felipe Loureiro,ok_ordem,2024-06-02,2024-04-27
+2024,Cuiabá,Luiz Fernando Iubel (interino),Petit,1 de maio,pt.wikipedia,Cuiabá,Luiz Fernando Iubel > Ricardo Colbachini > Petit > Bernardo Franco,ok_ordem,2024-06-01,2024-04-27
+2024,Vitória,Léo Condé,Thiago Carpini,14 de maio,pt.wikipedia,Vitória,Léo Condé > Thiago Carpini,ok_ordem,2024-06-01,2024-05-12
+2024,Vasco da Gama,Álvaro Pacheco,Rafael Paiva (interino),20 de junho,pt.wikipedia,Vasco,Ramón Díaz > Rafael Paiva > Álvaro Pacheco > Rafael Paiva > Felipe Loureiro,ok_ordem,2024-05-05,2024-06-19
+2024,Atlético Goianiense,Jair Ventura,Vagner Mancini[nota 6],21 de junho,pt.wikipedia,Atlético-GO,Jair Ventura > Anderson Gomes > Vagner Mancini > Umberto Louzer > Anderson Gomes,ok_ordem,2024-07-11,2024-06-19
+2024,Athletico Paranaense,Cuca,Martín Varini[nota 7],24 de junho,pt.wikipedia,Athletico-PR,Cuca > Juca > Martín Varini > Lucho González,ok_ordem,2024-07-21,2024-06-23
+2024,Fluminense,Fernando Diniz,Mano Menezes[nota 8],24 de junho,pt.wikipedia,Fluminense,Fernando Diniz > Marcão > Mano Menezes,ok_ordem,2024-07-04,2024-06-23
+2024,Corinthians,António Oliveira,Ramón Díaz[nota 9],2 de julho,pt.wikipedia,Corinthians,António Oliveira > Raphael Laruccia > Ramón Díaz,ok_ordem,2024-07-16,2024-07-01
+2024,Internacional,Eduardo Coudet,Roger Machado,10 de julho,pt.wikipedia,Internacional,Eduardo Coudet > Roger Machado,ok_ordem,2024-07-20,2024-07-07
+2024,Juventude,Roger Machado,Jair Ventura,17 de julho,pt.wikipedia,Juventude,Roger Machado > Jair Ventura > Fábio Matias,ok_ordem,2024-07-21,2024-07-16
+2024,Atlético Goianiense,Vagner Mancini,Umberto Louzer,5 de agosto,pt.wikipedia,Atlético-GO,Jair Ventura > Anderson Gomes > Vagner Mancini > Umberto Louzer > Anderson Gomes,ok_ordem,2024-08-11,2024-08-03
+2024,Cuiabá,Petit,Bernardo Franco,27 de agosto,pt.wikipedia,Cuiabá,Luiz Fernando Iubel > Ricardo Colbachini > Petit > Bernardo Franco,ok_ordem,2024-08-31,2024-08-24
+2024,Cruzeiro,Fernando Seabra,Fernando Diniz,23 de setembro,pt.wikipedia,Cruzeiro,Fernando Seabra > Fernando Diniz,ok_ordem,2024-09-29,2024-09-22
+2024,Athletico Paranaense,Martín Varini,Lucho González,23 de setembro,pt.wikipedia,Athletico-PR,Cuca > Juca > Martín Varini > Lucho González,ok_ordem,2024-09-29,2024-09-22
+2024,Flamengo,Tite,Filipe Luís,30 de setembro,pt.wikipedia,Flamengo,Tite > Filipe Luís,ok_ordem,2024-10-05,2024-09-29
+2024,Juventude,Jair Ventura,Fábio Matias,26 de outubro,pt.wikipedia,Juventude,Roger Machado > Jair Ventura > Fábio Matias,ok_ordem,2024-11-02,2024-10-26
+2024,Red Bull Bragantino,Pedro Caixinha,Fernando Seabra,27 de outubro,pt.wikipedia,Bragantino,Pedro Caixinha > Fernando Seabra,ok_ordem,2024-11-02,2024-10-26
+2024,Atlético Goianiense,Umberto Louzer,Anderson Gomes (interino),29 de outubro,pt.wikipedia,Atlético-GO,Jair Ventura > Anderson Gomes > Vagner Mancini > Umberto Louzer > Anderson Gomes,ok_ordem,2024-06-22,2024-10-26
+2024,Vasco da Gama,Rafael Paiva (interino),Felipe Maestro (interino),24 de novembro,pt.wikipedia,Vasco,Ramón Díaz > Rafael Paiva > Álvaro Pacheco > Rafael Paiva > Felipe Loureiro,ok_ordem,2024-11-30,2024-11-24
+2024,Atlético Mineiro,Gabriel Milito,Lucas Gonçalves (interino),4 de dezembro,pt.wikipedia,Atlético-MG,Gabriel Milito > Lucas Gonçalves,ok_ordem,2024-12-08,2024-12-04
+2025,Fluminense,Mano Menezes,Renato Gaúcho,30 de março,pt.wikipedia,Fluminense,Mano Menezes > Renato Gaúcho > Luis Zubeldía,ok_ordem,2025-04-06,2025-03-29
+2025,Santos,Pedro Caixinha,Cléber Xavier[nota 5],14 de abril,pt.wikipedia,Santos,Pedro Caixinha > César Sampaio > Cléber Xavier > Matheus Bachi > Juan Pablo Vojvoda,ok_ordem,2025-05-04,2025-04-13
+2025,Grêmio,Gustavo Quinteros,Mano Menezes[nota 6],16 de abril,pt.wikipedia,Grêmio,Gustavo Quinteros > James Freitas > Mano Menezes,ok_ordem,2025-04-27,2025-04-16
+2025,Corinthians,Ramón Díaz,Dorival Júnior[nota 7],17 de abril,pt.wikipedia,Corinthians,Ramón Díaz > Orlando Ribeiro > Dorival Júnior,ok_ordem,2025-05-03,2025-04-16
+2025,Vasco da Gama,Fábio Carille,Fernando Diniz[nota 8],27 de abril,pt.wikipedia,Vasco,Fábio Carille > Felipe Loureiro > Fernando Diniz,ok_ordem,2025-05-10,2025-04-27
+2025,Sport,Pepa,António Oliveira,3 de maio,pt.wikipedia,Sport,Pepa > António Oliveira > Daniel Paulista > César Lucena,ok_ordem,2025-05-11,2025-05-03
+2025,Juventude,Fábio Matias,Claudio Tencati,11 de maio,pt.wikipedia,Juventude,Fábio Matias > Claudio Tencati > Gerson Ramos > Thiago Carpini,ok_ordem,2025-05-18,2025-05-10
+2025,Sport,António Oliveira,Daniel Paulista,4 de junho,pt.wikipedia,Sport,Pepa > António Oliveira > Daniel Paulista > César Lucena,ok_ordem,2025-07-14,2025-06-01
+2025,São Paulo,Luis Zubeldía,Hernán Crespo,16 de junho,pt.wikipedia,São Paulo,Luis Zubeldía > Hernán Crespo,ok_ordem,2025-07-12,2025-06-12
+2025,Botafogo,Renato Paiva,Davide Ancelotti,29 de junho,pt.wikipedia,Botafogo,Renato Paiva > Davide Ancelotti,ok_ordem,2025-07-12,2025-06-04
+2025,Vitória,Thiago Carpini,Fábio Carille,9 de julho,pt.wikipedia,Vitória,Thiago Carpini > Fábio Carille > Rodrigo Chagas > Jair Ventura,ok_ordem,2025-07-12,2025-06-12
+2025,Fortaleza,Juan Pablo Vojvoda,Renato Paiva,14 de julho,pt.wikipedia,Fortaleza,Juan Pablo Vojvoda > Renato Paiva > Martín Palermo,ok_ordem,2025-07-19,2025-07-13
+2025,Juventude,Claudio Tencati,Thiago Carpini[nota 11],29 de julho,pt.wikipedia,Juventude,Fábio Matias > Claudio Tencati > Gerson Ramos > Thiago Carpini,ok_ordem,2025-08-11,2025-07-27
+2025,Santos,Cléber Xavier,Juan Pablo Vojvoda[nota 12],17 de agosto,pt.wikipedia,Santos,Pedro Caixinha > César Sampaio > Cléber Xavier > Matheus Bachi > Juan Pablo Vojvoda,ok_ordem,2025-08-31,2025-08-17
+2025,Vitória,Fábio Carille,Rodrigo Chagas,25 de agosto,pt.wikipedia,Vitória,Thiago Carpini > Fábio Carille > Rodrigo Chagas > Jair Ventura,ok_ordem,2025-08-31,2025-08-25
+2025,Atlético Mineiro,Cuca,Jorge Sampaoli[nota 14],29 de agosto,pt.wikipedia,Atlético-MG,Cuca > Lucas Gonçalves > Jorge Sampaoli,ok_ordem,2025-09-14,2025-08-24
+2025,Fortaleza,Renato Paiva,Martín Palermo,2 de setembro,pt.wikipedia,Fortaleza,Juan Pablo Vojvoda > Renato Paiva > Martín Palermo,ok_ordem,2025-09-13,2025-08-31
+2025,Internacional,Roger Machado,Ramón Díaz,21 de setembro,pt.wikipedia,Internacional,Roger Machado > Ramón Díaz > Abel Braga,ok_ordem,2025-09-27,2025-09-21
+2025,Fluminense,Renato Gaúcho,Luis Zubeldía,24 de setembro,pt.wikipedia,Fluminense,Mano Menezes > Renato Gaúcho > Luis Zubeldía,ok_ordem,2025-09-28,2025-09-20
+2025,Vitória,Rodrigo Chagas,Jair Ventura,24 de setembro,pt.wikipedia,Vitória,Thiago Carpini > Fábio Carille > Rodrigo Chagas > Jair Ventura,ok_ordem,2025-09-28,2025-09-20
+2025,Red Bull Bragantino,Fernando Seabra,Vagner Mancini,27 de outubro,pt.wikipedia,Bragantino,Fernando Seabra > Vagner Mancini,ok_ordem,2025-11-02,2025-10-26
+2025,Sport,Daniel Paulista,César Lucena (interino),28 de outubro,pt.wikipedia,Sport,Pepa > António Oliveira > Daniel Paulista > César Lucena,ok_ordem,2025-11-01,2025-10-25
+2025,Internacional,Ramón Díaz,Abel Braga,29 de novembro,pt.wikipedia,Internacional,Roger Machado > Ramón Díaz > Abel Braga,ok_ordem,2025-12-03,2025-11-28

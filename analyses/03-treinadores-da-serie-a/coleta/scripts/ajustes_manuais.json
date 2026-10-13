@@ -1,0 +1,11 @@
+{
+  "_doc": "Ajustes manuais justificados. nomes: tm_id -> nome padronizado (homônimos). unir_tm: [tm_id_duplicado, tm_id_principal]. manter_substituto: 'clube_tm_id|ano|data' para NÃO aplicar a regra de ausência pontual.",
+  "nomes": {
+    "12938": "Jorginho Cantinflas",
+    "3622": "Jorginho (Jorge de Amorim)"
+  },
+  "unir_tm": [],
+  "aliases_cbf": {},
+  "manter_substituto": [],
+  "max_ausencia": 2
+}

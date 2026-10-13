@@ -1,0 +1,1106 @@
+minimo_jogos,metrica,lado,pos,empate,treinador,jogos,V,E,D,valor,aprov
+20,aproveitamento,maior,1,,Jorge Jesus,29,23,4,2,0.8391,0.8391
+20,aproveitamento,maior,2,,Filipe Luís,48,29,13,6,0.6944,0.6944
+20,aproveitamento,maior,3,,Artur Jorge,38,23,10,5,0.6930,0.6930
+20,aproveitamento,maior,4,,Abel Ferreira,206,114,46,46,0.6278,0.6278
+20,aproveitamento,maior,5,,Leonardo Jardim,38,19,13,6,0.6140,0.6140
+20,aproveitamento,maior,6,,Andrade,41,21,12,8,0.6098,0.6098
+20,aproveitamento,maior,7,,Rafael Guanaes,38,18,13,7,0.5877,0.5877
+20,aproveitamento,maior,8,,Jorge Sampaoli,116,57,29,30,0.5747,0.5747
+20,aproveitamento,maior,9,,Roberto Rojas,39,19,10,10,0.5726,0.5726
+20,aproveitamento,maior,10,,Muricy Ramalho,441,214,115,112,0.5722,0.5722
+20,aproveitamento,maior,11,,Vítor Pereira,38,18,11,9,0.5702,0.5702
+20,aproveitamento,maior,12,=,Davide Ancelotti,27,12,9,6,0.5556,0.5556
+20,aproveitamento,maior,12,=,Alexandre Gama,21,10,5,6,0.5556,0.5556
+20,aproveitamento,maior,14,,Luís Castro,50,25,8,17,0.5533,0.5533
+20,aproveitamento,maior,15,,Levir Culpi,207,95,55,57,0.5475,0.5475
+20,aproveitamento,maior,16,,Odair Hellmann,99,45,27,27,0.5455,0.5455
+20,aproveitamento,maior,17,,Tite,376,172,97,107,0.5434,0.5434
+20,aproveitamento,maior,18,,Eduardo Coudet,66,29,19,18,0.5354,0.5354
+20,aproveitamento,maior,19,,Luis Zubeldía,63,28,17,18,0.5344,0.5344
+20,aproveitamento,maior,20,,Emerson Leão,208,94,51,63,0.5337,0.5337
+20,aproveitamento,menor,1,,Umberto Louzer,49,7,16,26,0.2517,0.2517
+20,aproveitamento,menor,2,,Lucho González,23,4,6,13,0.2609,0.2609
+20,aproveitamento,menor,3,,Arthur Neto,33,7,5,21,0.2626,0.2626
+20,aproveitamento,menor,4,,Doriva,57,13,13,31,0.3041,0.3041
+20,aproveitamento,menor,5,,Rogério Micale,27,6,7,14,0.3086,0.3086
+20,aproveitamento,menor,6,,Claudio Tencati,45,10,12,23,0.3111,0.3111
+20,aproveitamento,menor,7,,Pepa,28,6,9,13,0.3214,0.3214
+20,aproveitamento,menor,8,,Fabián Bustos,31,6,12,13,0.3226,0.3226
+20,aproveitamento,menor,9,,Marcelo Martelotte,32,8,7,17,0.3229,0.3229
+20,aproveitamento,menor,10,,Toninho Cecílio,40,9,12,19,0.3250,0.3250
+20,aproveitamento,menor,11,,Dado Cavalcanti,41,10,10,21,0.3252,0.3252
+20,aproveitamento,menor,12,=,Eduardo Barroca,83,21,20,42,0.3333,0.3333
+20,aproveitamento,menor,12,=,Gustavo Morínigo,31,8,7,16,0.3333,0.3333
+20,aproveitamento,menor,12,=,Zetti,30,8,6,16,0.3333,0.3333
+20,aproveitamento,menor,12,=,Marinho Peres,21,6,3,12,0.3333,0.3333
+20,aproveitamento,menor,16,,Vinícius Eutrópio,55,14,14,27,0.3394,0.3394
+20,aproveitamento,menor,17,,Léo Condé,43,11,11,21,0.3411,0.3411
+20,aproveitamento,menor,18,,Ricardo Silva,21,5,7,9,0.3492,0.3492
+20,aproveitamento,menor,19,,Pintado,40,10,12,18,0.3500,0.3500
+20,aproveitamento,menor,20,,Daniel Paulista,41,11,11,19,0.3577,0.3577
+20,vitorias,maior,1,,Cuca,612,266,170,176,266.0000,0.5272
+20,vitorias,maior,2,=,Renato Gaúcho,533,229,145,159,229.0000,0.5203
+20,vitorias,maior,2,=,Vanderlei Luxemburgo,530,229,144,157,229.0000,0.5226
+20,vitorias,maior,4,,Dorival Júnior,530,216,136,178,216.0000,0.4931
+20,vitorias,maior,5,,Muricy Ramalho,441,214,115,112,214.0000,0.5722
+20,vitorias,maior,6,,Mano Menezes,465,199,128,138,199.0000,0.5197
+20,vitorias,maior,7,,Tite,376,172,97,107,172.0000,0.5434
+20,vitorias,maior,8,,Abel Braga,374,158,98,118,158.0000,0.5098
+20,vitorias,maior,9,,Vagner Mancini,454,146,120,188,146.0000,0.4097
+20,vitorias,maior,10,,Celso Roth,365,142,86,137,142.0000,0.4676
+20,vitorias,maior,11,,Marcelo Oliveira,309,130,75,104,130.0000,0.5016
+20,vitorias,maior,12,,Abel Ferreira,206,114,46,46,114.0000,0.6278
+20,vitorias,maior,13,,Ney Franco,294,106,77,111,106.0000,0.4478
+20,vitorias,maior,14,,Adilson Batista,267,102,68,97,102.0000,0.4669
+20,vitorias,maior,15,,Rogério Ceni,236,96,55,85,96.0000,0.4845
+20,vitorias,maior,16,=,Oswaldo de Oliveira,255,95,67,93,95.0000,0.4601
+20,vitorias,maior,16,=,Luiz Felipe Scolari,233,95,71,67,95.0000,0.5093
+20,vitorias,maior,16,=,Levir Culpi,207,95,55,57,95.0000,0.5475
+20,vitorias,maior,19,,Emerson Leão,208,94,51,63,94.0000,0.5337
+20,vitorias,maior,20,,Geninho,271,89,74,108,89.0000,0.4194
+20,vitorias,menor,1,,Lucho González,23,4,6,13,4.0000,0.2609
+20,vitorias,menor,2,,Ricardo Silva,21,5,7,9,5.0000,0.3492
+20,vitorias,menor,3,=,Fabián Bustos,31,6,12,13,6.0000,0.3226
+20,vitorias,menor,3,=,Pepa,28,6,9,13,6.0000,0.3214
+20,vitorias,menor,3,=,Rogério Micale,27,6,7,14,6.0000,0.3086
+20,vitorias,menor,3,=,Dimas Filgueiras,25,6,11,8,6.0000,0.3867
+20,vitorias,menor,3,=,Jairo Araújo,24,6,8,10,6.0000,0.3611
+20,vitorias,menor,3,=,Armando Evangelista,24,6,9,9,6.0000,0.3750
+20,vitorias,menor,3,=,Julinho Camargo,21,6,6,9,6.0000,0.3810
+20,vitorias,menor,3,=,Marinho Peres,21,6,3,12,6.0000,0.3333
+20,vitorias,menor,3,=,Edson Gaúcho,20,6,5,9,6.0000,0.3833
+20,vitorias,menor,3,=,Gustavo Florentín,20,6,4,10,6.0000,0.3667
+20,vitorias,menor,13,=,Umberto Louzer,49,7,16,26,7.0000,0.2517
+20,vitorias,menor,13,=,Arthur Neto,33,7,5,21,7.0000,0.2626
+20,vitorias,menor,13,=,Eduardo Souza,24,7,8,9,7.0000,0.4028
+20,vitorias,menor,13,=,Beto Almeida,20,7,3,10,7.0000,0.4000
+20,vitorias,menor,17,=,Marcelo Martelotte,32,8,7,17,8.0000,0.3229
+20,vitorias,menor,17,=,Gustavo Morínigo,31,8,7,16,8.0000,0.3333
+20,vitorias,menor,17,=,Zetti,30,8,6,16,8.0000,0.3333
+20,vitorias,menor,17,=,Jayme de Almeida Filho,26,8,7,11,8.0000,0.3974
+20,vitorias,menor,17,=,Osmar Loss,26,8,7,11,8.0000,0.3974
+20,vitorias,menor,17,=,Dunga,25,8,10,7,8.0000,0.4533
+20,vitorias,menor,17,=,João Paulo Sanches,24,8,7,9,8.0000,0.4306
+20,vitorias,menor,17,=,Sérgio Guedes,24,8,7,9,8.0000,0.4306
+20,vitorias,menor,17,=,Thiago Kosloski,23,8,1,14,8.0000,0.3623
+20,vitorias,menor,17,=,Márcio Fernandes,21,8,8,5,8.0000,0.5079
+20,pct_vitorias,maior,1,,Jorge Jesus,29,23,4,2,0.7931,0.8391
+20,pct_vitorias,maior,2,,Artur Jorge,38,23,10,5,0.6053,0.6930
+20,pct_vitorias,maior,3,,Filipe Luís,48,29,13,6,0.6042,0.6944
+20,pct_vitorias,maior,4,,Abel Ferreira,206,114,46,46,0.5534,0.6278
+20,pct_vitorias,maior,5,,Andrade,41,21,12,8,0.5122,0.6098
+20,pct_vitorias,maior,6,=,Luís Castro,50,25,8,17,0.5000,0.5533
+20,pct_vitorias,maior,6,=,Leonardo Jardim,38,19,13,6,0.5000,0.6140
+20,pct_vitorias,maior,8,,Jorge Sampaoli,116,57,29,30,0.4914,0.5747
+20,pct_vitorias,maior,9,,Roberto Rojas,39,19,10,10,0.4872,0.5726
+20,pct_vitorias,maior,10,,Muricy Ramalho,441,214,115,112,0.4853,0.5722
+20,pct_vitorias,maior,11,,Alexandre Gama,21,10,5,6,0.4762,0.5556
+20,pct_vitorias,maior,12,=,Rafael Guanaes,38,18,13,7,0.4737,0.5877
+20,pct_vitorias,maior,12,=,Vítor Pereira,38,18,11,9,0.4737,0.5702
+20,pct_vitorias,maior,14,,Levir Culpi,207,95,55,57,0.4589,0.5475
+20,pct_vitorias,maior,15,,Tite,376,172,97,107,0.4574,0.5434
+20,pct_vitorias,maior,16,,Odair Hellmann,99,45,27,27,0.4545,0.5455
+20,pct_vitorias,maior,17,,Emerson Leão,208,94,51,63,0.4519,0.5337
+20,pct_vitorias,maior,18,=,Luis Zubeldía,63,28,17,18,0.4444,0.5344
+20,pct_vitorias,maior,18,=,Davide Ancelotti,27,12,9,6,0.4444,0.5556
+20,pct_vitorias,maior,20,,Eduardo Coudet,66,29,19,18,0.4394,0.5354
+20,pct_vitorias,menor,1,,Umberto Louzer,49,7,16,26,0.1429,0.2517
+20,pct_vitorias,menor,2,,Lucho González,23,4,6,13,0.1739,0.2609
+20,pct_vitorias,menor,3,,Fabián Bustos,31,6,12,13,0.1935,0.3226
+20,pct_vitorias,menor,4,,Arthur Neto,33,7,5,21,0.2121,0.2626
+20,pct_vitorias,menor,5,,Pepa,28,6,9,13,0.2143,0.3214
+20,pct_vitorias,menor,6,=,Claudio Tencati,45,10,12,23,0.2222,0.3111
+20,pct_vitorias,menor,6,=,Rogério Micale,27,6,7,14,0.2222,0.3086
+20,pct_vitorias,menor,8,,Toninho Cecílio,40,9,12,19,0.2250,0.3250
+20,pct_vitorias,menor,9,,Doriva,57,13,13,31,0.2281,0.3041
+20,pct_vitorias,menor,10,,Ricardo Silva,21,5,7,9,0.2381,0.3492
+20,pct_vitorias,menor,11,,Dimas Filgueiras,25,6,11,8,0.2400,0.3867
+20,pct_vitorias,menor,12,,Dado Cavalcanti,41,10,10,21,0.2439,0.3252
+20,pct_vitorias,menor,13,=,Pintado,40,10,12,18,0.2500,0.3500
+20,pct_vitorias,menor,13,=,Márcio Araújo,40,10,13,17,0.2500,0.3583
+20,pct_vitorias,menor,13,=,Marcelo Martelotte,32,8,7,17,0.2500,0.3229
+20,pct_vitorias,menor,13,=,Jairo Araújo,24,6,8,10,0.2500,0.3611
+20,pct_vitorias,menor,13,=,Armando Evangelista,24,6,9,9,0.2500,0.3750
+20,pct_vitorias,menor,18,,Eduardo Barroca,83,21,20,42,0.2530,0.3333
+20,pct_vitorias,menor,19,,Vinícius Eutrópio,55,14,14,27,0.2545,0.3394
+20,pct_vitorias,menor,20,,Léo Condé,43,11,11,21,0.2558,0.3411
+20,derrotas,maior,1,,Vagner Mancini,454,146,120,188,188.0000,0.4097
+20,derrotas,maior,2,,Dorival Júnior,530,216,136,178,178.0000,0.4931
+20,derrotas,maior,3,,Cuca,612,266,170,176,176.0000,0.5272
+20,derrotas,maior,4,,Renato Gaúcho,533,229,145,159,159.0000,0.5203
+20,derrotas,maior,5,,Vanderlei Luxemburgo,530,229,144,157,157.0000,0.5226
+20,derrotas,maior,6,,Mano Menezes,465,199,128,138,138.0000,0.5197
+20,derrotas,maior,7,,Celso Roth,365,142,86,137,137.0000,0.4676
+20,derrotas,maior,8,,Abel Braga,374,158,98,118,118.0000,0.5098
+20,derrotas,maior,9,,Muricy Ramalho,441,214,115,112,112.0000,0.5722
+20,derrotas,maior,10,,Ney Franco,294,106,77,111,111.0000,0.4478
+20,derrotas,maior,11,,Geninho,271,89,74,108,108.0000,0.4194
+20,derrotas,maior,12,,Tite,376,172,97,107,107.0000,0.5434
+20,derrotas,maior,13,,Marcelo Oliveira,309,130,75,104,104.0000,0.5016
+20,derrotas,maior,14,,Gilson Kleina,224,63,58,103,103.0000,0.3676
+20,derrotas,maior,15,,Adilson Batista,267,102,68,97,97.0000,0.4669
+20,derrotas,maior,16,,Oswaldo de Oliveira,255,95,67,93,93.0000,0.4601
+20,derrotas,maior,17,,Jair Ventura,218,72,56,90,90.0000,0.4159
+20,derrotas,maior,18,,Enderson Moreira,207,69,49,89,89.0000,0.4122
+20,derrotas,maior,19,,Rogério Ceni,236,96,55,85,85.0000,0.4845
+20,derrotas,maior,20,,Fernando Diniz,221,84,53,84,84.0000,0.4600
+20,derrotas,menor,1,,Jorge Jesus,29,23,4,2,2.0000,0.8391
+20,derrotas,menor,2,=,Artur Jorge,38,23,10,5,5.0000,0.6930
+20,derrotas,menor,2,=,Márcio Fernandes,21,8,8,5,5.0000,0.5079
+20,derrotas,menor,4,=,Filipe Luís,48,29,13,6,6.0000,0.6944
+20,derrotas,menor,4,=,Leonardo Jardim,38,19,13,6,6.0000,0.6140
+20,derrotas,menor,4,=,Wesley Carvalho,30,11,13,6,6.0000,0.5111
+20,derrotas,menor,4,=,Davide Ancelotti,27,12,9,6,6.0000,0.5556
+20,derrotas,menor,4,=,Alexandre Gama,21,10,5,6,6.0000,0.5556
+20,derrotas,menor,9,=,Rafael Guanaes,38,18,13,7,7.0000,0.5877
+20,derrotas,menor,9,=,Dunga,25,8,10,7,7.0000,0.4533
+20,derrotas,menor,11,=,Andrade,41,21,12,8,8.0000,0.6098
+20,derrotas,menor,11,=,Juan Carlos Osorio,26,11,7,8,8.0000,0.5128
+20,derrotas,menor,11,=,Dimas Filgueiras,25,6,11,8,8.0000,0.3867
+20,derrotas,menor,11,=,Saulo Freitas,23,9,6,8,8.0000,0.4783
+20,derrotas,menor,15,=,Vítor Pereira,38,18,11,9,9.0000,0.5702
+20,derrotas,menor,15,=,Fernandão,26,9,8,9,9.0000,0.4487
+20,derrotas,menor,15,=,Armando Evangelista,24,6,9,9,9.0000,0.3750
+20,derrotas,menor,15,=,João Paulo Sanches,24,8,7,9,9.0000,0.4306
+20,derrotas,menor,15,=,Sérgio Guedes,24,8,7,9,9.0000,0.4306
+20,derrotas,menor,15,=,Eduardo Souza,24,7,8,9,9.0000,0.4028
+20,derrotas,menor,15,=,Ricardo Silva,21,5,7,9,9.0000,0.3492
+20,derrotas,menor,15,=,Julinho Camargo,21,6,6,9,9.0000,0.3810
+20,derrotas,menor,15,=,Edson Gaúcho,20,6,5,9,9.0000,0.3833
+20,pct_derrotas,maior,1,,Arthur Neto,33,7,5,21,0.6364,0.2626
+20,pct_derrotas,maior,2,,Thiago Kosloski,23,8,1,14,0.6087,0.3623
+20,pct_derrotas,maior,3,,Marinho Peres,21,6,3,12,0.5714,0.3333
+20,pct_derrotas,maior,4,,Lucho González,23,4,6,13,0.5652,0.2609
+20,pct_derrotas,maior,5,,Doriva,57,13,13,31,0.5439,0.3041
+20,pct_derrotas,maior,6,,Zetti,30,8,6,16,0.5333,0.3333
+20,pct_derrotas,maior,7,=,Marcelo Martelotte,32,8,7,17,0.5312,0.3229
+20,pct_derrotas,maior,7,=,Valdir Espinosa,32,11,4,17,0.5312,0.3854
+20,pct_derrotas,maior,9,,Umberto Louzer,49,7,16,26,0.5306,0.2517
+20,pct_derrotas,maior,10,,Rogério Micale,27,6,7,14,0.5185,0.3086
+20,pct_derrotas,maior,11,,Rodrigo Santana,29,9,5,15,0.5172,0.3678
+20,pct_derrotas,maior,12,,Gustavo Morínigo,31,8,7,16,0.5161,0.3333
+20,pct_derrotas,maior,13,,Dado Cavalcanti,41,10,10,21,0.5122,0.3252
+20,pct_derrotas,maior,14,,Claudio Tencati,45,10,12,23,0.5111,0.3111
+20,pct_derrotas,maior,15,,Eduardo Barroca,83,21,20,42,0.5060,0.3333
+20,pct_derrotas,maior,16,=,Gustavo Florentín,20,6,4,10,0.5000,0.3667
+20,pct_derrotas,maior,16,=,Beto Almeida,20,7,3,10,0.5000,0.4000
+20,pct_derrotas,maior,18,,Marco Aurélio,81,26,15,40,0.4938,0.3827
+20,pct_derrotas,maior,19,,Vinícius Eutrópio,55,14,14,27,0.4909,0.3394
+20,pct_derrotas,maior,20,,Léo Condé,43,11,11,21,0.4884,0.3411
+20,pct_derrotas,menor,1,,Jorge Jesus,29,23,4,2,0.0690,0.8391
+20,pct_derrotas,menor,2,,Filipe Luís,48,29,13,6,0.1250,0.6944
+20,pct_derrotas,menor,3,,Artur Jorge,38,23,10,5,0.1316,0.6930
+20,pct_derrotas,menor,4,,Leonardo Jardim,38,19,13,6,0.1579,0.6140
+20,pct_derrotas,menor,5,,Rafael Guanaes,38,18,13,7,0.1842,0.5877
+20,pct_derrotas,menor,6,,Andrade,41,21,12,8,0.1951,0.6098
+20,pct_derrotas,menor,7,,Wesley Carvalho,30,11,13,6,0.2000,0.5111
+20,pct_derrotas,menor,8,,Davide Ancelotti,27,12,9,6,0.2222,0.5556
+20,pct_derrotas,menor,9,,Abel Ferreira,206,114,46,46,0.2233,0.6278
+20,pct_derrotas,menor,10,,Vítor Pereira,38,18,11,9,0.2368,0.5702
+20,pct_derrotas,menor,11,,Márcio Fernandes,21,8,8,5,0.2381,0.5079
+20,pct_derrotas,menor,12,,Muricy Ramalho,441,214,115,112,0.2540,0.5722
+20,pct_derrotas,menor,13,,Roberto Rojas,39,19,10,10,0.2564,0.5726
+20,pct_derrotas,menor,14,,Jorge Sampaoli,116,57,29,30,0.2586,0.5747
+20,pct_derrotas,menor,15,=,Odair Hellmann,99,45,27,27,0.2727,0.5455
+20,pct_derrotas,menor,15,=,Eduardo Coudet,66,29,19,18,0.2727,0.5354
+20,pct_derrotas,menor,17,,Levir Culpi,207,95,55,57,0.2754,0.5475
+20,pct_derrotas,menor,18,,Zé Ricardo,127,52,40,35,0.2756,0.5144
+20,pct_derrotas,menor,19,,Fábio Carille,119,48,38,33,0.2773,0.5098
+20,pct_derrotas,menor,20,,Dunga,25,8,10,7,0.2800,0.4533
+20,gols_feitos,maior,1,,Cuca,612,266,170,176,876.0000,0.5272
+20,gols_feitos,maior,2,=,Renato Gaúcho,533,229,145,159,776.0000,0.5203
+20,gols_feitos,maior,2,=,Vanderlei Luxemburgo,530,229,144,157,776.0000,0.5226
+20,gols_feitos,maior,4,,Dorival Júnior,530,216,136,178,745.0000,0.4931
+20,gols_feitos,maior,5,,Muricy Ramalho,441,214,115,112,653.0000,0.5722
+20,gols_feitos,maior,6,,Mano Menezes,465,199,128,138,594.0000,0.5197
+20,gols_feitos,maior,7,,Vagner Mancini,454,146,120,188,552.0000,0.4097
+20,gols_feitos,maior,8,,Abel Braga,374,158,98,118,534.0000,0.5098
+20,gols_feitos,maior,9,,Tite,376,172,97,107,521.0000,0.5434
+20,gols_feitos,maior,10,,Celso Roth,365,142,86,137,484.0000,0.4676
+20,gols_feitos,maior,11,,Marcelo Oliveira,309,130,75,104,464.0000,0.5016
+20,gols_feitos,maior,12,,Ney Franco,294,106,77,111,375.0000,0.4478
+20,gols_feitos,maior,13,,Adilson Batista,267,102,68,97,373.0000,0.4669
+20,gols_feitos,maior,14,,Geninho,271,89,74,108,365.0000,0.4194
+20,gols_feitos,maior,15,,Oswaldo de Oliveira,255,95,67,93,350.0000,0.4601
+20,gols_feitos,maior,16,,Emerson Leão,208,94,51,63,345.0000,0.5337
+20,gols_feitos,maior,17,,Abel Ferreira,206,114,46,46,334.0000,0.6278
+20,gols_feitos,maior,18,,Rogério Ceni,236,96,55,85,312.0000,0.4845
+20,gols_feitos,maior,19,,Levir Culpi,207,95,55,57,311.0000,0.5475
+20,gols_feitos,maior,20,,Antônio Lopes,228,74,72,82,304.0000,0.4298
+20,gols_feitos,menor,1,,Gustavo Florentín,20,6,4,10,16.0000,0.3667
+20,gols_feitos,menor,2,,Rogério Micale,27,6,7,14,19.0000,0.3086
+20,gols_feitos,menor,3,,Lucho González,23,4,6,13,20.0000,0.2609
+20,gols_feitos,menor,4,,Julinho Camargo,21,6,6,9,22.0000,0.3810
+20,gols_feitos,menor,5,=,Ricardo Silva,21,5,7,9,23.0000,0.3492
+20,gols_feitos,menor,5,=,Beto Almeida,20,7,3,10,23.0000,0.4000
+20,gols_feitos,menor,7,=,Pepa,28,6,9,13,24.0000,0.3214
+20,gols_feitos,menor,7,=,Osmar Loss,26,8,7,11,24.0000,0.3974
+20,gols_feitos,menor,7,=,Eduardo Souza,24,7,8,9,24.0000,0.4028
+20,gols_feitos,menor,7,=,Marinho Peres,21,6,3,12,24.0000,0.3333
+20,gols_feitos,menor,11,=,Armando Evangelista,24,6,9,9,25.0000,0.3750
+20,gols_feitos,menor,11,=,Márcio Fernandes,21,8,8,5,25.0000,0.5079
+20,gols_feitos,menor,13,=,Umberto Louzer,49,7,16,26,26.0000,0.2517
+20,gols_feitos,menor,13,=,Edson Gaúcho,20,6,5,9,26.0000,0.3833
+20,gols_feitos,menor,15,,Jairo Araújo,24,6,8,10,28.0000,0.3611
+20,gols_feitos,menor,16,=,Jayme de Almeida Filho,26,8,7,11,29.0000,0.3974
+20,gols_feitos,menor,16,=,João Paulo Sanches,24,8,7,9,29.0000,0.4306
+20,gols_feitos,menor,18,=,Nenê Santana,31,11,6,14,30.0000,0.4194
+20,gols_feitos,menor,18,=,Dimas Filgueiras,25,6,11,8,30.0000,0.3867
+20,gols_feitos,menor,20,=,Rodrigo Santana,29,9,5,15,31.0000,0.3678
+20,gols_feitos,menor,20,=,Fernandão,26,9,8,9,31.0000,0.4487
+20,gols_feitos,menor,20,=,Juan Carlos Osorio,26,11,7,8,31.0000,0.5128
+20,gols_feitos,menor,20,=,Thiago Kosloski,23,8,1,14,31.0000,0.3623
+20,gols_feitos_por_jogo,maior,1,,Jorge Jesus,29,23,4,2,2.4483,0.8391
+20,gols_feitos_por_jogo,maior,2,,Filipe Luís,48,29,13,6,1.9375,0.6944
+20,gols_feitos_por_jogo,maior,3,,Saulo Freitas,23,9,6,8,1.6957,0.4783
+20,gols_feitos_por_jogo,maior,4,,Roberto Rojas,39,19,10,10,1.6667,0.5726
+20,gols_feitos_por_jogo,maior,5,,Emerson Leão,208,94,51,63,1.6587,0.5337
+20,gols_feitos_por_jogo,maior,6,,Rafael Guanaes,38,18,13,7,1.6579,0.5877
+20,gols_feitos_por_jogo,maior,7,,Davide Ancelotti,27,12,9,6,1.6296,0.5556
+20,gols_feitos_por_jogo,maior,8,,Abel Ferreira,206,114,46,46,1.6214,0.6278
+20,gols_feitos_por_jogo,maior,9,,Alexandre Gama,21,10,5,6,1.6190,0.5556
+20,gols_feitos_por_jogo,maior,10,,Thiago Larghi,34,14,9,11,1.6176,0.5000
+20,gols_feitos_por_jogo,maior,11,,Artur Jorge,38,23,10,5,1.5526,0.6930
+20,gols_feitos_por_jogo,maior,12,,Vadão,97,33,22,42,1.5361,0.4158
+20,gols_feitos_por_jogo,maior,13,,Jorge Sampaoli,116,57,29,30,1.5345,0.5747
+20,gols_feitos_por_jogo,maior,14,,Evaristo de Macedo,45,18,10,17,1.5333,0.4741
+20,gols_feitos_por_jogo,maior,15,,José Luiz Plein,37,10,12,15,1.5135,0.3784
+20,gols_feitos_por_jogo,maior,16,,Levir Culpi,207,95,55,57,1.5024,0.5475
+20,gols_feitos_por_jogo,maior,17,,Marcelo Oliveira,309,130,75,104,1.5016,0.5016
+20,gols_feitos_por_jogo,maior,18,,Muricy Ramalho,441,214,115,112,1.4807,0.5722
+20,gols_feitos_por_jogo,maior,19,,Dunga,25,8,10,7,1.4800,0.4533
+20,gols_feitos_por_jogo,maior,20,,Vanderlei Luxemburgo,530,229,144,157,1.4642,0.5226
+20,gols_feitos_por_jogo,menor,1,,Umberto Louzer,49,7,16,26,0.5306,0.2517
+20,gols_feitos_por_jogo,menor,2,,Rogério Micale,27,6,7,14,0.7037,0.3086
+20,gols_feitos_por_jogo,menor,3,,Lisca,52,15,15,22,0.7885,0.3846
+20,gols_feitos_por_jogo,menor,4,,Gustavo Florentín,20,6,4,10,0.8000,0.3667
+20,gols_feitos_por_jogo,menor,5,,Eduardo Barroca,83,21,20,42,0.8072,0.3333
+20,gols_feitos_por_jogo,menor,6,,Vinícius Eutrópio,55,14,14,27,0.8182,0.3394
+20,gols_feitos_por_jogo,menor,7,,Pepa,28,6,9,13,0.8571,0.3214
+20,gols_feitos_por_jogo,menor,8,,Lucho González,23,4,6,13,0.8696,0.2609
+20,gols_feitos_por_jogo,menor,9,,Marcelo Cabo,39,12,13,14,0.8974,0.4188
+20,gols_feitos_por_jogo,menor,10,,Léo Condé,43,11,11,21,0.9070,0.3411
+20,gols_feitos_por_jogo,menor,11,,Osmar Loss,26,8,7,11,0.9231,0.3974
+20,gols_feitos_por_jogo,menor,12,,António Oliveira,97,28,27,42,0.9485,0.3814
+20,gols_feitos_por_jogo,menor,13,,Claudinei Oliveira,142,48,37,57,0.9648,0.4249
+20,gols_feitos_por_jogo,menor,14,,Nenê Santana,31,11,6,14,0.9677,0.4194
+20,gols_feitos_por_jogo,menor,15,,Arthur Neto,33,7,5,21,0.9697,0.2626
+20,gols_feitos_por_jogo,menor,16,,Alberto Valentim,95,29,25,41,0.9789,0.3930
+20,gols_feitos_por_jogo,menor,17,=,Jair Ventura,218,72,56,90,1.0000,0.4159
+20,gols_feitos_por_jogo,menor,17,=,Claudio Tencati,45,10,12,23,1.0000,0.3111
+20,gols_feitos_por_jogo,menor,17,=,Eduardo Souza,24,7,8,9,1.0000,0.4028
+20,gols_feitos_por_jogo,menor,20,,Marquinhos Santos,159,47,47,65,1.0063,0.3941
+20,gols_sofridos,maior,1,,Cuca,612,266,170,176,702.0000,0.5272
+20,gols_sofridos,maior,2,,Dorival Júnior,530,216,136,178,643.0000,0.4931
+20,gols_sofridos,maior,3,,Vagner Mancini,454,146,120,188,638.0000,0.4097
+20,gols_sofridos,maior,4,,Renato Gaúcho,533,229,145,159,632.0000,0.5203
+20,gols_sofridos,maior,5,,Vanderlei Luxemburgo,530,229,144,157,613.0000,0.5226
+20,gols_sofridos,maior,6,,Mano Menezes,465,199,128,138,506.0000,0.5197
+20,gols_sofridos,maior,7,,Celso Roth,365,142,86,137,470.0000,0.4676
+20,gols_sofridos,maior,8,,Abel Braga,374,158,98,118,467.0000,0.5098
+20,gols_sofridos,maior,9,,Muricy Ramalho,441,214,115,112,459.0000,0.5722
+20,gols_sofridos,maior,10,,Ney Franco,294,106,77,111,402.0000,0.4478
+20,gols_sofridos,maior,11,,Marcelo Oliveira,309,130,75,104,390.0000,0.5016
+20,gols_sofridos,maior,12,,Tite,376,172,97,107,376.0000,0.5434
+20,gols_sofridos,maior,13,,Geninho,271,89,74,108,373.0000,0.4194
+20,gols_sofridos,maior,14,,Adilson Batista,267,102,68,97,363.0000,0.4669
+20,gols_sofridos,maior,15,,Oswaldo de Oliveira,255,95,67,93,353.0000,0.4601
+20,gols_sofridos,maior,16,,Gilson Kleina,224,63,58,103,330.0000,0.3676
+20,gols_sofridos,maior,17,,Antônio Lopes,228,74,72,82,302.0000,0.4298
+20,gols_sofridos,maior,18,,Fernando Diniz,221,84,53,84,284.0000,0.4600
+20,gols_sofridos,maior,19,,Hélio dos Anjos,184,61,42,81,283.0000,0.4076
+20,gols_sofridos,maior,20,=,Rogério Ceni,236,96,55,85,275.0000,0.4845
+20,gols_sofridos,maior,20,=,Emerson Leão,208,94,51,63,275.0000,0.5337
+20,gols_sofridos,maior,20,=,Joel Santana,205,76,54,75,275.0000,0.4585
+20,gols_sofridos,menor,1,,Márcio Fernandes,21,8,8,5,21.0000,0.5079
+20,gols_sofridos,menor,2,,Julinho Camargo,21,6,6,9,22.0000,0.3810
+20,gols_sofridos,menor,3,,Gustavo Florentín,20,6,4,10,23.0000,0.3667
+20,gols_sofridos,menor,4,,Osmar Loss,26,8,7,11,25.0000,0.3974
+20,gols_sofridos,menor,5,,Fabiano Soares,26,10,6,10,27.0000,0.4615
+20,gols_sofridos,menor,6,=,Jorge Jesus,29,23,4,2,28.0000,0.8391
+20,gols_sofridos,menor,6,=,Fernandão,26,9,8,9,28.0000,0.4487
+20,gols_sofridos,menor,6,=,Juan Carlos Osorio,26,11,7,8,28.0000,0.5128
+20,gols_sofridos,menor,6,=,João Paulo Sanches,24,8,7,9,28.0000,0.4306
+20,gols_sofridos,menor,10,=,Artur Jorge,38,23,10,5,29.0000,0.6930
+20,gols_sofridos,menor,10,=,Lucho González,23,4,6,13,29.0000,0.2609
+20,gols_sofridos,menor,10,=,Ricardo Silva,21,5,7,9,29.0000,0.3492
+20,gols_sofridos,menor,13,=,Wesley Carvalho,30,11,13,6,30.0000,0.5111
+20,gols_sofridos,menor,13,=,Pepa,28,6,9,13,30.0000,0.3214
+20,gols_sofridos,menor,15,=,Leonardo Jardim,38,19,13,6,31.0000,0.6140
+20,gols_sofridos,menor,15,=,Davide Ancelotti,27,12,9,6,31.0000,0.5556
+20,gols_sofridos,menor,15,=,Armando Evangelista,24,6,9,9,31.0000,0.3750
+20,gols_sofridos,menor,15,=,Eduardo Souza,24,7,8,9,31.0000,0.4028
+20,gols_sofridos,menor,19,=,Jayme de Almeida Filho,26,8,7,11,33.0000,0.3974
+20,gols_sofridos,menor,19,=,Alexandre Gama,21,10,5,6,33.0000,0.5556
+20,gols_sofridos,menor,19,=,Edson Gaúcho,20,6,5,9,33.0000,0.3833
+20,gols_sofridos_por_jogo,maior,1,,Marcelo Martelotte,32,8,7,17,1.9688,0.3229
+20,gols_sofridos_por_jogo,maior,2,,Arthur Neto,33,7,5,21,1.8788,0.2626
+20,gols_sofridos_por_jogo,maior,3,,Thiago Kosloski,23,8,1,14,1.8696,0.3623
+20,gols_sofridos_por_jogo,maior,4,,Marinho Peres,21,6,3,12,1.8095,0.3333
+20,gols_sofridos_por_jogo,maior,5,,Beto Almeida,20,7,3,10,1.7500,0.4000
+20,gols_sofridos_por_jogo,maior,6,,Vadão,97,33,22,42,1.7216,0.4158
+20,gols_sofridos_por_jogo,maior,7,=,Toninho Cecílio,40,9,12,19,1.7000,0.3250
+20,gols_sofridos_por_jogo,maior,7,=,Zetti,30,8,6,16,1.7000,0.3333
+20,gols_sofridos_por_jogo,maior,9,,Evaristo de Macedo,45,18,10,17,1.6889,0.4741
+20,gols_sofridos_por_jogo,maior,10,,Nenê Santana,31,11,6,14,1.6774,0.4194
+20,gols_sofridos_por_jogo,maior,11,,Valdir Espinosa,32,11,4,17,1.6562,0.3854
+20,gols_sofridos_por_jogo,maior,12,,Edson Gaúcho,20,6,5,9,1.6500,0.3833
+20,gols_sofridos_por_jogo,maior,13,,Doriva,57,13,13,31,1.6491,0.3041
+20,gols_sofridos_por_jogo,maior,14,,Marco Aurélio,81,26,15,40,1.6296,0.3827
+20,gols_sofridos_por_jogo,maior,15,,Claudio Tencati,45,10,12,23,1.6222,0.3111
+20,gols_sofridos_por_jogo,maior,16,,Márcio Araújo,40,10,13,17,1.6000,0.3583
+20,gols_sofridos_por_jogo,maior,17,,Givanildo Oliveira,66,18,18,30,1.5909,0.3636
+20,gols_sofridos_por_jogo,maior,18,,Jairo Araújo,24,6,8,10,1.5833,0.3611
+20,gols_sofridos_por_jogo,maior,19,=,Gustavo Morínigo,31,8,7,16,1.5806,0.3333
+20,gols_sofridos_por_jogo,maior,19,=,Marcelo Fernandes,31,10,8,13,1.5806,0.4086
+20,gols_sofridos_por_jogo,menor,1,,Filipe Luís,48,29,13,6,0.7083,0.6944
+20,gols_sofridos_por_jogo,menor,2,,Artur Jorge,38,23,10,5,0.7632,0.6930
+20,gols_sofridos_por_jogo,menor,3,,Leonardo Jardim,38,19,13,6,0.8158,0.6140
+20,gols_sofridos_por_jogo,menor,4,,Abel Ferreira,206,114,46,46,0.8883,0.6278
+20,gols_sofridos_por_jogo,menor,5,,Odair Hellmann,99,45,27,27,0.9394,0.5455
+20,gols_sofridos_por_jogo,menor,6,,Fábio Carille,119,48,38,33,0.9412,0.5098
+20,gols_sofridos_por_jogo,menor,7,=,Sylvinho,38,15,12,11,0.9474,0.5000
+20,gols_sofridos_por_jogo,menor,7,=,Vítor Pereira,38,18,11,9,0.9474,0.5702
+20,gols_sofridos_por_jogo,menor,9,,Osmar Loss,26,8,7,11,0.9615,0.3974
+20,gols_sofridos_por_jogo,menor,10,,Jorge Jesus,29,23,4,2,0.9655,0.8391
+20,gols_sofridos_por_jogo,menor,11,,Marcão,61,25,16,20,0.9672,0.4973
+20,gols_sofridos_por_jogo,menor,12,,Andrade,41,21,12,8,0.9756,0.6098
+20,gols_sofridos_por_jogo,menor,13,=,Tite,376,172,97,107,1.0000,0.5434
+20,gols_sofridos_por_jogo,menor,13,=,Luiz Felipe Scolari,233,95,71,67,1.0000,0.5093
+20,gols_sofridos_por_jogo,menor,13,=,Eduardo Coudet,66,29,19,18,1.0000,0.5354
+20,gols_sofridos_por_jogo,menor,13,=,Luis Zubeldía,63,28,17,18,1.0000,0.5344
+20,gols_sofridos_por_jogo,menor,13,=,Luís Castro,50,25,8,17,1.0000,0.5533
+20,gols_sofridos_por_jogo,menor,13,=,Wesley Carvalho,30,11,13,6,1.0000,0.5111
+20,gols_sofridos_por_jogo,menor,13,=,Márcio Fernandes,21,8,8,5,1.0000,0.5079
+20,gols_sofridos_por_jogo,menor,20,,Rafael Guanaes,38,18,13,7,1.0263,0.5877
+50,aproveitamento,maior,1,,Abel Ferreira,206,114,46,46,0.6278,0.6278
+50,aproveitamento,maior,2,,Jorge Sampaoli,116,57,29,30,0.5747,0.5747
+50,aproveitamento,maior,3,,Muricy Ramalho,441,214,115,112,0.5722,0.5722
+50,aproveitamento,maior,4,,Luís Castro,50,25,8,17,0.5533,0.5533
+50,aproveitamento,maior,5,,Levir Culpi,207,95,55,57,0.5475,0.5475
+50,aproveitamento,maior,6,,Odair Hellmann,99,45,27,27,0.5455,0.5455
+50,aproveitamento,maior,7,,Tite,376,172,97,107,0.5434,0.5434
+50,aproveitamento,maior,8,,Eduardo Coudet,66,29,19,18,0.5354,0.5354
+50,aproveitamento,maior,9,,Luis Zubeldía,63,28,17,18,0.5344,0.5344
+50,aproveitamento,maior,10,,Emerson Leão,208,94,51,63,0.5337,0.5337
+50,aproveitamento,maior,11,,Cuca,612,266,170,176,0.5272,0.5272
+50,aproveitamento,maior,12,,Vanderlei Luxemburgo,530,229,144,157,0.5226,0.5226
+50,aproveitamento,maior,13,,Renato Gaúcho,533,229,145,159,0.5203,0.5203
+50,aproveitamento,maior,14,,Mano Menezes,465,199,128,138,0.5197,0.5197
+50,aproveitamento,maior,15,,Zé Ricardo,127,52,40,35,0.5144,0.5144
+50,aproveitamento,maior,16,=,Abel Braga,374,158,98,118,0.5098,0.5098
+50,aproveitamento,maior,16,=,Fábio Carille,119,48,38,33,0.5098,0.5098
+50,aproveitamento,maior,18,,Luiz Felipe Scolari,233,95,71,67,0.5093,0.5093
+50,aproveitamento,maior,19,,Caio Júnior,198,84,47,67,0.5034,0.5034
+50,aproveitamento,maior,20,,Ramón Díaz,67,28,17,22,0.5025,0.5025
+50,aproveitamento,menor,1,,Doriva,57,13,13,31,0.3041,0.3041
+50,aproveitamento,menor,2,,Eduardo Barroca,83,21,20,42,0.3333,0.3333
+50,aproveitamento,menor,3,,Vinícius Eutrópio,55,14,14,27,0.3394,0.3394
+50,aproveitamento,menor,4,,Givanildo Oliveira,66,18,18,30,0.3636,0.3636
+50,aproveitamento,menor,5,,Ricardo Drubscky,62,18,14,30,0.3656,0.3656
+50,aproveitamento,menor,6,,Gilson Kleina,224,63,58,103,0.3676,0.3676
+50,aproveitamento,menor,7,,António Oliveira,97,28,27,42,0.3814,0.3814
+50,aproveitamento,menor,8,,Marco Aurélio,81,26,15,40,0.3827,0.3827
+50,aproveitamento,menor,9,,René Simões,98,28,29,41,0.3844,0.3844
+50,aproveitamento,menor,10,,Lisca,52,15,15,22,0.3846,0.3846
+50,aproveitamento,menor,11,,Thiago Carpini,69,21,18,30,0.3913,0.3913
+50,aproveitamento,menor,12,,Alberto Valentim,95,29,25,41,0.3930,0.3930
+50,aproveitamento,menor,13,,Silas,67,18,25,24,0.3930,0.3930
+50,aproveitamento,menor,14,,Marquinhos Santos,159,47,47,65,0.3941,0.3941
+50,aproveitamento,menor,15,,Nelsinho Baptista,98,29,29,40,0.3946,0.3946
+50,aproveitamento,menor,16,,Eduardo Baptista,162,50,42,70,0.3951,0.3951
+50,aproveitamento,menor,17,,Jorginho (Jorge de Amorim),189,56,58,75,0.3986,0.3986
+50,aproveitamento,menor,18,,Jair Picerni,53,16,16,21,0.4025,0.4025
+50,aproveitamento,menor,19,,Vágner Benazzi,80,25,22,33,0.4042,0.4042
+50,aproveitamento,menor,20,,Mário Sérgio,111,35,30,46,0.4054,0.4054
+50,vitorias,maior,1,,Cuca,612,266,170,176,266.0000,0.5272
+50,vitorias,maior,2,=,Renato Gaúcho,533,229,145,159,229.0000,0.5203
+50,vitorias,maior,2,=,Vanderlei Luxemburgo,530,229,144,157,229.0000,0.5226
+50,vitorias,maior,4,,Dorival Júnior,530,216,136,178,216.0000,0.4931
+50,vitorias,maior,5,,Muricy Ramalho,441,214,115,112,214.0000,0.5722
+50,vitorias,maior,6,,Mano Menezes,465,199,128,138,199.0000,0.5197
+50,vitorias,maior,7,,Tite,376,172,97,107,172.0000,0.5434
+50,vitorias,maior,8,,Abel Braga,374,158,98,118,158.0000,0.5098
+50,vitorias,maior,9,,Vagner Mancini,454,146,120,188,146.0000,0.4097
+50,vitorias,maior,10,,Celso Roth,365,142,86,137,142.0000,0.4676
+50,vitorias,maior,11,,Marcelo Oliveira,309,130,75,104,130.0000,0.5016
+50,vitorias,maior,12,,Abel Ferreira,206,114,46,46,114.0000,0.6278
+50,vitorias,maior,13,,Ney Franco,294,106,77,111,106.0000,0.4478
+50,vitorias,maior,14,,Adilson Batista,267,102,68,97,102.0000,0.4669
+50,vitorias,maior,15,,Rogério Ceni,236,96,55,85,96.0000,0.4845
+50,vitorias,maior,16,=,Oswaldo de Oliveira,255,95,67,93,95.0000,0.4601
+50,vitorias,maior,16,=,Luiz Felipe Scolari,233,95,71,67,95.0000,0.5093
+50,vitorias,maior,16,=,Levir Culpi,207,95,55,57,95.0000,0.5475
+50,vitorias,maior,19,,Emerson Leão,208,94,51,63,94.0000,0.5337
+50,vitorias,maior,20,,Geninho,271,89,74,108,89.0000,0.4194
+50,vitorias,menor,1,,Doriva,57,13,13,31,13.0000,0.3041
+50,vitorias,menor,2,,Vinícius Eutrópio,55,14,14,27,14.0000,0.3394
+50,vitorias,menor,3,,Lisca,52,15,15,22,15.0000,0.3846
+50,vitorias,menor,4,,Jair Picerni,53,16,16,21,16.0000,0.4025
+50,vitorias,menor,5,=,Silas,67,18,25,24,18.0000,0.3930
+50,vitorias,menor,5,=,Givanildo Oliveira,66,18,18,30,18.0000,0.3636
+50,vitorias,menor,5,=,Ricardo Drubscky,62,18,14,30,18.0000,0.3656
+50,vitorias,menor,5,=,Hernán Crespo,51,18,15,18,18.0000,0.4510
+50,vitorias,menor,9,=,Jorginho Cantinflas,55,19,15,21,19.0000,0.4364
+50,vitorias,menor,9,=,Luiz Carlos Barbieri,50,19,9,22,19.0000,0.4400
+50,vitorias,menor,11,=,Eduardo Barroca,83,21,20,42,21.0000,0.3333
+50,vitorias,menor,11,=,Thiago Carpini,69,21,18,30,21.0000,0.3913
+50,vitorias,menor,13,,Márcio Bittencourt,60,23,13,24,23.0000,0.4556
+50,vitorias,menor,14,,Fernando Seabra,65,24,17,24,24.0000,0.4564
+50,vitorias,menor,15,=,Vágner Benazzi,80,25,22,33,25.0000,0.4042
+50,vitorias,menor,15,=,Pedro Caixinha,72,25,22,25,25.0000,0.4491
+50,vitorias,menor,15,=,Roberto Fernandes,71,25,17,29,25.0000,0.4319
+50,vitorias,menor,15,=,Marcão,61,25,16,20,25.0000,0.4973
+50,vitorias,menor,15,=,Luís Castro,50,25,8,17,25.0000,0.5533
+50,vitorias,menor,20,=,Marco Aurélio,81,26,15,40,26.0000,0.3827
+50,vitorias,menor,20,=,Waldemar Lemos,71,26,21,24,26.0000,0.4648
+50,pct_vitorias,maior,1,,Abel Ferreira,206,114,46,46,0.5534,0.6278
+50,pct_vitorias,maior,2,,Luís Castro,50,25,8,17,0.5000,0.5533
+50,pct_vitorias,maior,3,,Jorge Sampaoli,116,57,29,30,0.4914,0.5747
+50,pct_vitorias,maior,4,,Muricy Ramalho,441,214,115,112,0.4853,0.5722
+50,pct_vitorias,maior,5,,Levir Culpi,207,95,55,57,0.4589,0.5475
+50,pct_vitorias,maior,6,,Tite,376,172,97,107,0.4574,0.5434
+50,pct_vitorias,maior,7,,Odair Hellmann,99,45,27,27,0.4545,0.5455
+50,pct_vitorias,maior,8,,Emerson Leão,208,94,51,63,0.4519,0.5337
+50,pct_vitorias,maior,9,,Luis Zubeldía,63,28,17,18,0.4444,0.5344
+50,pct_vitorias,maior,10,,Eduardo Coudet,66,29,19,18,0.4394,0.5354
+50,pct_vitorias,maior,11,,Cuca,612,266,170,176,0.4346,0.5272
+50,pct_vitorias,maior,12,,Vanderlei Luxemburgo,530,229,144,157,0.4321,0.5226
+50,pct_vitorias,maior,13,,Renato Gaúcho,533,229,145,159,0.4296,0.5203
+50,pct_vitorias,maior,14,,Mano Menezes,465,199,128,138,0.4280,0.5197
+50,pct_vitorias,maior,15,,Caio Júnior,198,84,47,67,0.4242,0.5034
+50,pct_vitorias,maior,16,,Abel Braga,374,158,98,118,0.4225,0.5098
+50,pct_vitorias,maior,17,,Marcelo Oliveira,309,130,75,104,0.4207,0.5016
+50,pct_vitorias,maior,18,,Ramón Díaz,67,28,17,22,0.4179,0.5025
+50,pct_vitorias,maior,19,,Marcão,61,25,16,20,0.4098,0.4973
+50,pct_vitorias,maior,20,,Zé Ricardo,127,52,40,35,0.4094,0.5144
+50,pct_vitorias,menor,1,,Doriva,57,13,13,31,0.2281,0.3041
+50,pct_vitorias,menor,2,,Eduardo Barroca,83,21,20,42,0.2530,0.3333
+50,pct_vitorias,menor,3,,Vinícius Eutrópio,55,14,14,27,0.2545,0.3394
+50,pct_vitorias,menor,4,,Silas,67,18,25,24,0.2687,0.3930
+50,pct_vitorias,menor,5,,Givanildo Oliveira,66,18,18,30,0.2727,0.3636
+50,pct_vitorias,menor,6,,Gilson Kleina,224,63,58,103,0.2812,0.3676
+50,pct_vitorias,menor,7,,René Simões,98,28,29,41,0.2857,0.3844
+50,pct_vitorias,menor,8,,Lisca,52,15,15,22,0.2885,0.3846
+50,pct_vitorias,menor,9,,António Oliveira,97,28,27,42,0.2887,0.3814
+50,pct_vitorias,menor,10,,Ricardo Drubscky,62,18,14,30,0.2903,0.3656
+50,pct_vitorias,menor,11,,Marquinhos Santos,159,47,47,65,0.2956,0.3941
+50,pct_vitorias,menor,12,,Nelsinho Baptista,98,29,29,40,0.2959,0.3946
+50,pct_vitorias,menor,13,,Jorginho (Jorge de Amorim),189,56,58,75,0.2963,0.3986
+50,pct_vitorias,menor,14,,Jair Picerni,53,16,16,21,0.3019,0.4025
+50,pct_vitorias,menor,15,,Thiago Carpini,69,21,18,30,0.3043,0.3913
+50,pct_vitorias,menor,16,,Alberto Valentim,95,29,25,41,0.3053,0.3930
+50,pct_vitorias,menor,17,,Eduardo Baptista,162,50,42,70,0.3086,0.3951
+50,pct_vitorias,menor,18,,Vágner Benazzi,80,25,22,33,0.3125,0.4042
+50,pct_vitorias,menor,19,,Mário Sérgio,111,35,30,46,0.3153,0.4054
+50,pct_vitorias,menor,20,,Guto Ferreira,209,66,60,83,0.3158,0.4115
+50,derrotas,maior,1,,Vagner Mancini,454,146,120,188,188.0000,0.4097
+50,derrotas,maior,2,,Dorival Júnior,530,216,136,178,178.0000,0.4931
+50,derrotas,maior,3,,Cuca,612,266,170,176,176.0000,0.5272
+50,derrotas,maior,4,,Renato Gaúcho,533,229,145,159,159.0000,0.5203
+50,derrotas,maior,5,,Vanderlei Luxemburgo,530,229,144,157,157.0000,0.5226
+50,derrotas,maior,6,,Mano Menezes,465,199,128,138,138.0000,0.5197
+50,derrotas,maior,7,,Celso Roth,365,142,86,137,137.0000,0.4676
+50,derrotas,maior,8,,Abel Braga,374,158,98,118,118.0000,0.5098
+50,derrotas,maior,9,,Muricy Ramalho,441,214,115,112,112.0000,0.5722
+50,derrotas,maior,10,,Ney Franco,294,106,77,111,111.0000,0.4478
+50,derrotas,maior,11,,Geninho,271,89,74,108,108.0000,0.4194
+50,derrotas,maior,12,,Tite,376,172,97,107,107.0000,0.5434
+50,derrotas,maior,13,,Marcelo Oliveira,309,130,75,104,104.0000,0.5016
+50,derrotas,maior,14,,Gilson Kleina,224,63,58,103,103.0000,0.3676
+50,derrotas,maior,15,,Adilson Batista,267,102,68,97,97.0000,0.4669
+50,derrotas,maior,16,,Oswaldo de Oliveira,255,95,67,93,93.0000,0.4601
+50,derrotas,maior,17,,Jair Ventura,218,72,56,90,90.0000,0.4159
+50,derrotas,maior,18,,Enderson Moreira,207,69,49,89,89.0000,0.4122
+50,derrotas,maior,19,,Rogério Ceni,236,96,55,85,85.0000,0.4845
+50,derrotas,maior,20,,Fernando Diniz,221,84,53,84,84.0000,0.4600
+50,derrotas,menor,1,,Luís Castro,50,25,8,17,17.0000,0.5533
+50,derrotas,menor,2,=,Eduardo Coudet,66,29,19,18,18.0000,0.5354
+50,derrotas,menor,2,=,Luis Zubeldía,63,28,17,18,18.0000,0.5344
+50,derrotas,menor,2,=,Hernán Crespo,51,18,15,18,18.0000,0.4510
+50,derrotas,menor,5,,Marcão,61,25,16,20,20.0000,0.4973
+50,derrotas,menor,6,=,Jorginho Cantinflas,55,19,15,21,21.0000,0.4364
+50,derrotas,menor,6,=,Jair Picerni,53,16,16,21,21.0000,0.4025
+50,derrotas,menor,8,=,Ramón Díaz,67,28,17,22,22.0000,0.5025
+50,derrotas,menor,8,=,Lisca,52,15,15,22,22.0000,0.3846
+50,derrotas,menor,8,=,Luiz Carlos Barbieri,50,19,9,22,22.0000,0.4400
+50,derrotas,menor,11,=,Waldemar Lemos,71,26,21,24,24.0000,0.4648
+50,derrotas,menor,11,=,Silas,67,18,25,24,24.0000,0.3930
+50,derrotas,menor,11,=,Fernando Seabra,65,24,17,24,24.0000,0.4564
+50,derrotas,menor,11,=,Márcio Bittencourt,60,23,13,24,24.0000,0.4556
+50,derrotas,menor,15,,Pedro Caixinha,72,25,22,25,25.0000,0.4491
+50,derrotas,menor,16,,Diego Aguirre,88,33,29,26,26.0000,0.4848
+50,derrotas,menor,17,=,Odair Hellmann,99,45,27,27,27.0000,0.5455
+50,derrotas,menor,17,=,Vinícius Eutrópio,55,14,14,27,27.0000,0.3394
+50,derrotas,menor,19,,Roberto Fernandes,71,25,17,29,29.0000,0.4319
+50,derrotas,menor,20,=,Jorge Sampaoli,116,57,29,30,30.0000,0.5747
+50,derrotas,menor,20,=,Thiago Carpini,69,21,18,30,30.0000,0.3913
+50,derrotas,menor,20,=,Givanildo Oliveira,66,18,18,30,30.0000,0.3636
+50,derrotas,menor,20,=,Ricardo Drubscky,62,18,14,30,30.0000,0.3656
+50,pct_derrotas,maior,1,,Doriva,57,13,13,31,0.5439,0.3041
+50,pct_derrotas,maior,2,,Eduardo Barroca,83,21,20,42,0.5060,0.3333
+50,pct_derrotas,maior,3,,Marco Aurélio,81,26,15,40,0.4938,0.3827
+50,pct_derrotas,maior,4,,Vinícius Eutrópio,55,14,14,27,0.4909,0.3394
+50,pct_derrotas,maior,5,,Ricardo Drubscky,62,18,14,30,0.4839,0.3656
+50,pct_derrotas,maior,6,,Milton Mendes,80,28,15,37,0.4625,0.4125
+50,pct_derrotas,maior,7,,Gilson Kleina,224,63,58,103,0.4598,0.3676
+50,pct_derrotas,maior,8,,Givanildo Oliveira,66,18,18,30,0.4545,0.3636
+50,pct_derrotas,maior,9,,Péricles Chamusca,80,30,14,36,0.4500,0.4333
+50,pct_derrotas,maior,10,,Hélio dos Anjos,184,61,42,81,0.4402,0.4076
+50,pct_derrotas,maior,11,,Luiz Carlos Barbieri,50,19,9,22,0.4400,0.4400
+50,pct_derrotas,maior,12,,Thiago Carpini,69,21,18,30,0.4348,0.3913
+50,pct_derrotas,maior,13,=,Vadão,97,33,22,42,0.4330,0.4158
+50,pct_derrotas,maior,13,=,António Oliveira,97,28,27,42,0.4330,0.3814
+50,pct_derrotas,maior,15,,Eduardo Baptista,162,50,42,70,0.4321,0.3951
+50,pct_derrotas,maior,16,,Alberto Valentim,95,29,25,41,0.4316,0.3930
+50,pct_derrotas,maior,17,,Enderson Moreira,207,69,49,89,0.4300,0.4122
+50,pct_derrotas,maior,18,,Lisca,52,15,15,22,0.4231,0.3846
+50,pct_derrotas,maior,19,,René Simões,98,28,29,41,0.4184,0.3844
+50,pct_derrotas,maior,20,,Mário Sérgio,111,35,30,46,0.4144,0.4054
+50,pct_derrotas,menor,1,,Abel Ferreira,206,114,46,46,0.2233,0.6278
+50,pct_derrotas,menor,2,,Muricy Ramalho,441,214,115,112,0.2540,0.5722
+50,pct_derrotas,menor,3,,Jorge Sampaoli,116,57,29,30,0.2586,0.5747
+50,pct_derrotas,menor,4,=,Odair Hellmann,99,45,27,27,0.2727,0.5455
+50,pct_derrotas,menor,4,=,Eduardo Coudet,66,29,19,18,0.2727,0.5354
+50,pct_derrotas,menor,6,,Levir Culpi,207,95,55,57,0.2754,0.5475
+50,pct_derrotas,menor,7,,Zé Ricardo,127,52,40,35,0.2756,0.5144
+50,pct_derrotas,menor,8,,Fábio Carille,119,48,38,33,0.2773,0.5098
+50,pct_derrotas,menor,9,,Tite,376,172,97,107,0.2846,0.5434
+50,pct_derrotas,menor,10,,Luis Zubeldía,63,28,17,18,0.2857,0.5344
+50,pct_derrotas,menor,11,,Luiz Felipe Scolari,233,95,71,67,0.2876,0.5093
+50,pct_derrotas,menor,12,,Cuca,612,266,170,176,0.2876,0.5272
+50,pct_derrotas,menor,13,,Diego Aguirre,88,33,29,26,0.2955,0.4848
+50,pct_derrotas,menor,14,,Vanderlei Luxemburgo,530,229,144,157,0.2962,0.5226
+50,pct_derrotas,menor,15,,Mano Menezes,465,199,128,138,0.2968,0.5197
+50,pct_derrotas,menor,16,,Renato Gaúcho,533,229,145,159,0.2983,0.5203
+50,pct_derrotas,menor,17,,Emerson Leão,208,94,51,63,0.3029,0.5337
+50,pct_derrotas,menor,18,,Abel Braga,374,158,98,118,0.3155,0.5098
+50,pct_derrotas,menor,19,,Roger Machado,212,83,62,67,0.3160,0.4890
+50,pct_derrotas,menor,20,,Maurício Barbieri,143,52,45,46,0.3217,0.4685
+50,gols_feitos,maior,1,,Cuca,612,266,170,176,876.0000,0.5272
+50,gols_feitos,maior,2,=,Renato Gaúcho,533,229,145,159,776.0000,0.5203
+50,gols_feitos,maior,2,=,Vanderlei Luxemburgo,530,229,144,157,776.0000,0.5226
+50,gols_feitos,maior,4,,Dorival Júnior,530,216,136,178,745.0000,0.4931
+50,gols_feitos,maior,5,,Muricy Ramalho,441,214,115,112,653.0000,0.5722
+50,gols_feitos,maior,6,,Mano Menezes,465,199,128,138,594.0000,0.5197
+50,gols_feitos,maior,7,,Vagner Mancini,454,146,120,188,552.0000,0.4097
+50,gols_feitos,maior,8,,Abel Braga,374,158,98,118,534.0000,0.5098
+50,gols_feitos,maior,9,,Tite,376,172,97,107,521.0000,0.5434
+50,gols_feitos,maior,10,,Celso Roth,365,142,86,137,484.0000,0.4676
+50,gols_feitos,maior,11,,Marcelo Oliveira,309,130,75,104,464.0000,0.5016
+50,gols_feitos,maior,12,,Ney Franco,294,106,77,111,375.0000,0.4478
+50,gols_feitos,maior,13,,Adilson Batista,267,102,68,97,373.0000,0.4669
+50,gols_feitos,maior,14,,Geninho,271,89,74,108,365.0000,0.4194
+50,gols_feitos,maior,15,,Oswaldo de Oliveira,255,95,67,93,350.0000,0.4601
+50,gols_feitos,maior,16,,Emerson Leão,208,94,51,63,345.0000,0.5337
+50,gols_feitos,maior,17,,Abel Ferreira,206,114,46,46,334.0000,0.6278
+50,gols_feitos,maior,18,,Rogério Ceni,236,96,55,85,312.0000,0.4845
+50,gols_feitos,maior,19,,Levir Culpi,207,95,55,57,311.0000,0.5475
+50,gols_feitos,maior,20,,Antônio Lopes,228,74,72,82,304.0000,0.4298
+50,gols_feitos,menor,1,,Lisca,52,15,15,22,41.0000,0.3846
+50,gols_feitos,menor,2,,Vinícius Eutrópio,55,14,14,27,45.0000,0.3394
+50,gols_feitos,menor,3,,Hernán Crespo,51,18,15,18,53.0000,0.4510
+50,gols_feitos,menor,4,,Doriva,57,13,13,31,58.0000,0.3041
+50,gols_feitos,menor,5,,Luís Castro,50,25,8,17,61.0000,0.5533
+50,gols_feitos,menor,6,,Jorginho Cantinflas,55,19,15,21,63.0000,0.4364
+50,gols_feitos,menor,7,=,Eduardo Barroca,83,21,20,42,67.0000,0.3333
+50,gols_feitos,menor,7,=,Marcão,61,25,16,20,67.0000,0.4973
+50,gols_feitos,menor,7,=,Luiz Carlos Barbieri,50,19,9,22,67.0000,0.4400
+50,gols_feitos,menor,10,=,Ricardo Drubscky,62,18,14,30,68.0000,0.3656
+50,gols_feitos,menor,10,=,Jair Picerni,53,16,16,21,68.0000,0.4025
+50,gols_feitos,menor,12,,Thiago Carpini,69,21,18,30,76.0000,0.3913
+50,gols_feitos,menor,13,,Márcio Bittencourt,60,23,13,24,77.0000,0.4556
+50,gols_feitos,menor,14,,Fernando Seabra,65,24,17,24,78.0000,0.4564
+50,gols_feitos,menor,15,,Luis Zubeldía,63,28,17,18,82.0000,0.5344
+50,gols_feitos,menor,16,,Givanildo Oliveira,66,18,18,30,84.0000,0.3636
+50,gols_feitos,menor,17,=,Milton Mendes,80,28,15,37,86.0000,0.4125
+50,gols_feitos,menor,17,=,Pedro Caixinha,72,25,22,25,86.0000,0.4491
+50,gols_feitos,menor,19,,Waldemar Lemos,71,26,21,24,87.0000,0.4648
+50,gols_feitos,menor,20,,Eduardo Coudet,66,29,19,18,91.0000,0.5354
+50,gols_feitos_por_jogo,maior,1,,Emerson Leão,208,94,51,63,1.6587,0.5337
+50,gols_feitos_por_jogo,maior,2,,Abel Ferreira,206,114,46,46,1.6214,0.6278
+50,gols_feitos_por_jogo,maior,3,,Vadão,97,33,22,42,1.5361,0.4158
+50,gols_feitos_por_jogo,maior,4,,Jorge Sampaoli,116,57,29,30,1.5345,0.5747
+50,gols_feitos_por_jogo,maior,5,,Levir Culpi,207,95,55,57,1.5024,0.5475
+50,gols_feitos_por_jogo,maior,6,,Marcelo Oliveira,309,130,75,104,1.5016,0.5016
+50,gols_feitos_por_jogo,maior,7,,Muricy Ramalho,441,214,115,112,1.4807,0.5722
+50,gols_feitos_por_jogo,maior,8,,Vanderlei Luxemburgo,530,229,144,157,1.4642,0.5226
+50,gols_feitos_por_jogo,maior,9,,Renato Gaúcho,533,229,145,159,1.4559,0.5203
+50,gols_feitos_por_jogo,maior,10,,Roberto Fernandes,71,25,17,29,1.4507,0.4319
+50,gols_feitos_por_jogo,maior,11,,Cuca,612,266,170,176,1.4314,0.5272
+50,gols_feitos_por_jogo,maior,12,,Paulo Bonamigo,121,45,30,46,1.4298,0.4545
+50,gols_feitos_por_jogo,maior,13,,Abel Braga,374,158,98,118,1.4278,0.5098
+50,gols_feitos_por_jogo,maior,14,,Caio Júnior,198,84,47,67,1.4141,0.5034
+50,gols_feitos_por_jogo,maior,15,,Hélio dos Anjos,184,61,42,81,1.4130,0.4076
+50,gols_feitos_por_jogo,maior,16,,Dorival Júnior,530,216,136,178,1.4057,0.4931
+50,gols_feitos_por_jogo,maior,17,,Adilson Batista,267,102,68,97,1.3970,0.4669
+50,gols_feitos_por_jogo,maior,18,,Estevam Soares,147,52,46,49,1.3946,0.4580
+50,gols_feitos_por_jogo,maior,19,,Ramón Díaz,67,28,17,22,1.3881,0.5025
+50,gols_feitos_por_jogo,maior,20,,Péricles Chamusca,80,30,14,36,1.3875,0.4333
+50,gols_feitos_por_jogo,menor,1,,Lisca,52,15,15,22,0.7885,0.3846
+50,gols_feitos_por_jogo,menor,2,,Eduardo Barroca,83,21,20,42,0.8072,0.3333
+50,gols_feitos_por_jogo,menor,3,,Vinícius Eutrópio,55,14,14,27,0.8182,0.3394
+50,gols_feitos_por_jogo,menor,4,,António Oliveira,97,28,27,42,0.9485,0.3814
+50,gols_feitos_por_jogo,menor,5,,Claudinei Oliveira,142,48,37,57,0.9648,0.4249
+50,gols_feitos_por_jogo,menor,6,,Alberto Valentim,95,29,25,41,0.9789,0.3930
+50,gols_feitos_por_jogo,menor,7,,Jair Ventura,218,72,56,90,1.0000,0.4159
+50,gols_feitos_por_jogo,menor,8,,Marquinhos Santos,159,47,47,65,1.0063,0.3941
+50,gols_feitos_por_jogo,menor,9,,Doriva,57,13,13,31,1.0175,0.3041
+50,gols_feitos_por_jogo,menor,10,,Jorginho (Jorge de Amorim),189,56,58,75,1.0265,0.3986
+50,gols_feitos_por_jogo,menor,11,,Eduardo Baptista,162,50,42,70,1.0309,0.3951
+50,gols_feitos_por_jogo,menor,12,,Enderson Moreira,207,69,49,89,1.0386,0.4122
+50,gols_feitos_por_jogo,menor,13,,Hernán Crespo,51,18,15,18,1.0392,0.4510
+50,gols_feitos_por_jogo,menor,14,,Gilson Kleina,224,63,58,103,1.0625,0.3676
+50,gols_feitos_por_jogo,menor,15,,Milton Mendes,80,28,15,37,1.0750,0.4125
+50,gols_feitos_por_jogo,menor,16,,Fábio Carille,119,48,38,33,1.0756,0.5098
+50,gols_feitos_por_jogo,menor,17,,Ricardo Drubscky,62,18,14,30,1.0968,0.3656
+50,gols_feitos_por_jogo,menor,18,,Marcão,61,25,16,20,1.0984,0.4973
+50,gols_feitos_por_jogo,menor,19,,Thiago Carpini,69,21,18,30,1.1014,0.3913
+50,gols_feitos_por_jogo,menor,20,,Argel Fuchs,155,55,37,63,1.1032,0.4344
+50,gols_sofridos,maior,1,,Cuca,612,266,170,176,702.0000,0.5272
+50,gols_sofridos,maior,2,,Dorival Júnior,530,216,136,178,643.0000,0.4931
+50,gols_sofridos,maior,3,,Vagner Mancini,454,146,120,188,638.0000,0.4097
+50,gols_sofridos,maior,4,,Renato Gaúcho,533,229,145,159,632.0000,0.5203
+50,gols_sofridos,maior,5,,Vanderlei Luxemburgo,530,229,144,157,613.0000,0.5226
+50,gols_sofridos,maior,6,,Mano Menezes,465,199,128,138,506.0000,0.5197
+50,gols_sofridos,maior,7,,Celso Roth,365,142,86,137,470.0000,0.4676
+50,gols_sofridos,maior,8,,Abel Braga,374,158,98,118,467.0000,0.5098
+50,gols_sofridos,maior,9,,Muricy Ramalho,441,214,115,112,459.0000,0.5722
+50,gols_sofridos,maior,10,,Ney Franco,294,106,77,111,402.0000,0.4478
+50,gols_sofridos,maior,11,,Marcelo Oliveira,309,130,75,104,390.0000,0.5016
+50,gols_sofridos,maior,12,,Tite,376,172,97,107,376.0000,0.5434
+50,gols_sofridos,maior,13,,Geninho,271,89,74,108,373.0000,0.4194
+50,gols_sofridos,maior,14,,Adilson Batista,267,102,68,97,363.0000,0.4669
+50,gols_sofridos,maior,15,,Oswaldo de Oliveira,255,95,67,93,353.0000,0.4601
+50,gols_sofridos,maior,16,,Gilson Kleina,224,63,58,103,330.0000,0.3676
+50,gols_sofridos,maior,17,,Antônio Lopes,228,74,72,82,302.0000,0.4298
+50,gols_sofridos,maior,18,,Fernando Diniz,221,84,53,84,284.0000,0.4600
+50,gols_sofridos,maior,19,,Hélio dos Anjos,184,61,42,81,283.0000,0.4076
+50,gols_sofridos,maior,20,=,Rogério Ceni,236,96,55,85,275.0000,0.4845
+50,gols_sofridos,maior,20,=,Emerson Leão,208,94,51,63,275.0000,0.5337
+50,gols_sofridos,maior,20,=,Joel Santana,205,76,54,75,275.0000,0.4585
+50,gols_sofridos,menor,1,,Luís Castro,50,25,8,17,50.0000,0.5533
+50,gols_sofridos,menor,2,,Lisca,52,15,15,22,55.0000,0.3846
+50,gols_sofridos,menor,3,,Hernán Crespo,51,18,15,18,58.0000,0.4510
+50,gols_sofridos,menor,4,,Marcão,61,25,16,20,59.0000,0.4973
+50,gols_sofridos,menor,5,,Jorginho Cantinflas,55,19,15,21,60.0000,0.4364
+50,gols_sofridos,menor,6,,Luis Zubeldía,63,28,17,18,63.0000,0.5344
+50,gols_sofridos,menor,7,,Eduardo Coudet,66,29,19,18,66.0000,0.5354
+50,gols_sofridos,menor,8,,Jair Picerni,53,16,16,21,69.0000,0.4025
+50,gols_sofridos,menor,9,,Vinícius Eutrópio,55,14,14,27,72.0000,0.3394
+50,gols_sofridos,menor,10,,Luiz Carlos Barbieri,50,19,9,22,75.0000,0.4400
+50,gols_sofridos,menor,11,,Pedro Caixinha,72,25,22,25,80.0000,0.4491
+50,gols_sofridos,menor,12,=,Ramón Díaz,67,28,17,22,82.0000,0.5025
+50,gols_sofridos,menor,12,=,Fernando Seabra,65,24,17,24,82.0000,0.4564
+50,gols_sofridos,menor,14,,Márcio Bittencourt,60,23,13,24,86.0000,0.4556
+50,gols_sofridos,menor,15,,Ricardo Drubscky,62,18,14,30,88.0000,0.3656
+50,gols_sofridos,menor,16,,Diego Aguirre,88,33,29,26,91.0000,0.4848
+50,gols_sofridos,menor,17,=,Odair Hellmann,99,45,27,27,93.0000,0.5455
+50,gols_sofridos,menor,17,=,Thiago Carpini,69,21,18,30,93.0000,0.3913
+50,gols_sofridos,menor,19,,Doriva,57,13,13,31,94.0000,0.3041
+50,gols_sofridos,menor,20,=,Roberto Fernandes,71,25,17,29,96.0000,0.4319
+50,gols_sofridos,menor,20,=,Waldemar Lemos,71,26,21,24,96.0000,0.4648
+50,gols_sofridos_por_jogo,maior,1,,Vadão,97,33,22,42,1.7216,0.4158
+50,gols_sofridos_por_jogo,maior,2,,Doriva,57,13,13,31,1.6491,0.3041
+50,gols_sofridos_por_jogo,maior,3,,Marco Aurélio,81,26,15,40,1.6296,0.3827
+50,gols_sofridos_por_jogo,maior,4,,Givanildo Oliveira,66,18,18,30,1.5909,0.3636
+50,gols_sofridos_por_jogo,maior,5,,Mário Sérgio,111,35,30,46,1.5766,0.4054
+50,gols_sofridos_por_jogo,maior,6,,Alexandre Gallo,145,52,34,59,1.5724,0.4368
+50,gols_sofridos_por_jogo,maior,7,,Silas,67,18,25,24,1.5522,0.3930
+50,gols_sofridos_por_jogo,maior,8,,Hélio dos Anjos,184,61,42,81,1.5380,0.4076
+50,gols_sofridos_por_jogo,maior,9,,Vágner Benazzi,80,25,22,33,1.5125,0.4042
+50,gols_sofridos_por_jogo,maior,10,,René Simões,98,28,29,41,1.5102,0.3844
+50,gols_sofridos_por_jogo,maior,11,,Luiz Carlos Barbieri,50,19,9,22,1.5000,0.4400
+50,gols_sofridos_por_jogo,maior,12,,Gilson Kleina,224,63,58,103,1.4732,0.3676
+50,gols_sofridos_por_jogo,maior,13,,Péricles Chamusca,80,30,14,36,1.4500,0.4333
+50,gols_sofridos_por_jogo,maior,14,,Ivo Wortmann,121,46,29,46,1.4380,0.4601
+50,gols_sofridos_por_jogo,maior,15,,Márcio Bittencourt,60,23,13,24,1.4333,0.4556
+50,gols_sofridos_por_jogo,maior,16,,Paulo Bonamigo,121,45,30,46,1.4298,0.4545
+50,gols_sofridos_por_jogo,maior,17,,Lori Sandri,112,37,30,45,1.4286,0.4196
+50,gols_sofridos_por_jogo,maior,18,,Ricardo Drubscky,62,18,14,30,1.4194,0.3656
+50,gols_sofridos_por_jogo,maior,19,,Nelsinho Baptista,98,29,29,40,1.4082,0.3946
+50,gols_sofridos_por_jogo,maior,20,,Vagner Mancini,454,146,120,188,1.4053,0.4097
+50,gols_sofridos_por_jogo,menor,1,,Abel Ferreira,206,114,46,46,0.8883,0.6278
+50,gols_sofridos_por_jogo,menor,2,,Odair Hellmann,99,45,27,27,0.9394,0.5455
+50,gols_sofridos_por_jogo,menor,3,,Fábio Carille,119,48,38,33,0.9412,0.5098
+50,gols_sofridos_por_jogo,menor,4,,Marcão,61,25,16,20,0.9672,0.4973
+50,gols_sofridos_por_jogo,menor,5,=,Tite,376,172,97,107,1.0000,0.5434
+50,gols_sofridos_por_jogo,menor,5,=,Luiz Felipe Scolari,233,95,71,67,1.0000,0.5093
+50,gols_sofridos_por_jogo,menor,5,=,Eduardo Coudet,66,29,19,18,1.0000,0.5354
+50,gols_sofridos_por_jogo,menor,5,=,Luis Zubeldía,63,28,17,18,1.0000,0.5344
+50,gols_sofridos_por_jogo,menor,5,=,Luís Castro,50,25,8,17,1.0000,0.5533
+50,gols_sofridos_por_jogo,menor,10,,Diego Aguirre,88,33,29,26,1.0341,0.4848
+50,gols_sofridos_por_jogo,menor,11,,Muricy Ramalho,441,214,115,112,1.0408,0.5722
+50,gols_sofridos_por_jogo,menor,12,,Tiago Nunes,96,35,30,31,1.0521,0.4688
+50,gols_sofridos_por_jogo,menor,13,,Lisca,52,15,15,22,1.0577,0.3846
+50,gols_sofridos_por_jogo,menor,14,,Zé Ricardo,127,52,40,35,1.0630,0.5144
+50,gols_sofridos_por_jogo,menor,15,,António Oliveira,97,28,27,42,1.0825,0.3814
+50,gols_sofridos_por_jogo,menor,16,,Mano Menezes,465,199,128,138,1.0882,0.5197
+50,gols_sofridos_por_jogo,menor,17,,Jorginho Cantinflas,55,19,15,21,1.0909,0.4364
+50,gols_sofridos_por_jogo,menor,18,,Jorge Sampaoli,116,57,29,30,1.1034,0.5747
+50,gols_sofridos_por_jogo,menor,19,,Pedro Caixinha,72,25,22,25,1.1111,0.4491
+50,gols_sofridos_por_jogo,menor,20,,Juan Pablo Vojvoda,183,74,49,60,1.1202,0.4936
+100,aproveitamento,maior,1,,Abel Ferreira,206,114,46,46,0.6278,0.6278
+100,aproveitamento,maior,2,,Jorge Sampaoli,116,57,29,30,0.5747,0.5747
+100,aproveitamento,maior,3,,Muricy Ramalho,441,214,115,112,0.5722,0.5722
+100,aproveitamento,maior,4,,Levir Culpi,207,95,55,57,0.5475,0.5475
+100,aproveitamento,maior,5,,Tite,376,172,97,107,0.5434,0.5434
+100,aproveitamento,maior,6,,Emerson Leão,208,94,51,63,0.5337,0.5337
+100,aproveitamento,maior,7,,Cuca,612,266,170,176,0.5272,0.5272
+100,aproveitamento,maior,8,,Vanderlei Luxemburgo,530,229,144,157,0.5226,0.5226
+100,aproveitamento,maior,9,,Renato Gaúcho,533,229,145,159,0.5203,0.5203
+100,aproveitamento,maior,10,,Mano Menezes,465,199,128,138,0.5197,0.5197
+100,aproveitamento,maior,11,,Zé Ricardo,127,52,40,35,0.5144,0.5144
+100,aproveitamento,maior,12,=,Abel Braga,374,158,98,118,0.5098,0.5098
+100,aproveitamento,maior,12,=,Fábio Carille,119,48,38,33,0.5098,0.5098
+100,aproveitamento,maior,14,,Luiz Felipe Scolari,233,95,71,67,0.5093,0.5093
+100,aproveitamento,maior,15,,Caio Júnior,198,84,47,67,0.5034,0.5034
+100,aproveitamento,maior,16,,Marcelo Oliveira,309,130,75,104,0.5016,0.5016
+100,aproveitamento,maior,17,,Juan Pablo Vojvoda,183,74,49,60,0.4936,0.4936
+100,aproveitamento,maior,18,,Dorival Júnior,530,216,136,178,0.4931,0.4931
+100,aproveitamento,maior,19,,Cristóvão Borges,167,67,46,54,0.4930,0.4930
+100,aproveitamento,maior,20,,Roger Machado,212,83,62,67,0.4890,0.4890
+100,aproveitamento,menor,1,,Gilson Kleina,224,63,58,103,0.3676,0.3676
+100,aproveitamento,menor,2,,Marquinhos Santos,159,47,47,65,0.3941,0.3941
+100,aproveitamento,menor,3,,Eduardo Baptista,162,50,42,70,0.3951,0.3951
+100,aproveitamento,menor,4,,Jorginho (Jorge de Amorim),189,56,58,75,0.3986,0.3986
+100,aproveitamento,menor,5,,Mário Sérgio,111,35,30,46,0.4054,0.4054
+100,aproveitamento,menor,6,,Hélio dos Anjos,184,61,42,81,0.4076,0.4076
+100,aproveitamento,menor,7,,Vagner Mancini,454,146,120,188,0.4097,0.4097
+100,aproveitamento,menor,8,,Guto Ferreira,209,66,60,83,0.4115,0.4115
+100,aproveitamento,menor,9,,Enderson Moreira,207,69,49,89,0.4122,0.4122
+100,aproveitamento,menor,10,,Jair Ventura,218,72,56,90,0.4159,0.4159
+100,aproveitamento,menor,11,,Geninho,271,89,74,108,0.4194,0.4194
+100,aproveitamento,menor,12,,Lori Sandri,112,37,30,45,0.4196,0.4196
+100,aproveitamento,menor,13,,Claudinei Oliveira,142,48,37,57,0.4249,0.4249
+100,aproveitamento,menor,14,,Antônio Lopes,228,74,72,82,0.4298,0.4298
+100,aproveitamento,menor,15,,Paulo César Gusmão,183,62,50,71,0.4299,0.4299
+100,aproveitamento,menor,16,,Argel Fuchs,155,55,37,63,0.4344,0.4344
+100,aproveitamento,menor,17,,Alexandre Gallo,145,52,34,59,0.4368,0.4368
+100,aproveitamento,menor,18,,Ney Franco,294,106,77,111,0.4478,0.4478
+100,aproveitamento,menor,19,,Paulo Bonamigo,121,45,30,46,0.4545,0.4545
+100,aproveitamento,menor,20,,Estevam Soares,147,52,46,49,0.4580,0.4580
+100,vitorias,maior,1,,Cuca,612,266,170,176,266.0000,0.5272
+100,vitorias,maior,2,=,Renato Gaúcho,533,229,145,159,229.0000,0.5203
+100,vitorias,maior,2,=,Vanderlei Luxemburgo,530,229,144,157,229.0000,0.5226
+100,vitorias,maior,4,,Dorival Júnior,530,216,136,178,216.0000,0.4931
+100,vitorias,maior,5,,Muricy Ramalho,441,214,115,112,214.0000,0.5722
+100,vitorias,maior,6,,Mano Menezes,465,199,128,138,199.0000,0.5197
+100,vitorias,maior,7,,Tite,376,172,97,107,172.0000,0.5434
+100,vitorias,maior,8,,Abel Braga,374,158,98,118,158.0000,0.5098
+100,vitorias,maior,9,,Vagner Mancini,454,146,120,188,146.0000,0.4097
+100,vitorias,maior,10,,Celso Roth,365,142,86,137,142.0000,0.4676
+100,vitorias,maior,11,,Marcelo Oliveira,309,130,75,104,130.0000,0.5016
+100,vitorias,maior,12,,Abel Ferreira,206,114,46,46,114.0000,0.6278
+100,vitorias,maior,13,,Ney Franco,294,106,77,111,106.0000,0.4478
+100,vitorias,maior,14,,Adilson Batista,267,102,68,97,102.0000,0.4669
+100,vitorias,maior,15,,Rogério Ceni,236,96,55,85,96.0000,0.4845
+100,vitorias,maior,16,=,Oswaldo de Oliveira,255,95,67,93,95.0000,0.4601
+100,vitorias,maior,16,=,Luiz Felipe Scolari,233,95,71,67,95.0000,0.5093
+100,vitorias,maior,16,=,Levir Culpi,207,95,55,57,95.0000,0.5475
+100,vitorias,maior,19,,Emerson Leão,208,94,51,63,94.0000,0.5337
+100,vitorias,maior,20,,Geninho,271,89,74,108,89.0000,0.4194
+100,vitorias,menor,1,,Mário Sérgio,111,35,30,46,35.0000,0.4054
+100,vitorias,menor,2,,Lori Sandri,112,37,30,45,37.0000,0.4196
+100,vitorias,menor,3,,Paulo Bonamigo,121,45,30,46,45.0000,0.4545
+100,vitorias,menor,4,,Ivo Wortmann,121,46,29,46,46.0000,0.4601
+100,vitorias,menor,5,,Marquinhos Santos,159,47,47,65,47.0000,0.3941
+100,vitorias,menor,6,=,Claudinei Oliveira,142,48,37,57,48.0000,0.4249
+100,vitorias,menor,6,=,Fábio Carille,119,48,38,33,48.0000,0.5098
+100,vitorias,menor,8,,Eduardo Baptista,162,50,42,70,50.0000,0.3951
+100,vitorias,menor,9,=,Estevam Soares,147,52,46,49,52.0000,0.4580
+100,vitorias,menor,9,=,Alexandre Gallo,145,52,34,59,52.0000,0.4368
+100,vitorias,menor,9,=,Maurício Barbieri,143,52,45,46,52.0000,0.4685
+100,vitorias,menor,9,=,Zé Ricardo,127,52,40,35,52.0000,0.5144
+100,vitorias,menor,13,,Ricardo Gomes,134,53,37,44,53.0000,0.4876
+100,vitorias,menor,14,,Paulo César Carpegiani,136,54,37,45,54.0000,0.4877
+100,vitorias,menor,15,,Argel Fuchs,155,55,37,63,55.0000,0.4344
+100,vitorias,menor,16,,Jorginho (Jorge de Amorim),189,56,58,75,56.0000,0.3986
+100,vitorias,menor,17,,Jorge Sampaoli,116,57,29,30,57.0000,0.5747
+100,vitorias,menor,18,,Hélio dos Anjos,184,61,42,81,61.0000,0.4076
+100,vitorias,menor,19,,Paulo César Gusmão,183,62,50,71,62.0000,0.4299
+100,vitorias,menor,20,,Gilson Kleina,224,63,58,103,63.0000,0.3676
+100,pct_vitorias,maior,1,,Abel Ferreira,206,114,46,46,0.5534,0.6278
+100,pct_vitorias,maior,2,,Jorge Sampaoli,116,57,29,30,0.4914,0.5747
+100,pct_vitorias,maior,3,,Muricy Ramalho,441,214,115,112,0.4853,0.5722
+100,pct_vitorias,maior,4,,Levir Culpi,207,95,55,57,0.4589,0.5475
+100,pct_vitorias,maior,5,,Tite,376,172,97,107,0.4574,0.5434
+100,pct_vitorias,maior,6,,Emerson Leão,208,94,51,63,0.4519,0.5337
+100,pct_vitorias,maior,7,,Cuca,612,266,170,176,0.4346,0.5272
+100,pct_vitorias,maior,8,,Vanderlei Luxemburgo,530,229,144,157,0.4321,0.5226
+100,pct_vitorias,maior,9,,Renato Gaúcho,533,229,145,159,0.4296,0.5203
+100,pct_vitorias,maior,10,,Mano Menezes,465,199,128,138,0.4280,0.5197
+100,pct_vitorias,maior,11,,Caio Júnior,198,84,47,67,0.4242,0.5034
+100,pct_vitorias,maior,12,,Abel Braga,374,158,98,118,0.4225,0.5098
+100,pct_vitorias,maior,13,,Marcelo Oliveira,309,130,75,104,0.4207,0.5016
+100,pct_vitorias,maior,14,,Zé Ricardo,127,52,40,35,0.4094,0.5144
+100,pct_vitorias,maior,15,,Luiz Felipe Scolari,233,95,71,67,0.4077,0.5093
+100,pct_vitorias,maior,16,,Dorival Júnior,530,216,136,178,0.4075,0.4931
+100,pct_vitorias,maior,17,,Rogério Ceni,236,96,55,85,0.4068,0.4845
+100,pct_vitorias,maior,18,,Juan Pablo Vojvoda,183,74,49,60,0.4044,0.4936
+100,pct_vitorias,maior,19,,Fábio Carille,119,48,38,33,0.4034,0.5098
+100,pct_vitorias,maior,20,,Cristóvão Borges,167,67,46,54,0.4012,0.4930
+100,pct_vitorias,menor,1,,Gilson Kleina,224,63,58,103,0.2812,0.3676
+100,pct_vitorias,menor,2,,Marquinhos Santos,159,47,47,65,0.2956,0.3941
+100,pct_vitorias,menor,3,,Jorginho (Jorge de Amorim),189,56,58,75,0.2963,0.3986
+100,pct_vitorias,menor,4,,Eduardo Baptista,162,50,42,70,0.3086,0.3951
+100,pct_vitorias,menor,5,,Mário Sérgio,111,35,30,46,0.3153,0.4054
+100,pct_vitorias,menor,6,,Guto Ferreira,209,66,60,83,0.3158,0.4115
+100,pct_vitorias,menor,7,,Vagner Mancini,454,146,120,188,0.3216,0.4097
+100,pct_vitorias,menor,8,,Antônio Lopes,228,74,72,82,0.3246,0.4298
+100,pct_vitorias,menor,9,,Geninho,271,89,74,108,0.3284,0.4194
+100,pct_vitorias,menor,10,,Jair Ventura,218,72,56,90,0.3303,0.4159
+100,pct_vitorias,menor,11,,Lori Sandri,112,37,30,45,0.3304,0.4196
+100,pct_vitorias,menor,12,,Hélio dos Anjos,184,61,42,81,0.3315,0.4076
+100,pct_vitorias,menor,13,,Enderson Moreira,207,69,49,89,0.3333,0.4122
+100,pct_vitorias,menor,14,,Claudinei Oliveira,142,48,37,57,0.3380,0.4249
+100,pct_vitorias,menor,15,,Paulo César Gusmão,183,62,50,71,0.3388,0.4299
+100,pct_vitorias,menor,16,,Estevam Soares,147,52,46,49,0.3537,0.4580
+100,pct_vitorias,menor,17,,Argel Fuchs,155,55,37,63,0.3548,0.4344
+100,pct_vitorias,menor,18,,Alexandre Gallo,145,52,34,59,0.3586,0.4368
+100,pct_vitorias,menor,19,,Ney Franco,294,106,77,111,0.3605,0.4478
+100,pct_vitorias,menor,20,,Maurício Barbieri,143,52,45,46,0.3636,0.4685
+100,derrotas,maior,1,,Vagner Mancini,454,146,120,188,188.0000,0.4097
+100,derrotas,maior,2,,Dorival Júnior,530,216,136,178,178.0000,0.4931
+100,derrotas,maior,3,,Cuca,612,266,170,176,176.0000,0.5272
+100,derrotas,maior,4,,Renato Gaúcho,533,229,145,159,159.0000,0.5203
+100,derrotas,maior,5,,Vanderlei Luxemburgo,530,229,144,157,157.0000,0.5226
+100,derrotas,maior,6,,Mano Menezes,465,199,128,138,138.0000,0.5197
+100,derrotas,maior,7,,Celso Roth,365,142,86,137,137.0000,0.4676
+100,derrotas,maior,8,,Abel Braga,374,158,98,118,118.0000,0.5098
+100,derrotas,maior,9,,Muricy Ramalho,441,214,115,112,112.0000,0.5722
+100,derrotas,maior,10,,Ney Franco,294,106,77,111,111.0000,0.4478
+100,derrotas,maior,11,,Geninho,271,89,74,108,108.0000,0.4194
+100,derrotas,maior,12,,Tite,376,172,97,107,107.0000,0.5434
+100,derrotas,maior,13,,Marcelo Oliveira,309,130,75,104,104.0000,0.5016
+100,derrotas,maior,14,,Gilson Kleina,224,63,58,103,103.0000,0.3676
+100,derrotas,maior,15,,Adilson Batista,267,102,68,97,97.0000,0.4669
+100,derrotas,maior,16,,Oswaldo de Oliveira,255,95,67,93,93.0000,0.4601
+100,derrotas,maior,17,,Jair Ventura,218,72,56,90,90.0000,0.4159
+100,derrotas,maior,18,,Enderson Moreira,207,69,49,89,89.0000,0.4122
+100,derrotas,maior,19,,Rogério Ceni,236,96,55,85,85.0000,0.4845
+100,derrotas,maior,20,,Fernando Diniz,221,84,53,84,84.0000,0.4600
+100,derrotas,menor,1,,Jorge Sampaoli,116,57,29,30,30.0000,0.5747
+100,derrotas,menor,2,,Fábio Carille,119,48,38,33,33.0000,0.5098
+100,derrotas,menor,3,,Zé Ricardo,127,52,40,35,35.0000,0.5144
+100,derrotas,menor,4,,Ricardo Gomes,134,53,37,44,44.0000,0.4876
+100,derrotas,menor,5,=,Paulo César Carpegiani,136,54,37,45,45.0000,0.4877
+100,derrotas,menor,5,=,Lori Sandri,112,37,30,45,45.0000,0.4196
+100,derrotas,menor,7,=,Abel Ferreira,206,114,46,46,46.0000,0.6278
+100,derrotas,menor,7,=,Maurício Barbieri,143,52,45,46,46.0000,0.4685
+100,derrotas,menor,7,=,Paulo Bonamigo,121,45,30,46,46.0000,0.4545
+100,derrotas,menor,7,=,Ivo Wortmann,121,46,29,46,46.0000,0.4601
+100,derrotas,menor,7,=,Mário Sérgio,111,35,30,46,46.0000,0.4054
+100,derrotas,menor,12,,Estevam Soares,147,52,46,49,49.0000,0.4580
+100,derrotas,menor,13,,Cristóvão Borges,167,67,46,54,54.0000,0.4930
+100,derrotas,menor,14,=,Levir Culpi,207,95,55,57,57.0000,0.5475
+100,derrotas,menor,14,=,Claudinei Oliveira,142,48,37,57,57.0000,0.4249
+100,derrotas,menor,16,,Alexandre Gallo,145,52,34,59,59.0000,0.4368
+100,derrotas,menor,17,,Juan Pablo Vojvoda,183,74,49,60,60.0000,0.4936
+100,derrotas,menor,18,=,Emerson Leão,208,94,51,63,63.0000,0.5337
+100,derrotas,menor,18,=,Paulo Autuori,174,65,46,63,63.0000,0.4617
+100,derrotas,menor,18,=,Argel Fuchs,155,55,37,63,63.0000,0.4344
+100,pct_derrotas,maior,1,,Gilson Kleina,224,63,58,103,0.4598,0.3676
+100,pct_derrotas,maior,2,,Hélio dos Anjos,184,61,42,81,0.4402,0.4076
+100,pct_derrotas,maior,3,,Eduardo Baptista,162,50,42,70,0.4321,0.3951
+100,pct_derrotas,maior,4,,Enderson Moreira,207,69,49,89,0.4300,0.4122
+100,pct_derrotas,maior,5,,Mário Sérgio,111,35,30,46,0.4144,0.4054
+100,pct_derrotas,maior,6,,Vagner Mancini,454,146,120,188,0.4141,0.4097
+100,pct_derrotas,maior,7,,Jair Ventura,218,72,56,90,0.4128,0.4159
+100,pct_derrotas,maior,8,,Marquinhos Santos,159,47,47,65,0.4088,0.3941
+100,pct_derrotas,maior,9,,Alexandre Gallo,145,52,34,59,0.4069,0.4368
+100,pct_derrotas,maior,10,,Argel Fuchs,155,55,37,63,0.4065,0.4344
+100,pct_derrotas,maior,11,,Lori Sandri,112,37,30,45,0.4018,0.4196
+100,pct_derrotas,maior,12,,Claudinei Oliveira,142,48,37,57,0.4014,0.4249
+100,pct_derrotas,maior,13,,Geninho,271,89,74,108,0.3985,0.4194
+100,pct_derrotas,maior,14,,Guto Ferreira,209,66,60,83,0.3971,0.4115
+100,pct_derrotas,maior,15,,Jorginho (Jorge de Amorim),189,56,58,75,0.3968,0.3986
+100,pct_derrotas,maior,16,,Paulo César Gusmão,183,62,50,71,0.3880,0.4299
+100,pct_derrotas,maior,17,=,Paulo Bonamigo,121,45,30,46,0.3802,0.4545
+100,pct_derrotas,maior,17,=,Ivo Wortmann,121,46,29,46,0.3802,0.4601
+100,pct_derrotas,maior,19,,Fernando Diniz,221,84,53,84,0.3801,0.4600
+100,pct_derrotas,maior,20,,Ney Franco,294,106,77,111,0.3776,0.4478
+100,pct_derrotas,menor,1,,Abel Ferreira,206,114,46,46,0.2233,0.6278
+100,pct_derrotas,menor,2,,Muricy Ramalho,441,214,115,112,0.2540,0.5722
+100,pct_derrotas,menor,3,,Jorge Sampaoli,116,57,29,30,0.2586,0.5747
+100,pct_derrotas,menor,4,,Levir Culpi,207,95,55,57,0.2754,0.5475
+100,pct_derrotas,menor,5,,Zé Ricardo,127,52,40,35,0.2756,0.5144
+100,pct_derrotas,menor,6,,Fábio Carille,119,48,38,33,0.2773,0.5098
+100,pct_derrotas,menor,7,,Tite,376,172,97,107,0.2846,0.5434
+100,pct_derrotas,menor,8,,Luiz Felipe Scolari,233,95,71,67,0.2876,0.5093
+100,pct_derrotas,menor,9,,Cuca,612,266,170,176,0.2876,0.5272
+100,pct_derrotas,menor,10,,Vanderlei Luxemburgo,530,229,144,157,0.2962,0.5226
+100,pct_derrotas,menor,11,,Mano Menezes,465,199,128,138,0.2968,0.5197
+100,pct_derrotas,menor,12,,Renato Gaúcho,533,229,145,159,0.2983,0.5203
+100,pct_derrotas,menor,13,,Emerson Leão,208,94,51,63,0.3029,0.5337
+100,pct_derrotas,menor,14,,Abel Braga,374,158,98,118,0.3155,0.5098
+100,pct_derrotas,menor,15,,Roger Machado,212,83,62,67,0.3160,0.4890
+100,pct_derrotas,menor,16,,Maurício Barbieri,143,52,45,46,0.3217,0.4685
+100,pct_derrotas,menor,17,,Cristóvão Borges,167,67,46,54,0.3234,0.4930
+100,pct_derrotas,menor,18,,Juan Pablo Vojvoda,183,74,49,60,0.3279,0.4936
+100,pct_derrotas,menor,19,,Ricardo Gomes,134,53,37,44,0.3284,0.4876
+100,pct_derrotas,menor,20,,Paulo César Carpegiani,136,54,37,45,0.3309,0.4877
+100,gols_feitos,maior,1,,Cuca,612,266,170,176,876.0000,0.5272
+100,gols_feitos,maior,2,=,Renato Gaúcho,533,229,145,159,776.0000,0.5203
+100,gols_feitos,maior,2,=,Vanderlei Luxemburgo,530,229,144,157,776.0000,0.5226
+100,gols_feitos,maior,4,,Dorival Júnior,530,216,136,178,745.0000,0.4931
+100,gols_feitos,maior,5,,Muricy Ramalho,441,214,115,112,653.0000,0.5722
+100,gols_feitos,maior,6,,Mano Menezes,465,199,128,138,594.0000,0.5197
+100,gols_feitos,maior,7,,Vagner Mancini,454,146,120,188,552.0000,0.4097
+100,gols_feitos,maior,8,,Abel Braga,374,158,98,118,534.0000,0.5098
+100,gols_feitos,maior,9,,Tite,376,172,97,107,521.0000,0.5434
+100,gols_feitos,maior,10,,Celso Roth,365,142,86,137,484.0000,0.4676
+100,gols_feitos,maior,11,,Marcelo Oliveira,309,130,75,104,464.0000,0.5016
+100,gols_feitos,maior,12,,Ney Franco,294,106,77,111,375.0000,0.4478
+100,gols_feitos,maior,13,,Adilson Batista,267,102,68,97,373.0000,0.4669
+100,gols_feitos,maior,14,,Geninho,271,89,74,108,365.0000,0.4194
+100,gols_feitos,maior,15,,Oswaldo de Oliveira,255,95,67,93,350.0000,0.4601
+100,gols_feitos,maior,16,,Emerson Leão,208,94,51,63,345.0000,0.5337
+100,gols_feitos,maior,17,,Abel Ferreira,206,114,46,46,334.0000,0.6278
+100,gols_feitos,maior,18,,Rogério Ceni,236,96,55,85,312.0000,0.4845
+100,gols_feitos,maior,19,,Levir Culpi,207,95,55,57,311.0000,0.5475
+100,gols_feitos,maior,20,,Antônio Lopes,228,74,72,82,304.0000,0.4298
+100,gols_feitos,menor,1,,Fábio Carille,119,48,38,33,128.0000,0.5098
+100,gols_feitos,menor,2,,Claudinei Oliveira,142,48,37,57,137.0000,0.4249
+100,gols_feitos,menor,3,,Lori Sandri,112,37,30,45,138.0000,0.4196
+100,gols_feitos,menor,4,,Mário Sérgio,111,35,30,46,145.0000,0.4054
+100,gols_feitos,menor,5,,Zé Ricardo,127,52,40,35,155.0000,0.5144
+100,gols_feitos,menor,6,,Marquinhos Santos,159,47,47,65,160.0000,0.3941
+100,gols_feitos,menor,7,,Ivo Wortmann,121,46,29,46,165.0000,0.4601
+100,gols_feitos,menor,8,=,Eduardo Baptista,162,50,42,70,167.0000,0.3951
+100,gols_feitos,menor,8,=,Paulo César Carpegiani,136,54,37,45,167.0000,0.4877
+100,gols_feitos,menor,10,,Argel Fuchs,155,55,37,63,171.0000,0.4344
+100,gols_feitos,menor,11,,Paulo Bonamigo,121,45,30,46,173.0000,0.4545
+100,gols_feitos,menor,12,,Jorge Sampaoli,116,57,29,30,178.0000,0.5747
+100,gols_feitos,menor,13,,Ricardo Gomes,134,53,37,44,179.0000,0.4876
+100,gols_feitos,menor,14,,Jorginho (Jorge de Amorim),189,56,58,75,194.0000,0.3986
+100,gols_feitos,menor,15,,Maurício Barbieri,143,52,45,46,195.0000,0.4685
+100,gols_feitos,menor,16,,Alexandre Gallo,145,52,34,59,201.0000,0.4368
+100,gols_feitos,menor,17,,Estevam Soares,147,52,46,49,205.0000,0.4580
+100,gols_feitos,menor,18,,Cristóvão Borges,167,67,46,54,214.0000,0.4930
+100,gols_feitos,menor,19,,Enderson Moreira,207,69,49,89,215.0000,0.4122
+100,gols_feitos,menor,20,,Jair Ventura,218,72,56,90,218.0000,0.4159
+100,gols_feitos_por_jogo,maior,1,,Emerson Leão,208,94,51,63,1.6587,0.5337
+100,gols_feitos_por_jogo,maior,2,,Abel Ferreira,206,114,46,46,1.6214,0.6278
+100,gols_feitos_por_jogo,maior,3,,Jorge Sampaoli,116,57,29,30,1.5345,0.5747
+100,gols_feitos_por_jogo,maior,4,,Levir Culpi,207,95,55,57,1.5024,0.5475
+100,gols_feitos_por_jogo,maior,5,,Marcelo Oliveira,309,130,75,104,1.5016,0.5016
+100,gols_feitos_por_jogo,maior,6,,Muricy Ramalho,441,214,115,112,1.4807,0.5722
+100,gols_feitos_por_jogo,maior,7,,Vanderlei Luxemburgo,530,229,144,157,1.4642,0.5226
+100,gols_feitos_por_jogo,maior,8,,Renato Gaúcho,533,229,145,159,1.4559,0.5203
+100,gols_feitos_por_jogo,maior,9,,Cuca,612,266,170,176,1.4314,0.5272
+100,gols_feitos_por_jogo,maior,10,,Paulo Bonamigo,121,45,30,46,1.4298,0.4545
+100,gols_feitos_por_jogo,maior,11,,Abel Braga,374,158,98,118,1.4278,0.5098
+100,gols_feitos_por_jogo,maior,12,,Caio Júnior,198,84,47,67,1.4141,0.5034
+100,gols_feitos_por_jogo,maior,13,,Hélio dos Anjos,184,61,42,81,1.4130,0.4076
+100,gols_feitos_por_jogo,maior,14,,Dorival Júnior,530,216,136,178,1.4057,0.4931
+100,gols_feitos_por_jogo,maior,15,,Adilson Batista,267,102,68,97,1.3970,0.4669
+100,gols_feitos_por_jogo,maior,16,,Estevam Soares,147,52,46,49,1.3946,0.4580
+100,gols_feitos_por_jogo,maior,17,,Alexandre Gallo,145,52,34,59,1.3862,0.4368
+100,gols_feitos_por_jogo,maior,18,,Tite,376,172,97,107,1.3856,0.5434
+100,gols_feitos_por_jogo,maior,19,,Oswaldo de Oliveira,255,95,67,93,1.3725,0.4601
+100,gols_feitos_por_jogo,maior,20,=,Maurício Barbieri,143,52,45,46,1.3636,0.4685
+100,gols_feitos_por_jogo,maior,20,=,Ivo Wortmann,121,46,29,46,1.3636,0.4601
+100,gols_feitos_por_jogo,menor,1,,Claudinei Oliveira,142,48,37,57,0.9648,0.4249
+100,gols_feitos_por_jogo,menor,2,,Jair Ventura,218,72,56,90,1.0000,0.4159
+100,gols_feitos_por_jogo,menor,3,,Marquinhos Santos,159,47,47,65,1.0063,0.3941
+100,gols_feitos_por_jogo,menor,4,,Jorginho (Jorge de Amorim),189,56,58,75,1.0265,0.3986
+100,gols_feitos_por_jogo,menor,5,,Eduardo Baptista,162,50,42,70,1.0309,0.3951
+100,gols_feitos_por_jogo,menor,6,,Enderson Moreira,207,69,49,89,1.0386,0.4122
+100,gols_feitos_por_jogo,menor,7,,Gilson Kleina,224,63,58,103,1.0625,0.3676
+100,gols_feitos_por_jogo,menor,8,,Fábio Carille,119,48,38,33,1.0756,0.5098
+100,gols_feitos_por_jogo,menor,9,,Argel Fuchs,155,55,37,63,1.1032,0.4344
+100,gols_feitos_por_jogo,menor,10,,Guto Ferreira,209,66,60,83,1.1292,0.4115
+100,gols_feitos_por_jogo,menor,11,,Vagner Mancini,454,146,120,188,1.2159,0.4097
+100,gols_feitos_por_jogo,menor,12,,Zé Ricardo,127,52,40,35,1.2205,0.5144
+100,gols_feitos_por_jogo,menor,13,,Paulo César Carpegiani,136,54,37,45,1.2279,0.4877
+100,gols_feitos_por_jogo,menor,14,,Juan Pablo Vojvoda,183,74,49,60,1.2295,0.4936
+100,gols_feitos_por_jogo,menor,15,,Lori Sandri,112,37,30,45,1.2321,0.4196
+100,gols_feitos_por_jogo,menor,16,,Luiz Felipe Scolari,233,95,71,67,1.2446,0.5093
+100,gols_feitos_por_jogo,menor,17,,Paulo César Gusmão,183,62,50,71,1.2732,0.4299
+100,gols_feitos_por_jogo,menor,18,,Roger Machado,212,83,62,67,1.2736,0.4890
+100,gols_feitos_por_jogo,menor,19,,Ney Franco,294,106,77,111,1.2755,0.4478
+100,gols_feitos_por_jogo,menor,20,,Mano Menezes,465,199,128,138,1.2774,0.5197
+100,gols_sofridos,maior,1,,Cuca,612,266,170,176,702.0000,0.5272
+100,gols_sofridos,maior,2,,Dorival Júnior,530,216,136,178,643.0000,0.4931
+100,gols_sofridos,maior,3,,Vagner Mancini,454,146,120,188,638.0000,0.4097
+100,gols_sofridos,maior,4,,Renato Gaúcho,533,229,145,159,632.0000,0.5203
+100,gols_sofridos,maior,5,,Vanderlei Luxemburgo,530,229,144,157,613.0000,0.5226
+100,gols_sofridos,maior,6,,Mano Menezes,465,199,128,138,506.0000,0.5197
+100,gols_sofridos,maior,7,,Celso Roth,365,142,86,137,470.0000,0.4676
+100,gols_sofridos,maior,8,,Abel Braga,374,158,98,118,467.0000,0.5098
+100,gols_sofridos,maior,9,,Muricy Ramalho,441,214,115,112,459.0000,0.5722
+100,gols_sofridos,maior,10,,Ney Franco,294,106,77,111,402.0000,0.4478
+100,gols_sofridos,maior,11,,Marcelo Oliveira,309,130,75,104,390.0000,0.5016
+100,gols_sofridos,maior,12,,Tite,376,172,97,107,376.0000,0.5434
+100,gols_sofridos,maior,13,,Geninho,271,89,74,108,373.0000,0.4194
+100,gols_sofridos,maior,14,,Adilson Batista,267,102,68,97,363.0000,0.4669
+100,gols_sofridos,maior,15,,Oswaldo de Oliveira,255,95,67,93,353.0000,0.4601
+100,gols_sofridos,maior,16,,Gilson Kleina,224,63,58,103,330.0000,0.3676
+100,gols_sofridos,maior,17,,Antônio Lopes,228,74,72,82,302.0000,0.4298
+100,gols_sofridos,maior,18,,Fernando Diniz,221,84,53,84,284.0000,0.4600
+100,gols_sofridos,maior,19,,Hélio dos Anjos,184,61,42,81,283.0000,0.4076
+100,gols_sofridos,maior,20,=,Rogério Ceni,236,96,55,85,275.0000,0.4845
+100,gols_sofridos,maior,20,=,Emerson Leão,208,94,51,63,275.0000,0.5337
+100,gols_sofridos,maior,20,=,Joel Santana,205,76,54,75,275.0000,0.4585
+100,gols_sofridos,menor,1,,Fábio Carille,119,48,38,33,112.0000,0.5098
+100,gols_sofridos,menor,2,,Jorge Sampaoli,116,57,29,30,128.0000,0.5747
+100,gols_sofridos,menor,3,,Zé Ricardo,127,52,40,35,135.0000,0.5144
+100,gols_sofridos,menor,4,,Lori Sandri,112,37,30,45,160.0000,0.4196
+100,gols_sofridos,menor,5,,Ricardo Gomes,134,53,37,44,162.0000,0.4876
+100,gols_sofridos,menor,6,,Paulo César Carpegiani,136,54,37,45,165.0000,0.4877
+100,gols_sofridos,menor,7,,Claudinei Oliveira,142,48,37,57,171.0000,0.4249
+100,gols_sofridos,menor,8,,Paulo Bonamigo,121,45,30,46,173.0000,0.4545
+100,gols_sofridos,menor,9,,Ivo Wortmann,121,46,29,46,174.0000,0.4601
+100,gols_sofridos,menor,10,=,Maurício Barbieri,143,52,45,46,175.0000,0.4685
+100,gols_sofridos,menor,10,=,Mário Sérgio,111,35,30,46,175.0000,0.4054
+100,gols_sofridos,menor,12,,Abel Ferreira,206,114,46,46,183.0000,0.6278
+100,gols_sofridos,menor,13,,Marquinhos Santos,159,47,47,65,186.0000,0.3941
+100,gols_sofridos,menor,14,,Argel Fuchs,155,55,37,63,193.0000,0.4344
+100,gols_sofridos,menor,15,,Cristóvão Borges,167,67,46,54,202.0000,0.4930
+100,gols_sofridos,menor,16,,Estevam Soares,147,52,46,49,203.0000,0.4580
+100,gols_sofridos,menor,17,,Juan Pablo Vojvoda,183,74,49,60,205.0000,0.4936
+100,gols_sofridos,menor,18,,Paulo Autuori,174,65,46,63,212.0000,0.4617
+100,gols_sofridos,menor,19,,Eduardo Baptista,162,50,42,70,213.0000,0.3951
+100,gols_sofridos,menor,20,,Alexandre Gallo,145,52,34,59,228.0000,0.4368
+100,gols_sofridos_por_jogo,maior,1,,Mário Sérgio,111,35,30,46,1.5766,0.4054
+100,gols_sofridos_por_jogo,maior,2,,Alexandre Gallo,145,52,34,59,1.5724,0.4368
+100,gols_sofridos_por_jogo,maior,3,,Hélio dos Anjos,184,61,42,81,1.5380,0.4076
+100,gols_sofridos_por_jogo,maior,4,,Gilson Kleina,224,63,58,103,1.4732,0.3676
+100,gols_sofridos_por_jogo,maior,5,,Ivo Wortmann,121,46,29,46,1.4380,0.4601
+100,gols_sofridos_por_jogo,maior,6,,Paulo Bonamigo,121,45,30,46,1.4298,0.4545
+100,gols_sofridos_por_jogo,maior,7,,Lori Sandri,112,37,30,45,1.4286,0.4196
+100,gols_sofridos_por_jogo,maior,8,,Vagner Mancini,454,146,120,188,1.4053,0.4097
+100,gols_sofridos_por_jogo,maior,9,,Paulo César Gusmão,183,62,50,71,1.3934,0.4299
+100,gols_sofridos_por_jogo,maior,10,,Oswaldo de Oliveira,255,95,67,93,1.3843,0.4601
+100,gols_sofridos_por_jogo,maior,11,,Estevam Soares,147,52,46,49,1.3810,0.4580
+100,gols_sofridos_por_jogo,maior,12,,Geninho,271,89,74,108,1.3764,0.4194
+100,gols_sofridos_por_jogo,maior,13,,Ney Franco,294,106,77,111,1.3673,0.4478
+100,gols_sofridos_por_jogo,maior,14,,Adilson Batista,267,102,68,97,1.3596,0.4669
+100,gols_sofridos_por_jogo,maior,15,,Joel Santana,205,76,54,75,1.3415,0.4585
+100,gols_sofridos_por_jogo,maior,16,,Antônio Lopes,228,74,72,82,1.3246,0.4298
+100,gols_sofridos_por_jogo,maior,17,,Emerson Leão,208,94,51,63,1.3221,0.5337
+100,gols_sofridos_por_jogo,maior,18,,Eduardo Baptista,162,50,42,70,1.3148,0.3951
+100,gols_sofridos_por_jogo,maior,19,,Caio Júnior,198,84,47,67,1.2929,0.5034
+100,gols_sofridos_por_jogo,maior,20,,Celso Roth,365,142,86,137,1.2877,0.4676
+100,gols_sofridos_por_jogo,menor,1,,Abel Ferreira,206,114,46,46,0.8883,0.6278
+100,gols_sofridos_por_jogo,menor,2,,Fábio Carille,119,48,38,33,0.9412,0.5098
+100,gols_sofridos_por_jogo,menor,3,=,Tite,376,172,97,107,1.0000,0.5434
+100,gols_sofridos_por_jogo,menor,3,=,Luiz Felipe Scolari,233,95,71,67,1.0000,0.5093
+100,gols_sofridos_por_jogo,menor,5,,Muricy Ramalho,441,214,115,112,1.0408,0.5722
+100,gols_sofridos_por_jogo,menor,6,,Zé Ricardo,127,52,40,35,1.0630,0.5144
+100,gols_sofridos_por_jogo,menor,7,,Mano Menezes,465,199,128,138,1.0882,0.5197
+100,gols_sofridos_por_jogo,menor,8,,Jorge Sampaoli,116,57,29,30,1.1034,0.5747
+100,gols_sofridos_por_jogo,menor,9,,Juan Pablo Vojvoda,183,74,49,60,1.1202,0.4936
+100,gols_sofridos_por_jogo,menor,10,,Roger Machado,212,83,62,67,1.1368,0.4890
+100,gols_sofridos_por_jogo,menor,11,,Levir Culpi,207,95,55,57,1.1449,0.5475
+100,gols_sofridos_por_jogo,menor,12,,Cuca,612,266,170,176,1.1471,0.5272
+100,gols_sofridos_por_jogo,menor,13,,Vanderlei Luxemburgo,530,229,144,157,1.1566,0.5226
+100,gols_sofridos_por_jogo,menor,14,,Rogério Ceni,236,96,55,85,1.1653,0.4845
+100,gols_sofridos_por_jogo,menor,15,,Marquinhos Santos,159,47,47,65,1.1698,0.3941
+100,gols_sofridos_por_jogo,menor,16,,Renato Gaúcho,533,229,145,159,1.1857,0.5203
+100,gols_sofridos_por_jogo,menor,17,,Jair Ventura,218,72,56,90,1.1972,0.4159
+100,gols_sofridos_por_jogo,menor,18,,Claudinei Oliveira,142,48,37,57,1.2042,0.4249
+100,gols_sofridos_por_jogo,menor,19,,Ricardo Gomes,134,53,37,44,1.2090,0.4876
+100,gols_sofridos_por_jogo,menor,20,,Cristóvão Borges,167,67,46,54,1.2096,0.4930

@@ -2,6 +2,11 @@
 data/raw/
 data/interim/
 
+# coleta de treinadores: HTML bruto e saídas intermediárias (a base final vai em data/external/treinadores/)
+analyses/03-treinadores-da-serie-a/coleta/raw/
+analyses/03-treinadores-da-serie-a/coleta/dados/
+analyses/03-treinadores-da-serie-a/coleta/relatorio/
+
 # ambiente
 .venv/
 venv/

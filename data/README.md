@@ -90,6 +90,27 @@ porque a pergunta da análise é sobre a praça específica:
 - `gols.csv` e `cartoes.csv` não cobrem 2003–2012.
 - Sem xG. A coleta via FBref fica para uma análise futura.
 
+## Base de treinadores (`data/external/treinadores/`)
+
+Usada pela análise 03. Montada pelos scripts em
+`analyses/03-treinadores-da-serie-a/coleta/` cruzando Transfermarkt (súmulas),
+O Gol (jogos de cada técnico), CBF (via a base acima, 2014–2024) e Wikipédia
+(trocas de técnico com data). Cobre **2003–2025** (inclui 2025, que a base acima
+não tem). É versionada pronta porque a coleta depende de raspagem web.
+
+| Arquivo | Conteúdo |
+|---|---|
+| `treinadores_por_partida_2003_2025.csv` | uma linha por clube por partida (18.330): `temporada`, `data`, `rodada`, `clube`, `clube_nome_epoca`, `treinador`, `treinador_id`, `adversario`, `casa_fora`, `gols_feitos`, `gols_sofridos`, `resultado` (V/E/D), `pontos`, `status_atribuicao` (confirmado / provável / inferido / ambíguo / sem_treinador), `fonte` (TM, OG, CBF, Wiki), nome original em cada fonte, `atribuicao_original`, `observacao` |
+| `partidas_serie_a_2003_2025.csv` | uma linha por partida (9.165), com técnico, status e fonte de cada lado e conferência de placar |
+| `passagens_treinadores_2003_2025.csv` | sequências contínuas treinador × clube (início, fim, jogos, antecessor, sucessor, interino provável) |
+| `normalizacao_treinadores.csv`, `normalizacao_clubes.csv` | nome original em cada fonte → nome padronizado |
+| `auditoria_*.csv`, `validacao_trocas_wikipedia*.csv` | casos não confirmados, trocas por temporada, conferência com a Wikipédia (`_independente` = sem usar a Wikipédia na atribuição) |
+
+`treinador_id` é o ID do técnico no Transfermarkt (ou `og:<id>` para técnicos que
+só existem no O Gol). Clubes usam o nome padronizado (`Athletico-PR`,
+`Bragantino`; `Grêmio Barueri/Prudente` como um clube só) e `clube_nome_epoca`
+guarda o nome da época.
+
 ## Licença dos dados
 
 O código deste repositório é MIT. Os dados em `data/` pertencem a terceiros e
@@ -107,6 +128,10 @@ not official CBF data). The cleaning step rebuilds each season's final table fro
 the matches and checks it against the official champion; all 22 seasons match.
 `data/external/fontes.csv` records the URL, size, `sha256` and download date of
 each raw file.
+
+Coach base (`data/external/treinadores/`, analysis 03): built by
+`analyses/03-treinadores-da-serie-a/coleta/` from Transfermarkt match reports,
+O Gol per-coach match lists, CBF (2014–2024) and Wikipedia; covers 2003–2025.
 
 Processed outputs: `partidas.parquet` (one row per match), `time_jogo.parquet`
 (long form, one row per club per match), `validacao_temporadas.csv` (rebuilt
